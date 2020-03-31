@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Türkçe"/>
+  </tags>
+  <strings>
+    <string id="0W4dgUho" text="Banned from game until {BANNEDUNTIL}, Reason: {BANREASON}"/>
+    <string id="2xOyWxIo" text="Игрок не является членом партии."/>
+    <string id="4XDu4Qcd" text="Может только лидер партии &quot;УДАР&quot; вышли из партии."/>
+    <string id="5kgkZo2o" text="Плеер вы пытались пнуть не в вашей партии!"/>
+    <string id="91cJB1tP" text="Player {INVITEDPLAYER} is already in party."/>
+    <string id="aFQa3pQt" text="Вы должны быть в лобби, чтобы продвинуть другого игрока до лидера партии."/>
+    <string id="ah4Pm8wU" text="Вы должны быть в лобби, чтобы распустить свою партию![Temporary]"/>
+    <string id="bcdU2DHW" text="Player {INVITEE} invited to your party by {INVITER}."/>
+    <string id="bivF3RXY" text="Вы не можете рекламировать себя"/>
+    <string id="BwBR7TJB" text="Никого не осталось в вашей партии, и он был расформирован!"/>
+    <string id="caMylVF7" text="Не могу очереди в бой, потому что не выбрано ни одного типа игры с поддержкой."/>
+    <string id="E2ILp86t" text="Не могу очереди в бой, потому что регион не доступен."/>
+    <string id="efpifbtd" text="Вы должны быть в лобби, чтобы пригласить кого-то к вашей партии!"/>
+    <string id="emx7txM9" text="Продвижение члена действие может выполнить только лидер партии."/>
+    <string id="fD2SyeA7" text="Вы не можете приглашать к себе на вечеринку."/>
+    <string id="GZXVxl3E" text="{PLAYERNAME} disconnected. Your party invitation is no longer valid."/>
+    <string id="i5ZTTTZw" text="Player {INVITEDPLAYER} is not at lobby."/>
+    <string id="jP2hUg7H" text="Вы не в гостях!"/>
+    <string id="kY2oXMng" text="Не мог войти."/>
+    <string id="l6a9vI9z" text="Может только лидер партии пригласить других игроков."/>
+    <string id="mcAG0eHJ" text="You must be at lobby to kick someone from your party![Temporary]"/>
+    <string id="MepGBJMQ" text="Плеер вы пытались продвинуть не может быть найден"/>
+    <string id="mvQKpHXH" text="Ваша партия полна."/>
+    <string id="nJ7aEkRt" text="You are invited to party by {PLAYERNAME}."/>
+    <string id="nw7r2S5z" text="Selected disabled game type(s): {GAMETYPES}."/>
+    <string id="OByu0fjQ" text="Не могу очереди в бой, потому что не все игроки готовы в вашей партии."/>
+    <string id="olLwOWf8" text="Не могу очереди в бой, потому что не все игроки используют анти-чит."/>
+    <string id="p5K0ATtZ" text="Не мог разрушить вашу старую сессию."/>
+    <string id="pehfmZvM" text="Player {PLAYERNAME} was promoted to party leader."/>
+    <string id="Pn13ZKwI" text="Ваша партия была распущена!"/>
+    <string id="Rj8RhD7F" text="Не удалось"/>
+    <string id="Tauk2JzA" text="Version mismatch, Server Version: {SERVERVERSION} - Your Version: {CLIENTVERSION}."/>
+    <string id="TpBDiSBp" text="{PLAYERNAME} was assigned party leader."/>
+    <string id="VDDm5bqb" text="Вы можете приглашать только тех игроков, запуск игры с анти-чит."/>
+    <string id="w8WiqZT3" text="Вы должны запускать игру с помощью анти-чит, чтобы присоединиться или создать партию!"/>
+    <string id="wNubP2BF" text="Может только лидер партии очередь для игр."/>
+    <string id="xMa4QqvL" text="Current players in party: {PLAYERS}"/>
+    <string id="ysfEQO6c" text="Игрок не найден"/>
+    <string id="zyDyPr4I" text="Плеер вы пытались продвигать не в вашей партии."/>
+  </strings>
+</base>
