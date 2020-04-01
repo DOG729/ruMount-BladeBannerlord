@@ -5,17 +5,17 @@
   </tags>
   <strings>
     <string id="(" text="Baldimos"/>
-    <string id="3nilwlcM" text="You have arrived at {TUTORIAL_SETTLEMENT_NAME}. To explore the location, you can enter the settlement by pressing the highlighted button on the left."/>
+    <string id="3nilwlcM" text="Вы прибыли в {TUTORIAL_SETTLEMENT_NAME}. Чтобы изучить местоположение, вы можете ввести населенный пункт, нажав на подсвеченную кнопку слева."/>
     <string id="3RqEmB15" text="Навигация Кальрадии"/>
     <string id="3Y5dudW9" text="Альда"/>
-    <string id="3YkpC9Nf" text="Можно фильтровать элементы с помощью кнопки в верхней части. Фильтр их смешанная."/>
+    <string id="3YkpC9Nf" text="Вы можете фильтровать элементы с помощью кнопок в верхней части. Фильтруйте их в Разное."/>
     <string id="4IZnbvlD" text="Baudein"/>
     <string id="5bYwdRFs" text="Тренировочный Меч "/>
-    <string id="5M48atXU" text="У вас есть активный квест! Вы можете узнать больше об этом, нажав на поиски входа в левом нижнем углу экрана."/>
+    <string id="5M48atXU" text="У вас есть активный квест! Вы можете узнать больше об этом, нажав на журнал квестов в левом нижнем углу экрана."/>
     <string id="7xHMIZEP" text="Цель Практики "/>
-    <string id="8UUV94Lq" text="Составлял Обучение"/>
+    <string id="8UUV94Lq" text="Тренировка Стрельбы"/>
     <string id="8YvBapxl" text="Varic"/>
-    <string id="9YqwNQPO" text="Установленный Колебалась Обучение"/>
+    <string id="9YqwNQPO" text="Тренировка Верховой Стрельбы"/>
     <string id="ajo9KQpr" text="Бить тренер новичок "/>
     <string id="at4MdVBJ" text="Fathid"/>
     <string id="atWs6mkm" text="Меч и учебный щит "/>
@@ -24,76 +24,76 @@
     <string id="C8NDynaB" text="Niasen"/>
     <string id="CaCfbRJq" text="Nozhon"/>
     <string id="CONYULU6" text="Phasos"/>
-    <string id="CpKLau15" text="Your brother recommends that you purchase 2 sacks of grain.{newline}{newline}You can do this by transferring them to your inventory with the little arrow on the left side"/>
+    <string id="CpKLau15" text="Ваш брат рекомендует вам купить 2 мешка зерна. {Newline} {newline} Вы можете сделать это, перенеся их в свой инвентарь с помощью маленькой стрелки на левой стороне."/>
     <string id="cZsPNpCs" text="Покупка Продуктов Питания"/>
     <string id="d0LpBfis" text="Подготовка Арбалета "/>
-    <string id="D0SoDPcr" text="Повышение Квалификации В Ближнем Бою "/>
-    <string id="ddoD208G" text="Notables help you recruit more and better (higher level) troops according to your relation with them.{newline}{newline}Click on some troops to move them into your party."/>
-    <string id="DELVwiEM" text="Тира"/>
+    <string id="D0SoDPcr" text="Продвинутая тренировка ближнего боя "/>
+    <string id="ddoD208G" text="Знать помогает вам набирать больше и лучше (более высокого уровня) войск в соответствии с вашими отношениями с ними. {Newline} {newline} Нажмите на некоторые войска, чтобы переместить их в вашу группу."/>
+    <string id="DELVwiEM" text="Tira"/>
     <string id="dFpNRB1g" text="Nogand"/>
-    <string id="eFc6YuzQ" text="To leave a mission, you can hold down the &quot;Tab&quot; key.{newline}{newline}This will return you to the settlement menu where you can purchase supplies and hire recruits."/>
+    <string id="eFc6YuzQ" text="Чтобы покинуть миссию, вы можете удерживать нажатой клавишу «Tab». {Newline} {newline} Это вернет вас в меню расчетов, где вы можете приобрести припасы и нанять новобранцев."/>
     <string id="EhELIf65" text="Teruin"/>
-    <string id="elRQHiLR" text="Установленный Тренировочный Меч "/>
-    <string id="f6xYa3c4" text="Welcome to Calradia!{newline}{newline}You can explore the world map by moving the camera with WASD, panning your view by right clicking and dragging your mouse and zooming in and out with the mouse wheel.{newline}{newline}Give it a try."/>
-    <string id="FFP17aSl" text="В начале боя ваши солдаты будут держать свои позиции. Вы можете сказать им, чтобы поручить открытия ордеров движение с &quot;F1&quot; и выбираем &quot;Следуй за мной&quot; с &quot;F2&quot;."/>
-    <string id="fpdXZ0fl" text="Подбор"/>
+    <string id="elRQHiLR" text="Обучение мечу на коне "/>
+    <string id="f6xYa3c4" text="Добро пожаловать в Кальрадию! {Newline} {newline} Вы можете исследовать карту мира, перемещая камеру с помощью WASD, панорамируя изображение, щелкая правой кнопкой мыши и перетаскивая мышь, а также увеличивая и уменьшая масштаб с помощью колесика мыши. {Newline} {newline} Попробуйте."/>
+    <string id="FFP17aSl" text="В начале битвы ваши солдаты будут удерживать свои позиции. Вы можете сказать им, чтобы они готовились, открыв меню на движение с ''F1'' и выбрав ''Следуйте за мной'' с ''F2.''"/>
+    <string id="fpdXZ0fl" text="Вербовка"/>
     <string id="GCqWwDWg" text="Baladir"/>
     <string id="GjGF4xbn" text="Учебный Щит "/>
-    <string id="gUvxp8mf" text="Лук Обучение"/>
+    <string id="gUvxp8mf" text="Учебный лук"/>
     <string id="IcBq2jSZ" text="Aitheen"/>
-    <string id="Il7C9LQG" text="You can move your character:{newline}- Forwards with [W]{newline}- Backwards with [S]{newline}- Left with [A]{newline}- Right with [D]{newline}{newline}Try them all now!"/>
+    <string id="Il7C9LQG" text="Вы можете переместить своего персонажа: {newline} - Вперед с помощью [W] {newline} - Назад с помощью [S] {newline} - Влево с [A] {newline} - Вправо с [D] {newline} {newline} Попробуйте прямо сейчас!"/>
     <string id="JDtbzwB0" text="Nusun"/>
-    <string id="jLWPSiOR" text="Говорят к старосте"/>
-    <string id="jWvle1tC" text="Finish the track and hit targets as many as you can ({HIT} / {ALL}))"/>
-    <string id="K0f6WLjV" text="To leave a mission, you can hold down the Tab key.{newline}{newline}This will return you to the settlement menu where you can purchase supplies and hire recruits."/>
+    <string id="jLWPSiOR" text="Поговорить со старостой"/>
+    <string id="jWvle1tC" text="Закончите путь и поразите как можно больше целей ({HIT} / {ALL}))"/>
+    <string id="K0f6WLjV" text="Чтобы покинуть миссию, вы можете удерживать нажатой клавишу Tab. {Newline} {newline} Это вернет вас в меню расчетов, где вы можете приобрести припасы и нанять новобранцев."/>
     <string id="KiJd6Xik" text="Движение"/>
     <string id="KUEHAD4U" text="Квесты"/>
     <string id="kwW6v202" text="Перейти к стрелковой позиции."/>
     <string id="L0tOoWpV" text="Идите к нормальному тренеру"/>
-    <string id="L24eYhaX" text="Гора лошадь"/>
-    <string id="LGuJctoZ" text="Attack to trainer ({HIT} / {ALL})"/>
-    <string id="lN1RQ260" text="Shoot targets ({HIT} / {ALL})"/>
-    <string id="LS1whiyj" text="The menu on the top right shows the important people in your current location.{newline}{newline}Click on the headman's portrait to talk to him."/>
+    <string id="L24eYhaX" text="Оседлайте лошадь"/>
+    <string id="LGuJctoZ" text="Атакуйте тренера ({HIT} / {ALL})"/>
+    <string id="lN1RQ260" text="Поразите цели ({HIT} / {ALL})"/>
+    <string id="LS1whiyj" text="Меню в правом верхнем углу показывает важных людей в вашем текущем местоположении. {Newline} {newline} Нажмите на портрет руководителя, чтобы поговорить с ним."/>
     <string id="m2uEbrkh" text="Najun"/>
-    <string id="mfugkRoz" text="Схронов И Заказы"/>
-    <string id="MgBazeaE" text="Старая"/>
-    <string id="MqeQco4z" text="Установленный Подготовки Копье "/>
+    <string id="mfugkRoz" text="Убежища и заказы"/>
+    <string id="MgBazeaE" text="Alte"/>
+    <string id="MqeQco4z" text="Тренировка на коне с копьём "/>
     <string id="MUEaqlix" text="Бить тренер ветеран "/>
-    <string id="NWxC3CbS" text="Фодор"/>
-    <string id="OA9bQ8QJ" text="Алеа"/>
-    <string id="odbkXZkz" text="Moving your party is done by clicking on the map. This will leave a mark on the target location - unless you have clicked on inaccessible areas such as mountains or sea.{newline}{newline}Let’s set off to {TUTORIAL_SETTLEMENT_NAME}!"/>
-    <string id="OFNEE8Xr" text="Вы можете сказать своим людям, чтобы заряжать от открытия ордеров движение с &quot;F1&quot; и выбираем плату с &quot;F3&quot;."/>
-    <string id="oj7B1GOT" text="Входя В Населенных Пунктах"/>
+    <string id="NWxC3CbS" text="Fodor"/>
+    <string id="OA9bQ8QJ" text="Alea"/>
+    <string id="odbkXZkz" text="Перемещение вашего отряда осуществляется нажатием на карту. Это оставит отметку на целевом местоположении - если вы не нажали на недоступные районы, такие как горы или море. {Newline} {newline} Давайте установим {TUTORIAL_SETTLEMENT_NAME}!"/>
+    <string id="OFNEE8Xr" text="Вы можете сказать своим людям атаковать, открыв меню на движение с помощью «F1» и выбрав пункт с «F3»."/>
+    <string id="oj7B1GOT" text="Войти в поселение"/>
     <string id="OJmYUcaU" text="С Мечом"/>
-    <string id="okM9QUFA" text="Обучение Джавелин "/>
+    <string id="okM9QUFA" text="Обучение Копью "/>
     <string id="opUBnFym" text="Terte"/>
-    <string id="P7KbSBvr" text="Установленное Обучение"/>
+    <string id="P7KbSBvr" text="Обучение Верховой Езде"/>
     <string id="pAf5Mt3X" text="Alishka"/>
-    <string id="q65JaEBW" text="Аля"/>
+    <string id="q65JaEBW" text="Alya"/>
     <string id="q71nXdD4" text="Пойти к тренеру"/>
-    <string id="QHhdmvLj" text="Боевой Подготовки"/>
-    <string id="qNrWU4Or" text="Обучение Ближнего Боя "/>
-    <string id="qXv3BY5v" text="You can hold &quot;Left Alt&quot; key to see the location of the Headman.{newline}{newline}Once you are near him, press F to speak with him."/>
+    <string id="QHhdmvLj" text="Боевая подготовка"/>
+    <string id="qNrWU4Or" text="Обучение Ближнему Бою "/>
+    <string id="qXv3BY5v" text="Вы можете удерживать клавишу «Левый Alt», чтобы увидеть местонахождение Старосты. {Newline} {newline} Когда вы рядом с ним, нажмите F, чтобы поговорить с ним"/>
     <string id="QZHSvGrD" text="Baldrim"/>
-    <string id="rLEIuqZO" text="После тяжелой битвы у вас может быть выбор: взять несколько пленных или завербовать тех, кого вы освободили от своего врага. {newline}{newline}Both options are done by transferring the troops to your party with the little arrow button on the left."/>
-    <string id="Rvn8tGB0" text="Your brother has asked you to hire at least 4 men before you set out to face the raiders.{newline}{newline}You can hire troops from villages and towns by clicking on the &quot;Recruit Troops&quot; button."/>
-    <string id="Sfd3aqia" text="Бандан"/>
+    <string id="rLEIuqZO" text="После тяжелой битвы у вас может быть выбор: взять несколько пленных или завербовать тех, кого вы освободили от своего врага. {newline}{newline}Оба варианта выполняются путем перевода войск в вашу группу с помощью маленькой кнопки со стрелкой на слева."/>
+    <string id="Rvn8tGB0" text="Ваш брат попросил вас нанять не менее 4 человек, прежде чем вы решите встретиться с рейдерами. {Newline} {newline} Вы можете нанять войска из деревень и городов, нажав на кнопку «Вербовать войска»."/>
+    <string id="Sfd3aqia" text="Bandan"/>
     <string id="tZtrK3cs" text="Верховая Обучение Стрельбе Из Лука "/>
     <string id="uW4htMut" text="С мечом и щитом"/>
     <string id="w4Ajm40u" text="Faroc"/>
-    <string id="WjuwOavt" text="Миссии по укрытию начинаются с того, что враг не знает о вашем приближении. {newline}{newline}Order your troops to follow you with the &quot;F1&quot; and &quot;F2&quot; shortcuts and try to take them on in small groups."/>
-    <string id="wq9sNkMc" text="Оставив миссию"/>
+    <string id="WjuwOavt" text="Миссии по укрытию начинаются с того, что враг не знает о вашем приближении. {newline}{newline}Прикажите своим войскам следовать за вами с помощью ярлыков ''F1'' и ''F2'' и попытаться взять их небольшими группами."/>
+    <string id="wq9sNkMc" text="Покинуть миссию"/>
     <string id="WTF4ZIe7" text="Jatu"/>
     <string id="x4xx1Zd6" text="Боевые Команды "/>
     <string id="X7Xp9xGe" text="Tertha"/>
-    <string id="xCHBC7S9" text="Нажмите на кнопку &quot;Соединиться&quot;, чтобы вернуться к заметным и узнать больше о предстоящей работе."/>
+    <string id="xCHBC7S9" text="Нажмите на кнопку «Говорить», чтобы вернуться к заметкам и узнать больше о предстоящей задаче."/>
     <string id="Xr50xGhr" text=" ({TIME_SCORE} seconds)"/>
     <string id="XsIq2RFs" text="Baldim"/>
-    <string id="yCEMiKjB" text="Choose your {SELECTION}"/>
+    <string id="yCEMiKjB" text="Выберите свой {SELECTION}"/>
     <string id="yvdQ9MD6" text="Terea"/>
-    <string id="Z33uQl2f" text="Тарья"/>
+    <string id="Z33uQl2f" text="Tarya"/>
     <string id="z9eC5hjv" text="С копьем и щитом"/>
-    <string id="ZozwfwVl" text="Defend yourself ({HIT} / {ALL})"/>
-    <string id="ZW9OGfEt" text="Спасение И Принимая Заключенных"/>
+    <string id="ZozwfwVl" text="Защитите Себя ({HIT} / {ALL})"/>
+    <string id="ZW9OGfEt" text="Спасение и взятие заключенных"/>
   </strings>
 </base>
