@@ -1174,7 +1174,7 @@
     <string id="FoNfLOny" text="{?ISSUE_OWNER.GENDER}Lady{?}Lord{\?} {ISSUE_OWNER.NAME} wants {TARGET_HERO.NAME} captured"/>
     <string id="FOoMM4AU" text="Продолжить подготовку к осаде."/>
     <string id="fPJKSmnq" text="Ежедневный Вероятность Смерти "/>
-    <string id="FpUybbSk" text="Greetings. This caravan is owned by {MERCHANT.LINK}. We trade under the protection of {PROTECTOR.LINK}, master of {HOMETOWN}. How may we help you?[rb: positive]"/>
+    <string id="FpUybbSk" text="Приветствую. Этот караван принадлежит {MERCHANT.LINK}. Мы торгуем под защитой {PROTECTOR.LINK}, хозяина {HOMETOWN}. Чем мы можем вам помочь?[rb: positive]"/>
     <string id="fQaPv0Xl" text="Я буду останавливаться здесь на несколько дней. Дайте мне знать, если вы нуждаетесь в моих услугах."/>
     <string id="FqCVOPfU" text="ArcherFIghtingSkills"/>
     <string id="fr4F4IQc" text="Good to hear {PLAYER.NAME}, but please be quick. I expect more from you. "/>
@@ -1526,7 +1526,7 @@
     <string id="jkYNBr5p" text="Немедленно увеличить силу (Виг) на 1."/>
     <string id="JL204Kc0" text="Конечно... конечно. Мы передадим их.."/>
     <string id="JlFfuFEC" text="Как насчет того, чтобы взять его с вами? Кормят и защищают его, конечно, но не относитесь к нему иначе, чем к своим товарищам. Пусть он останется с вами на год, а потом пусть он вернется к нам? Я вышлю вам достойным подарком и, возможно, более ценно, вы обретете свою вечную дружбу, что все идет хорошо?"/>
-    <string id="jlgjLDo7" text="Гаррисон"/>
+    <string id="jlgjLDo7" text="Гарнизон"/>
     <string id="JlhgngOB" text="{DEFECTION_PERSUADE_ATTEMPT_2}"/>
     <string id="JmoOJX4e" text="Никто в гарнизон, чтобы взять над войсками просила. Вы должны ждать, пока кто-то приезжает."/>
     <string id="JMzyh6Gl" text="Заставить людей дать вам поставок."/>
@@ -1715,7 +1715,7 @@
     <string id="LIjN3rYD" text="Ступень 4+ кланов получаете 1 влияния за день и размер партии их лидеры увеличивается на 50"/>
     <string id="Lj5Lghww" text="Что? Нет..."/>
     <string id="LjiYq9cH" text="Мне очень жаль. Я не уверен, что я мог когда-либо люблю тебя.)"/>
-    <string id="LjUhEJxz" text="Caravan of {OWNER}"/>
+    <string id="LjUhEJxz" text="Караван из {OWNER}"/>
     <string id="lKb4chmL" text="RomanHair Описание"/>
     <string id="Lkf3sB9I" text="Может быть..."/>
     <string id="lKoaSWLf" text="{DUEL_RESULT}"/>
@@ -2652,7 +2652,7 @@
     <string id="VFO7rMzK" text="Дни Возвращения"/>
     <string id="Vg7Ftrdl" text="Можно сказать, что... я работаю от зари до поздней ночи, но даже так я с трудом могу положить хлеб на стол. Почему это? Потому что я не могу продать свой продукт по справедливой цене. Закон гласит, что я могу только продать местным торговцам, и в тоже фиксированному курсу, так что даже тогда, когда другие цены высокие, я по-прежнему делает то же самое."/>
     <string id="Vg7glbwp" text=" {WORKSHOP_NAME} at {SETTLEMENT_NAME}"/>
-    <string id="vGF5S2hE" text="Лидеров"/>
+    <string id="vGF5S2hE" text="Таблица лидеров"/>
     <string id="vgqVf9SA" text="+1 компаньон для каждого города своя."/>
     <string id="vh4bBfYq" text="You have accepted {TARGET_HERO.LINK}'s offer and freed {?TARGET_HERO.GENDER}her{?}him{\?}. {?TARGET_HERO.GENDER}She{?}He{\?} and {?TARGET_HERO.GENDER}her{?}his{\?} clan would be very happy. On the other hand {ISSUE_OWNER.LINK} will feel {?ISSUE_OWNER.GENDER}she{?}he{\?} is betrayed and be furious."/>
     <string id="VHA7XvKt" text="Производство ферм лошади увеличивается на 50%."/>
@@ -2990,7 +2990,7 @@
     <string id="yPI9N9ws" text="Было приятно иметь с вами дело."/>
     <string id="YpT77np2" text="{NAME} the Arab"/>
     <string id="YPTZ2et7" text="Успокойся. Вы правы. Никто не имеет права продавать свои исконные земли. Эти пастухи могут сдавать свою скотину в другом месте."/>
-    <string id="YQ3vm6er" text="Введите арене"/>
+    <string id="YQ3vm6er" text="Войти в арену"/>
     <string id="yqPNKKGb" text="Дальнозоркость"/>
     <string id="yQtzabbe" text="Рядом"/>
     <string id="yRlINUML" text="Хах! Я увижу тебя молить о пощаде."/>
