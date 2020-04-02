@@ -461,7 +461,7 @@
     <string id="D5QlXOV0" text="Критический провал и неудачу все шансы убеждения "/>
     <string id="d68pZq4j" text="Необходимый Уровень Квалификации "/>
     <string id="D7KllIPI" text="Вопросы"/>
-    <string id="D7ooUTqV" text="Вы вниз!"/>
+    <string id="D7ooUTqV" text="Вы без сознания!"/>
     <string id="D8wa0m1m" text="м"/>
     <string id="D8Wjbw9K" text="Я попал в плен, но позже ему удалось бежать"/>
     <string id="DaE0N37L" text="Нотаблей"/>
@@ -495,7 +495,7 @@
     <string id="DTRwTvT4" text="Конный лучник перестрелка"/>
     <string id="DTt1aeSj" text="{?IS_POSITIVE}+{?}-{\?}{ITEM_AMOUNT} {ITEM_TYPE}"/>
     <string id="DTWem4V1" text="этот запас"/>
-    <string id="DU9SofaW" text="Вырезать"/>
+    <string id="DU9SofaW" text="режущего"/>
     <string id="DuFg1avZ" text="Следующий уровень на: {NEXT_SKILL_POINTS}"/>
     <string id="Duoo5R2P" text="Мастер Арены "/>
     <string id="DvecWeGT" text="Зима {DAY}, {YEAR}"/>
@@ -543,7 +543,7 @@
     <string id="esxNxipn" text="Лицам с низкой моралью"/>
     <string id="eTyaQ1sG" text="Возобновить Кампанию"/>
     <string id="eu25AFfI" text="Не могу открыть инвентарь прямо сейчас!"/>
-    <string id="eufhFrnC" text="Villagers of {VILLAGE_NAME}"/>
+    <string id="eufhFrnC" text="Жители деревни {VILLAGE_NAME}"/>
     <string id="EUmwEtap" text="That was fine fighting, {PLAYER.LINK}. You took down {OPPONENT_COUNT} opponents. Of course you deserve a prize with that performance: {PRIZE}{GOLD_ICON}. Nice, eh?"/>
     <string id="eURzhtb0" text="Gathering around {PARTY_NAME}"/>
     <string id="EUzxzL9s" text="Глава Броню: "/>
@@ -561,7 +561,7 @@
     <string id="eyMU7X0e" text="Ты Господь и голосования. Правитель проголосуют в итоге и решают исход. Темп"/>
     <string id="EZLs7hLL" text="Вы! Стоп! Дайте нам ваше серебро. Мы не играем в игры."/>
     <string id="EzrK2tnA" text="Вы не можете управлять армией в бою"/>
-    <string id="F4RMyaR5" text="You have encountered {PARTY}."/>
+    <string id="F4RMyaR5" text="Вы столкнулись с {PARTY}."/>
     <string id="F5UPr9jh" text="Принять Все"/>
     <string id="f6gSyvnC" text="Стрелять врагов с луком и стрелами. Выполнять сложные удары с дальней дистанции."/>
     <string id="f6pjlKdz" text="Вчера"/>
@@ -1021,7 +1021,7 @@
     <string id="O9xpd5bn" text="баронесса"/>
     <string id="obHSBrTV" text="Фракции niceTODO_TODO_TODO_TODO_TODO_TODo_todo_todo_todo_todo_todo_todo_todo_todo_todo_todo_todo_todo_todo_todo"/>
     <string id="ObTSCxra" text="Вассал"/>
-    <string id="OBXNbvkK" text="As you attempt to force the villagers to give you supplies, some of the residents gather to resist you. Fighting them will cause a war with the {KINGDOM}."/>
+    <string id="OBXNbvkK" text="Когда вы пытаетесь заставить жителей деревни предоставить вам припасы, некоторые жители собираются, чтобы противостоять вам. Битва с ними приведет к войне с {KINGDOM}."/>
     <string id="OCGaTxac" text="Призовой Фонд Турнира "/>
     <string id="OdFPHvtE" text="Повстанцы атакуют этот населенный пункт. Вы хотите вмешаться?"/>
     <string id="ODQmOrIw" text="Авторы"/>
@@ -1084,7 +1084,7 @@
     <string id="pgd7Dp78" text="Жилища"/>
     <string id="PGXitpMN" text="{SETTLEMENT_NAME} - ({COMMON_AREA_NAME})"/>
     <string id="PHkC8Gia" text="Продать"/>
-    <string id="PhoKHbhd" text="Battle won. Press {leave_key} to view results"/>
+    <string id="PhoKHbhd" text="Битва выйграна. нажмите {leave_key} для просмотра результатов"/>
     <string id="Pia30xtc" text="{?ASKED_LORD.GENDER}She{?}He{\?} is currently at {TOWN_NAME}."/>
     <string id="PiHpR4QL" text="Одноручные"/>
     <string id="PitdvCJI" text="Губернатор Меняться "/>
@@ -1292,7 +1292,7 @@
     <string id="Tqa0r78j" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}are{?}is{\?} doing hit and run."/>
     <string id="tQDbRfMs" text="Мы были разлучены в пылу сражения"/>
     <string id="tqSODeKW" text="Ты убил себя!"/>
-    <string id="trRLa9pi" text="You have encountered {PARTY}. Fighting them will cause a war with the {KINGDOM}."/>
+    <string id="trRLa9pi" text="Вы столкнулись с {PARTY}. Битва с ними приведет к войне с {KINGDOM}."/>
     <string id="Tsn6bCft" text="Щедрый"/>
     <string id="TSw4tD02" text="Really? I suppose I'll be getting my hands dirty today, then.[ib:aggressive][rb:very_negative]"/>
     <string id="TTWL7RLe" text="Арбалет"/>
@@ -1324,7 +1324,7 @@
     <string id="ug4LiPbb" text="Дальнобойное оружие ИЖ"/>
     <string id="ugJfuabA" text="Конный Лучник"/>
     <string id="uGM8DWrm" text="Гора"/>
-    <string id="UgMbCUMO" text="my father {REFERING_HERO.LINK}"/>
+    <string id="UgMbCUMO" text="Мой отец {REFERING_HERO.LINK}"/>
     <string id="ugX2RRDY" text="Меня похитили и требовали выкуп"/>
     <string id="Uh057UUb" text="Puluc"/>
     <string id="UI0q8rWw" text="Живыми животными"/>
@@ -1333,7 +1333,7 @@
     <string id="UjL7jVYF" text="Мораль"/>
     <string id="ULawYXl6" text="Бывший мать-в-законе"/>
     <string id="um1Z5swc" text="the lady {REFERING_HERO.LINK}"/>
-    <string id="Umb8XsZH" text="Пирс"/>
+    <string id="Umb8XsZH" text="колящего"/>
     <string id="uN5gwV05" text="Умершего"/>
     <string id="un7poy9x" text="Предварительный просмотр"/>
     <string id="uOqdr7FM" text="Поздравляем! Вы одержали победу над противником!"/>
@@ -1538,7 +1538,7 @@
     <string id="yRTV90eN" text="Вам необходимо выбрать результат."/>
     <string id="yrUo2ZRD" text="Нет места для еще одного отряда в партии"/>
     <string id="yrvH6Oa1" text="Ждать в исходное положение!"/>
-    <string id="ySlVPZyF" text="As you attempt to force the notables to give you recruits, some of the residents gather to resist you. Fighting them will cause a war with the {KINGDOM}."/>
+    <string id="ySlVPZyF" text="Когда вы пытаетесь заставить знаменитостей отдать вам новобранцев, некоторые жители собираются, чтобы противостоять вам. Битва с ними приведет к войне с {KINGDOM}."/>
     <string id="YSM0lxns" text="Стоимость"/>
     <string id="ytlsMCCn" text="{DESERTER_COUNT} {?PLURAL}troops{?}troop{\?} have deserted from {PARTY}."/>
     <string id="ytYPOCZ8" text="{NUMBER}% Completed"/>
