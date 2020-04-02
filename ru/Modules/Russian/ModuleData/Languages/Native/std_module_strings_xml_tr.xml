@@ -24,7 +24,7 @@
     <string id="0V4jIIju" text="Travelling {SETTLEMENT_NAME} to besiege"/>
     <string id="0zz1iDMY" text="атаман"/>
     <string id="11aiaODt" text="Ноги Броня"/>
-    <string id="13q8IRfZ" text="my sister {REFERING_HERO.LINK}"/>
+    <string id="13q8IRfZ" text="моя сестра {REFERING_HERO.LINK}"/>
     <string id="1AcoIQVl" text="You have arrived at {SETTLEMENT} to raid it. Some of the residents have gathered to resist you. Raiding this village will cause a war with the {KINGDOM}."/>
     <string id="1asbVsat" text="Захват осуществляется путем окружения противоположной пешки с обеих сторон своими собственными пешками.{newline}Pawns can also be captured by blocking them against the center tile. This works for both players."/>
     <string id="1Bm1Wk1v" text="Пехота"/>
@@ -36,9 +36,9 @@
     <string id="1HPITLca" text="Предельный Размер В Плен Превысила"/>
     <string id="1jqxlEkT" text="Спайс"/>
     <string id="1KcIeYe2" text="Вы должны быть в том же месте, как и характер для того, чтобы поговорить с ними"/>
-    <string id="1klXxZFS" text="I am lady of {TOWNS}."/>
+    <string id="1klXxZFS" text="Я леди {TOWNS}."/>
     <string id="1Llb4gGw" text="Завершение"/>
-    <string id="1MStGeRa" text="Beaten opponent: {BEATEN_OPPONENT_COUNT}"/>
+    <string id="1MStGeRa" text="Побежденный противник: {BEATEN_OPPONENT_COUNT}"/>
     <string id="1NbY2O5q" text="Замок"/>
     <string id="1o1TyPib" text="Дополнительные Ограничения Компаньон "/>
     <string id="1oeak0OC" text="Ковать"/>
@@ -374,7 +374,7 @@
     <string id="bkysJj7F" text="Осадное Оружие"/>
     <string id="BlidMNGT" text="Отношения"/>
     <string id="bLWyjOdS" text="Броня Тела: "/>
-    <string id="Bm4yZBWb" text="You are in prison at {SETTLEMENT_NAME}."/>
+    <string id="Bm4yZBWb" text="Вы в тюрьме в {SETTLEMENT_NAME}."/>
     <string id="bMjtFIba" text="You arrived just in the nick of time! {PLAYER.LINK}. You have my deepest thanks!"/>
     <string id="BMQ5SHOH" text="Конское Снаряжение Я"/>
     <string id="bN8gqxtB" text="Конец Боя"/>
@@ -475,7 +475,7 @@
     <string id="di4MlBRx" text="{NUMBER_OF} {ITEM}"/>
     <string id="DItheHi7" text="Остаться в резерве"/>
     <string id="DIuI1moW" text="Лидер Банды "/>
-    <string id="dJbaRaAD" text="Дней пока без еды"/>
+    <string id="dJbaRaAD" text="Дней обеспечено едой"/>
     <string id="DJgeYv9X" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}are{?}is{\?} moving in reserve."/>
     <string id="DjoYTx2w" text="Наемники не могут собрать войска"/>
     <string id="dKcvwi6V" text="Ну ну, посмотри на это! Вам лучше начать выкашливал серебро, подруга, или мне и моим парням придется сломать тебя."/>
@@ -515,7 +515,7 @@
     <string id="eAGeVRjI" text="You received {GOLD_AMOUNT}{GOLD_ICON}."/>
     <string id="EAicirVE" text="Бесстрашный"/>
     <string id="eaIQXj6O" text="Free attribute points: {NUMBER}"/>
-    <string id="ealIwlQH" text="Defending {SETTLEMENT_NAME}"/>
+    <string id="ealIwlQH" text="Защищаете {SETTLEMENT_NAME}"/>
     <string id="eavr4x8n" text="Ежедневная Продукция:"/>
     <string id="eb0nLx5E" text="Aserai Султанат"/>
     <string id="EbB9y2zZ" text="Объявить Войну"/>
@@ -705,7 +705,7 @@
     <string id="I2YhWaIt" text="Товары"/>
     <string id="i30TCtj2" text="Ожидание"/>
     <string id="I42QtISB" text="Не может пнуть главного героя из клана."/>
-    <string id="I4BbOX46" text="You are in {ARMY_LEADER}'s army."/>
+    <string id="I4BbOX46" text="Вы в армии {ARMY_LEADER}."/>
     <string id="i4g81l3E" text="Relation: {NUM}"/>
     <string id="I8xMpWxO" text="Смелые"/>
     <string id="IagYTD5O" text="Процветания"/>
@@ -831,14 +831,14 @@
     <string id="KGH8rjOP" text="Travelling {SETTLEMENT_NAME} to raid"/>
     <string id="KGHlXL8H" text="Очень хорошо - мы должны очистить эту землю своей кровью."/>
     <string id="KGjFnVsR" text="Понятия"/>
-    <string id="kgqCVvIb" text="my brother {REFERING_HERO.LINK}"/>
+    <string id="kgqCVvIb" text="мой брат {REFERING_HERO.LINK}"/>
     <string id="kHC5EjDJ" text="Город Бонус"/>
     <string id="kHC5EjEJ" text="Небольшой Бонус Фракции "/>
     <string id="Khr5yETv" text="В Aserai жители пустыни Nahhas, смесь кочевых бедуинов и оседлых земледельцев оазисов. Они славятся своим искусством верховой езды и их знания изучение многих землях, особенно медицины, получила от лежания на некоторые из самых прибыльных континента торговых путей. Каждый клан гордятся своим происхождением и часто завидует другим, но когда объединены харизматического лидера, они становятся серьезной силой на юге."/>
     <string id="kIAsKjp1" text="Welcome to Mount&amp;Blade II: Bannerlord Gamescom demo!{newline}This demo showcases the mid-game features of Bannerlord!{newline}You are free to resolve issues, conquer settlements, govern cities, join tournaments, trade or just hang around in the game world. {newline}Have fun and don't hesitate to ask if you have any questions."/>
     <string id="KiJd6Xik" text="Движение"/>
     <string id="kiOst6DH" text="Империя"/>
-    <string id="KiVCv1Bx" text="Besieging {SETTLEMENT_NAME}"/>
+    <string id="KiVCv1Bx" text="Осаждать {SETTLEMENT_NAME}"/>
     <string id="KJDqOGEU" text="Наш план состоит в том, чтобы возвратиться в строй, чтобы бороться в другой день."/>
     <string id="KkaVpLXd" text="Довести эту политику до голосования"/>
     <string id="klZnvb15" text="Характер"/>
@@ -880,7 +880,7 @@
     <string id="LBy6YDMV" text="Перегруппироваться"/>
     <string id="Lc1vIEnM" text="Волки и овцы двигаться таким же образом, путем скольжения вдоль линии на доске, одну плитку за ход."/>
     <string id="LEC8NhCV" text="Политика"/>
-    <string id="lfkwsa5f" text="Трек"/>
+    <string id="lfkwsa5f" text="Следить"/>
     <string id="lfMgaBiJ" text="Сделать это стоит, чтобы не убить тебя."/>
     <string id="Lg3zeoYi" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}are{?}is{\?} protecting {#IS_LEFT}{#}left{#}multiple{\#}{?IS_MIDDLE}middle{?}{\?}{?IS_RIGHT}right{?}{\?} flank{#IS_LEFT}{#}{#}s{\#}."/>
     <string id="lGTHPRP8" text="Населенных пунктов niceTODO_TODO_TODO_TODO_TODO_TODo_todo_todo_todo_todo_todo_todo_todo_todo_todo_todo_todo_todo_todo_todo"/>
@@ -1239,7 +1239,7 @@
     <string id="Sj9Ux8jS" text="Сбежало"/>
     <string id="sJLUbnLl" text="Общая Численность"/>
     <string id="sKnYLPkn" text="король"/>
-    <string id="slKe6Gyc" text="Общая продовольствия армии"/>
+    <string id="slKe6Gyc" text="Общее продовольствие армии"/>
     <string id="SMws1ws6" text="Большой Щит"/>
     <string id="SNfvAnuV" text="+{BONUS_AMOUNT} bonus to wall repair speed"/>
     <string id="snxLc1Wq" text="Две пешки из каждого старта игрока на доске, как показано. Игроки поочередно выставляют остальные на любом доступном плитки, кроме плитки центр."/>
@@ -1419,7 +1419,7 @@
     <string id="w758X31N" text="Пункт"/>
     <string id="w9C43LhX" text="Do you want to resolve {DECISION_NAME} decision?"/>
     <string id="WBupKtnu" text="You can see portraits of Important NPCs on the top bar.{newline}{newline}Click on the portrait and choose talk from the menu."/>
-    <string id="wdsJRYRn" text="You turned up just in time, {PLAYER.LINK}. I will not forget your help."/>
+    <string id="wdsJRYRn" text="Вы оказались как нельзя кстати, {PLAYER.LINK}. Я не забуду вашу помощь."/>
     <string id="Wg2P3acK" text="Огонь Катапульты"/>
     <string id="WharCvcX" text="Мы должны защищать стены и не пустить врага внутрь."/>
     <string id="WHED64rw" text="Новый отряд будет здесь через некоторое время."/>

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
   <tags>
     <tag language="Русский"/>
@@ -1357,7 +1357,7 @@
     <string id="hR6Zo6pD" text="Олигархический"/>
     <string id="hrn1Cdwo" text="Есть что-то еще мне нужно сделать."/>
     <string id="hs2W9sZr" text="{FIRST_NAME} the Finger"/>
-    <string id="hSdJ0UUv" text="Ушел Из Армии"/>
+    <string id="hSdJ0UUv" text="Покинуть Армию"/>
     <string id="hsIvt3WC" text="поощряя владык, чтобы укрепить свои имения"/>
     <string id="HsZBO3Wt" text=" Объект Игры "/>
     <string id="HTEYa2Hc" text="Пехота войск +50% более эффективен при увеличении городке порядок. (для безопасности)."/>
@@ -2521,13 +2521,13 @@
     <string id="TxxbCbUc" text="Хорошо. Я верю в тебя..."/>
     <string id="tYlXJuaj" text="{PRISONER_INTRODUCTION}"/>
     <string id="TyultuzK" text="Это все, что мне нужно знать. Спасибо."/>
-    <string id="tYVW8iQN" text="Соединиться с армией лидера"/>
+    <string id="tYVW8iQN" text="Поговорить с лидером армии"/>
     <string id="tzbXy8Nb" text="Медицина возможность восстановления тоже относится к врагам."/>
     <string id="tzBybYcf" text="I am interested, who is this {?TARGET_HERO.GENDER}woman{?}man{\?}?."/>
     <string id="tZqbrlV9" text="Как можете помочь вы?"/>
     <string id="TzqxgiQl" text="Мужчины говорят, что их зарплаты опаздывают. Лучше соблюдать свою часть сделки с ними, или они не могли держать их. Это особенно будет сложно, если они решили аннулировать свой контракт во время боя, не так ли?"/>
     <string id="TzvGs0v1" text="Ну я думаю, что это слишком поздно сейчас передумаешь, я решила сделать из тебя пример."/>
-    <string id="u0Dc5g4Z" text="You are in your town of {SETTLEMENT_LINK}. {KEEP_INFO}"/>
+    <string id="u0Dc5g4Z" text="Вы в вашем городе {SETTLEMENT_LINK}. {KEEP_INFO}"/>
     <string id="U0UoayfA" text="Хорошо, хорошо. Еще раз спасибо."/>
     <string id="U2UZoZL7" text="{CHILD.NAME}"/>
     <string id="U37aeqpD" text="Бой с двуручным оружием на коне"/>
