@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
   <tags>
     <tag language="Русский"/>
@@ -47,21 +47,21 @@
     <string id="45yEpDdE" text="Масштабирование Экрана"/>
     <string id="46vWdakp" text="Y"/>
     <string id="4aAvY4yO" text="Низкие"/>
-    <string id="4AyPI1H9" text="Переключение камеры DESK"/>
+    <string id="4AyPI1H9" text="Переключение камеры DESC"/>
     <string id="4e0ycN1Q" text="Слушай Все"/>
     <string id="4Gdng2Tt" text="Удерживайте для быстрой камерой сдвинув на карте кампании."/>
     <string id="4NaOKslb" text="-"/>
     <string id="4Nw1hF2R" text="Пинайте врагов чтобы пробить их защиту, когда не атакуете или защищаетесь. Бейте ваших врагов своим снаряжением во время защиты."/>
     <string id="4R4shVxp" text="Резкость"/>
     <string id="4SeC2VOQ" text="Крестовина вправо"/>
-    <string id="4spC1rcN" text="ВыбратьПриказ7 DESK"/>
-    <string id="4v3kotBH" text="ВыбратьПриказ2 DESK"/>
+    <string id="4spC1rcN" text="ВыбратьПриказ7 DESC"/>
+    <string id="4v3kotBH" text="ВыбратьПриказ2 DESC"/>
     <string id="4x1wGwW9" text="Выбрать Приказ 7"/>
     <string id="4Z2NBfW4" text="Командный Чат"/>
-    <string id="58eAHUQi" text="Группа 4 Слушай DESK"/>
+    <string id="58eAHUQi" text="Группа 4 Слушай DESC"/>
     <string id="5B3ptxje" text="Экран Персонажа"/>
     <string id="5c7l7r31" text="Левая Кнопка Мыши "/>
-    <string id="5JwDMBlz" text="Двигаться Влево DESK"/>
+    <string id="5JwDMBlz" text="Двигаться Влево DESC"/>
     <string id="5jxcNYlU" text="Numpad 6"/>
     <string id="5QpTaCa0" text="W"/>
     <string id="5siWUJPw" text="Полноэкранный"/>
@@ -77,7 +77,7 @@
     <string id="7MU008BT" text="F11"/>
     <string id="7phVPcDc" text="Устанавливает качество шейдеров. Более высокое значение означает лучшие графические эффекты."/>
     <string id="7QKjVON8" text="Прыжок"/>
-    <string id="7RV38Hoy" text="Группа 7 Слушай DESK"/>
+    <string id="7RV38Hoy" text="Группа 7 Слушай DESC"/>
     <string id="7S1aCWFa" text="Прыжок пешком или верхом."/>
     <string id="7SSytk7Z" text="U"/>
     <string id="7tYiV9Vw" text="Анизотропная 8х"/>
@@ -112,8 +112,8 @@
     <string id="aAaF9FWC" text="Правый Control"/>
     <string id="accbLVWL" text="Выбор способа сглаживания. "/>
     <string id="acqAYxhr" text=","/>
-    <string id="Ad8NUgpY" text="Группа 5 Слушай DESK"/>
-    <string id="aFPK4kIi" text="Переместить Карту Влево DESK"/>
+    <string id="Ad8NUgpY" text="Группа 5 Слушай DESC"/>
+    <string id="aFPK4kIi" text="Переместить Карту Влево DESC"/>
     <string id="AhrWBKx9" text="Экипировать Предмет 1"/>
     <string id="AiYklNiQ" text="Переместить Интерфейс Вправо"/>
     <string id="aJxmDbur" text="Удерживайте, чтобы покинуть площадь. "/>
@@ -145,7 +145,7 @@
     <string id="bJRFVONJ" text="Кнопка X "/>
     <string id="bmpagYCb" text="Экипировать щит или переключится на следующий."/>
     <string id="BmSzvXlZ" text="Вперед"/>
-    <string id="bNWx8Zqb" text="Окно Знамени DESK"/>
+    <string id="bNWx8Zqb" text="Окно Знамени DESC"/>
     <string id="bqb2K5b1" text="Двигаться Вправо"/>
     <string id="br4J1TTA" text="Сделать Скриншот DESC"/>
     <string id="BSdIYN9F" text="P"/>
@@ -158,7 +158,7 @@
     <string id="cAkgnVr5" text="Num Lock"/>
     <string id="CbwmI1JY" text="Включает глубину резкости."/>
     <string id="cdaUUBFQ" text="Переместить Интерфейс Вверх"/>
-    <string id="CnJQpaiK" text="Окно Отряда DESK"/>
+    <string id="CnJQpaiK" text="Окно Отряда DESC"/>
     <string id="combatkick" text="Пинок / Удар"/>
     <string id="cOuaMvNR" text="Временное SMAA x2"/>
     <string id="cp80Mq2W" text=";"/>
@@ -178,7 +178,7 @@
     <string id="dbkFMtJw" text="Увеличить Карту"/>
     <string id="DbpgZxxK" text="Расстояние До Камеры От Третьего Лица"/>
     <string id="dC1MBjrO" text="Влияет на размер текстур, кэш. Более высокое значение требует больше видеопамяти, но обеспечивает более гладкий игровой процесс."/>
-    <string id="Dg0SKmCS" text="Скорость битвы DESK"/>
+    <string id="Dg0SKmCS" text="Скорость битвы DESC"/>
     <string id="dg6yQU6z" text="Отправить Сообщение Команде"/>
     <string id="DiK2cKUi" text="Звуковое Устройство"/>
     <string id="DIvUcHY1" text="UI Leave"/>
@@ -200,9 +200,9 @@
     <string id="evzb1cmP" text="Экипировать предмет в четвертый слот."/>
     <string id="ewbUcb3N" text="UI Move Right DESC"/>
     <string id="eZsVkuQD" text="8"/>
-    <string id="F7yNEXrV" text="Масштаб Карты DESK"/>
+    <string id="F7yNEXrV" text="Масштаб Карты DESC"/>
     <string id="F8Q8mEak" text="UI Enter"/>
-    <string id="fBXuMgdm" text="ИИ Кампании DESK"/>
+    <string id="fBXuMgdm" text="ИИ Кампании DESC"/>
     <string id="FEDEsbCx" text="Переместить отряд вниз на глобальной карте."/>
     <string id="ffHX9L80" text="Цифровая клавиатура 0"/>
     <string id="FHBoO2sp" text="6"/>
@@ -223,8 +223,8 @@
     <string id="gIsqhwTs" text="Поле Зрения От Первого Лица"/>
     <string id="Gl2S6WEW" text="Sets the monitor that the game window to be displayed."/>
     <string id="Gl7wgtPQ" text="Перемещать Отряд Вверх"/>
-    <string id="glpNsbMs" text="Масштаб DESK"/>
-    <string id="GO6zrJwF" text="Окно Инвентаря DESK"/>
+    <string id="glpNsbMs" text="Масштаб DESC"/>
+    <string id="GO6zrJwF" text="Окно Инвентаря DESC"/>
     <string id="GPaZ8wOo" text="UI Switch To Right Tab DESC"/>
     <string id="GxHV8b1b" text="Numpad 1"/>
     <string id="gzMIzYTF" text="Окно Журнала Игры "/>
@@ -232,10 +232,10 @@
     <string id="haX0xRHa" text="Скорость Камеры"/>
     <string id="hdbb0Jjp" text="Окно Энциклопедии "/>
     <string id="HDV63kra" text="4"/>
-    <string id="hfpb4NaS" text="Группа 0 Слушай DESK"/>
+    <string id="hfpb4NaS" text="Группа 0 Слушай DESC"/>
     <string id="hHxSj7tY" text="ВыбратьПриказ3"/>
     <string id="hK9bkACI" text="UI Switch To Left Tab"/>
-    <string id="hL2Lnp6N" text="Просмотр Приказов DESK"/>
+    <string id="hL2Lnp6N" text="Просмотр Приказов DESC"/>
     <string id="HmgPBPeq" text="Разрешение Рабочего Стола "/>
     <string id="HNTCnUYY" text="Окно "/>
     <string id="HRTeeku9" text="Крестовина Вверх"/>
@@ -246,13 +246,13 @@
     <string id="hUyPaplJ" text="Размер Сражения"/>
     <string id="HVa0okoe" text="F9"/>
     <string id="HxIqxjmk" text="Выберать Всех"/>
-    <string id="HyDC937R" text="Ускорить Время На Глобальной Карте DESK"/>
+    <string id="HyDC937R" text="Ускорить Время На Глобальной Карте DESC"/>
     <string id="hZEAeoCk" text="Переместить отряд влево на глобальной карте."/>
     <string id="I3eooo5c" text="Устанавливает качество ландшафта."/>
     <string id="I3rTzBae" text="Детали Персонажа"/>
     <string id="i5xbEcE3" text="Возобновить или остановить время на глобальной карте."/>
     <string id="I6OJtaMT" text="Никогда"/>
-    <string id="i6rQFv6i" text="Переместить Карту Вперед DESK"/>
+    <string id="i6rQFv6i" text="Переместить Карту Вперед DESC"/>
     <string id="I9PN1qny" text="Numpad Enter"/>
     <string id="IahiWHHW" text="К"/>
     <string id="IaoVYeZi" text="Включает тесселяцию."/>
