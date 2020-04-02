@@ -208,7 +208,7 @@
     <string id="3wb2dCfz" text="It'll be right up then, {?PLAYER.GENDER}ma'am{?}sir{\?}.[rf:happy][rb:very_positive]"/>
     <string id="3WFgPigk" text="{ISSUE_GIVER.NAME} wants to sell you stolen goods. The price is low because of the added risk."/>
     <string id="3wljKQl6" text="+2% скорость передвижения ночью."/>
-    <string id="3wzCrzEq" text="{HERO.LINK} gained a level."/>
+    <string id="3wzCrzEq" text="{HERO.LINK} получил уровень."/>
     <string id="3xuwVbfs" text="Дополнительное Здоровье I"/>
     <string id="3ZaNnkSX" text="Отката!"/>
     <string id="3zdK4sm2" text="You have to bring in amount {REQUIRED_AMOUNT} more to fulfill your end of the deal."/>
@@ -1049,10 +1049,10 @@
     <string id="emH1yQAs" text="Средний бонус XP за день до эшелона войск 1-2-3."/>
     <string id="emLBsWj6" text="Мне очень жаль. Это практически невозможно для нас, чтобы быть замужем."/>
     <string id="EMri2uIu" text="{NAME} the Thief"/>
-    <string id="EMVLtu5L" text="{HERO.LINK} gained {?PLURAL}{GAINED_POINTS} skill points{?}a skill point{\?} in {SKILL_NAME} and is now {UPDATED_SKILL_LEVEL}."/>
+    <string id="EMVLtu5L" text="{HERO.LINK} получил {?PLURAL}{GAINED_POINTS} очки навыка{?} очко новыка{\?} в {SKILL_NAME} и он сейчас {UPDATED_SKILL_LEVEL}."/>
     <string id="EmXai6dm" text="обесценивания валюты"/>
     <string id="ENPjGrBX" text="Частота Описание"/>
-    <string id="EnS6NwaH" text="Thank you my {?PLAYER.GENDER}lady{?}lord{\?}. I am sure your men will take care of the problem."/>
+    <string id="EnS6NwaH" text="Спасибо вам {?PLAYER.GENDER}моя леди{?}мой лорд{\?}. Я уверен, что ваши люди позаботятся о проблеме."/>
     <string id="eNtRt6F5" text="Свой собственный клан"/>
     <string id="ENYbLO8r" text="Bandit Base Near {SETTLEMENT}"/>
     <string id="EOaOlh39" text="В свое время. Давайте не будем спешить."/>
@@ -1193,7 +1193,7 @@
     <string id="FwtsStzu" text="{DEFECTION_PERSUADE_ATTEMPT_1}"/>
     <string id="fxEka7Bm" text="Pay a {AMOUNT}{GOLD_ICON} bribe to enter the keep"/>
     <string id="fxGlBFPk" text="Блатной"/>
-    <string id="FXPvGTEa" text="Армии вы в это разогнали"/>
+    <string id="FXPvGTEa" text="Армия в которой вы были распущена"/>
     <string id="FyZwRit2" text="{FIRST_NAME} of the Spring"/>
     <string id="fzKFQuFT" text="Возможно, вы не подходит для этой партии, в конце концов."/>
     <string id="G17vJKyG" text="Подготовить Штурм"/>

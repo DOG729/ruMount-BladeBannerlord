@@ -148,7 +148,7 @@
     <string id="6Q4cPOSG" text="Да, мы будем."/>
     <string id="6SppoTum" text="Да? Что тебе надо?[rb:positive]"/>
     <string id="6xZ8U3Yz" text="Хирург {CURRENTLY_HELD_SURGEON}"/>
-    <string id="6ykZ0Agl" text="So we fight.[if:idle_angry][ib:warrior]"/>
+    <string id="6ykZ0Agl" text="Что ж, мы сразимся.[if:idle_angry][ib:warrior]"/>
     <string id="70s1eahS" text="Hmf. I am amused. So amused that I might have to cut out your tongue after the battle and keep it to remind me of your wit.[if:idle_angry][ib:warrior] "/>
     <string id="73MYdXby" text="I want to claim {SETTLEMENT}."/>
     <string id="7963YdDt" text="У меня не хватает денег."/>
@@ -643,7 +643,7 @@
     <string id="jGxotDqF" text="Лучше не петь, что каждый незнакомец вы встречаете, ребенок."/>
     <string id="JhbbB2dp" text="My {?PLAYER.GENDER}lady{?}lord{\?}, may I have a word please?"/>
     <string id="ji5gXHNu" text="Ты хороший друг, чтобы иметь его. Очень хороший друг.[rb:positive][rf:happy]"/>
-    <string id="JIJnrSq0" text="I am {PLAYER.NAME}. And who are you?"/>
+    <string id="JIJnrSq0" text="Я {PLAYER.NAME}. А кто ты?"/>
     <string id="JjtmptiD" text="Больше мужчин у волос потом нет, но это другой плитки в мозаике."/>
     <string id="JjXETjYb" text="We would be eternally grateful, if you can help my relative. I have to add, I'm ready to pay you {REWARD_GOLD} gold for your trouble. He is hiding somewhere here, go talk to him and tell him he is safe now."/>
     <string id="JK48bVwx" text="Мм... я стесняюсь."/>
@@ -741,7 +741,7 @@
     <string id="lord_conversations_227" text="Я хочу присоединиться к вашей армии."/>
     <string id="lord_conversations_343" text="Я кое-что хочу обсудить."/>
     <string id="lord_conversations_344" text="У меня есть предложение, которое может избавить нас обоих от ненужного кровопролития."/>
-    <string id="lord_conversations_345" text="Придержи свою руку! Возможно, мы не должны подерутся."/>
+    <string id="lord_conversations_345" text="Придержи свою руку! Возможно, мы не должны драться."/>
     <string id="LPtWLajd" text="Вы можете остановить меня сейчас. Спасибо."/>
     <string id="LqkxF5Op" text="Во время игры, все лучшие бойцы из зоны формируют команды и тузить друг друга. Не так весело для толпы, как смотреть гладиаторы проливать их кишки, конечно, но и полезнее для участников."/>
     <string id="LrbyNgAa" text="{AGREE_TO_LEAVE}[rb:unsure]"/>
@@ -944,7 +944,7 @@
     <string id="QuVgluRH" text="мой муж"/>
     <string id="QuzaaBD8" text="Почему я должен согласовывать свое золото, когда у меня достаточно людей, чтобы просто взять его?"/>
     <string id="qwfFgpCT" text="Только мои благородные вассалы имею честь нести свои знамена. Однако, через какое-то время на службе наемников, вы можете получить возможность ругаться почтение ко мне и стать моим вассалом, получив право выбирать знамя своего собственного и бороться под ним в бой."/>
-    <string id="QWzGkQrT" text="So we fight, then.[if:idle_angry][ib:warrior]"/>
+    <string id="QWzGkQrT" text="Что ж, мы сразимся тогда.[if:idle_angry][ib:warrior]"/>
     <string id="QxIXbHai" text="Я хочу поговорить с узником (чит)."/>
     <string id="QyGQanO7" text="There's no doubt that {NOTABLE.FIRSTNAME} is a stiff-necked old goat, but you can't say {?NOTABLE.GENDER}she{?}he{\?}'s not honest as the day is long."/>
     <string id="QYoigG3b" text="Я понимаю. Я возьму тебя тоже в плен, если долг требовал. И я скоро, надеюсь."/>
@@ -1151,7 +1151,7 @@
     <string id="wxK1bTZm" text="Думаю об этом. Но убедитесь, что вы не в конечном итоге на проигравшей стороне."/>
     <string id="X18yfvX7" text="Просто проезжали мимо."/>
     <string id="X1A4r7wY" text="Your good health, {?PLAYER.GENDER}madam{?}sir{\?}. May I help you?"/>
-    <string id="X7Fod9WN" text="I am at your mercy.[rb:positive]"/>
+    <string id="X7Fod9WN" text="Я в вашей власти.[rb:positive]"/>
     <string id="x9VgLEzi" text="Yes… I’ve suffered a great misfortune. My daughter, a headstrong girl, has been bewitched by this never-do-well. I told her to stop seeing him but she wouldn’t listen!. Now she’s missing - I’m sure she’s been abducted by him!. I’m offering a bounty of {BASE_REWARD_GOLD}{GOLD_ICON} to anyone who brings her back. Please {?PLAYER.GENDER}ma'am{?}sir{\?}! Don’t let a father’s heard be broken."/>
     <string id="xatWDriV" text="Не обращайте внимание."/>
     <string id="xb1Ps6ZC" text="Теперь теряюсь..."/>

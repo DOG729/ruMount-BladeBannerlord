@@ -11,7 +11,7 @@
     <string id="13wo3QQB" text="Вторичный"/>
     <string id="154a34f8caccfc833238cc89d38861e8" text="Требуется: "/>
     <string id="1CXlqb2U" text="Выбирайте:"/>
-    <string id="1oeak0OC" text="Ковка"/>
+    <string id="1oeak0OC" text="Кованое железо"/>
     <string id="29kdPaeK" text="Этот герой занят"/>
     <string id="2abtb4xu" text="Независимые"/>
     <string id="2ckyCKR7" text="Резерв"/>
@@ -20,7 +20,7 @@
     <string id="2nN1QuxZ" text="Этот квест будет провален, если в это время."/>
     <string id="3025020b83b218707499f0de3135ed0a" text="Маневр: "/>
     <string id="305cf7f98458b22e9af72b60a131714f" text="Верховая Броня: "/>
-    <string id="345a87fcc69f626ae3916939ef2fc135" text="Скорость Поворота: "/>
+    <string id="345a87fcc69f626ae3916939ef2fc135" text="Скорость Взмаха: "/>
     <string id="3ab000d582d2f304e8bed9109ff147a2" text="Расходник"/>
     <string id="3CpNUnVl" text="Отменить"/>
     <string id="3F0y3ugx" text="Успехов!"/>
@@ -29,7 +29,7 @@
     <string id="43HYUImy" text="{SETTLEMENT}'s Siege"/>
     <string id="4cU98rkg" text="Плавка"/>
     <string id="4U9EnZt5" text="Критический Успех!"/>
-    <string id="4uMWNDoi" text="Скорость Тяги "/>
+    <string id="4uMWNDoi" text="Скорость Укола "/>
     <string id="51ZgFP8d" text="Running From {TARGET_PARTY}."/>
     <string id="5bzk75Ql" text="Engaging {TARGET_PARTY}."/>
     <string id="5dCR9ixM" text="You can sell this workshop for {AMOUNT} denars."/>
@@ -75,11 +75,11 @@
     <string id="c7638a0869219ae845de0f660fd57a9d" text="Урон: "/>
     <string id="c9c5dfed2ca6bcb7a73d905004c97b23" text="Урон: "/>
     <string id="ca8b1e8956057b831dfc665f54bae4b0" text="Обращение: "/>
-    <string id="cbbUzYX3" text="Difficulty: {DIFFICULTY}"/>
+    <string id="cbbUzYX3" text="Сложн.: {DIFFICULTY}"/>
     <string id="CExQ40Ux" text="{PARTY_1S_MEMBERS}   "/>
-    <string id="cf61cce254c7dca65be9bebac7fb9bf5" text="Броню Руку: "/>
+    <string id="cf61cce254c7dca65be9bebac7fb9bf5" text="Броня Рук: "/>
     <string id="CnsIzaWo" text="Поле Битвы"/>
-    <string id="cUUI8u2G" text="Выносливость Кузне "/>
+    <string id="cUUI8u2G" text="Выносливость в Кузне "/>
     <string id="d2K6gMsZ" text="Оставить членов. Нужен как минимум 1 спутник."/>
     <string id="DAmdTxuC" text="Армией Управлять"/>
     <string id="DbHLHwkX" text="Плавить"/>
@@ -88,7 +88,7 @@
     <string id="Dqydb21E" text=" {PARTY_SIZE}"/>
     <string id="e8390c3480028e34c370c7b60ebc41e2" text="Тип Лошади: "/>
     <string id="ebbyLN2i" text="Поселки"/>
-    <string id="EQHq3bHM" text="Travelling to {TARGET_PARTY}"/>
+    <string id="EQHq3bHM" text="Направляется {TARGET_PARTY}"/>
     <string id="ErnykQEH" text="Выходы"/>
     <string id="eTw2aNV5" text="+"/>
     <string id="EuGCNdHG" text="Покинуть Королевство"/>
@@ -224,7 +224,7 @@
     <string id="Srr4rOSq" text="Передача Всех Остальных Заключенных"/>
     <string id="SVJlOYCB" text="Партия имеет меньше мужчин, потом 40% от предельного размера партии."/>
     <string id="sVsaWZjg" text="Передача Все Остальные Войска"/>
-    <string id="sVZaIPoQ" text="Скорость Поворота "/>
+    <string id="sVZaIPoQ" text="Скорость Взмаха "/>
     <string id="SzuCFlNq" text="Ничего не выбрано."/>
     <string id="t1lSXN9O" text="Стандартный вашего клана несли в бой"/>
     <string id="t3tq0eoW" text="Стороны"/>
