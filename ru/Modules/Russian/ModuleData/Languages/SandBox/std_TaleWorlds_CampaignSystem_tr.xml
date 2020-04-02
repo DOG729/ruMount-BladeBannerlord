@@ -203,7 +203,7 @@
     <string id="3tzaxDI6" text="Каждый участник односельчанина введя свой город генерирует 10 золотых дохода"/>
     <string id="3UDUqYv1" text="Разведчик Перки"/>
     <string id="3UprB5ID" text="{NAME} the Brilliant"/>
-    <string id="3W3eEIIZ" text="Ничего. Вы можете пойти."/>
+    <string id="3W3eEIIZ" text="Ничего. Вы можете уйти."/>
     <string id="3W67kdtc" text="Это решение было поддержано Советом."/>
     <string id="3wb2dCfz" text="It'll be right up then, {?PLAYER.GENDER}ma'am{?}sir{\?}.[rf:happy][rb:very_positive]"/>
     <string id="3WFgPigk" text="{ISSUE_GIVER.NAME} wants to sell you stolen goods. The price is low because of the added risk."/>
@@ -1775,7 +1775,7 @@
     <string id="MAn7vRUe" text="{TARGET_HERO.LINK} is no longer alive. You have failed to deliver the items to {?TARGET_HERO.GENDER}her{?}him{\?} in time."/>
     <string id="maXW8tps" text="Вам не удалось захватить и доставить заключенного на время."/>
     <string id="mb25Ue3f" text="Прав Выпаса "/>
-    <string id="mbB3v6Ib" text="Сдавайся или умри, разбойник!"/>
+    <string id="mbB3v6Ib" text="Сдавайтесь или умрите, разбойники!"/>
     <string id="MbnkzoYX" text="{ISSUE_GIVER_LIST} Also {ISSUE_GIVER.LINK}."/>
     <string id="mbuHo8HK" text="Настоящие солдаты, как это может быть использован в любом месте... дорожно-строительной, строительной лагерь и другого ручного труда..."/>
     <string id="MBxVjg2W" text="+40% уроня для повторных успешных ударов."/>
@@ -3084,7 +3084,7 @@
     <string id="znWLpQva" text="{FIRST_NAME} of the Sandal"/>
     <string id="Zpc1dti3" text="This companion's {TRADE_SKILL} skill level is not enough for this quest."/>
     <string id="ZphBf7vf" text="Выносливость тратится при плавке вдвое."/>
-    <string id="ZPj0ZAO7" text="Да? Что ты хочешь с нами?"/>
+    <string id="ZPj0ZAO7" text="Да? Что ты от нас хочешь?"/>
     <string id="zpoqexPC" text="Продолжить то, что ты делаешь. Прощание."/>
     <string id="ZPv3uCOb" text="{FACTION_LEADER} proposes disavowing the policy of {POLICY_NAME}. You can pick your stance regarding this decision."/>
     <string id="ZQa7tXdK" text="Вы несколько меньше. Даже если я соглашусь с вами, было бы мудро подождать."/>
