@@ -1,9 +1,10 @@
 # ru Mount & Blade Bannerlord
 Русификатор Mount&amp;Blade Bannerlord
 # Install
-* Перенести папку install_Modules и файл ru_install корне игры;
-* Запустить ru_install.bat
-* Запустить игру, поставить язык турецкий.
+* Загрузить Modules в корне игры;
+* Запуск только через лаунчер;
+* Поставить мод [Russian by Dog729] активным;
+* После запуска, в настройках установить язык "Русский";
 # about
 Author: by DOG729;
 vk: https://vk.com/by.dog729
@@ -12,3 +13,6 @@ vk: https://vk.com/by.dog729
 * EdMyGod
 * energizerus
 * Pupkens
+* Scaroman
+* CasperShade
+* Isknikita
