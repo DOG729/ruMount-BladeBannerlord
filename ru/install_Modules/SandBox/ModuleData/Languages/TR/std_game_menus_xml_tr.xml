@@ -4,15 +4,15 @@
     <tag language="Türkçe"/>
   </tags>
   <strings>
-    <string id="05j6iK6w" text="Your request for a meeting is relayed inside, and finally {s6} appears in the courtyard to speak with you."/>
+    <string id="05j6iK6w" text="Ваш запрос о встрече передаётся внутрь, и, наконец, {s6} появляется во дворе, чтобы поговорить с вами"/>
     <string id="0BxE0BsX" text="50 ярдов."/>
-    <string id="0cqntvyT" text="Твое царство не имеет никакой земли."/>
+    <string id="0cqntvyT" text="Твое царство не имеет земель."/>
     <string id="0TtOy5mm" text="Вы вводите Dhorak держать"/>
     <string id="0Uf6nsNI" text="Враг отступил."/>
     <string id="1m7Udicr" text="Вернитесь рынке."/>
-    <string id="1RGsShBj" text="Вы родились лет назад, в далеких краях. Твой отец был..."/>
+    <string id="1RGsShBj" text="Вы родились много лет назад, в далеких краях. Ваш отец был..."/>
     <string id="2C3Dhnbu" text="Оценить ценам"/>
-    <string id="2fBqfnjT" text="Там праздник продолжается в Господе зале, но не достаточного состояния, чтобы пригласить внутрь. Возможно увеличение вашей известности вы бы выиграть допуска ... или вы могли бы также попробовать различая себя на турнире, а праздник продолжается..."/>
+    <string id="2fBqfnjT" text="Праздник продолжается в главном зале, но вы не достойны приглашения внутрь. Возможно, увеличение вашей известности помогло бы... или вы могли бы попробовать проявить себя на турнире, а праздник, тем временем, продолжается..."/>
     <string id="2g2FhKb5" text="Прощание."/>
     <string id="2la0ukEn" text="70 ярдов."/>
     <string id="2Mu1d2ZQ" text="Голову назад."/>
@@ -22,14 +22,14 @@
     <string id="3h9FB2k5" text="{!}быстрая батальная сцена 2"/>
     <string id="3nbuRBJK" text="Забудь."/>
     <string id="3nT5wWzb" text="Сдаться."/>
-    <string id="3oh6WKbY" text="Какой диапазон вы хотите практики?"/>
+    <string id="3oh6WKbY" text="Какую дальность вы хотите практиковать?"/>
     <string id="3sRdGQou" text="Оставить"/>
     <string id="3y6IdEsc" text="У вас нет пленных на работу."/>
     <string id="3YNVPMzV" text="{!}Инициализируйте экономическую статистику."/>
     <string id="3yOCGoby" text="Показать цены и производств."/>
     <string id="40fBLI2g" text="Возобновить поиски."/>
     <string id="49qjBLr4" text="Вы хотите продолжить разграбление этой деревне?"/>
-    <string id="4a1xSAMN" text="You are at day {reg0}. Your current luck is {reg1}. Are you sure you want to retire?"/>
+    <string id="4a1xSAMN" text="День {reg0}. Ваша удача {reg1}. Вы уверены, что хотите уйти на пенсию?"/>
     <string id="4QL21HiU" text="Просмотреть список известных лордов по отношению."/>
     <string id="4QNycK7T" text="Вернуться"/>
     <string id="55UbdXeU" text="Страницы в дворянский суд."/>
@@ -37,15 +37,15 @@
     <string id="5CdXHpbf" text="Вы войдете в тестовой сцены."/>
     <string id="5GCPSUmR" text="Спарринг практике."/>
     <string id="5LiYg4tG" text="Вы хотите встать?"/>
-    <string id="5M4muwbC" text="Бандиты разбиты! Те немногие, кто остаются сбежала с их поджав хвосты, в ужасе крестьян и их новый чемпион. Жители села уже почти не осталось в сторону богатства после своих злоключений, но они предложат вам все, что они могут найти, чтобы показать свою благодарность."/>
-    <string id="63BblDLk" text="Choose your opponent #{reg1}:"/>
+    <string id="5M4muwbC" text="Бандиты разбиты! Те немногие, кто выжил, сбежали, поджав хвосты, в ужасе от крестьян и их нового чемпиона. У жителей села уже почти не осталось ничего после своих злоключений, но они предлогают вам все, что они могут найти, чтобы показать свою благодарность."/>
+    <string id="63BblDLk" text="Выберите оппонента #{reg1}:"/>
     <string id="6Fe34wbr" text=" Попросить о встрече с командиром."/>
     <string id="6ZaCPvWP" text="Довести стадо до остановки."/>
     <string id="7A7CF9RB" text="Оценить местные цены."/>
     <string id="7N0IliZB" text="{!}quick battle scene 4"/>
     <string id="7tmHbQ3N" text="Отступить, оставив солдат позади, чтобы прикрыть свой отход."/>
     <string id="7VXbwTTw" text="Порядок начала атаки."/>
-    <string id="84ivZusS" text="You have failed to follow {s8}. The marshal assumes that you were otherwise engaged, but would have appreciated your support."/>
+    <string id="84ivZusS" text="Вам не удалось следовать за {s8}. Маршал предполагает, что вы были заняты чем-то ещё, но был признателен за вашу поддержку."/>
     <string id="8jXXrQU0" text="Ввод."/>
     <string id="8k6AXNW8" text="Вы успешно избежали."/>
     <string id="8X4oJYqT" text="{!}Field 3"/>
@@ -56,24 +56,24 @@
     <string id="9jnQy7OY" text="Заряд противника."/>
     <string id="9Js83EQM" text="20 ярдов."/>
     <string id="9OaaK18j" text="Незначительные Базы Фракции "/>
-    <string id="a4humJtw" text="Let {s15} learn that you are willing to serve as marshall."/>
+    <string id="a4humJtw" text="Пусть {s15} узнает, что вы готовы служить маршалом."/>
     <string id="a67bJTfc" text="Студентом университета."/>
     <string id="aajVEjSP" text="Бродячий торговец."/>
     <string id="abgZKbqF" text="Ваши войска готовятся к атаке противника."/>
     <string id="AbNe5BCm" text="{!}quick battle scene 1"/>
     <string id="afFGi7fF" text="В бою, достойная песня, Ты и твои люди загоняют бандитов из деревни, что делает его безопасным снова. Жители села уже почти не осталось в сторону богатства после своих злоключений, но они предложат вам все, что они могут найти."/>
-    <string id="AFJ3BvTH" text="Вы быстро окружили охранники, которые заберут ваше оружие. С проклятиями и оскорблениями, они бросить вас в подземелье, где вы должны коротать жалкие дни своего плена."/>
+    <string id="AFJ3BvTH" text="Вас быстро окружили охранники, которые забрали ваше оружие. С проклятиями и оскорблениями, они бросили вас в подземелье, где вы будете коротать жалкие дни своего плена."/>
     <string id="AGb8AlNE" text="{!}Force gather army."/>
-    <string id="AhPUGsGD" text="Уйти от приключений."/>
+    <string id="AhPUGsGD" text="Оставить от приключений."/>
     <string id="aJ6Uug2m" text="{!}Field 2"/>
     <string id="Aj9fzfHJ" text="Возобновить путешествия."/>
     <string id="aLwhz53W" text="{!}Force rethink."/>
-    <string id="AnQprbjP" text="Какое оружие вы хотите тренироваться с нами?"/>
+    <string id="AnQprbjP" text="Каким оружием вы хотите тренироваться с нами?"/>
     <string id="aojoJWYT" text="Трубадуром."/>
     <string id="aOPmkVJo" text="{!}CHEAT! - disable alternative ai"/>
     <string id="AORQ2aCD" text="Лук."/>
-    <string id="aTMyvtBl" text="Сколько животных вы хотите бойни?"/>
-    <string id="aVNFN0u6" text="Добро пожаловать, искатель приключений, на горе и Blade: Warband на. Перед началом игры вы должны создать своего персонажа. Помните, что в традиционном средневековом обществе, изображенные в игре, войне и политике, как правило, преобладают мужчины-члены дворянства. Однако это не значит, что вы не должны выбрать, чтобы играть за женский персонаж, или тот, кто не благородного происхождения. Мужчина дворяне могут иметь несколько легче начать, но и женщины, и простолюдины могут достичь все той же цели-и в самом деле может быть намного интереснее, если более сложным начале игры."/>
+    <string id="aTMyvtBl" text="Сколько животных вы хотите забить?"/>
+    <string id="aVNFN0u6" text="Добро пожаловать, искатель приключений, в Mount and Blade II: Bannerlord. Перед началом игры вы должны создать своего персонажа. Помните, что в традиционном средневековом обществе, изображенном в игре, в войне и политике, как правило, преобладают мужчины-члены дворянства. Однако это не значит, что вы не можете выбрать женского персонажа, или того, кто не благородного происхождения. Мужчинам дворянам легче начать, но и женщины, и простолюдины могут достичь все той же цели и это может быть намного интереснее, хоть и более сложно в начале игры."/>
     <string id="aWDAHf77" text="Защитники Салли, чтобы встретить ваше нападение."/>
     <string id="AwWSyXbX" text="{BATTLE_CONDITION}^^Your casualties: {YOUR_CASUALTIES}^^Allies' casualties: {ALLIES_CASUALTIES}^^Enemy casualties: {ENEMY_CASUALTIES}"/>
     <string id="b0JJCYNC" text="Введите 2."/>
@@ -273,7 +273,7 @@
     <string id="t0PuYZhw" text="Отменить."/>
     <string id="TakHCuuH" text="You Receive a Peace Offer^^The {s1} offers you a peace agreement. What is your answer?"/>
     <string id="td8zXb00" text="Вы слышали о Кальрадии, земля, разрываясь между конкурирующими царствами борются друг с другом за господство, а не для рыцарей и наемников, головорезов и авантюристов, готовых рисковать жизнью в погоне за власти, богатства или славы... на этой земле, которая держит большой опасности и даже более широкие возможности, вы верите, что вы можете оставить прошлое позади и начать новую жизнь. Вы чувствуете, что, наконец, вы держите ключ от вашей судьбы у вас в руках, свободно выбирать, как вы, и что какой бы курс вы берете, великие приключения ждут вас. Нарисованные истории, вы слышали о Кальрадии и его царства, вы..."/>
-    <string id="TifFb1vR" text="Вольдо."/>
+    <string id="TifFb1vR" text="Алебарда."/>
     <string id="tjjCSpDQ" text="Выборы для рук"/>
     <string id="U8bP1TJj" text="Выберите книгу для чтения."/>
     <string id="Ue0iUofQ" text="{s4}^^Your casualties: {s8}^^Enemy casualties: {s9}"/>
@@ -321,9 +321,9 @@
     <string id="zaYwKcje" text="Produce {3}."/>
     <string id="zdhJi1xj" text="Обновление кузнеца."/>
     <string id="zFEWSmjz" text="Расскажите всем, что вы слишком заняты в эти дни."/>
-    <string id="zjHYjTwo" text="Эй, Вы получили послание от вашего монарха, {KING.LINK}.^^ 'I was most pleased to hear of your valiant efforts in the capture of {TOWN_NAME}. Your victory has gladdened all our hearts. You also requested me to give ownership of the castle to your husband, but that is a favour which I fear I cannot grant, as he already holds significant estates in my realm. Instead I have sent you {REWARD}{GOLD_ICON} to cover the expenses of your campaign, but {TOWN_NAME} I give to {TOWN_OWNER}.' "/>
+    <string id="zjHYjTwo" text="Вы получили послание от вашего монарха, {KING.LINK}.^^ 'Мне было очень приятно услышать о ваших доблестных усилиях по захвату {TOWN_NAME}. Ваша победа порадовала всех нас. Вы также попросили меня передать право владения замком вашему супругу, но я боюсь, что не могу предоставить вам это, поскольку он уже владеет значительными владениями в моем королевстве. Вместо этого я отправил вам {REWARD}{GOLD_ICON} что бы покрыть ваши расходы, а {TOWN_NAME} я отдаю {TOWN_OWNER}.' "/>
     <string id="znDzVxVJ" text="Нет."/>
     <string id="ZPSM5DU8" text="{!}Пир силы."/>
-    <string id="Zuu1RcdD" text="Вы получили послание от вашего монарха, {KING.LINK}.^^ 'I was most pleased to hear of your valiant efforts in the capture of {TOWN_NAME}. Your victory has gladdened all our hearts. You also requested me to give you ownership of the castle, but that is a favour which I fear I cannot grant, as you already hold significant estates in my realm. Instead I have sent you {REWARD}{GOLD_ICON} to cover the expenses of your campaign, but {TOWN_NAME} I give to {TOWN_OWNER}.' "/>
+    <string id="Zuu1RcdD" text="Вы получили послание от вашего монарха, {KING.LINK}.^^ 'Мне было очень приятно услышать о ваших доблестных усилиях по захвату {TOWN_NAME}. Ваша победа порадовала всех нас. Вы также просили меня передать вам право владения замком, но я боюсь, что не могу предоставить вам это, поскольку вы уже владеете значительными владениями в моем королевстве. Вместо этого я отправил вам {REWARD}{GOLD_ICON} что бы покрыть ваши расходы, а {TOWN_NAME} я отдаю {TOWN_OWNER}.' "/>
   </strings>
 </base>

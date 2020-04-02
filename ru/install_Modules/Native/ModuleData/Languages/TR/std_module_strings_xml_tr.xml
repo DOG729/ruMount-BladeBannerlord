@@ -70,7 +70,7 @@
     <string id="2Sal30D2" text="+{BONUS_AMOUNT} bonus to owner's influence"/>
     <string id="2u3dRUlE" text="{SETTLEMENT_NAME} (tax)"/>
     <string id="2W2l9Kym" text="Безоговорочным Лидером Бонус Перк "/>
-    <string id="2wclahIJ" text="Бросать"/>
+    <string id="2wclahIJ" text="Метание"/>
     <string id="2WpbTaVJ" text="+{BONUS_AMOUNT} bonus to taxes"/>
     <string id="2X1rBrdC" text="{?IS_UNDER_A_DAY}{?}{DAY_VALUE} {?IS_MORE_THAN_ONE_DAY}days {?}day {\?}{\?}{?IS_UNDER_ONE_HOUR}{?}{HOUR_VALUE} {?IS_MORE_THAN_AN_HOUR}hours{?}hour{\?}{\?}"/>
     <string id="300TAI7u" text="Продать Все"/>
@@ -242,7 +242,7 @@
     <string id="9EgIraI1" text="Активная Политика"/>
     <string id="9esIWdDC" text="Afraid we'll need to make an example out of you, then. Don't bother begging for mercy.[ib:aggressive][rb:very_negative]"/>
     <string id="9FhdRKWu" text="Метательный Нож"/>
-    <string id="9gNjg4P0" text="Это не спасет вашу игру и вернет вас в Главное меню. Вы уверены, что хотите выйти?"/>
+    <string id="9gNjg4P0" text="Вы не сохранили игру. Вы уверены, что хотите выйти?"/>
     <string id="9iycVtyV" text="Learning Rate: x {COUNT}"/>
     <string id="9NjDfz5Z" text="({LEFT} / {RIGHT})"/>
     <string id="9PLNQrWw" text="Вы слышите несколько жалоб, и люди, похоже, доверия к власти."/>
@@ -590,7 +590,7 @@
     <string id="fpP2s7hX" text="+{BONUS_AMOUNT} bonus to village production"/>
     <string id="fQAGU9GW" text="Щедрость:"/>
     <string id="FqwHAxuM" text="Двуручный Молот"/>
-    <string id="frBQ9mbP" text="Южной Империи"/>
+    <string id="frBQ9mbP" text="Южная Империя"/>
     <string id="FRepQsmO" text="Турнир будет поединок."/>
     <string id="frt7AmX0" text="Garrison of {MAJOR_PARTY_LEADER}"/>
     <string id="fRu5Y4OT" text="Я был ранен и оставлен умирать"/>
@@ -662,7 +662,7 @@
     <string id="h60wQVVX" text="Пайк"/>
     <string id="h6AJXR2e" text="Вы уверены, что отступление вашей партии?"/>
     <string id="H9y9dLao" text="You can wager gold to increase the prize you take. Every round, the odds will be different and you can wager {MAX_AMOUNT}&lt;img src=&quot;Icons\Coin@2x&quot;&gt; each time."/>
-    <string id="haax8kMa" text="Вольдо"/>
+    <string id="haax8kMa" text="Алебарда"/>
     <string id="hAgZBZP8" text="Фант"/>
     <string id="haLX0kbG" text="Нажмите кнопку для продолжения"/>
     <string id="hbeUbpEA" text="Вы уверены, что хотите отменить?"/>
@@ -676,7 +676,7 @@
     <string id="hfSW9FTN" text="Дальнобойное Оружие В"/>
     <string id="HGBuP0wy" text="After this prisoner gains {CONFORMITY_AMOUNT} conformity, one more prisoner will be available for recruitment. Prisoners gain {CONFORMITY_PER_HOUR} conformity per hour."/>
     <string id="HiSzYWeh" text="Пиво"/>
-    <string id="hJypvWMR" text="Уточнить"/>
+    <string id="hJypvWMR" text="Улучшить"/>
     <string id="HkfY3Ds5" text="Бронежилет "/>
     <string id="HkZ4E94O" text="Конфедерация Хузаит степных племен, жила кочевым образом жизни, но недавно обосновались в восточной границе Империи, и они медленно переходят в аграрном обществе с постоянными центрами городов. Несмотря на это, они все еще сохраняют многие аспекты их жизни, включая их сродство с лошадьми. Они мастера конной стрельбы из лука, стрельбы, а потом galluping вне досягаемости."/>
     <string id="hL3JIQbd" text="Привести это формирование в бой."/>
@@ -789,12 +789,12 @@
     <string id="jiKRLWD4" text="Показать в энциклопедии"/>
     <string id="JkpSoFQ8" text="Потери"/>
     <string id="JkVV4vUs" text="Нажмите на кнопку talk, чтобы начать разговор."/>
-    <string id="jlgjLDo7" text="Гаррисон"/>
+    <string id="jlgjLDo7" text="Гарнизон"/>
     <string id="JnoB0RZ4" text="Execute {?DYING_HERO_GENDER}Her{?}Him{\?}"/>
     <string id="jnTQbSsH" text="Вы видите людей, собравшихся в деревне, чтобы противостоять вам. Что ты хочешь сделать?"/>
     <string id="joICaqvo" text="Неназначенные"/>
     <string id="JP7LTAsa" text="Хорошо! Хорошо! А теперь иди! Убирайся отсюда![ib:closed][rb:positive]"/>
-    <string id="jpBpwgAs" text="Населенных пунктов"/>
+    <string id="jpBpwgAs" text="Населенные пункты"/>
     <string id="jPwa1oOm" text="Серебро"/>
     <string id="JQarnWiz" text="У вас нет достаточно материалов для этого."/>
     <string id="jQGcUobB" text="Гражданские"/>
@@ -980,7 +980,7 @@
     <string id="NBv29XpJ" text="Вы не можете распустить армию, а ты в эту армию."/>
     <string id="nDNOn5o2" text="Оборудование"/>
     <string id="NeWvHjCw" text="Огонь Баллисты"/>
-    <string id="NF627oiX" text="Северной Империи"/>
+    <string id="NF627oiX" text="Северная Империя"/>
     <string id="nfQhamAF" text="Скорость Поворота: "/>
     <string id="NgHSyQem" text="В Армии"/>
     <string id="nHGm1wYg" text="Battle finished. Press {leave_key} to view results"/>
@@ -1086,7 +1086,7 @@
     <string id="PHkC8Gia" text="Продать"/>
     <string id="PhoKHbhd" text="Battle won. Press {leave_key} to view results"/>
     <string id="Pia30xtc" text="{?ASKED_LORD.GENDER}She{?}He{\?} is currently at {TOWN_NAME}."/>
-    <string id="PiHpR4QL" text="Одной Рукой"/>
+    <string id="PiHpR4QL" text="Одноручные"/>
     <string id="PitdvCJI" text="Губернатор Меняться "/>
     <string id="PJEuE208" text="Ополчение:"/>
     <string id="PJNW1UWK" text="Магазин Хранитель"/>
@@ -1254,7 +1254,7 @@
     <string id="Svtb9MQv" text="Дуэль"/>
     <string id="SyklU5aP" text="Информация"/>
     <string id="SYm7rgCX" text="{COMPANION.LINK} has left your party."/>
-    <string id="sZLd6VHi" text="Khuzait"/>
+    <string id="sZLd6VHi" text="Хузаиты"/>
     <string id="T0aULilA" text="&lt;b&gt;Battering Ram&lt;/b&gt;{NEWLINE}Used for breaking the gates. Better than just ladders"/>
     <string id="t2baaTrL" text="Бывший отец-в-законе"/>
     <string id="T3JJ7aIV" text="Ездить по карте с такой же скоростью, как возможный. Бой на лошадях набирают скорость передвижения."/>
@@ -1265,7 +1265,7 @@
     <string id="t6DiaDQ3" text="а Бегум"/>
     <string id="t6NXmyoF" text="{.e} {STR}"/>
     <string id="t6xdCj43" text="Oh, indeed we can, indeed we can. Provided you have a fat purse and are ready to lighten it, of course.[ib:hip][rb:trivial]"/>
-    <string id="t78atYqH" text="Двумя Руками"/>
+    <string id="t78atYqH" text="Двуручные"/>
     <string id="taaNCsVZ" text="You win the tournament by beating {TOURNAMENT_FINAL_OPPONENT} in the final round."/>
     <string id="TCQQRQgI" text="Боевой порядок"/>
     <string id="tDA5dhn3" text="императрица"/>
@@ -1476,7 +1476,7 @@
     <string id="xq62HAIO" text="Protect{?IS_GENERAL_SIDE}{?} {SIDE_STRING}{\?} flank of ally {TARGET_FORMATION}"/>
     <string id="xqN16a4k" text="Настольная Игра"/>
     <string id="XqV3x4i3" text="При выборе этой опции будет прогрессировать попытка убеждения в следующий этап."/>
-    <string id="xs0MpdCM" text="Кузнечный"/>
+    <string id="xs0MpdCM" text="Кузнец"/>
     <string id="XseYJYka" text="Управление"/>
     <string id="xsIU28Za" text="Приятно! Больше никакого сна на жестких холодной скале и кафе на тягучий белок."/>
     <string id="xSjgt7fs" text="Spring {DAY}, {YEAR}"/>
@@ -1517,7 +1517,7 @@
     <string id="yfa7tpbK" text="Все"/>
     <string id="yFl9N7wz" text="Взять"/>
     <string id="yfNAkFgF" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}are{?}is{\?} forming a skirmish line."/>
-    <string id="yG3YUySN" text="Западной Империи"/>
+    <string id="yG3YUySN" text="Западная Империя"/>
     <string id="ygY1oKQD" text="We are at your service, {?PLAYER.GENDER}madam{?}sir{\?}. Point us in the direction of those who need hurting, and we'll do the rest.[rb:very_positive]"/>
     <string id="YhLweMrP" text="Доспехи"/>
     <string id="YifFZaG7" text="Владелец Партии "/>
@@ -1606,6 +1606,6 @@
     <string id="ZxcnmaXi" text="You have arrived at {SETTLEMENT} to raid it. You do not meet any resistance. Raiding this village will cause a war with the {KINGDOM}."/>
     <string id="ZXXNrvvg" text="Игрок побеждает, если его противник больше не доступен пешки в руках или на доске."/>
     <string id="zyp2VGt4" text="Имеет доступный квест"/>
-    <string id="zzUk6ZaA" text="Покидаю"/>
+    <string id="zzUk6ZaA" text="Выход"/>
   </strings>
 </base>
