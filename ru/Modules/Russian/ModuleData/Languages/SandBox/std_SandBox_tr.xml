@@ -716,45 +716,45 @@
     <string id="L5iagGyo" text="Я брат нашего ордена."/>
     <string id="L5vAhxhO" text="У меня есть более важные дела."/>
     <string id="L802I9W2" text="Да, я присоединюсь к {FACTION_NAME}."/>
-    <string id="L9840K0F" text="Я могу предложить тебе контракт на три месяца. По окончании этих трех, он может быть продлен на месяц . Вам будет выплачено {OFFER_VALUE}{GOLD_ICON} в качестве аванса, сразу после подписания. Также, вы будете получать ежедневную плату от {FACTION_LEADER}, в зависимости от качества солдат и размера вашего отряда. За Вами сохраняются права на добычу после боя, освобоженных людей и пленников. Война может быть очень прибыльным делом в наше время..."/>
-    <string id="LaBQQ7ue" text="{NOTABLE.LINK} says that a fish rots from the head. Well, look around this place. I think we know what he's getting at."/>
+    <string id="L9840K0F" text="Я могу предложить тебе контракт на три месяца. По окончании этих трех, он может быть продлен на месяц . Вам будет выплачено {OFFER_VALUE}{GOLD_ICON} в качестве аванса, сразу после подписания. Также, вы будете получать ежедневную плату от {FACTION_LEADER}, в зависимости от качества солдат и размера вашего отряда. За Вами сохраняются права на добычу после боя, освобоженных людей и пленников. В наше время война может быть очень прибыльным делом ..."/>
+    <string id="LaBQQ7ue" text="{NOTABLE.LINK} утверждает, что рыба гниет с головы. Ну а теперь оглянись вокруг. Я думаю, мы оба понимае о ком идет речь."/>
     <string id="lbNl0a8t" text="Кроме того,"/>
     <string id="lBtsvOpE" text="{ROMANCE_INFO}"/>
-    <string id="lcVauEKV" text="Раунд заканчивается, вы будете дисквалифицированы из турнира."/>
-    <string id="LD62sm4B" text="Yes, {?PLAYER.GENDER}my lady{?}sir{\?}. What do you want to talk about?"/>
-    <string id="LdCte9H0" text="Я буду драться с другой бандой с вами сам."/>
-    <string id="ldJDR7t1" text="Наши миры должны помириться."/>
-    <string id="Ldp6ckgj" text="Не волнуйтесь, ни я, и ни один из моих товарищей должны быть в состоянии найти ее и посмотреть, что происходит. "/>
-    <string id="lEK7gx3G" text="Я не возьму тебя сегодня в плен."/>
-    <string id="lF5HkBDy" text="Как вы хотите.."/>
-    <string id="lgBaqlVZ" text="Perfect. Of course you shall have to make a formal declaration of allegiance, and give your oath that you and your company will remain in service to {FACTION_NAME} for a period of no less than three months.[rb:positive]"/>
-    <string id="lgcHkTXT" text="Very well. You have given me your solemn oath, {PLAYER.NAME}. May you uphold it always, with proper courage and devotion."/>
-    <string id="LGrzKlET" text="Let me know how much of a challenge you can stand and we'll get started. I'm ready to offer you a {DIFFICULTY} challenge and {?IS_BETTING}a bet of {BET_AMOUNT}{GOLD_ICON}.{?}friendly game.{\?}"/>
-    <string id="LKdrCaTO" text="{?NPC.GENDER}Madame{?}Sir{\?}, may I ask for some time to think about this?"/>
+    <string id="lcVauEKV" text="Раунд окончен, вы будете дисквалифицированы."/>
+    <string id="LD62sm4B" text="Да, {?PLAYER.GENDER}моя леди{?}сир{\?}. О чем вы хотите поговорить?"/>
+    <string id="LdCte9H0" text="Я помогу вам в битве с другой бандой лично."/>
+    <string id="ldJDR7t1" text="Наши королевства должны заключить мир."/>
+    <string id="Ldp6ckgj" text="Не волнуйтесь, я или один из моих компаньонов должны найти ее и решить проблему."/>
+    <string id="lEK7gx3G" text="Сегодня ты можешь быть свободен"/>
+    <string id="lF5HkBDy" text="Как пожелаете.."/>
+    <string id="lgBaqlVZ" text="Прекрасно. Конечно, вы должны дать клятву, что вы и ваш отряд останетесь на службе {FACTION_NAME} не менее, чем на три месяца.[rb:positive]"/>
+    <string id="lgcHkTXT" text="Очень хорошо. Вы произнесли свою торжественную клятву, {PLAYER.NAME}. Храните еёЮ должным мужеством и преданностью."/>
+    <string id="LGrzKlET" text="Дайте мне знать, сколько испытаний вы готовы выдержать и мы начнем. Я готов предложить {DIFFICULTY} испытание и {?IS_BETTING}ставку в размере {BET_AMOUNT}{GOLD_ICON}.{?},по-дружески, сыграем без ставок.{\?}"/>
+    <string id="LKdrCaTO" text="{?NPC.GENDER}Мадам{?}Сир{\?}, могу ли я попросить вас подумать об этом?"/>
     <string id="Lkf3sB9I" text="Может быть..."/>
-    <string id="LKGivHYp" text="Гроши, которые они называют зарплату в эти дни... я не хочу оставлять мою родню, но я думаю, я мог бы попытать счастья в каком-либо ином городе."/>
-    <string id="Ll2wN2Gm" text="This is how it goes, friend. This is our turf. We answer to {ALLEY_BOSS.NAME}, and {?ALLEY_BOSS.GENDER}she's{?}he's{\?} like the {?ALLEY_BOSS.GENDER}queen's{?}king{\?} here. So if you haven't got a good reason to be here, clear out."/>
-    <string id="Ll8q45h5" text="Хмф... очень хорошо. Я должен уничтожить это оскорбление твоей кровью."/>
-    <string id="LM1yg5tI" text="They say {NOTABLE.LINK} turned one of {?NOTABLE.GENDER}her{?}his{\?} artisans at the {SHOP_TYPE} out on the street for not showing up to work at first light. Hard times, these."/>
-    <string id="lM7AscLo" text="Я получаю это вместе, как быстро, как я могу."/>
+    <string id="LKGivHYp" text="Сейчас вместо зарплаты, платят сущие гроши... Я не хочу покидать свою семью, но видимо, мне придется попытать счастье в другом месте."/>
+    <string id="Ll2wN2Gm" text="Вот так все и происходит, друг. Это наша территория. Мы отвечаем перед {ALLEY_BOSS.NAME}, и {?ALLEY_BOSS.GENDER}она{?}он{\?} здесь своего рода {?ALLEY_BOSS.GENDER}королева{?}король{\?}. Так что убирайся, если у тебя нет веской причины быть здесь."/>
+    <string id="Ll8q45h5" text="Хмф... очень хорошо. Я смою это оскорбление твоей кровью."/>
+    <string id="LM1yg5tI" text="Говорят, что {NOTABLE.LINK} {?NOTABLE.GENDER}выставила{?}выставил{\?} одного из своих ремесленников за опоздание в {SHOP_TYPE} на улице. Тяжелые времена."/>
+    <string id="lM7AscLo" text="Я постараюсь сделать это как можно быстрее."/>
     <string id="LnbzQIz6" text="300{GOLD_ICON}."/>
-    <string id="lnTE6tdn" text="Let us speak again soon, {PLAYER.NAME}.[rb:positive]"/>
+    <string id="lnTE6tdn" text="Давайте поговорим еще раз в ближайшее время, {PLAYER.NAME}.[rb:positive]"/>
     <string id="lord_conversations_227" text="Я хочу присоединиться к вашей армии."/>
     <string id="lord_conversations_343" text="Я кое-что хочу обсудить."/>
     <string id="lord_conversations_344" text="У меня есть предложение, которое может избавить нас обоих от ненужного кровопролития."/>
-    <string id="lord_conversations_345" text="Придержи свою руку! Возможно, мы не должны подерутся."/>
-    <string id="LPtWLajd" text="Вы можете остановить меня сейчас. Спасибо."/>
-    <string id="LqkxF5Op" text="Во время игры, все лучшие бойцы из зоны формируют команды и тузить друг друга. Не так весело для толпы, как смотреть гладиаторы проливать их кишки, конечно, но и полезнее для участников."/>
+    <string id="lord_conversations_345" text="Держи свой меч в ножнах! Возможно, нам не предстоит сразиться сегодня."/>
+    <string id="LPtWLajd" text="Можете перестать следовать за мной. Спасибо."/>
+    <string id="LqkxF5Op" text="Во время игр все лучшие бойцы из этого района формируют команды и бьют друг друга. Конечно, это не так весело, как смотреть на гладиаторов вываливающих свои кишки, но зато полезнее для участников."/>
     <string id="LrbyNgAa" text="{AGREE_TO_LEAVE}[rb:unsure]"/>
-    <string id="lsjSxBsW" text="Уйти ты мерзкий попрошайка! Ты отпугиваешь моих клиентов!"/>
-    <string id="LUiQ6bpo" text="Очень хорошо, тогда. Что это?"/>
-    <string id="lustkZ7s" text="Perhaps {?QUEST_GIVER.GENDER}she{?}he{\?} made those plans because {?QUEST_GIVER.GENDER}she{?}he{\?} loves you."/>
-    <string id="lVbQCibL" text="Да. Взять эти войска с вами."/>
-    <string id="LVX2x6Jf" text="I would like to end my contract with the {FACTION_NAME}."/>
-    <string id="lVx35dWp" text="На второй мысли, давайте оставим этот матч товарищеский."/>
-    <string id="LWFDXeQc" text="Кроме того, я принимаю индукции в армию Кальрадии, в ранге архонта."/>
-    <string id="LYhBM61z" text="Thank you {?PLAYER.GENDER}lady{?}sir{\?} for protecting me. I will go and tell {ISSUE_GIVER.NAME} of your success here. "/>
-    <string id="LztDzy8W" text="Почему нет? Я никуда не уйду прямо сейчас, и я мог бы использовать другой напиток."/>
+    <string id="lsjSxBsW" text="Прочь мерзкий попрошайка! Ты отпугиваешь моих клиентов!"/>
+    <string id="LUiQ6bpo" text="Очень хорошо. В чем дело?"/>
+    <string id="lustkZ7s" text="Возможно, {?QUEST_GIVER.GENDER}она строила{?}он строил{\?} эти планы, потому что любит тебя."/>
+    <string id="lVbQCibL" text="Да. Возьми с собой этих бойцов."/>
+    <string id="LVX2x6Jf" text="Я хотел бы расторгнуть контракт с  {FACTION_NAME}."/>
+    <string id="lVx35dWp" text="Если подумать, то пусть этот матч будет товарищеским."/>
+    <string id="LWFDXeQc" text="Кроме того, я принимаю вступление в армию Кальрадии, в звании архонта."/>
+    <string id="LYhBM61z" text="Спасибо за вашу защиту, {?PLAYER.GENDER}леди{?}сир{\?}. Я пойду и расскажу {ISSUE_GIVER.NAME} о вашем успехе."/>
+    <string id="LztDzy8W" text="Почему бы и нет? Я сейчас никуда не собираюсь, и я мог бы выпить еще."/>
     <string id="M06TjiMd" text="Что это?"/>
     <string id="m0ybQ1Gz" text="Вы можете рассчитывать на меня. Как сейчас, твои враги-мои враги, и Ваша честь-моя честь."/>
     <string id="m933Bcdd" text=".. Just so you know, we're followers of the {FACTION_NAME}, so you might want to think twice before giving us any trouble."/>
