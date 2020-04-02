@@ -756,18 +756,18 @@
     <string id="LYhBM61z" text="Спасибо за вашу защиту, {?PLAYER.GENDER}леди{?}сир{\?}. Я пойду и расскажу {ISSUE_GIVER.NAME} о вашем успехе."/>
     <string id="LztDzy8W" text="Почему бы и нет? Я сейчас никуда не собираюсь, и я мог бы выпить еще."/>
     <string id="M06TjiMd" text="Что это?"/>
-    <string id="m0ybQ1Gz" text="Вы можете рассчитывать на меня. Как сейчас, твои враги-мои враги, и Ваша честь-моя честь."/>
-    <string id="m933Bcdd" text=".. Just so you know, we're followers of the {FACTION_NAME}, so you might want to think twice before giving us any trouble."/>
-    <string id="MaGPKGHA" text="Thank you my {?PLAYER.GENDER}lady{?}lord{\?}. I am sure your men will protect the boy and {TARGET_NOTABLE.NAME} will have nothing to do but to accept the blood money. I have to add, I'm ready to pay you {REWARD_GOLD} gold for your trouble."/>
+    <string id="m0ybQ1Gz" text="Вы можете рассчитывать на меня. С этого момента твои враги - мои враги, а твоя честь - моя честь.."/>
+    <string id="m933Bcdd" text=".. Просто, чтобы вы знали, мы последователи {FACTION_NAME}, так что, возможно, вы захотите подумать дважды, прежде чем доставлять нам неприятности.."/>
+    <string id="MaGPKGHA" text="Спасибо, {?PLAYER.GENDER}миледи{?}мой лорд{\?}. Я уверен, что ваши люди защитят парнишку и {TARGET_NOTABLE.NAME} придется принять кровавые деньги. Должен добавить, что заплачу вам {REWARD_GOLD} за доставленные неприятности."/>
     <string id="Mav1xSAP" text="{LORD_LAST_SEEN}[rb:positive]"/>
     <string id="MbwG7Gy8" text="Можно ли менять сложность?"/>
     <string id="MdbeY3E2" text="Убивая наших врагов."/>
     <string id="mdbylyka" text="Вам не хватает войск."/>
-    <string id="MDik3Kfn" text="Я хочу, чтобы ты нанимаем войска."/>
-    <string id="mdNRYlfS" text="Фигу."/>
-    <string id="meVKYu9a" text="{SALUTATION_BY_PLAYER} I would pledge allegiance to you and be counted among your loyal followers."/>
+    <string id="MDik3Kfn" text="Я хочу, чтобы ты завербовал несколько солдат."/>
+    <string id="mdNRYlfS" text="Неважно."/>
+    <string id="meVKYu9a" text="{SALUTATION_BY_PLAYER} Я бы хотел обещал тебе верность и стать твоим верным последователям."/>
     <string id="Mf3vLIQp" text="дядя"/>
-    <string id="mfVJBFUD" text="The tax on this, the tax on that... Now just what do we think our beloved {?OWNER.GENDER}lady{?}lord{\?} {OWNER.LINK} does with it all?"/>
+    <string id="mfVJBFUD" text="Налог на это, налог на то... А теперь мы думае, что  {?OWNER.GENDER}наша леди{?}наш лорд{\?} {OWNER.LINK} делает со всем этим?"/>
     <string id="mGscJs7b" text="Что тут у нас? Я слышал, что вы лупили некоторые из моих парней. Так что ты крепче, чем выглядишь, а я вас знаю, это только первая стрела в моем колчане. Уйти сейчас, и я оставлю тебя в живых. Остановиться, и я дам тебе бой вы не сможете уйти от."/>
     <string id="mgUoXwZt" text="My family is concerned for the boy's life, he has gone hiding around village commons as he can be killed any time. We need at least someone who can protect him until {TARGET_NOTABLE.NAME} accepts the blood money and end the feud. We would be eternally grateful, if you can help my relative and take him with you for a while maybe."/>
     <string id="mhgUwwZb" text="Sure. Follow me.[ib:normal][rb:very_positive]"/>
