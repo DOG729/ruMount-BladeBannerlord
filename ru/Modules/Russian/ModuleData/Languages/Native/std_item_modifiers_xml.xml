@@ -1,46 +1,46 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
   <tags>
     <tag language="Русский"/>
   </tags>
   <strings>
-    <string id="3FdaOPBi" text="Charred {ITEMNAME}"/>
-    <string id="3JaHZA3Y" text="Large Bag of {ITEMNAME}"/>
-    <string id="4nprSS1a" text="Flexible {ITEMNAME}"/>
-    <string id="582QaBL6" text="Light {ITEMNAME}"/>
-    <string id="5yVgXqQr" text="Worn {ITEMNAME}"/>
-    <string id="6MVH4JVN" text="Starched {ITEMNAME}"/>
-    <string id="85WO1MKG" text="Well made {ITEMNAME}"/>
-    <string id="8Pd6fLoy" text="Splintered {ITEMNAME}"/>
-    <string id="8Tal0XIj" text="Masterwork {ITEMNAME}"/>
-    <string id="ajjSonIo" text="Tough {ITEMNAME}"/>
-    <string id="ajLElAyS" text="Weighted {ITEMNAME}"/>
-    <string id="B14fVQHG" text="Stained {ITEMNAME}"/>
-    <string id="BA9c7gPb" text="Thick {ITEMNAME}"/>
-    <string id="bAdxUq7s" text="Quality {ITEMNAME}"/>
-    <string id="br0N6SSH" text="Cracked {ITEMNAME}"/>
-    <string id="bWhJwHA1" text="Loose {ITEMNAME}"/>
-    <string id="bXYcvUcR" text="Tattered {ITEMNAME}"/>
-    <string id="CAP1BUjL" text="Hardened {ITEMNAME}"/>
-    <string id="CCKZv6GM" text="Chipped {ITEMNAME}"/>
-    <string id="dXjbxaKQ" text="Decaying {ITEMNAME}"/>
-    <string id="eb4miTUB" text="Bent {ITEMNAME}"/>
-    <string id="fdgcpipH" text="Balanced {ITEMNAME}"/>
-    <string id="geUpgQI5" text="Lame {ITEMNAME}"/>
-    <string id="H30eaZdf" text="Heavy {ITEMNAME}"/>
-    <string id="l7QEpVwU" text="Rusty {ITEMNAME}"/>
-    <string id="O0EcDd0a" text="Frayed {ITEMNAME}"/>
-    <string id="Pbb94NdW" text="Ripped {ITEMNAME}"/>
-    <string id="PobRGG9S" text="Dented {ITEMNAME}"/>
-    <string id="Q5HVyNWJ" text="Tailored {ITEMNAME}"/>
-    <string id="rpUIBrOu" text="Agile {ITEMNAME}"/>
-    <string id="RwBOv1Mz" text="Crude {ITEMNAME}"/>
-    <string id="SbNbqhOX" text="Torn {ITEMNAME}"/>
-    <string id="TePk4BSJ" text="Battered {ITEMNAME}"/>
-    <string id="w3jn7Ahz" text="Lordly {ITEMNAME}"/>
-    <string id="WbaIorOh" text="Tuned {ITEMNAME}"/>
-    <string id="WK5y3PyJ" text="Fast {ITEMNAME}"/>
-    <string id="xeb1b5PQ" text="Fine {ITEMNAME}"/>
-    <string id="zbs4c6sG" text="Reinforced {ITEMNAME}"/>
+    <string id="3FdaOPBi" text="Обугленный {ITEMNAME}"/>
+    <string id="3JaHZA3Y" text="Большая сумка из{ITEMNAME}"/>
+    <string id="4nprSS1a" text="Гибкий {ITEMNAME}"/>
+    <string id="582QaBL6" text="Освещенный {ITEMNAME}"/>
+    <string id="5yVgXqQr" text="Изношенный {ITEMNAME}"/>
+    <string id="6MVH4JVN" text="Крахмальный {ITEMNAME}"/>
+    <string id="85WO1MKG" text="Хороший {ITEMNAME}"/>
+    <string id="8Pd6fLoy" text="Расколотый {ITEMNAME}"/>
+    <string id="8Tal0XIj" text="Мастерский{ITEMNAME}"/>
+    <string id="ajjSonIo" text="Жесткий {ITEMNAME}"/>
+    <string id="ajLElAyS" text="Утяжеленный {ITEMNAME}"/>
+    <string id="B14fVQHG" text="Испачканный {ITEMNAME}"/>
+    <string id="BA9c7gPb" text="Толстый {ITEMNAME}"/>
+    <string id="bAdxUq7s" text="Качество {ITEMNAME}"/>
+    <string id="br0N6SSH" text="Треснувший {ITEMNAME}"/>
+    <string id="bWhJwHA1" text="Свободный {ITEMNAME}"/>
+    <string id="bXYcvUcR" text="Оборванный {ITEMNAME}"/>
+    <string id="CAP1BUjL" text="Укрепленный {ITEMNAME}"/>
+    <string id="CCKZv6GM" text="Расщепленный {ITEMNAME}"/>
+    <string id="dXjbxaKQ" text="Гниющий {ITEMNAME}"/>
+    <string id="eb4miTUB" text="Изогнутый {ITEMNAME}"/>
+    <string id="fdgcpipH" text="Сбалансированный {ITEMNAME}"/>
+    <string id="geUpgQI5" text="Хромой {ITEMNAME}"/>
+    <string id="H30eaZdf" text="Тяжелый {ITEMNAME}"/>
+    <string id="l7QEpVwU" text="Ржавый {ITEMNAME}"/>
+    <string id="O0EcDd0a" text="Изношен {ITEMNAME}"/>
+    <string id="Pbb94NdW" text="Разорванный {ITEMNAME}"/>
+    <string id="PobRGG9S" text="Зубчатый {ITEMNAME}"/>
+    <string id="Q5HVyNWJ" text="Приспособленный {ITEMNAME}"/>
+    <string id="rpUIBrOu" text="Проворный {ITEMNAME}"/>
+    <string id="RwBOv1Mz" text="Сырой {ITEMNAME}"/>
+    <string id="SbNbqhOX" text="Порванный {ITEMNAME}"/>
+    <string id="TePk4BSJ" text="Потрепанный {ITEMNAME}"/>
+    <string id="w3jn7Ahz" text="Барский {ITEMNAME}"/>
+    <string id="WbaIorOh" text="Настроенный {ITEMNAME}"/>
+    <string id="WK5y3PyJ" text="Быстро {ITEMNAME}"/>
+    <string id="xeb1b5PQ" text="Хорошо {ITEMNAME}"/>
+    <string id="zbs4c6sG" text="Усиленный {ITEMNAME}"/>
   </strings>
 </base>
