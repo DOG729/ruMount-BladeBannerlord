@@ -313,7 +313,7 @@
     <string id="BbzdVZgh" text="тест"/>
     <string id="BdpW8gUM" text="Что выглядит хорошо, давайте играть!"/>
     <string id="bDva8kVX" text="Сколько вы заплатите мне за мои услуги?"/>
-    <string id="BeD9fahY" text="Приятно познакомиться с вами."/>
+    <string id="BeD9fahY" text="Приятно было познакомиться с вами."/>
     <string id="BghO7dpc" text="Азартные игры-это не для нас. Не делай ничего об этом!"/>
     <string id="bhkC3kcQ" text="Уважительно говорить о старших, грязный оборванец!"/>
     <string id="bHRZhYzd" text="No way! I won't go anywhere near them! They will kill me![ib:closed]"/>
@@ -330,7 +330,7 @@
     <string id="bQ8CxZIy" text="Well, it will cost you {COST}{GOLD_ICON} to buy it out. Are you going to buy it?"/>
     <string id="bSo9hKwr" text="{PERSUASION_OPTION_LINE} {SUCCESS_CHANCE}"/>
     <string id="bsUVDLXa" text="I am {CONVERSATION_HERO.FIRSTNAME}, a merchant{LOCATION_STRING}. {BUSINESS_STRING}"/>
-    <string id="BsXNJHCu" text="Until next time, then.[rb:positive]"/>
+    <string id="BsXNJHCu" text="Встретимся в следующий раз.[rb:positive]"/>
     <string id="btJkBTSF" text="Я уверен, что вы можете решить."/>
     <string id="bTnmpqU4" text="Я боюсь, что у меня нет времени для другой игры."/>
     <string id="bTUPJjfk" text="You can count on me, {?NPC.GENDER}madame{?}sir{\?}."/>
@@ -378,7 +378,7 @@
     <string id="CVClzSC7" text="Я полагаю, вы уже заявили о себе в другой Льеж."/>
     <string id="CX6JHwbB" text="Да? Ну и какой?[rb:positive]"/>
     <string id="cZBjV3At" text="Пусть духи предков наблюдают за тобой."/>
-    <string id="cZptYTYd" text="Well.. There are many goods around the town that can bring good money if you trade them. A caravan you formed will do this for you. You need to pay at least {AMOUNT}{GOLD_ICON} to hire {NUMBER_OF_MEN} caravan guards to form a caravan and you need one companion to lead the caravan guards."/>
+    <string id="cZptYTYd" text="Хорошо.. В городе есть много товаров, которые могут принести хорошие деньги, если вы торгуете ими. Караван, который вы сформировали, сделает это за вас. Вам надо заплатить {AMOUNT}{GOLD_ICON} чтобы нанять {NUMBER_OF_MEN} охранников каравана, и сформировать караван, и еще вам нужен один компаньон, чтобы возглавить охрану каравана."/>
     <string id="D0xDRqvm" text="{PERSUASION_REACTION}"/>
     <string id="D25oY3j1" text="Thank you {?PLAYER.GENDER}lady{?}sir{\?}. For your kindness and understanding. We won't forget this."/>
     <string id="D33fIGQe" text="Не бери в голову."/>
