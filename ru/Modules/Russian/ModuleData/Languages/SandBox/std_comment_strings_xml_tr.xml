@@ -5,7 +5,7 @@
   </tags>
   <strings>
     <string id="02FaqhzI" text="Я слышал о вас. Про вас говорят хорошие вещи. Давайте общаться время от времени. Дружба с кем-то вроде меня может быть весьма выгодной для кого-то вроде вас."/>
-    <string id="0etg1Q9l" text="{FIRST_NAME}, многие из моих людей, отдали свои жизни на службе. И я не услышу что их преданность и жертвы были не напрасны"/>
+    <string id="0etg1Q9l" text="Многие из моих людей, отдали свои жизни на службе у {FIRST_NAME}. И я не услышу что их преданность и жертвы были не напрасны"/>
     <string id="1jUa8olQ" text="Я не ожидаю, что вы сдадитесь, но я дам вам шанс сделать это. [ib:warrior][if:idle_angry]"/>
     <string id="22a9fyiQ" text="Отец"/>
     <string id="27KUtWGA" text="Вы справились с заданием, которое я вам дал. Я благодарю вас."/>
@@ -51,61 +51,61 @@
     <string id="bc1YyTO4" text="Возможно, это будет не сегодня и не завтра, но так или иначе, я увижу, что вы сожалеете о своем решении."/>
     <string id="BCfeuAX5" text="Что? Ваш жестокость настолько утончена, что вы предпочли бы видеть меня свободным и униженным, чем в цепях? Наслаждайтесь своим триумфом![if:happy][rb:very_positive]"/>
     <string id="bDarsOFR" text="Я {CONVERSATION_CHARACTER.LINK}, Архонт Империи."/>
-    <string id="bdiuV4qb" text="Я знаю ваше имя. Говорят что вы {?PLAYER.GENDER}женщина{?}мужчина{\?} of valor. If fate ever decrees that we cross swords, it would be an honor."/>
-    <string id="BMc3VJcf" text="Я не знаю вашего имени. Но это не важно. Некоторые говорят, что нет большей чести, чтобы нашли отличный родословной, чем родиться с одним."/>
-    <string id="bNReoRmt" text="Если вы когда-нибудь окажетесь в состоянии нанять воинов, вы должны рассмотреть Легион предал. Мы знаем, что значит сдержать свое слово и договор, как мы уже видели цену ломать веру."/>
-    <string id="brGfaXyo" text="Я не знаю, что делать вы, кроме того, что вы либо очень смелый, либо очень опрометчиво, или оба."/>
-    <string id="BRMngn5i" text="Enough! I am your prisoner. I can pay a ransom. I am worth more to you alive than dead.[rf:angry][rb:trivial]"/>
-    <string id="C5JaFsDZ" text="{FIRST_NAME} is my liege. That's all there is to say."/>
-    <string id="caKCwoPM" text="Бани Zilal являются хранителями тайны. Мы смотрим из тени. Врагов из нас на свой страх и риск."/>
-    <string id="cFiSjbf4" text="Хах! Я хочу драться с тобой"/>
-    <string id="cGuzIVlk" text="Говорят, у вас довольно много путешествовал. Расскажи немного о своих путешествиях..."/>
-    <string id="cMO9JXvk" text="I am {CONVERSATION_CHARACTER.LINK}, of the {CLAN_NAME}. We hold our lands in fief to {LIEGE_TITLE}, and we honor our oaths of fealty."/>
-    <string id="CN20EFDE" text="К сожалению, на эти коэффициенты, было бы довольно глупо не атаковать вас."/>
-    <string id="CPWbB47d" text="Я слышал о тебе! Я давно хотел познакомиться с вами."/>
+    <string id="bdiuV4qb" text="Я знаю ваше имя. Говорят что вы доблестн{?PLAYER.GENDER}ая женщина{?}ый мужчина{\?}. Если судьба решит, что мы скрестим мечи, это будет честью."/>
+    <string id="BMc3VJcf" text="Я не знаю вашего имени. Но это не важно. Некоторые считают, что больше чести в том, что бы добиться величия имени, нежели родиться в великой семье."/>
+    <string id="bNReoRmt" text="Если вы когда-нибудь окажетесь в состоянии нанять воинов, вы должны рассмотреть Легион Преданных. Мы знаем, что значит уважать свое слово и контракт, так как мы видели цену разрушения веры."/>
+    <string id="brGfaXyo" text="Я не знаю, что с вами делать, кроме того, вы либо очень смелый, либо очень безрассудный, либо и то, и другое."/>
+    <string id="BRMngn5i" text="Довольно! Я ваш пленник. Я могу заплатить выкуп. Я для тебя ценнее живой, чем мертвый.[rf:angry][rb:trivial]"/>
+    <string id="C5JaFsDZ" text="{FIRST_NAME} мой сеньор. Это все, что можно сказать."/>
+    <string id="caKCwoPM" text="Бэни Зилэл являются хранителями тайны. Мы смотрим из тени. Враждуй с нами на свой страх и риск."/>
+    <string id="cFiSjbf4" text="Хах! Я хочу сразиться с тобой"/>
+    <string id="cGuzIVlk" text="Говорят, вы довольно много путешествовали. Расскажите немного о своих путешествиях..."/>
+    <string id="cMO9JXvk" text="Я {CONVERSATION_CHARACTER.LINK}, из {CLAN_NAME}. Мы удерживаем наши земли в владении {LIEGE_TITLE}, и выполняем наши клятвы верности."/>
+    <string id="CN20EFDE" text="К сожалению, при таких обстоятельствах было бы глупо с моей стороны не атаковать вас."/>
+    <string id="CPWbB47d" text="Я слышал о вас! Я давно хотел познакомиться с вами."/>
     <string id="CUfZXlOd" text="Я буду помнить твое имя."/>
-    <string id="d2QGFdRJ" text="You've got no chance. Surrender or I'll gut you like a fish.[ib:warrior][if:idle_angry]"/>
-    <string id="dC8acIya" text="I am {CONVERSATION_CHARACTER.LINK}, a chieftain of the Sturgians."/>
-    <string id="dD93WVhO" text="Одна вещь обо мне вы должны знать, что я очень хороший друг, и вы абсолютно не хотите меня, как на врага."/>
-    <string id="DIjtFVu8" text="Ваш последней капли крови? Я думаю, что просто нужно разлить его, потом."/>
-    <string id="dKmAktt7" text="You cannot defeat me, and I'll teach you a painful lesson if you try. Yield![ib:warrior][if:idle_angry]"/>
-    <string id="dLHsoh3f" text="Я слышал о вас. Ваше имя вселяет страх в сердца людей. Это лучший вид репутации для. Возможно, у нас есть общие интересы."/>
-    <string id="dlkg2jQf" text="I am {CONVERSATION_CHARACTER.LINK}, of the {CLAN_NAME}, one of the ancient lineages of the Sturgians."/>
-    <string id="DLV6F3ob" text="Может быть, вы не слышали о Karakhergit. Мы многое делаем предприятие в зашитый земель, поврежденных земель. Мы кланяться Хану. Мы шьем без зерна. Мы держим в старые времена, после Великой трав."/>
-    <string id="DRzsgjsD" text="I am {CONVERSATION_CHARACTER.LINK}, of the house of {CLAN_NAME}, one of the most illustrious families in the annals of the Empire."/>
-    <string id="dvpbyoAQ" text="I've heard of you. At last we meet. You sound like a good {?PLAYER.GENDER}woman{?}man{\?} to know. Let us speak together, from time to time."/>
-    <string id="DxuuarNT" text="Я знаю твое имя, и от того, что они говорят о вас, я скажу, что многие скорбящая вдова тоже знает. Но это не моя забота."/>
-    <string id="ELtT9ctL" text="Вы знаете из Skolderbroda. На поле боя, мы второй нет. Мы ожидаем, подлежащую выплате в соответствии с нашей стоит, и это не дешево, но если брать ваши монеты, вы будете иметь нашу клятву соблюдать условия договора, в нашей жизни, если это необходимо."/>
-    <string id="EXgm5Utx" text="Long may {?GENDER}she{?}he{\?} live!"/>
-    <string id="eyxfHmCU" text="I am {CONVERSATION_CHARACTER.LINK}, of the {CLAN_NAME}. Our family has served the kings of the Vlandians for generations."/>
-    <string id="f2eZL7w5" text="Oh, I suppose I'm obligated to give you a chance to grovel for your life. Will you surrender, then?[ib:warrior][if:idle_angry]"/>
-    <string id="f3X79aDs" text="Так... я слышала, вы путешествовали вокруг справедливый бит. Без сомнения, ты видел много странных и ужасных вещей. Может быть, вы сделали несколько странные и ужасные вещи. Давай, расскажи мне немного о ваших странствиях. Я обещаю не быть в шоке."/>
+    <string id="d2QGFdRJ" text="У вас нет шансов. Сдавайтесь или я выпотрошу вас как рыбу.[ib:warrior][if:idle_angry]"/>
+    <string id="dC8acIya" text="Я {CONVERSATION_CHARACTER.LINK}, Главнокомандующий Стургитов."/>
+    <string id="dD93WVhO" text="Единственное,что вы обо мне должны знать, что я очень хороший друг, и вы абсолютно не хотите видеть меня, как врага."/>
+    <string id="DIjtFVu8" text="Уже на пределе? Что ж, значит тогда мне просто придется пустить вам кровь."/>
+    <string id="dKmAktt7" text="Вы не сможете победить меня, и я преподам вам болезненный урок, если вы попробуете атаковать. Отступите![ib:warrior][if:idle_angry]"/>
+    <string id="dLHsoh3f" text="Я слышал о вас. Ваше имя вселяет страх в сердца людей. Это лучшая репутация. Возможно, у нас найдутся общие интересы."/>
+    <string id="dlkg2jQf" text="Я {CONVERSATION_CHARACTER.LINK}, из {CLAN_NAME}, одной из древних родословных стургитов."/>
+    <string id="DLV6F3ob" text="Может быть, вы не слышали о Карахергитах. Мы много рискуем в сокрытых земли, в испорченных землях. Мы кланяемся не Хану. Мы не сеем зерно. Мы придерживаемся старых путей, среди великих трав.."/>
+    <string id="DRzsgjsD" text="Я {CONVERSATION_CHARACTER.LINK}, из дома {CLAN_NAME}, одной из самых выдающихся семей в летописях империи."/>
+    <string id="dvpbyoAQ" text="Я о вас слышал. Наконец мы встретились. Знайте, вы говорите как хорош{?PLAYER.GENDER}ая женщина{?}ий мужчина{\?}. Жавайте периодически общаться."/>
+    <string id="DxuuarNT" text="Я знаю ваше имя - и из того, что о вас говорят, я бы сказал, что многие скорбящие вдовы тоже знают. Но это не моя забота."/>
+    <string id="ELtT9ctL" text="Вы, может быть, знаете о Сколдербродах. На поле битвы нам нет равных. Мы ожидаем, что нам заплатят в соответствии с нашей ценностью, и это недешево, но если мы возьмем вашу монету, вы получите нашу клятву соблюдать условия контракта и до нашей смерти в случае необходимости."/>
+    <string id="EXgm5Utx" text="Пусть {?GENDER}она{?}он{\?} живет долго!"/>
+    <string id="eyxfHmCU" text="Я{CONVERSATION_CHARACTER.LINK}, Из {CLAN_NAME}. Наша семья служила королям Вландии в течение нескольких поколений."/>
+    <string id="f2eZL7w5" text="О, я полагаю, я обязан дать вам шанс пожертвовать своей жизнью. В этом случае вы сдадитесь?[ib:warrior][if:idle_angry]"/>
+    <string id="f3X79aDs" text="Так... я слышал, вы путешествовали достаточно далеко. Без сомнения, вы видели много странных и ужасных вещей. Может быть, вы сделали несколько странных и ужасных вещей. Давайте, расскажите мне немного о ваших странствиях. Я обещаю не быть в шоке."/>
     <string id="F70rOpkK" text="Капитан"/>
-    <string id="Fb7JxGKM" text="Да... я знаю твое имя. Право. Я не люблю общаться, поэтому давай пропустим суп и идете прямо до мяса."/>
-    <string id="fbArcLAA" text="Моя леди, если вы не квалифицированных в качестве оружия, как вы честно в лицо, то ваши враги должны действительно бояться тебя!"/>
-    <string id="FbstpIYj" text="Не говори, что я не дал тебе шанс."/>
-    <string id="FFXqPFwl" text="I am {CONVERSATION_CHARACTER.LINK}, of the {CLAN_NAME}, one of the most illustrious families in the annals of the Vlandian kingdom."/>
-    <string id="fHFpgitO" text="Это хорошо, чтобы встретиться с вами. Всегда помните, что хотя смелость-это похвально, сострадание является величайшей из добродетелей."/>
-    <string id="FpD4Y9cX" text="Thank you. I must remain your enemy, but I am grateful nonetheless.[if:happy][rb:very_positive]"/>
-    <string id="G8ol9sG3" text="It grieves me to fight you, but I must. Unless of course you wish to surrender.[ib:warrior][if:idle_angry]"/>
-    <string id="gBRBdsIe" text="Я уверен, что кто-то с Вашу репутацию знает, что ничто в этом мире не ценно так же, как вес вашего слова. Правдиво говорить со мной, и я сделаю то же самое с вами."/>
-    <string id="gggmhjd7" text="Я не уверен, что вы можете предложить мне ничего, что я бы не сделал лучше просто взять."/>
-    <string id="GO47mubj" text="Что именно ты предлагаешь?"/>
-    <string id="Gp3l5fjI" text="Так, о том, что задача, которую я тебе дал... Ну, я могу только надеяться, что вы дали это ваш лучший попробовать, и вы сказали, Вы бы."/>
-    <string id="gxV3M6HH" text="Naturally, I wish {?GENDER}her{?}him{\?} a long life and victory over all {?GENDER}her{?}his{\?} foes. To say anything else would be treason, as I'm sure you know."/>
+    <string id="Fb7JxGKM" text="Да... я знаю ваше имя. Точно. Я не люблю общаться, поэтому давайте пропустим первое и приступим ко второму."/>
+    <string id="fbArcLAA" text="Моя леди, если вы искусны в оружии так же, как и спокойны, тогда ваши враги действительно должны вас бояться!"/>
+    <string id="FbstpIYj" text="Не говорите, что я не давал вам шанс."/>
+    <string id="FFXqPFwl" text="Я {CONVERSATION_CHARACTER.LINK}, из {CLAN_NAME}, одна из самых выдающихся семей в анналах Вландийского королевства."/>
+    <string id="fHFpgitO" text="Хорошо, что мы встретились. Всегда помните, что хотя смелость-это похвально, сострадание является величайшей из добродетелей."/>
+    <string id="FpD4Y9cX" text="Спасибо. Я должен оставаться вашим врагом, но, тем не менее, я благодарен.[if:happy][rb:very_positive]"/>
+    <string id="G8ol9sG3" text="Мне очень жаль сражаться с вами, но я должен. Если, конечно, вы не хотите сдаться.[ib:warrior][if:idle_angry]"/>
+    <string id="gBRBdsIe" text="Я уверен, что кто-то с вашей репутацией знает, что ничто в этом мире не ценно так же, как вес вашего слова. Говорите со мной правдиво, и я буду с вами так же."/>
+    <string id="gggmhjd7" text="Я не уверен, что вы не можете предложить мне ничего, что я бы не мог просто отобрать."/>
+    <string id="GO47mubj" text="Что именно вы предлагаете?"/>
+    <string id="Gp3l5fjI" text="Итак, об той задаче, которую я вам дал ... Ну, я могу только надеяться, что вы сделали все что могли, раз уж сказали, что сделаете это."/>
+    <string id="gxV3M6HH" text="Разумеется, я желаю {?GENDER}ей{?}ему{\?} ему долгой жизни и победы над всеми {?GENDER}своими{?}своими{\?} Врагами. Как я уверен, вы знаете, что сказать что-нибудь еще было бы изменой, ."/>
     <string id="gyCA2mZP" text="Как мне кажется, нам нечего обсуждать."/>
-    <string id="HaHZss32" text="I am {CONVERSATION_CHARACTER.LINK}, a loyal servant of {LIEGE_TITLE}."/>
-    <string id="HbVsATfi" text="Я знаю твое имя. Мужчины хвала твоей доблести. Но помните, что честь и сострадание также стоит культивировать."/>
-    <string id="heKSWVJk" text="Oh, I suppose I'm obligated to give you a chance to surrender, but I hope you don't. I'm rather looking forward to seeing how well attached your head is to your neck.[ib:warrior][if:idle_angry]"/>
-    <string id="hIFazIcK" text="Так и будет!"/>
-    <string id="hQsjeTix" text="I yield! Grant me the honors of war, and do yourself credit![rf:angry][rb:trivial]"/>
-    <string id="HwhUEZPE" text="Да... я знаю твое имя. Я ничего не имею против тебя, друг. Не лезь в мои дела, и я оставлю в покое тебя."/>
-    <string id="HwsshsMz" text="Я рад, что мы смогли прийти к взаимопониманию по этому последнее дело."/>
-    <string id="i1RXpQxR" text="Помнишь нашу дуэль? Это был хороший бой. Но с преимуществом у меня сейчас, боюсь, я не могу позволить себе быть так спортивные."/>
+    <string id="HaHZss32" text="Я {CONVERSATION_CHARACTER.LINK}, верный слуга {LIEGE_TITLE}."/>
+    <string id="HbVsATfi" text="Я знаю ваше имя. Мужчины хвалят Вашу доблесть. Но помните, что честь и сострадание также стоит восхвалять."/>
+    <string id="heKSWVJk" text="О, я полагаю, что обязан дать вам шанс сдаться, но я надеюсь, что вы этого не сделаете. Я с нетерпением жду возможности увидеть, насколько хорошо ваша голова сидит у вас на плечах.[ib:warrior][if:idle_angry]"/>
+    <string id="hIFazIcK" text="Да будет так!"/>
+    <string id="hQsjeTix" text="Я сдаюсь! Удостойте меня чести и сделайте себе одолжение![rf:angry][rb:trivial]"/>
+    <string id="HwhUEZPE" text="Да... Я ваше твое имя. Я не имею ничего против Вас, друг. Не вмешивайтесь в мои дела, а я останусь вне ваших."/>
+    <string id="HwsshsMz" text="Я рад, что мы смогли прийти к согласию относительно недавнего вопроса."/>
+    <string id="i1RXpQxR" text="Помните наш поединок? Это был хороший бой. Но с тем преимуществом, которое я имею сейчас, боюсь, я не могу позволить себе спортивный интерес."/>
     <string id="iepWkkfA" text="Ваше сиятельство"/>
-    <string id="ieVRr359" text="Я буду отмечать ваше имя."/>
-    <string id="iM76GPzK" text="I will always listen to a {?PLAYER.GENDER}woman{?}man{\?} of integrity. On the other hand, if you lack that, please do not plague me with your company."/>
-    <string id="iOnsulPb" text="Возможно, вы слышали о нас. Люди называют нас угольки пламени. Поколений назад рай поручил нам подготовить для великого очищения земли. До этого дня мы тлеть в тишине. Но когда этот день придет, наш праведный гнев сожжет далее."/>
+    <string id="ieVRr359" text="Я отмечу ваше имя."/>
+    <string id="iM76GPzK" text="Я всегда прислушаюсь к честно{?PLAYER.GENDER}й женщине{?}му мужчине{\?}. С другой стороны, если у вас не хватает честности, пожалуйста, не изводите меня своей компанией."/>
+    <string id="iOnsulPb" text="Возможно, вы слышали о нас. Люди называют нас Пламен углей. Поколений назад рай поручил нам подготовить для великого очищения земли. До этого дня мы тлеть в тишине. Но когда этот день придет, наш праведный гнев сожжет далее."/>
     <string id="itfE84jd" text="You're outnumbered. Give up. Or don't. Death in battle is a fine thing.[ib:warrior][if:idle_angry]"/>
     <string id="IuSH0tcp" text="{FIRST_NAME} has always fulfilled {?GENDER}her{?}his{\?} duty to me, and I intend to do the same."/>
     <string id="J0wLOV3u" text="Я знаю, что задача, которую я дал тебе было не легко... Ну, не будем больше говорить об этом."/>
