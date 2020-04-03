@@ -4,37 +4,37 @@
     <tag language="Русский"/>
   </tags>
   <strings>
-    <string id="074YAjOk" text="Вы выгнали из-за неактивности"/>
-    <string id="2SEofGth" text="Команда Изменить "/>
+    <string id="074YAjOk" text="Вас выгнали из-за неактивности"/>
+    <string id="2SEofGth" text="Сменить команду"/>
     <string id="4mMySbxI" text="Неизвестная ошибка"/>
-    <string id="a0IHtkoa" text="Вы не выгнали на игровой сервер"/>
+    <string id="a0IHtkoa" text="Вас выгнал хост игры"/>
     <string id="AbEh2y8o" text="Сохранить и выйти"/>
-    <string id="aKjpbRP5" text="Неизвестной причине"/>
+    <string id="aKjpbRP5" text="Неизвестная причина"/>
     <string id="bV75iwKa" text="Сохранить"/>
     <string id="e0KdfaNe" text="Сохранить как"/>
     <string id="EzeFJo65" text="Вы были отключены от сервера!"/>
     <string id="hvaDkG4w" text="Нажмите любую клавишу."/>
-    <string id="InGwtrWt" text="Бросить"/>
-    <string id="ivKntfNA" text="Уже просила, чтобы присоединиться, ждем ответа сервера "/>
-    <string id="IzJ7f5SQ" text="Емкость сервера"/>
-    <string id="JluTW3Qw" text="Игра Закончилась"/>
-    <string id="JQVixeQs" text="Не могли получить доступ к игровому серверу"/>
-    <string id="KRNdlbkq" text="Своя игра заканчивается"/>
+    <string id="InGwtrWt" text="Выйти"/>
+    <string id="ivKntfNA" text="Запрос на вход уже отправлен, ожидаем ответ от сервера"/>
+    <string id="IzJ7f5SQ" text="Сервер полон"/>
+    <string id="JluTW3Qw" text="Игра закончилась"/>
+    <string id="JQVixeQs" text="Нет доступа к игровому серверу"/>
+    <string id="KRNdlbkq" text="Пользовательская игра заканчивается"/>
     <string id="Mm1Kb1bS" text="Неверный пароль"/>
-    <string id="mO9bh5sy" text="Не смог присоединиться к пользовательской игре"/>
+    <string id="mO9bh5sy" text="Не получается подключиться к пользовательской игре"/>
     <string id="n4UUrd1p" text="Уже используется"/>
     <string id="NqarFr4P" text="Настройки"/>
-    <string id="OhF7NqSb" text="Вы запретили игру на опрос"/>
+    <string id="OhF7NqSb" text="Вы были забанены в результате голосования"/>
     <string id="RamV6yLM" text="Выйти в главное меню"/>
-    <string id="RGzyUTzm" text="Formation arrangement switching to {ARRANGEMENT_ORDER}"/>
-    <string id="srAJw3Tg" text="Игрок забанен с сервера"/>
+    <string id="RGzyUTzm" text="Порядок формирования переключен на {ARRANGEMENT_ORDER}"/>
+    <string id="srAJw3Tg" text="Игрок забанен на сервере"/>
     <string id="T8IniCKU" text="Игровой сервер не доступен"/>
     <string id="tKSxGy5p" text="Сервер не отвечает"/>
     <string id="vkpMgobZ" text="Ошибка игрового сервера "/>
-    <string id="wbFB3N72" text="Вы выгнали из игры опрос"/>
-    <string id="wLpJEkKY" text="Боя Сервер Упал"/>
+    <string id="wbFB3N72" text="Вы были выгнаны в результате голосования"/>
+    <string id="wLpJEkKY" text="Критическая ошибки Battle Server"/>
     <string id="WvGviFgt" text="Ваше соединение с сервером истекло"/>
-    <string id="XnsAbUE3" text="Уволить"/>
+    <string id="XnsAbUE3" text="Отклонить"/>
     <string id="XzZFhRwr" text="Вернуться в игру"/>
   </strings>
 </base>
