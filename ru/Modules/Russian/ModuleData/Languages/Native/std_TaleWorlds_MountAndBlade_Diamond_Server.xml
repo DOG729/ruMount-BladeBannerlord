@@ -7,7 +7,7 @@
     <string id="0W4dgUho" text="Заблокирован игрой до {BANNEDUNTIL}, по причине: {BANREASON}" />
     <string id="2xOyWxIo" text="Игрок не состоит в отряде." />
     <string id="4XDu4Qcd" text="Только лидер отряда может исключать игроков." />
-    <string id="5kgkZo2o" text="Игрок которого вы пытаетесь исключить, не состоит в отряде!" />
+    <string id="5kgkZo2o" text="Игрок, которого вы пытаетесь исключить, не состоит в отряде!" />
     <string id="91cJB1tP" text="Игрок {INVITEDPLAYER} уже состоит в отряде." />
     <string id="aFQa3pQt" text="Вы должны находиться в лобби, чтобы назначать игроков." />
     <string id="ah4Pm8wU" text="Вы должны находиться в лобби, чтобы распустить отряд![Временно]" />
@@ -35,7 +35,7 @@
     <string id="pehfmZvM" text="Игрок {PLAYERNAME} назначен лидером отряда." />
     <string id="Pn13ZKwI" text="Отряд расформирован!" />
     <string id="Rj8RhD7F" text="Ошибка!" />
-    <string id="Tauk2JzA" text="Несовпадение версий игры, Версия сервера: {SERVERVERSION} - Ваша версия: {CLIENTVERSION}." />
+    <string id="Tauk2JzA" text="Несовпадение версий игры, Версия сервера: {SERVERVERSION} — Ваша версия: {CLIENTVERSION}." />
     <string id="TpBDiSBp" text="{PLAYERNAME} назначен лидером отряда." />
     <string id="VDDm5bqb" text="Вы можете приглашать только игроков, использующих античит." />
     <string id="w8WiqZT3" text="Чтобы вступить в отряд или начать игру, античит должен быть запущен!" />
