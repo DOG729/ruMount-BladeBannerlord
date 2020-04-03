@@ -21,7 +21,7 @@
     <string id="0Wg00sfN" text="Спасибо, {?PLAYER.GENDER}леди{?}сэр{\?}. Мы немедленно переезжаем."/>
     <string id="0WgYomR5" text="Спасибо. Я не могу гарантировать, что я бы сделал то же самое для вас, но я благодарю вас."/>
     <string id="0WTPOUKM" text="Что? Ты предатель… Хорошо, {?PLAYER.GENDER}леди, ты снажила{?}сэр, ты нажил{\?} себе врага."/>
-    <string id="0xnRstRX" text="Я клянусь, {мой лорд.LINK}."/>
+    <string id="0xnRstRX" text="Я клянусь, {LORD.LINK}."/>
     <string id="0YIdXQFU" text="Пусть Небеса защитят и направлят вас."/>
     <string id="0YJGvJ7o" text="Вы должны уйти сейчас."/>
     <string id="108Dchvt" text="Стоп, нам больше не нужно ссориться. Мы не будем ссориться с тобой, так как справедливость восторжествовала."/>
@@ -38,7 +38,7 @@
     <string id="1NEkH9JD" text="STUB: Мы ждем ограбления {RAIDED_VILLAGE}. "/>
     <string id="1NSRPYZt" text="Просто проезжали мимо. Что здесь происходит?"/>
     <string id="1OU1ZkaZ" text="{SALUTATION_BY_PLAYER} я хочу быть больше, чем наемником. Есть ли способ стать вассалом?"/>
-    <string id="1PRLbHzF" text="Они работают на {ALLEY_BOSS.NAME}, привозят товар на продажу без уплаты налога у ворот. Наверное, это можно назвать контрабандой. Он обманул лордов на один-два денара, но я не думаю, что здешние жители сильно возражали против этого.muggling, I guess you'd call it. It cheated the мой лордs out of a denar or two, but I don't think the people here much minded it."/>
+    <string id="1PRLbHzF" text="Они работают на {ALLEY_BOSS.NAME}, привозят товар на продажу без уплаты налога у ворот. Наверное, это можно назвать контрабандой. Он обманул лордов на один-два денара, но я не думаю, что здешние жители сильно возражали против этого."/>
     <string id="1psOym3y" text="Любые другие вопросы?"/>
     <string id="1rCk6xRa" text="А теперь... Если ты спрашиваешь,[rb:trivial]"/>
     <string id="1s3bHupn" text="Ты не ладишь с остальными. Тебе лучше уйти."/>
@@ -157,7 +157,7 @@
     <string id="7AiP4BwY" text="Что там говорить? Этот ублюдок убил моего родича, и это наше право, чтобы отомстить ему!"/>
     <string id="7B7BhVhV" text="Давайте посмотрим, что вы придумали..."/>
     <string id="7bBfNRVS" text="Ну что ж. В чем дело?"/>
-    <string id="7bETSEg5" text="Я {?PLAYER.GENDER}готова{?}готов{\?}, {мой лорд.LINK}."/>
+    <string id="7bETSEg5" text="Я {?PLAYER.GENDER}готова{?}готов{\?}, {LORD.LINK}."/>
     <string id="7DPa7U1F" text="Расскажи подробнее о своей переулке."/>
     <string id="7EoBCTX0" text="Что ты хочешь, чтобы я сделал?[rb:unsure]"/>
     <string id="7IxFrati" text="Приветствую Вас {?PLAYER.GENDER}моя леди{?}мой лорд{\?}, чем я могу Вам помочь?"/>
@@ -300,7 +300,7 @@
     <string id="B3P14XEX" text="Вы выиграли!"/>
     <string id="b3YNi4LG" text="Я {CONVERSATION_HERO.LINK}. {FACTION_DESCRIPTION}"/>
     <string id="b4BQDE7V" text="Я передумал. Мне нечем рисковать."/>
-    <string id="B7rEq40B" text="{мой лорд_INTRODUCTION_STRING} {TOWN_INFO_STRING}[rb:trivial]"/>
+    <string id="B7rEq40B" text="{LORD_INTRODUCTION_STRING} {TOWN_INFO_STRING}[rb:trivial]"/>
     <string id="B8bHpJRP" text="Вы правы {?PLAYER.GENDER}леди{?}сир{\?}. Я должен немедленно выдвигаться."/>
     <string id="b92969l9" text="Я хотел бы выбрать другой товар для производства."/>
     <string id="BaeqKlQ6" text="Я не могу говорить с тобой.[rb:very_negative]"/>
@@ -437,7 +437,7 @@
     <string id="eah0gBXu" text="Приятно познакомиться."/>
     <string id="EaIO20WN" text="Да будет так."/>
     <string id="eAK4vEK6" text="Отрицательно"/>
-    <string id="eaPcNqWR" text="Вы правы, {мой лорд_SALUTATION}. Мое место здесь."/>
+    <string id="eaPcNqWR" text="Вы правы, {LORD_SALUTATION}. Мое место здесь."/>
     <string id="EASiM8NU" text="У вас не хватает динаров для изменения производимых товаров."/>
     <string id="Eb7KG1bi" text="{HERO.LINK} должен быть прямо за углом...[ib:normal][rb:positive]"/>
     <string id="EbsdFzBN" text="[TODO] У меня нет компаньона, который бы управлял этим местом."/>
@@ -525,7 +525,7 @@
     <string id="g4pKPzDl" text="Что ты хочешь, чтобы мы сделали?"/>
     <string id="g5G8AJ5n" text="Вы теперь мой пленник."/>
     <string id="g5ofoKa8" text="Да... Теперь я вспомнил тебя.[rb:very_positive]"/>
-    <string id="G8DuGbLB" text="{мой лорд_1_NAME} не любит {мой лорд_2_NAME}. {HISTORIC_COMMENT}|"/>
+    <string id="G8DuGbLB" text="{LORD_1_NAME} не любит {LORD_2_NAME}. {HISTORIC_COMMENT}|"/>
     <string id="g8qb3Ame" text="Спасибо."/>
     <string id="GAq7KAf0" text="Еще бы! Скажи, ты выглядишь как боец. Тебе стоит присоединиться. Раньше все это были осужденные преступники и сражались до смерти, но сейчас они используют притупленное оружие."/>
     <string id="GAsVO8cZ" text="Добрый день, друг. Готов поспорить, ты приехал сюда на игры, или, как сейчас говорят, на турнир!"/>
@@ -593,10 +593,10 @@
     <string id="i4xzuOJE" text="Конечно, я буду играть на самом сложном уровне."/>
     <string id="i5fNZrhh" text="Пожалуста, {?PLAYER.GENDER}леди{?}сир{\?}. Я искренне люблю его и хочу провести с ним остаток жизни. Я умоляю вас, пожалуйста, оставьте нас в покое."/>
     <string id="i7KSsz4z" text="Правда, шпион? Да, {?PLAYER.GENDER}мадам{?}сир{\?}, ходят слухи о вашем расследовании. Думаю, шпион уже знает и планирует залечь на дно."/>
-    <string id="I80qeGOG" text="Конечно нет, {мой лорд_SALUTATION}. Я всегда буду вашим верным вассалом."/>
+    <string id="I80qeGOG" text="Конечно нет, {LORD_SALUTATION}. Я всегда буду вашим верным вассалом."/>
     <string id="i8HysulS" text="Я буду играть черными."/>
     <string id="I8raOMRH" text="К сожалению, прогресса пока нет."/>
-    <string id="IASba7yf" text="Да, {мой лорд_SALUTATION}."/>
+    <string id="IASba7yf" text="Да, {LORD_SALUTATION}."/>
     <string id="iB6P0D9N" text="Неужели? Ну, я полагаю, ты просто не выполнил свою задачу. Мне придется искать кого-нибудь более опытного.[rb:trivial]"/>
     <string id="IdKG3IaS" text="Рад это слышать."/>
     <string id="idPV1Csj" text="Да... Почему бы и нет? У меня сейчас нет ничего слишком срочного."/>
@@ -759,7 +759,7 @@
     <string id="m0ybQ1Gz" text="Вы можете рассчитывать на меня. С этого момента твои враги - мои враги, а твоя честь - моя честь.."/>
     <string id="m933Bcdd" text=".. Просто, чтобы вы знали, мы последователи {FACTION_NAME}, так что, возможно, вы захотите подумать дважды, прежде чем доставлять нам неприятности.."/>
     <string id="MaGPKGHA" text="Спасибо, {?PLAYER.GENDER}миледи{?}мой лорд{\?}. Я уверен, что ваши люди защитят парнишку и {TARGET_NOTABLE.NAME} придется принять кровавые деньги. Должен добавить, что заплачу вам {REWARD_GOLD} за доставленные неприятности."/>
-    <string id="Mav1xSAP" text="{мой лорд_LAST_SEEN}[rb:positive]"/>
+    <string id="Mav1xSAP" text="{LORD_LAST_SEEN}[rb:positive]"/>
     <string id="MbwG7Gy8" text="Можно ли менять сложность?"/>
     <string id="MdbeY3E2" text="Убивая наших врагов."/>
     <string id="mdbylyka" text="Вам не хватает войск."/>
@@ -881,7 +881,7 @@
     <string id="P99OLPWU" text="Простите, {?PLAYER.GENDER}миледи{?}сир{\?}, но я должен вскоре заняться своими делами. Вам что-нибудь нужно?"/>
     <string id="PbDK3PIi" text="Могу ли я изменить сумму ставки?"/>
     <string id="PDhmSieV" text="Похищенная дочь {QUEST_GIVER.NAME} в {SETTLEMENT}"/>
-    <string id="PdKIXiFa" text="Простите меня, {мой лорд.LINK}, но сначала я должен это хорошенько обдумать..."/>
+    <string id="PdKIXiFa" text="Простите меня, {LORD.LINK}, но сначала я должен это хорошенько обдумать..."/>
     <string id="PE14ZF7l" text="Позвольте мне убедить вас. (Убеждение)"/>
     <string id="pf4EIcBQ" text="Что-нибудь еще? Потому что, если у тебя здесь нет дел, может, тебе лучше уйти.[ib:closed][rb:trivial]"/>
     <string id="pfxvubiK" text="Обязанности... Их всего несколько, и все просты. Первое, что нужно сделать, это заявить о своей верности. Клятву верности нашему делу. Как только это будет сделано, вы должны будете выполнить определенные поручения. Вы будете участвовать в военных кампаниях, выполнять любые приказы, данные вам вашими командирами, но больше всего вы будете воевать с врагам нашего королевства, где бы вы их ни нашли."/>
@@ -907,7 +907,7 @@
     <string id="PznWhAdU" text="На самом деле, неважно."/>
     <string id="PZq1EMcx" text="Спасибо, сэр. Я очень волнуюсь за свою девочку {TARGET_HERO.LINK}. Пожалуйста, найдите ее и приведите ко мне, как только сможете."/>
     <string id="Q0xPr6CP" text="Я больше не могу быть уверен в вашей преданности."/>
-    <string id="q1F03tON" text="Действительно, {мой лорд_SALUTATION}. Простите мой бред."/>
+    <string id="q1F03tON" text="Действительно, {LORD_SALUTATION}. Простите мой бред."/>
     <string id="q4pwbPcw" text="{GAME_AGREEMENT_STRING}"/>
     <string id="Q7B68CVK" text="Молодец! Это умно с вашей стороны.[rb:trivial]"/>
     <string id="QaAzicqA" text="У многих мужчин есть бороды. Тем не менее, это уже что-то."/>
@@ -990,7 +990,7 @@
     <string id="S9yOQgb1" text="Ваши отношения с {HERO.NAME} должгы быть не ниже {RELATION}."/>
     <string id="sakSp6H8" text="Ты не можешь продолжать жить как трус. Как и ч не смогу защищать тебя вечно, мы должны как-то решить эту проблему. Даю слово чести, что защищу тебя, если дела пойдут плохо."/>
     <string id="Sb25Ac2S" text="У тебя недостаточно войск второго уровня."/>
-    <string id="sBpcOmoi" text="Это то, что я должен сделать, {мой лорд_SALUTATION}."/>
+    <string id="sBpcOmoi" text="Это то, что я должен сделать, {LORD_SALUTATION}."/>
     <string id="ScSV97Dm" text="Мы готовимся к нападению, но нам нужно время, чтобы собрать наших людей. Встретися в {SETTLEMENT_NAME} через 3 дня, чтобы ударить вместе."/>
     <string id="se2EXQu8" text="Когда жара такая сильная, у человека может разыграться настоящая жажда."/>
     <string id="seyti8xR" text="Победа!"/>
