@@ -32,7 +32,7 @@
     <string id="lh0so0uX" text="Do you want to load the saved game with different modules?" />
     <string id="lPMYSSAa" text="Tools Required" />
     <string id="mDFhzEMC" text="Max. Hit Points" />
-    <string id="nvemmBZz" text="You earned %{AMOUNT} of the loot and prisoners" />
+    <string id="nvemmBZz" text="You earned {AMOUNT}% of the loot and prisoners" />
     <string id="O9nwLrYp" text="+{WOUNDEDAMOUNT}w" />
     <string id="oBbiVeKE" text="Hit Points" />
     <string id="oHaWR73d" text="Ok" />
@@ -52,5 +52,6 @@
     <string id="xzzSaN4b" text="Expected: {OVERALL_EXPECTED_DENARS}" />
     <string id="yF5fpwNE" text="Total: {TOTAL}" />
     <string id="YgyHVu8S" text="Sold" />
+    <string id="YXgNatqF" text="This save's version doesn't correspond to current game's version. Proceed with caution." />
   </strings>
 </base>

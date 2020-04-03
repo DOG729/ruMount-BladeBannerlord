@@ -60,21 +60,23 @@
     <string id="aROohsat" text="Already in another army." />
     <string id="aTdrjrEh" text="{SWING_DAMAGE_FACTOR}" />
     <string id="aVH7pKnK" text="Next Bonus: {BONUS}" />
-    <string id="AxRxT2Xj" text="Once a party is disbanded, it merges into a near clan party or goes to nearest map faction settlement and joins its garrison.\nYou will not be able to undo/cancel this action.\nAre you sure? TEMP" />
+    <string id="AxRxT2Xj" text="Once a party is disbanded, it merges into a near clan party or goes to nearest map faction settlement and joins its garrison.\nYou will not be able to undo / cancel this action.\nAre you sure?" />
     <string id="B0pFBs5P" text="Running From {TARGET_PARTY}" />
     <string id="bd7oAQq6" text="Daily" />
     <string id="bdp65LWd" text="Clan Role" />
     <string id="bfQLwMUp" text="Clans" />
     <string id="BgqZWbga" text="The nobles of the realm will dislike you for abandoning your fealty. Are you sure you want to leave the Kingdom?" />
     <string id="BifGz0h4" text="Patrolling" />
+    <string id="bnrRzeiF" text="Not Active" />
     <string id="bPFjmYCI" text="{SHOP_NAME} x {SHOP_DIFFERENCE_COUNT}" />
-    <string id="BrY8itaf" text="Your dispatched parties for issues/quests will show up here. They don't count towards your clan's party limit." />
+    <string id="BrY8itaf" text="Your dispatched parties for issues / quests will show up here. They don't count towards your clan's party limit." />
     <string id="C2qpwFq5" text="Owner of {SETTLEMENTS}" />
     <string id="c5eYzHaM" text="{DAYS} {?DAY_IS_PLURAL}Days{?}Day{\?} (%{PERCENTAGE})" />
     <string id="c6e4c8588ca9e42f6e1b47b11f0f367b" text="Length: " />
     <string id="c7638a0869219ae845de0f660fd57a9d" text="Charge Damage: " />
     <string id="c9c5dfed2ca6bcb7a73d905004c97b23" text="Damage: " />
     <string id="ca8b1e8956057b831dfc665f54bae4b0" text="Handling: " />
+    <string id="CaRbMaZY" text="Daily Wage:" />
     <string id="cbbUzYX3" text="Difficulty: {DIFFICULTY}" />
     <string id="CExQ40Ux" text="{PARTY_1S_MEMBERS}   " />
     <string id="cf61cce254c7dca65be9bebac7fb9bf5" text="Arm Armor: " />
@@ -86,8 +88,10 @@
     <string id="DNq9bdvV" text="{THRUST_DAMAGE_FACTOR}" />
     <string id="dO95yR9b" text="Thrust Damage" />
     <string id="Dqydb21E" text=" {PARTY_SIZE}" />
+    <string id="DzviXC3W" text="Level:" />
     <string id="e8390c3480028e34c370c7b60ebc41e2" text="Horse Type: " />
     <string id="ebbyLN2i" text="Towns" />
+    <string id="eikN2SUN" text="Last Run {DAYS} days ago." />
     <string id="EQHq3bHM" text="Travelling to {TARGET_PARTY}" />
     <string id="ErnykQEH" text="Outputs" />
     <string id="eTw2aNV5" text="+" />
@@ -124,6 +128,7 @@
     <string id="idRXFzQ6" text="Already added to the army." />
     <string id="IJdjwXvn" text="Current Level: " />
     <string id="Ioiqzz4E" text="You need to be in an army to boost cohesion" />
+    <string id="ipLqVv1f" text="You cannot invite the ruler's party to your army." />
     <string id="it8oPzb1" text="CriminalRating" />
     <string id="iXXTONWb" text=" ({PARTY_SIZE})" />
     <string id="iZ3w6opW" text="Cohesion" />
@@ -168,6 +173,7 @@
     <string id="NAA4pajB" text="You need to leave your current army to create a new one." />
     <string id="NC9bbrt5" text="End-of-day denars" />
     <string id="NcYbdiyT" text="Change Leader" />
+    <string id="nMcvafHY" text="Active" />
     <string id="NRpbagbZ" text="Running to {TARGET_PARTY}" />
     <string id="nYYUQQm0" text="Swing Damage Factor " />
     <string id="oBbiVeKE" text="Hit Points" />
@@ -208,6 +214,7 @@
     <string id="QyVbwGLp" text="{PARTY_SIZE}" />
     <string id="qZvNIVGV" text="There is no one available in your clan who can lead a party right now." />
     <string id="R2AaCaPJ" text="Expected Change" />
+    <string id="Ra17aK4e" text="Capital:" />
     <string id="Raa4j4rF" text="Required: {UPGRADE_ITEM}" />
     <string id="RClxLG6N" text="Holding" />
     <string id="redwEIlW" text="Quartermaster" />
@@ -222,7 +229,7 @@
     <string id="Sls0KQVn" text="Elections" />
     <string id="slzfQzl3" text="This hero is lost" />
     <string id="Srr4rOSq" text="Transfer All Other Prisoners" />
-    <string id="SVJlOYCB" text="Party has less men then 40% of it's party size limit." />
+    <string id="SVJlOYCB" text="Party has less men than 40% of it's party size limit." />
     <string id="sVsaWZjg" text="Transfer All Other Troops" />
     <string id="sVZaIPoQ" text="Swing Speed" />
     <string id="SzuCFlNq" text="No item selected." />

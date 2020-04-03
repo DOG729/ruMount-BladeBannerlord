@@ -33,7 +33,6 @@
     <string id="8WLSZRZc" text="Very well. What do you propose?" />
     <string id="8x8kVUGX" text="Uphold the rights of the poor and the meek, of the widow and the orphan, and the Heavens will take note." />
     <string id="99gE1ZoY" text="I am {CONVERSATION_CHARACTER.LINK}, of the {FACTION}." />
-    <string id="9Hw333A7" text="(Default intro for famous player. Will try to make sure that this does not occur)" />
     <string id="9ZHhYooG" text="Remember how I beat you, one-on-one? Are you back for more?" />
     <string id="a55SAS18" text="We have the advantage of you. Yield, and you will be well-treated.[ib:warrior][if:idle_angry]" />
     <string id="a5LChqbr" text="The common folk of these lands need someone looking after them. That's where our Brotherhood comes in. You'll hear us called bandits or robbers. Don't believe a word of it." />
@@ -194,7 +193,6 @@
     <string id="ufa20b2l" text="I'll deal with those who keep their oaths. If you're one of those who don't value their word, don't waste my time." />
     <string id="Ufn3916B" text="I've heard about you. So now we meet. I'm not one for talk, so if you have anything to tell me, say it." />
     <string id="v4nyY62z" text="queen of the Sturgians" />
-    <string id="val9QenA" text="(Default intro. Will try to make sure that this does not occur)" />
     <string id="vN4spwD1" text="Know that if you ever cross me, you'll wind up as food for the jackals." />
     <string id="vNnMHR84" text="You do yourself credit, {?PLAYER.GENDER}madame{?}sir{\?}. I shall not forget this.[if:happy][rb:very_positive]" />
     <string id="VOExVZtX" text="I'm sorry. I don't relish bloodshed, but I can't let you ride away to fight another day." />
