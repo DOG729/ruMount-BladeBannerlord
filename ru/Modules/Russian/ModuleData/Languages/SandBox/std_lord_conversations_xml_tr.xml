@@ -4,41 +4,41 @@
     <tag language="Русский"/>
   </tags>
   <strings>
-    <string id="3WjKtaS0" text="Я не командуя ни одного мужчины на данный момент."/>
+    <string id="3WjKtaS0" text="На данный момент в моем отряде никого нет."/>
     <string id="5uCebOUD" text="Мы отдыхаем в {s1}. {s14}{s15}"/>
     <string id="5ypRJiWZ" text="Спасибо за информацию"/>
     <string id="62AkUCOw" text="Почему вы не защищаете..."/>
-    <string id="6rTxjBWe" text="Мы набираем новых солдат из других стран. {s1}. {s14}{s15}"/>
+    <string id="6rTxjBWe" text="Мы набираем новых солдат из {s1}. {s14}{s15}"/>
     <string id="7TIRUaPi" text="Мы путешествуем в {s1}. {s14}{s15}"/>
     <string id="8SUpFvJD" text="Мы отступаем, чтобы {s1}. {s14}{s15}"/>
-    <string id="8VsbaDHu" text="Мы боремся против них {s1}. {s14}{s15}"/>
-    <string id="8xvSu9fX" text="Forgive me {?NPC.GENDER}madame{?}sir{\?}. I don't know what I was thinking."/>
-    <string id="9BblWBGo" text="Если вы ищете действия против наших врагов, вы можете попробовать отважиться на это {s4}. Мы получили известие о том, что некая сила {s5} находится в этом районе, и я сам туда еду. Конечно, я не могу гарантировать вам, что наши враги будут там, когда вы прибудете."/>
+    <string id="8VsbaDHu" text="Мы боремся против {s1}. {s14}{s15}"/>
+    <string id="8xvSu9fX" text="Простите меня, {?NPC.GENDER}мадам{?}сир{\?}. Я даже не знаю, что и думать."/>
+    <string id="9BblWBGo" text="Если вы хотите навредить нашим врагам, то вы можете направиться к {s4}. Мы получили известие о том, что некая сила {s5} находится в этом районе, и я сам туда еду. Конечно, я не могу гарантировать вам, что наши враги будут там, когда вы прибудете."/>
     <string id="b9iOMo1O" text="Я руковожу армией королевства."/>
-    <string id="DyQ18GAX" text="I am screening {s1}'s advance. {s14}{s15}"/>
+    <string id="DyQ18GAX" text="Я проверяю преимущества{s1}. {s14}{s15}"/>
     <string id="fbM7drKO" text="Почему бы вам не осадить..."/>
     <string id="fBt8X6Tw" text="Да? Чего ты хочешь?"/>
-    <string id="gBbIWuDW" text="TODO_OZAN_1 почтовый индекс s43"/>
-    <string id="GnxvoJ38" text="If you are looking for action against our foes, you may join our attack on {s4}. The enemy may come in force to oppose us, so it is good to have as many men as possible."/>
-    <string id="GUIwjFKP" text="Ок, давайте следовать первый ваш совет."/>
+    <string id="gBbIWuDW" text="TODO_OZAN_1 s43"/>
+    <string id="GnxvoJ38" text="Если вы ищете действия против наших врагов, вы можете присоединиться к нашей атаке на {s4}. Враг может вступить в силу, чтобы противостоять нам, так что нужно собрать как можно больше людей."/>
+    <string id="GUIwjFKP" text="Ладно, давай сначала последуем твоему совету."/>
     <string id="gZSdus34" text="Я предлагаю вам один шанс сдаться или умереть."/>
-    <string id="HEJOdRwi" text="Forgive me, {?NPC.GENDER}madame{?}sir{\?}. I don't know what I was thinking."/>
-    <string id="hjZkoJbc" text="I think {ACTION} {SETTLEMENT} is more logical currently, can you help me in doing this. {AMOUNT}{GOLD_ICON}"/>
-    <string id="HKMdHYb7" text="Я стою моей земле. Готовиться к борьбе!"/>
+    <string id="HEJOdRwi" text="Простите меня, {?NPC.GENDER}мадам{?}сир{\?}. Я даже не знаю, что и думать."/>
+    <string id="hjZkoJbc" text="Я думаю {ACTION} {SETTLEMENT} в настоящее время самый логичный вариант, не могли бы вы помочь мне в этом. {AMOUNT}{GOLD_ICON}"/>
+    <string id="HKMdHYb7" text="Я настаивю на своем. Приготовиться к бою!"/>
     <string id="JbWJ7Rxl" text="{POSSIBLE_TARGET}"/>
     <string id="JLXPDR9K" text="Я не знаю: {reg1} {s1} (ERROR)"/>
-    <string id="ltS8zmH8" text="Вы с ума сошли? Я не твой враг."/>
+    <string id="ltS8zmH8" text="Вы с ума сошли? Я не ваш враг."/>
     <string id="M7O3AItb" text="Прости меня. Это ничего не значит."/>
-    <string id="mjoxaNQz" text="If you are looking for action against our foes, you may try venturing out to {s4}. We have received word that a force of the {s5} is in the area. I am not currently headed that way, but others may be.  I cannot guarantee you that our enemies will be there when you arrive, of course."/>
-    <string id="RFkvMoMU" text="We are laying waste to the village of {s1}. {s14}{s15}"/>
+    <string id="mjoxaNQz" text="Если вы ищете действий против наших врагов, вы можете попытаться выйти на {s4}. Нам сообщили, что в этом районе находится сила {s5}. В настоящее время я не направляюсь туда, но там могут быть другие лорды.  Я , конечно, не могу гарантировать, что наши враги будут там, когда вы прибудете."/>
+    <string id="RFkvMoMU" text="Мы грабим деревню {s1}. {s14}{s15}"/>
     <string id="RJbrrM0K" text="{REASON}"/>
     <string id="s61RscYw" text="Где?"/>
     <string id="sSrP56d2" text="Мы ведем разведку в поисках врага вокруг {s1}. {s14}{s15}"/>
-    <string id="UUKIk0WP" text="We are accompanying {s1}. {s14}{s15}"/>
-    <string id="vsxVIDqT" text="Изыди."/>
+    <string id="UUKIk0WP" text="Мы сопровождаем {s1}. {s14}{s15}"/>
+    <string id="vsxVIDqT" text="Прочь отсюда."/>
     <string id="WzipKNWN" text="{s43}"/>
-    <string id="x6qI4aBP" text="Что я делаю? Как он выглядит я делаю?! Я здесь в плену!"/>
-    <string id="YLPPnLMu" text="I am heading to the vicinity of {s1}. {s14}{s15}"/>
-    <string id="ztuhSo8h" text="Почему вы не RAID..."/>
+    <string id="x6qI4aBP" text="Что я делаю? А на что это похоже? На сырая цыпленок?! Идиот! Я здесь заключённый!"/>
+    <string id="YLPPnLMu" text="Я направляюсь к окрестностям {s1}. {s14}{s15}"/>
+    <string id="ztuhSo8h" text="Почему бы тебе не совершить рейд..."/>
   </strings>
 </base>
