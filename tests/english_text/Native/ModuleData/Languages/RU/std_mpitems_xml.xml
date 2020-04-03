@@ -1,0 +1,680 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="English" />
+  </tags>
+  <strings>
+    <string id="07OrsbVH" text="Strong Bolt" />
+    <string id="0bE9MxK4" text="Wrapped Southern Cap" />
+    <string id="0e17RZrZ" text="Arbalest" />
+    <string id="0JCBp5i8" text="Northern Woodsplitter Axe" />
+    <string id="0n0JmWv0" text="Southern Throwing Axe" />
+    <string id="0PSC0Vkf" text="Goggled Helmet Over Leather" />
+    <string id="0Pxq8UqX" text="Highland Cloak" />
+    <string id="0rzKQbWy" text="Steppe Half Barding" />
+    <string id="0SsLGsXk" text="Long Padded Robe" />
+    <string id="12PL4971" text="Northern Lamellar Armor" />
+    <string id="1A57qBlx" text="Highland Long Spear" />
+    <string id="1aotLA6v" text="Highland Pike" />
+    <string id="1bdDdwub" text="Nasalhelm Over Mail" />
+    <string id="1BKD07ab" text="Empire Horseman Boots" />
+    <string id="1blLtbDf" text="Southern Silk Clothing" />
+    <string id="1CPdu9K0" text="Stone" />
+    <string id="1cYka5tR" text="Sleeveless Fur Coat" />
+    <string id="1Fdtj39w" text="Feathered Spangenhelm Over Imperial Coif" />
+    <string id="1GpTOIqU" text="Kettle Helmet Over Padded Coif" />
+    <string id="1LHNLYqc" text="Heavy Scimitar" />
+    <string id="1pjTjmHR" text="MP Test Polearm" />
+    <string id="1RMTBWks" text="Eastern Lance" />
+    <string id="1tABvwsL" text="Long Paramerion" />
+    <string id="1UZGbygw" text="Imperial Long Gambeson" />
+    <string id="1X2X0Qe4" text="Barb Horse" />
+    <string id="1yzNGUJH" text="Imperial Axe" />
+    <string id="2AcfBbCR" text="Military Tunic" />
+    <string id="2BlJHSeu" text="Imperial Leather Armor" />
+    <string id="2fvdbfVL" text="Western Rider's Kite Shield" />
+    <string id="2iaLi16f" text="Highland Hide Helmet" />
+    <string id="2K0o7NK9" text="Southern Lamellar Armor" />
+    <string id="2K1Zv4iv" text="empire_warrior_padded_armor_a" />
+    <string id="2KHcAWiq" text="Kefiyyeh with Cloth Band" />
+    <string id="2m1kWsao" text="Leather Studdedhelm Over Thinhide" />
+    <string id="2Q0m5CG0" text="Desert Cloth Harness" />
+    <string id="2qisE5ys" text="Kettle Helmet Over Padded Cap" />
+    <string id="2VYmGLC6" text="Northern Leather Cap" />
+    <string id="2XEbqNQz" text="Decorated Imperial Gauntlets" />
+    <string id="2xvB6XQP" text="Steppe Tough Horse" />
+    <string id="3BGHFFsL" text="Northern Padded Cloth" />
+    <string id="3bqwOJ8z" text="Upturned Fur Cap" />
+    <string id="3DV3GoHb" text="Pointed Skullcap with Mail" />
+    <string id="3eb3ZyiU" text="Superior Bow" />
+    <string id="3hOPlGlS" text="Imperial Gambeson Over Leather Jacket" />
+    <string id="3iq3rOh8" text="Kettle Helmet Over Arming Coif" />
+    <string id="3TAnl7hb" text="Decorated Eastern Shield" />
+    <string id="3Wzhxkn1" text="Pot" />
+    <string id="3Z91Nxbf" text="Spangenhelm With Leather" />
+    <string id="42KNket2" text="Highland Boots" />
+    <string id="46orXtt0" text="Woodland Garments" />
+    <string id="47Psftp7" text="Northern Maul" />
+    <string id="4a99jSHC" text="Steppe Leather Shoulders" />
+    <string id="4AfHO0BA" text="Sleeveless Studded Fur Armor" />
+    <string id="4BfbPgkY" text="Nasal Cervelliere Over Padded Cap" />
+    <string id="4CPxahsU" text="Eastern Cavalry Mace" />
+    <string id="4DiJ8dfj" text="Western Bastard Axe" />
+    <string id="4gNT4MYk" text="Hunting Arrow" />
+    <string id="4KYF5iCd" text="Layered Leather Tunic" />
+    <string id="4n6n3KL7" text="Desert Headdress" />
+    <string id="4pqIsPhp" text="Padded Short Coat" />
+    <string id="4Q4JVfuT" text="Bearskin" />
+    <string id="4SXHklRU" text="Viking Round Shield" />
+    <string id="4wdgiTta" text="Sickle" />
+    <string id="4xUR2kAj" text="Imperial Heavy Mace" />
+    <string id="4YxbZlbi" text="Wrapped Shoes" />
+    <string id="5bEHZ2z1" text="Imperial Goggled Helmet" />
+    <string id="5DVBFbLV" text="Noble Great Sword" />
+    <string id="5h1qpdoa" text="Imperial Gambeson With Straps" />
+    <string id="5n4rWI9T" text="Spiked Helmet With Facemask" />
+    <string id="5yG2BA6e" text="Lendman Helmet Over Mail" />
+    <string id="5YGP047h" text="Paramerion" />
+    <string id="607BAdXw" text="Western Long Spear" />
+    <string id="6Db7aDbF" text="Ballista Arrows" />
+    <string id="6hwZwODh" text="Glaive" />
+    <string id="6n44BIll" text="Pointed Skullcap Over Laced Coif" />
+    <string id="6qaNQAND" text="Eastern Lamellar Armor" />
+    <string id="6YCbEaHK" text="Northern Round Shield" />
+    <string id="73U5RElj" text="Fur Hat" />
+    <string id="7b8Cwogx" text="Aketon" />
+    <string id="7D3jvAfS" text="Hide Cap" />
+    <string id="7dAy51ln" text="Cervelliere Over Arming Coif" />
+    <string id="7LmUe8fQ" text="Menavlion" />
+    <string id="7R8r1WvR" text="MP Test 2h Axe" />
+    <string id="7rhZlXdO" text="Hunting Longbow" />
+    <string id="7yGwvnUA" text="Northern Tunic" />
+    <string id="7zIWNagP" text="Heavy Ild" />
+    <string id="8cM840mh" text="Northern Luxery Tunic" />
+    <string id="8DnJls9z" text="Steppe Leather Vambraces" />
+    <string id="8hDoWBIa" text="Commoners Shirt" />
+    <string id="8kUwD98O" text="Imperial Studded Strip Shoulders" />
+    <string id="8nNLS96w" text="Reinforced Oval Shield" />
+    <string id="8NnYlbbI" text="Northern Sword" />
+    <string id="8nObGQqW" text="Rhomphaia" />
+    <string id="8qwg1gr3" text="Old Horseman's Kite Shield" />
+    <string id="8r0Z9Hyb" text="Colored Southern Robe" />
+    <string id="8R6kpH2J" text="Southern Robe Over Mail" />
+    <string id="8SNS2wF9" text="Turban" />
+    <string id="8tHbqjmB" text="Peaked Fur Hood" />
+    <string id="8uBew3nD" text="Studded Vambraces" />
+    <string id="8ulJswRY" text="Plated Leather Coat" />
+    <string id="8UMQ8ocB" text="Eastern Cavalry Shield" />
+    <string id="927d3urB" text="Wooden Oval Shield" />
+    <string id="9BENgwRK" text="Roundkettle Over Laced Cloth" />
+    <string id="9cHyHQ7a" text="Lamellar Plate Boots" />
+    <string id="9dlab6XF" text="Eastern Sturdy Armor" />
+    <string id="9DpvaA9n" text="Imperial Arrow" />
+    <string id="9Eyd2qGo" text="Reinforced Suede Boots" />
+    <string id="9FgxK9se" text="Tall Helmet" />
+    <string id="9Gsusawm" text="Western Axe" />
+    <string id="9Hr4oEvw" text="Roundkettle Over Imperial Leather" />
+    <string id="9NW9y1ll" text="Mp Test Mace" />
+    <string id="9pD32UdV" text="Highland Mace" />
+    <string id="9rJ9KpJV" text="Leatherlame Feathered Spangenhelm Over Mail" />
+    <string id="9rXUVscR" text="Tuareg" />
+    <string id="9U4OTWoq" text="Highland Shortsword" />
+    <string id="9XhksMzN" text="Western Spear" />
+    <string id="a1BGHdaU" text="Guarded Armwraps" />
+    <string id="a3vHlztg" text="Plated Strip Gauntlets" />
+    <string id="a4hyzv3f" text="Tarpan" />
+    <string id="a71fiml4" text="Imperial Lamellar" />
+    <string id="a8ycVmwU" text="Bardiche" />
+    <string id="AB1mV5Pg" text="Kettle Helmet Over Laced Coif" />
+    <string id="acufJvyn" text="Long Menavlion" />
+    <string id="AdafHtud" text="Peaked Helmet Over Mail Coif" />
+    <string id="aGkXbDlr" text="Western Mail Shirt" />
+    <string id="agqzAXa9" text="Visored Helmet Over Padded Coif" />
+    <string id="aGvBKCG8" text="Wolfhead" />
+    <string id="aGxtOTB8" text="Highland Axe" />
+    <string id="aHQCG5Tn" text="Chain Barding" />
+    <string id="Ai7qIb9I" text="Small Heater Shield" />
+    <string id="ajifXc8I" text="Plumbata" />
+    <string id="AloILntx" text="Southern Common Harness" />
+    <string id="aO4o9a30" text="Eastern Pike" />
+    <string id="AO5LPmQf" text="Heavy Kontos" />
+    <string id="AobNdBBU" text="Cheap Paddings" />
+    <string id="aPa3Cp4l" text="Imperial Leather Coif" />
+    <string id="aq8lbNZo" text="Trailed Southern Helmet" />
+    <string id="ArPvuBYK" text="Woven Turban" />
+    <string id="at1BEdaS" text="Southern Noble Sword" />
+    <string id="aufKSKLa" text="Southern Padded Cloth" />
+    <string id="Auwoehal" text="Highland Warlord Armor" />
+    <string id="av4ncLDl" text="Imperial Auxiliary Armor" />
+    <string id="aVGSZhCN" text="Pavise Shield" />
+    <string id="AWlrtbep" text="Northern Fish Harpoon" />
+    <string id="aYoIrpe0" text="Strapped Mail Chausses" />
+    <string id="b1pqUQju" text="Segmented Skullcap Over Padded Cloth" />
+    <string id="B8eDrNXG" text="Southern Horseman Armor" />
+    <string id="B8p6E8GJ" text="Tabar" />
+    <string id="bABqOxfT" text="Northern Great Spear" />
+    <string id="BavVxSoC" text="Cheap Colored Clothes" />
+    <string id="bAvyfxIy" text="Guard's Kettle Over Padded Coif" />
+    <string id="bDfKz5SZ" text="Sling" />
+    <string id="BDGbu59Q" text="Jaculan Horse" />
+    <string id="BDkQNwNE" text="Heavy Arrow" />
+    <string id="beMSPAOG" text="Leather Studdedhelm Over Headcloth" />
+    <string id="bGSbaT2n" text="Northern Plated Boots" />
+    <string id="Bl72Ribb" text="Padded Leather Shoulders" />
+    <string id="BLeQnEKZ" text="Leather Boots" />
+    <string id="bQXR1jzG" text="Eastern Noble Helmet with Neckguard" />
+    <string id="brLFIN46" text="Highland Warlord Bracers" />
+    <string id="Bruzcqbm" text="Heavy Glaive" />
+    <string id="brvgn9Ja" text="Eastern Vendel Helmet" />
+    <string id="bT3veT4T" text="Southern Heavy Lance" />
+    <string id="btrf2AXp" text="Baggy Trunks" />
+    <string id="bubcrmTC" text="Nasal Helmet Over Padded Cloth" />
+    <string id="bVzkrtUc" text="Pugio" />
+    <string id="bX3P9X7I" text="Brass Lamellar Shoulders" />
+    <string id="bxa4JHlU" text="Studded Leather Vambraces" />
+    <string id="bYmKOh4p" text="Test Spear" />
+    <string id="bYvKd774" text="Heavy Northern Coat" />
+    <string id="bz5lXkHS" text="Sleeveless Padded Short Coat" />
+    <string id="bzCoIgk7" text="Military Bill" />
+    <string id="bzr6vtXi" text="Heavy Menavlion" />
+    <string id="bzrVXGAl" text="Bronze Feathered Spangenhelm Over Leather" />
+    <string id="bZSQpada" text="Imperial Heavy Axe" />
+    <string id="C7oo0zAY" text="Eastern Steppe Robe" />
+    <string id="c7UNJSNi" text="Woven Leather Shoulders" />
+    <string id="c7zSVihV" text="Western Scale Mail" />
+    <string id="cCaHNMwf" text="Highland Leg Wrappings" />
+    <string id="cEUqPott" text="Southern Long Spear" />
+    <string id="CgG2aRyh" text="Half Scale Barding" />
+    <string id="CJCatm7j" text="Lighter Oaken Kite Shield" />
+    <string id="CLYcnUra" text="Belted Leather Cuirass" />
+    <string id="Cp5aIHqR" text="Northern Lamellar Vest" />
+    <string id="cQMDVJnE" text="Imperial Battle Axe" />
+    <string id="CtJPuRDa" text="Padded Leather Overcoat" />
+    <string id="CtzzoSBc" text="Short Skoldern Twohanded Axe" />
+    <string id="Cw5N7rK6" text="War Courser" />
+    <string id="cwC8Jp99" text="Highland Shoulder Furr" />
+    <string id="CXnhFf1t" text="Reinforced Leather Vambraces" />
+    <string id="D4aYU0md" text="Western Arming Sword" />
+    <string id="d8DrtmwP" text="Visored Helmet Over Mail Coif" />
+    <string id="dacwWKE2" text="Worn Kite Shield" />
+    <string id="Dc4ia4m9" text="Padded Cap" />
+    <string id="dIdtdMFN" text="Highland Scout's Shield" />
+    <string id="Dj64aJKQ" text="Billhook" />
+    <string id="DJjCCQ59" text="battanian_savage_armor" />
+    <string id="dK4f8ArH" text="Imperial Polearm" />
+    <string id="DnhVJl4d" text="Long Desert Robe" />
+    <string id="DoiwC1Qa" text="Mail Chausses" />
+    <string id="DOYS7dmq" text="Strapped Leather Bracers" />
+    <string id="dPQGxmJ7" text="Reinforced Mail Mitten" />
+    <string id="dRLIr22v" text="Imperial Stitched Leather" />
+    <string id="dS4zm0UT" text="Studded Leather Over Aketon" />
+    <string id="DScCbmoS" text="Battania Noble Bracers" />
+    <string id="DToSF1ls" text="Northern Horseman's Shield" />
+    <string id="DuLFJbXJ" text="Eastern Leather With Belt" />
+    <string id="dVekhkIU" text="Fur Coat Over Tunic" />
+    <string id="DWDJ7j4a" text="Southern Lamellar" />
+    <string id="dWr3nuBq" text="Reinforced Ironrimmed Kite Shield" />
+    <string id="dx8dw22j" text="Eastern Spear" />
+    <string id="ea9Z9v5W" text="Northern Cavalry Sword" />
+    <string id="EELLBAbX" text="Highland Scale Armor" />
+    <string id="EfRKaKs0" text="Steppe Fur Harness" />
+    <string id="efW2XbK8" text="Emir's Helmet" />
+    <string id="EKhkmlb6" text="Northern Short Sword" />
+    <string id="ekTny86c" text="Imperial Lamellar Over Leather" />
+    <string id="enrylba2" text="Eastern Short Spear" />
+    <string id="EOz0edW4" text="Steppe Helmet" />
+    <string id="EpkGO9qE" text="Metal Pitchfork" />
+    <string id="eQBDt5Wk" text="Fell Pony" />
+    <string id="eRgqvBKr" text="Eastern Leather Pauldron" />
+    <string id="ESqqwNDd" text="Southern Noble Helmet" />
+    <string id="eTKxlDl1" text="Highland Warlord Boots" />
+    <string id="eWf7bFGo" text="Fur Armor With Strap" />
+    <string id="EWR2MNeM" text="Nasal Helmet With Mail" />
+    <string id="ewSpZ10R" text="Rough Padded Cap" />
+    <string id="EXasg15J" text="Northern Padded Gambeson" />
+    <string id="EXLY9mEb" text="Reinforced Large Round Shield" />
+    <string id="F4xD8gjJ" text="Franceska" />
+    <string id="F9HQABfN" text="Reinforced Wicker Square Shield" />
+    <string id="FAPHmzxQ" text="Thawb" />
+    <string id="Fb7PrJuc" text="Splint Boots" />
+    <string id="fcgDtZy7" text="Eastern Heavy Mace" />
+    <string id="FexNLsO5" text="Imperial Javelins" />
+    <string id="FHakBPXw" text="Hauberk" />
+    <string id="fjel40xl" text="Highland Cavalry Sword" />
+    <string id="fk42FxCE" text="Layered Robe" />
+    <string id="FlikwkEx" text="Imperial Auxiliary Armor With Straps" />
+    <string id="FmN4ryxu" text="Great Sword" />
+    <string id="FOx5vZSJ" text="Armored Bearskin" />
+    <string id="fpC9oEyj" text="Northern Spear" />
+    <string id="fptsl0Qn" text="Kilt Over Plated Leather" />
+    <string id="FsDZC8Yl" text="Full Helm Over Mail Coif" />
+    <string id="FSGtJ7eX" text="Heavy Nasalhelm Over Imperial Leather" />
+    <string id="fUmehyHq" text="Woven Leather Bracers" />
+    <string id="FWFDkjBk" text="Nasal Helmet Over Laced Coif" />
+    <string id="FyXM8Iob" text="Desert Fabric Shoulderpad" />
+    <string id="G40DJB7q" text="Southern Helmet With Mail" />
+    <string id="g51zVsKU" text="Mail Mitten" />
+    <string id="G7AEWZ6c" text="Decorated Oval Shield" />
+    <string id="g7iQsvPw" text="Studded Imperial Neckguard" />
+    <string id="gbUgvsIf" text="Western Noble Sword" />
+    <string id="GghHAbIT" text="Hatchet" />
+    <string id="gKhpLiyg" text="Mail And Plate Barding" />
+    <string id="gLfxeU17" text="Imperial Guarded Lord Helmet" />
+    <string id="GNdVXMue" text="Scarf" />
+    <string id="Goloz0Vm" text="Husnphree" />
+    <string id="gqbjCBld" text="Northern Throwing Axe" />
+    <string id="gSaKwztg" text="Highland Noble Bracers" />
+    <string id="gT8WENO3" text="Dummy Higher Average" />
+    <string id="gTptIfxY" text="Desert Cap" />
+    <string id="GTWUtUFj" text="Chain Horse Harness" />
+    <string id="gUTqDROO" text="Closed Head Scarf" />
+    <string id="gXbmGrGL" text="Decorated Imperial Boots" />
+    <string id="GXmDq2KR" text="Bear Head" />
+    <string id="h3vqV5Qy" text="Northern Leather Tabard" />
+    <string id="H41qKfaL" text="Highland Noble Helmet with Feather" />
+    <string id="h5kfaD4v" text="Charger" />
+    <string id="h6UXvU3B" text="Nasal Cervelliere Over Laced Coif" />
+    <string id="haJdqPIh" text="Eastern Stitched Leather" />
+    <string id="hCBCLp0e" text="Half Mail And Plate Barding" />
+    <string id="hE8s9bpP" text="Curved Round Shield" />
+    <string id="hELN8VXv" text="Torn Robe" />
+    <string id="HEsETRqw" text="Reinforced Horseman's Kite Shield" />
+    <string id="HG2emvr7" text="Southern Robe with Waistband" />
+    <string id="hGYfXIWN" text="Light Javelins" />
+    <string id="hhprIQti" text="Southern Robe with Leather Belt" />
+    <string id="hj563EZr" text="Studded Round Shield" />
+    <string id="HKRGEXqy" text="Ranger Mail" />
+    <string id="Hm61IBcT" text="Tassled Southern Robes" />
+    <string id="ho4bsI3Q" text="Imperial Scale Armor" />
+    <string id="hRHPPQQP" text="Wrapped Headcloth" />
+    <string id="hTRaPvRa" text="Highland Leather Boots" />
+    <string id="hXijcZyp" text="Roughcloth Shortcoat" />
+    <string id="I1faIdpc" text="Brawler" />
+    <string id="i4CfsNGd" text="Imperial Mail Vest" />
+    <string id="i8S2PJB4" text="Highland Gloves" />
+    <string id="I8zNQS7i" text="Skoldern Twohanded Axe" />
+    <string id="iAWzr8Q0" text="Banded Leather Over Mail" />
+    <string id="iBxPawkl" text="Western Military Sickle" />
+    <string id="iD0ePqi7" text="Buttoned Leather Bracers" />
+    <string id="igAT9Eqb" text="Steppe Charger" />
+    <string id="IJjrSbiV" text="Recurve Bow" />
+    <string id="IKhu13vZ" text="Light Round Shield" />
+    <string id="IL34OQpi" text="Northern Long Twohanded Axe" />
+    <string id="Im7wOGaC" text="Northern Belted Tunic" />
+    <string id="iNJr5HOM" text="Awl Pike" />
+    <string id="iPfZpGHK" text="Heavy Oval Shield" />
+    <string id="IPyPb4Dp" text="Northern Goggled Helmet" />
+    <string id="Isioqvt9" text="Highland Cloth" />
+    <string id="isuBaIqQ" text="Ironrim Kite Shield" />
+    <string id="Ita1lG33" text="Leather Bound Kite Shield" />
+    <string id="ITUNob5T" text="Heavy Nasalhelm Over Imperial Mail" />
+    <string id="ITvet7CV" text="Southern Helmet" />
+    <string id="ItZt3amR" text="Eastern Brass Lamellar Over Mail" />
+    <string id="IuD9SaQM" text="Burlap Dress" />
+    <string id="iuh5gSaL" text="Western Mace" />
+    <string id="iVataLxL" text="Leather Strips Over Padded Robe" />
+    <string id="IX3kafcb" text="Iron Spiked Kettle Over Mail" />
+    <string id="iXNJa6sU" text="Southern Leather Shoulderpad" />
+    <string id="J00AF9Qv" text="Woven Leather Boots" />
+    <string id="J1zcabv4" text="Eastern Studded Shoulders" />
+    <string id="J3YHMkL3" text="Padded Mittens" />
+    <string id="J4YgK18g" text="Long Falx" />
+    <string id="j7EZxCiG" text="Old Fur Coat" />
+    <string id="ja2rER65" text="Test Lance" />
+    <string id="jakLnIQv" text="Roughscale Helmet" />
+    <string id="JbTCDDb0" text="Bolt" />
+    <string id="jEHLd5gm" text="Kilij" />
+    <string id="JfPqJbK6" text="Faster Charger" />
+    <string id="jhgVsWKr" text="Tyal Horse" />
+    <string id="Jhshwa48" text="Patched Gambeson" />
+    <string id="jIwjYOVj" text="Ragged Armwraps" />
+    <string id="jjHpXY4d" text="Fur Hood" />
+    <string id="JjLQ2VdT" text="Nasal Cervelliere Over Padded Coif" />
+    <string id="JK7uQLqb" text="Northern Leather Vest" />
+    <string id="JkLoAelJ" text="Mail Shoulders" />
+    <string id="JKRQ8RDA" text="Padded Cloth With Strips" />
+    <string id="jLkVVTJh" text="Eastern Plated Leather Vambraces" />
+    <string id="jOosomBp" text="Hunting Bolt" />
+    <string id="joroqAbR" text="Flyssa" />
+    <string id="Jpt1WvTM" text="Guard's Kettle Over Laced Coif" />
+    <string id="JslRu3rX" text="Crude Eastern Leather Armor" />
+    <string id="JSnElr9e" text="Decorated Steppe Shield" />
+    <string id="JTrZ8ugB" text="Roundkettle Over Imperial Mail" />
+    <string id="K1UFTirG" text="Light Crossbow" />
+    <string id="K2xGw3Oo" text="Dummy Lower Average" />
+    <string id="kanUXCLc" text="Highland Villager Tunic" />
+    <string id="KaZY0Ixp" text="Highland Tunic" />
+    <string id="KBrDpNxO" text="Long Bow" />
+    <string id="Kd5lgqee" text="Ironlame Feathered Spangenhelm Over Mail" />
+    <string id="Kgnm0FkE" text="Leather Shoes" />
+    <string id="KHFQdxvL" text="Heavy Northern Tunic" />
+    <string id="KIxX6dH2" text="Rough Fur Over Chain" />
+    <string id="Kj68cfhA" text="Imperial Lamellar Shoulders" />
+    <string id="KKWEkA4P" text="Rough Bearskin" />
+    <string id="kmdjRAoG" text="Laced Cloth Coif" />
+    <string id="kOV5t7Yx" text="Danustica Horse" />
+    <string id="KpyTaAwL" text="Highland Plated Noble Helmet" />
+    <string id="KTgoHtjk" text="Eastern Short Sickle" />
+    <string id="kweDHlz8" text="Western Crowned Plated Helmet" />
+    <string id="kXnthXUi" text="battania_cloak_furr" />
+    <string id="KZaOi3c4" text="Leatherlame Nasalhelm Over Imperial Leather" />
+    <string id="KZmZ9HXW" text="Brass Scale Shoulders" />
+    <string id="L0aYVd65" text="Commoners Tunic" />
+    <string id="l2j9CAQn" text="Bastard Sword" />
+    <string id="l69aXkKH" text="Push Fork" />
+    <string id="L8ymiEab" text="Northern Twohanded Axe" />
+    <string id="l91l1TJo" text="Colored Turban" />
+    <string id="LaKFAU1V" text="Imperial Mail Over Leather" />
+    <string id="Lbm7asY3" text="Tall Heater Shield" />
+    <string id="lbVB6KPl" text="Hood" />
+    <string id="Ldqb9oAF" text="Highland Warlord Pauldrons" />
+    <string id="LgftnHPs" text="Woven Leather Vest" />
+    <string id="lIJ1EVBh" text="Leather Gloves" />
+    <string id="ln6ZboT7" text="Northern Sloven Leather" />
+    <string id="loHYOJA9" text="Northern Lord Helmet With Open Mail Coif" />
+    <string id="LOPavWRp" text="Strapped Shoes" />
+    <string id="lPjU7YbH" text="Southern Twohanded Sword" />
+    <string id="LqA9uBH9" text="Pointed Skullcap Over Cloth Headwrap" />
+    <string id="LQAbI9bm" text="Western Bastard Longsword" />
+    <string id="lspv3mUE" text="Studded Steppe Barding" />
+    <string id="Lt8nT1hb" text="Lamellar Shoulders" />
+    <string id="LWbJKKK1" text="Northern Noble Harness" />
+    <string id="LwxELoZL" text="Highland Half Scaled Horse Harness" />
+    <string id="lwxOPEPx" text="Gladius" />
+    <string id="lZ93DOrn" text="Sleeveless Padded Coat" />
+    <string id="M2wvaObX" text="Spatha" />
+    <string id="m3Nv9rt2" text="Plumed Nomad Helmet" />
+    <string id="m9WHH6cq" text="Northern Short Spear" />
+    <string id="MamotK0a" text="Padded Vambrace" />
+    <string id="maYSspDY" text="Roundkettle Over Imperial Cloth" />
+    <string id="Mb1hQRyT" text="Desert Oval Shield" />
+    <string id="Mb9DaXHm" text="Highland Twohanded Sword" />
+    <string id="Mc6IC6UM" text="Buckled Wildsman Armor" />
+    <string id="mDHMOUdx" text="Footman's Wicker Shield" />
+    <string id="mFbFEOVz" text="Northern Fur Cap" />
+    <string id="mkoMUmLh" text="Burlap Waistcoat" />
+    <string id="MKT5IzWm" text="Thick Sleeved Robe" />
+    <string id="mlJKNbbn" text="Leather Coif" />
+    <string id="mMGfhc3M" text="Highland Noble Armor" />
+    <string id="MnJvp0Tq" text="mp_light_armor" />
+    <string id="MPyugmha" text="Highland Spiked Mace" />
+    <string id="MQ8LCvCE" text="Tied Cloth Tunic" />
+    <string id="Mr06Juj5" text="Eastern Stitched Leather Coat" />
+    <string id="mRGIxvYh" text="Nasal Cervelliere Over Mail Coif" />
+    <string id="mScuLsnl" text="Yeow Long Bow" />
+    <string id="MUdwS6jH" text="Tougher Tyal Horse" />
+    <string id="MvvlKO0U" text="Iron Feathered Spangenhelm Over Leather" />
+    <string id="mXQsNAmZ" text="Bodkin Arrow" />
+    <string id="n6EbRo6h" text="Northern Cavalry Axe" />
+    <string id="ndfDy5B8" text="Tied Head Wrapping" />
+    <string id="newiAaR9" text="Decorated Goggled Helmet" />
+    <string id="nhoDWrVf" text="MP Test 2h Sword" />
+    <string id="NKZ0P4aU" text="Western Long Lance" />
+    <string id="nmLZEjYg" text="MP Test 2h Mace" />
+    <string id="nPSYRs2Q" text="Test Pike" />
+    <string id="Nqa2maO2" text="Woven Leather Coat" />
+    <string id="NSo8tGhT" text="Highland Lance" />
+    <string id="NTPmtaaN" text="Red Coat Over Mail" />
+    <string id="NUHzapSv" text="Long Hemp Tunic" />
+    <string id="NUmDuEqI" text="Imperial Riding Harness" />
+    <string id="NVV1j1E4" text="Western Gambeson" />
+    <string id="o0ZuY9Ux" text="Western Leather Coat" />
+    <string id="o24Fpzvu" text="Studded Steppe Leather" />
+    <string id="O37kzdXO" text="Light Harness" />
+    <string id="O4agNHhn" text="Agile Barb Horse" />
+    <string id="OEbGMbG2" text="Highland Scaled Horse Harness" />
+    <string id="oEJnxsQ1" text="Armwraps" />
+    <string id="OeKwbpM7" text="Steppe Saddle Horse" />
+    <string id="oEvhhNNR" text="Leather Cavalier Boots" />
+    <string id="OEyuUWji" text="Eastern Wrapped Armguards" />
+    <string id="OGqTKRVm" text="Bamboo Lance" />
+    <string id="oGVGhYeP" text="Eastern Steppe Armor" />
+    <string id="oH8iFEv7" text="Folded Town Boots" />
+    <string id="OhEQUMk0" text="Wide Heater Shield" />
+    <string id="ojhEwC8M" text="Northern Brass Lamellar Over Mail" />
+    <string id="oknFNEOC" text="Northern Axe" />
+    <string id="OL1oJ9j5" text="Dale Pony" />
+    <string id="olamAwhb" text="Nasal Helmet Over Cloth Headwrap" />
+    <string id="OM9achAa" text="Reinforced Oaken Kite Shield" />
+    <string id="omLMiX89" text="Stitched Leather Over Mail" />
+    <string id="ONaWEKSy" text="Nasalhelm Over Leather" />
+    <string id="Oo0baNaq" text="Rough Tied Boots" />
+    <string id="OrEgjXZ1" text="Roughspun Kefiyyeh" />
+    <string id="OzUsuoDO" text="Northern Helmet" />
+    <string id="p2EYQDBl" text="Southern Cavalry Mace" />
+    <string id="p6NIgRpk" text="Roughhide Cap" />
+    <string id="P8GrNSkF" text="Segmented Skullcap Over Mail Coif" />
+    <string id="p949oNWk" text="Coat of Plates Over Mail" />
+    <string id="pEaYQqG9" text="Wicker Square Shield" />
+    <string id="PF7sPCYq" text="Javelins" />
+    <string id="PL5SG9hI" text="Leather Scale Armor" />
+    <string id="PLtQdf23" text="Reinforced Padded Mittens" />
+    <string id="pmabPgC0" text="Tribal Steppe Shield" />
+    <string id="PMhDAJO0" text="Southern Axe" />
+    <string id="PTKyNh2O" text="Legionary Mail" />
+    <string id="PVgSGCYK" text="Nasal Helmet Over Mail Coif" />
+    <string id="PVQLXEOd" text="Fast Arrow" />
+    <string id="pyupZxJK" text="Kontos" />
+    <string id="pzfbPbWW" text="Boulder" />
+    <string id="PZPphq6H" text="Steppe Warhorse" />
+    <string id="q1z4FQub" text="Camel Saddle" />
+    <string id="Q2PseaBn" text="Layered Southern Robe" />
+    <string id="q4iQapMS" text="Highland Rider's Shield" />
+    <string id="Q50hfNjW" text="Thinhide Coif" />
+    <string id="QaKohN0V" text="Imperial Mail Over Stripped Leather" />
+    <string id="QaysED62" text="Tunic With Rolled Cloth" />
+    <string id="Qazvdg1P" text="Imperial Cloth Coif" />
+    <string id="qc0P0b2r" text="Goggled Helmet Over Mail" />
+    <string id="qEcDWNci" text="Barbed Arrow" />
+    <string id="qFL0VxZX" text="Laced Coif" />
+    <string id="qILO0HdK" text="Sleeveless Enveloped Padded Garments" />
+    <string id="QLcP8bIs" text="Falx" />
+    <string id="qN1W8SlD" text="Western Cavalry Mace" />
+    <string id="qo8hwDNU" text="Rough Fur Armor" />
+    <string id="qOfuxNxR" text="Southern Studded Leather Coat" />
+    <string id="qPtTeXv7" text="Western Cavalry Sword" />
+    <string id="qsVRoGUv" text="Open Head Scarf" />
+    <string id="qT6jIu3v" text="Fur Skirt With Tunic" />
+    <string id="QUGDr6Te" text="Scimitar" />
+    <string id="QVGL3eB0" text="Open Desert Helmet" />
+    <string id="qVj5NqrL" text="Full Helm Over Padded Cap" />
+    <string id="qw2oyv1j" text="Woodland Chainmail" />
+    <string id="QX2pp6jX" text="Imperial Gambeson With Skirts" />
+    <string id="QxzcuhmA" text="Leopard Pelt" />
+    <string id="r07M9xbT" text="Heavy Crossbow" />
+    <string id="r8arrfux" text="Southern Spear" />
+    <string id="rabNzmeh" text="Eastern Long Spear" />
+    <string id="radJHwRW" text="Heavy Horseman's Kite Shield" />
+    <string id="RCq6DcvS" text="Northern Long Spear" />
+    <string id="rdIGpLLh" text="Courser" />
+    <string id="RF7uVEGp" text="Bamboo Spear" />
+    <string id="rifv0h0H" text="Northern Cavalry Kite Shield" />
+    <string id="rOpxDHXL" text="Eastern Leather Lamellar Armor" />
+    <string id="RsIImqXA" text="Eastern Infantry Club" />
+    <string id="RTIzskq1" text="Lendman Helmet Over Full Mail" />
+    <string id="RtlqkbZ9" text="MP Test Axe" />
+    <string id="RWKafLdU" text="Eastern Curved Boots" />
+    <string id="rzhIJ8Yh" text="Pilgrim Hood" />
+    <string id="S0IkfoDo" text="Eastern Plated Leather" />
+    <string id="S9htzkbe" text="Merchant's Hat" />
+    <string id="Se3La8Aq" text="Southern Heavy Mace" />
+    <string id="sfPB9ro3" text="Decorated Northern Hauberk" />
+    <string id="SGa04hNj" text="Western Heavy Lance" />
+    <string id="SHZ0P7Iu" text="Padded Leather Cape" />
+    <string id="siuuhU6b" text="Bronze Nasalhelm Over Imperial Mail" />
+    <string id="sJ1R62Tn" text="Plumed Helmet" />
+    <string id="smKogclC" text="Sackcloth Tunic" />
+    <string id="spcj3XIw" text="Wrapped Kefiyyeh" />
+    <string id="sQAXkEQ7" text="Southern Mail Coif" />
+    <string id="SqbWZS5a" text="Steppe Arrow" />
+    <string id="SRZzySbP" text="Highland Woodland Boots" />
+    <string id="SYvBTD0p" text="Full Helm Over Cloth Headwrap" />
+    <string id="Szuxa9Bs" text="Ragged Boots" />
+    <string id="t1HEYuSD" text="Bound Adarga" />
+    <string id="TbbFLhmu" text="Southern Pike" />
+    <string id="TDCn5dar" text="Imperial Padded Shoulders" />
+    <string id="TfDFlmpb" text="Loathsome Fur Armor" />
+    <string id="TFT2Xapz" text="Peaked Helmet Over Padded Cloth" />
+    <string id="TGpFbISX" text="Leather Studded Helm" />
+    <string id="tiSffNik" text="Ironlame Feathered Spangenhelm Over Leather" />
+    <string id="tiTTWhpW" text="Padded Leather Shirt" />
+    <string id="Tj1Zb47Q" text="Steppe Leather Boots" />
+    <string id="TjoKgbV6" text="Closed Goggled Helmet" />
+    <string id="tKODIU0F" text="Leather Lamellar Shoulders" />
+    <string id="TmJubG8W" text="Battania Shoulder Strap Cloak" />
+    <string id="tMLH04n4" text="Kettle Hat Over Mail Coif" />
+    <string id="tMwsE9IR" text="Strapped Leather Boots" />
+    <string id="TpjbgasA" text="Northern Warlord Helmet" />
+    <string id="tpQLvMSM" text="Nasal Helmet Over Mail" />
+    <string id="TsGFHbqp" text="Southern Scale Armor" />
+    <string id="TTWL7RLe" text="Crossbow" />
+    <string id="tUrtBG0y" text="Southern Mace" />
+    <string id="TV02bZ4t" text="Worn Horseman's Kite Shield" />
+    <string id="tVyuxl8e" text="Ragged Robes" />
+    <string id="tWfAPrPa" text="Mail Cavalier Boots" />
+    <string id="TxAYmCjr" text="Nasal Helmet With Leather" />
+    <string id="tXbRb3QO" text="Studded Fur Armor" />
+    <string id="TziEtAIK" text="Vlandia Chainmail" />
+    <string id="u2QRZy2x" text="Mp Testing Sword" />
+    <string id="U4n0uSlg" text="Tight Head Scarf" />
+    <string id="u6c9yIXF" text="Southern Short Padded Robe" />
+    <string id="U8QfF3Gw" text="Long Woolen Tunic" />
+    <string id="ubplQTXa" text="Southern Ringmail Shoulder" />
+    <string id="uDrT6v7a" text="Western Cloth Tunic" />
+    <string id="uEcbnd5D" text="Round Shield" />
+    <string id="uEPRE33m" text="Rough Tied Bracers" />
+    <string id="uF4IqQIK" text="Kaskara" />
+    <string id="UG8aeEQH" text="Imperial Warhorse" />
+    <string id="UHcXARc6" text="Ild" />
+    <string id="ukQCN90m" text="Eastern Leather Boots" />
+    <string id="uLpnmNkZ" text="Leather Cap" />
+    <string id="umnHnAqH" text="Eastern Throwing Spear" />
+    <string id="UoHZGyZa" text="Helmet With Faceguard" />
+    <string id="uqO6e6vN" text="Kite Shield" />
+    <string id="uUGAMReu" text="Fine Town Boots" />
+    <string id="UvJDlhMq" text="Eastern Cap" />
+    <string id="uvmmBd41" text="Bound Desert Round Shield" />
+    <string id="UvOa4elc" text="Green Hood" />
+    <string id="UWPEu577" text="Northern Brass Bracers" />
+    <string id="UxTD6XGA" text="Wrapped Scarf" />
+    <string id="uZ1sIlSQ" text="Eastern Plated Leather Vest" />
+    <string id="v1CIJWs1" text="Highland Javelin" />
+    <string id="v23z53yg" text="Nasal Helmet" />
+    <string id="v3lIxLvX" text="Pila" />
+    <string id="v9xUFyLk" text="Eastern Studded Leather" />
+    <string id="vAQJvloo" text="Long Spatha" />
+    <string id="VbAHQ1BS" text="Long Fur Coat" />
+    <string id="vbd9jYmB" text="Highland Spear" />
+    <string id="vbOjUu9M" text="Spiked Kettle Over Imperial Padding" />
+    <string id="vbPBXiPC" text="Rich Tunic" />
+    <string id="VcbEaV7T" text="Kettle Helmet Over Padded Cloth" />
+    <string id="Vdi0vZV7" text="Highland Cape" />
+    <string id="VDMkVMxt" text="Heavy Mail Mittens" />
+    <string id="VEufDIXI" text="Western Lance" />
+    <string id="vh1x8VWw" text="Imperial Mace" />
+    <string id="VIVfoHRj" text="Ash Throwing Spear" />
+    <string id="vK7J7ci5" text="Western Short Sword" />
+    <string id="VMqzvfDO" text="Eastern Strapped Lamellar Armor" />
+    <string id="vNNMGllv" text="Northern Plated Gloves" />
+    <string id="vOStJZya" text="mp_heavy_armor" />
+    <string id="VRP5Q4mU" text="Southern Ring Mail" />
+    <string id="VrZJfOFN" text="Highland ThrowingKnife" />
+    <string id="vsavMoLZ" text="Segmented Cervelliere Over Padded Cloth" />
+    <string id="VSMpadvq" text="Fur Armor" />
+    <string id="vU1ibFrY" text="Eastern Reinforced Armor" />
+    <string id="vw9qbiER" text="Steppe Harness" />
+    <string id="vwVFF1XJ" text="Highland Fur Boots" />
+    <string id="VXER7AbJ" text="Imperial Lord Helmet" />
+    <string id="VXg9zMvW" text="Western Long Arming Sword" />
+    <string id="VylHwqVq" text="Segmented Skullcap Over Laced Coif" />
+    <string id="VyOsYv8J" text="Long Southern Robe" />
+    <string id="w6j8Oaai" text="Armored Baggy Trunks" />
+    <string id="WahziEXA" text="Wrapped Leather Boots" />
+    <string id="wBfGpcCO" text="Kettle Hat Over Padded Cloth" />
+    <string id="wEfZyccm" text="Full Helm Over Laced Coif" />
+    <string id="wEJAab0A" text="Northern Cap" />
+    <string id="WH7bbK6G" text="Western Padded Coat" />
+    <string id="whvMZZba" text="Guarded Padded Vambrace" />
+    <string id="WiPJqTXv" text="Closed Desert Helmet" />
+    <string id="wKucIANJ" text="Leather Coat Over Cloth" />
+    <string id="wltdyF2j" text="Hunting Bow" />
+    <string id="WMqHlEvb" text="Segmented Cevelliere Over Mail Coif" />
+    <string id="Wo5RbJia" text="Highland Woodland Cloak" />
+    <string id="WOzcBg62" text="Reinforced Northern Fish Harpoon" />
+    <string id="wrM9Km0n" text="Highland Horse Harness" />
+    <string id="WrwO8xsN" text="Stitched Leather Shoulders" />
+    <string id="WST7ftTa" text="Northern Coat Of Plates" />
+    <string id="wSUN0Dmo" text="Dummy Max Armor" />
+    <string id="WsUvpBwM" text="Fast Short Bow" />
+    <string id="WvDZMmaj" text="Nomad Helmet" />
+    <string id="WXjQNIJW" text="Loose Wrapped Desert Helmet" />
+    <string id="WYFDXE82" text="Large Round Shield" />
+    <string id="WYytQbvS" text="Full Helm Over Arming Coif" />
+    <string id="X1Wn0sBa" text="Leather Studdedhelm Over Roughscale" />
+    <string id="X68QNK1C" text="Highland Twohanded Woodcutter's Axe" />
+    <string id="xa7KRSCy" text="Stitched Leather Vest" />
+    <string id="XazcYatD" text="Imperial Nasal Helm" />
+    <string id="xb2tMFSz" text="Short Bow" />
+    <string id="xBLOuqFO" text="long cape test" />
+    <string id="xGhFPu4d" text="Northern Heavy Axe" />
+    <string id="XGX6DbFL" text="Lamellar Plate Gauntlets" />
+    <string id="XH9f3yOX" text="Fur Waistcoat Over Tunic" />
+    <string id="xjrQHxnO" text="Northern Lance" />
+    <string id="xl5MgK49" text="Sturgia Heavy Cavalry Helmet" />
+    <string id="xnDWqYKW" text="Hunter" />
+    <string id="XOC81pVz" text="Closed Desert Helmet With Mail" />
+    <string id="xODbCO6k" text="Composite Bow" />
+    <string id="XoISdMVx" text="Eastern Noble Helmet with Fur" />
+    <string id="XOvg9rbg" text="Southern Archer Armor" />
+    <string id="xS7m37o7" text="Pointed Skullcap Over Mail" />
+    <string id="Xs8a5YxN" text="Southern Lord Helmet" />
+    <string id="XTqplCsv" text="Northern Hauberk" />
+    <string id="XU9WgcIO" text="Reinforced Suede Armor" />
+    <string id="xUKpvFej" text="Western Hammer" />
+    <string id="XXkrprRu" text="Highland Longsword" />
+    <string id="xYUHruEl" text="Highland Hood" />
+    <string id="XZAAz7NX" text="Empire Short Tunic" />
+    <string id="y0BbwZST" text="Highland Noble Twohanded Sword" />
+    <string id="y3oIzUEp" text="Tunic With Shoulder Pads" />
+    <string id="y3RNBGtv" text="Imperial Cavalry Mace" />
+    <string id="y9uMjAKT" text="Reinforced Suede Shoulders" />
+    <string id="YAOfXanz" text="Northern Lord Helmet" />
+    <string id="YAYhozbN" text="Steppe Horse" />
+    <string id="ybpZdt9S" text="Northern Layered Cloth" />
+    <string id="YDibTDob" text="Highland Crowned Helmet" />
+    <string id="YEUFtX4G" text="Wolf Shoulder" />
+    <string id="YfB0SJqY" text="White Tabard Over Mail" />
+    <string id="yFjmkALW" text="Northern Leather Tabard Over Mail" />
+    <string id="ygfhbfr0" text="Spiked Helmet" />
+    <string id="Yh7Dorsr" text="Striped Leather Harness" />
+    <string id="yMi4ijgI" text="Nomad Padded Hood" />
+    <string id="Yms2FQ7g" text="Halfchain Barding" />
+    <string id="YMtHkAUj" text="Eastern Thick Coat" />
+    <string id="YNkPRmSj" text="Northern Mace" />
+    <string id="yOaVS5AH" text="Ridged Northernhelm" />
+    <string id="yPeC0Vgs" text="Nahasan" />
+    <string id="YqhOxb1Z" text="Plumed Lamellar Helmet" />
+    <string id="yQqsd0bh" text="Imperial Bolt" />
+    <string id="yTWOMSmv" text="Hemp Tunic" />
+    <string id="YUWhHQmz" text="Ironlame Feathered Spangenhelm" />
+    <string id="Z6Ak3H6G" text="Jereed" />
+    <string id="z6eTba5h" text="Heavy Nasalhelm Over Laced Cloth" />
+    <string id="Z9RlnXrD" text="Fur Skirt" />
+    <string id="zAvb7WKe" text="Segmented Skullcap Over Padded Coif" />
+    <string id="zbsajPMp" text="Voulge" />
+    <string id="zcDjjqjB" text="Highland Bastard Sword" />
+    <string id="ZFde57gC" text="Rugged Highland Saddle" />
+    <string id="ZFETxZKP" text="Kefiyyeh With Silken Band" />
+    <string id="zGXZJFOb" text="Lamellar With Scale Skirt" />
+    <string id="ZjAZNjvu" text="Northern Ring Barding" />
+    <string id="zKJtr0MV" text="Makeb Horse" />
+    <string id="zmEnxUpL" text="Imperial Scale Barding" />
+    <string id="zNoDVcHg" text="Trotter" />
+    <string id="ZOoxd36t" text="Highland Mercenary Armor" />
+    <string id="ZRDoABz9" text="Plumed Fur Lined Helmet" />
+    <string id="ZV1bKLUn" text="Kettle Helmet With Leather" />
+    <string id="ZvMcHde3" text="Pickaxe" />
+    <string id="Zx4h7jDy" text="Dummy Min Armor" />
+    <string id="zZ2G7uIO" text="Kettle Helmet Over Mail" />
+  </strings>
+</base>

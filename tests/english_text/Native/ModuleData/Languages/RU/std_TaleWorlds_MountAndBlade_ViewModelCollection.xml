@@ -1,0 +1,187 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="English" />
+  </tags>
+  <strings>
+    <string id="0647tsif" text="Profile" />
+    <string id="2Q6Mm9Jo" text="Gamepad Options" />
+    <string id="2zcrC0h1" text="Gameplay" />
+    <string id="3CpNUnVl" text="Cancel" />
+    <string id="3CsACce8" text="Exit" />
+    <string id="4Dd2xgPm" text="Weight" />
+    <string id="4NaOKslb" text="-" />
+    <string id="4OGDnOVE" text="with {OPPONENT_NAME}" />
+    <string id="5baU17n0" text="Matchmaking feature is currently disabled" />
+    <string id="5k4dxUEJ" text="Troops" />
+    <string id="5Pea977J" text="Faction: " />
+    <string id="5UJJLzaL" text="Players searching with your criteria: " />
+    <string id="5Z0pvuNL" text="Level {LEVEL}" />
+    <string id="61isYVW0" text="Player {USER_NAME} is not found" />
+    <string id="6GSXsdeX" text="Speed" />
+    <string id="6MQaCah5" text="Join a Game" />
+    <string id="6Pjb3Rya" text="Polls are not enabled" />
+    <string id="6syoutpV" text="From {WHISPER_TARGET}" />
+    <string id="74PKmRWJ" text="Flip Hair" />
+    <string id="7qySRF2T" text="Ping" />
+    <string id="8nJFaJio" text="Password" />
+    <string id="AaAcmalE" text="You've been invited to join a party by" />
+    <string id="aB4Md0if" text="Has players" />
+    <string id="ahiBhAqU" text="Armor" />
+    <string id="aO3avkK9" text="Matchmaking Disabled" />
+    <string id="ApD0xQXT" text="{STR1}: {STR2}" />
+    <string id="aRzlp5XH" text="CREATE" />
+    <string id="aVixswW5" text="Team Selection" />
+    <string id="b31ITmm0" text="Stack Amnt." />
+    <string id="b9PT1Yxc" text="Select a game type" />
+    <string id="BAaS5Dkc" text="Apply" />
+    <string id="bIcFZT6L" text="Eyebrow Type" />
+    <string id="bON4Kn6B" text="Auto Assign" />
+    <string id="BrYUHFsg" text="CHOOSE GAME" />
+    <string id="bsiRNJtk" text="{NAME}:" />
+    <string id="cDzWYQrz" text="Reset to default settings?" />
+    <string id="chfTxqZg" text="Invalid command." />
+    <string id="cK5DE88I" text="N/A" />
+    <string id="cLJdeUWz" text="Height:" />
+    <string id="D0TbQm4r" text="BREACHED" />
+    <string id="d5SNB0HV" text="Pick {ITEM_NAME}" />
+    <string id="DAVb2Pzg" text="Charge Dmg." />
+    <string id="Dbkx4v90" text="ROUND LOST" />
+    <string id="DdOgvhsV" text="Kick" />
+    <string id="DKqLY1aJ" text="Equip" />
+    <string id="DmaP2qaR" text="Skin Type" />
+    <string id="dMdmyb3Y" text="Password Protected" />
+    <string id="DoDZGYf6" text="Select a poll type" />
+    <string id="DQvGNQ0g" text="There isn't any unit under command." />
+    <string id="eCOJSSUH" text="({BOT_COUNT} Bots)" />
+    <string id="eGuQKRhb" text="You are leaving the area!" />
+    <string id="Etjqamlh" text="{PLAYER_COUNT} Players" />
+    <string id="EUAKPHek" text="Build:" />
+    <string id="F7dBjl83" text="Custom Battle feature is currently disabled" />
+    <string id="FD7EQDmW" text="Looking for game" />
+    <string id="ffjTMejn" text="Stats" />
+    <string id="fM9E7frB" text="Performance" />
+    <string id="FRSGOfUJ" text="Toggle include Combat Log" />
+    <string id="ftoSCQ0x" text="Length" />
+    <string id="g1lgiwn1" text="Not Logged In" />
+    <string id="G6hYIR5k" text="Voice Pitch:" />
+    <string id="gcl2duJH" text="Reset your badge" />
+    <string id="GGseMDd3" text="Durability" />
+    <string id="GMhOZGnb" text="Cannot issue order while dead." />
+    <string id="GmU1to3Y" text="Statistics" />
+    <string id="gqNxq11A" text="Objectives" />
+    <string id="GXosklej" text="Casual" />
+    <string id="gzdNEM76" text="Create a Game" />
+    <string id="H1emUb6k" text="Age:" />
+    <string id="hazebV8x" text="Customize Character" />
+    <string id="hbwp3g3k" text="+{FRIEND_COUNT}\n{?PLURAL}friends{?}friend{\?}" />
+    <string id="Hp2wp3et" text="Accept (F1)" />
+    <string id="HXxNfncd" text="End of Battle" />
+    <string id="i0OEsfLt" text="Custom Battle Disabled" />
+    <string id="IBEJPlEj" text="Home" />
+    <string id="Ie9I2Bha" text="Thrust Dmg." />
+    <string id="iKtIhlbo" text="Rounds" />
+    <string id="IlQnJsUp" text="Flags Captured:" />
+    <string id="iLUiaRsj" text="Your" />
+    <string id="iNqucBor" text="Logging In" />
+    <string id="J0vjDOFO" text="Thrust Spd." />
+    <string id="Jd44GGJW" text="{TEAM} team had the upper hand at timeout" />
+    <string id="JKCounzE" text="Video" />
+    <string id="JPimShCw" text="Game Type" />
+    <string id="jy9orOJz" text="Play" />
+    <string id="jZ6GblZu" text="Favorite" />
+    <string id="K1Gb5a5Q" text="You need to run the game with Anti-cheat" />
+    <string id="K9XhWUQi" text="Reject (F2)" />
+    <string id="kftE5nvv" text="Horse Armor" />
+    <string id="kG0xuyfE" text="Armory" />
+    <string id="koX9okuG" text="None" />
+    <string id="l2CNxPXG" text="Teeth Type" />
+    <string id="LlrlE199" text="You can still deploy siege engines.\nBegin anyway?" />
+    <string id="LrE2cUnG" text="Currently Disabled" />
+    <string id="lugGPVOb" text="Login" />
+    <string id="lWDq0Uss" text="JOIN" />
+    <string id="macpKFaG" text="Voice" />
+    <string id="mAxXKaXp" text="Reset" />
+    <string id="meFS5F4V" text="-{DAMAGE}" />
+    <string id="Met1U45t" text="Mouse and Keyboard" />
+    <string id="MsAb6hed" text="{TEAM} team was wiped out" />
+    <string id="NaZ6xg33" text="Couldn't find an applicable server to join." />
+    <string id="nFvVw68B" text="Invite to Party" />
+    <string id="NJolh9ye" text="Последние игры" />
+    <string id="NLKmdNbt" text="Search" />
+    <string id="NqarFr4P" text="Настройки" />
+    <string id="NUSH5bJu" text="{EXPERIENCE} xp to next level" />
+    <string id="oBbiVeKE" text="Hit Points" />
+    <string id="oHaWR73d" text="Ok" />
+    <string id="oibdTnXP" text="Handling" />
+    <string id="OSoAVlqc" text="Equipped" />
+    <string id="OVcoYxj1" text="Server Name" />
+    <string id="OwqFpPwa" text="Filters" />
+    <string id="P7moPm3F" text="Set as party leader" />
+    <string id="pguhTmXw" text="Battle Results" />
+    <string id="pSheKLB4" text="Spectator" />
+    <string id="Q50X65NB" text="Classes" />
+    <string id="qaycA9YY" text="Total Commendations:" />
+    <string id="QDNcl3DH" text="Party Invitation" />
+    <string id="qe46yXVJ" text="LOCKED FOR BALANCE" />
+    <string id="qFPBhVh4" text="Refresh" />
+    <string id="QfTt7YRB" text="Fire Rate" />
+    <string id="qXxpITdc" text="Eye Color:" />
+    <string id="R28ac5ij" text="{NUMBER} Players" />
+    <string id="r5WzivPb" text="Round Time" />
+    <string id="Rc95Kq8r" text="Please wait..." />
+    <string id="RCuCoVgd" text="ROUND WON" />
+    <string id="RfXJdNye" text="Players" />
+    <string id="rg7OuWS2" text="Maneuver" />
+    <string id="RNgWFLIO" text="Swing Dmg." />
+    <string id="Rzor6tbG" text="Skins" />
+    <string id="S2bKbhTc" text="AUTO FIND GAME" />
+    <string id="s31DnnAf" text="Damage" />
+    <string id="saZ1OvPt" text="You can press the login button to establish connection" />
+    <string id="SKjI2a8V" text="Leave from party" />
+    <string id="SoQcsslF" text="CURRENT TEAM" />
+    <string id="sPmQz21k" text="Enemy" />
+    <string id="SxxxusWS" text="Select a player to kick" />
+    <string id="TAnabTdy" text="Accuracy" />
+    <string id="tFLLx4J4" text="Most Played Classes" />
+    <string id="tjioq56N" text="Friend List" />
+    <string id="TxphX8Uk" text="Deployment" />
+    <string id="TzYWE9tA" text=" No Recent Games Found" />
+    <string id="U4dzbzNb" text="Please wait while you are being connected to the server" />
+    <string id="uNBpT3vs" text="Total players searching: " />
+    <string id="uUoSmCBS" text="In Bannerlord" />
+    <string id="uvwLriAX" text="Use [{KEY_NAME}] to toggle the scoreboard" />
+    <string id="UYnLfaCY" text="Purchase" />
+    <string id="V305MaOP" text="Online" />
+    <string id="v6J8ILV3" text="No password" />
+    <string id="VOTau449" text="Locked" />
+    <string id="vZTWMqUp" text="Only party leaders can take action on other party members" />
+    <string id="w2yV4Wib" text="Poll Rejected" />
+    <string id="W4DLzPSb" text="Server not full" />
+    <string id="w9m11T1y" text="Map" />
+    <string id="wGjQgQlY" text="Next Game begins in:" />
+    <string id="WiNRdfsm" text="Done" />
+    <string id="wkIVxzV6" text="Restart" />
+    <string id="WOQZBmMx" text="Servers" />
+    <string id="wTtyFa89" text="PLAY" />
+    <string id="wuKqRvc3" text="Game: {GAME_TYPES}  |  Region: {REGIONS}" />
+    <string id="wwr4V1jm" text="Select a player to ban" />
+    <string id="xebFLnH2" text="Audio" />
+    <string id="XJTX8w8M" text="Warmup Phase - {GAME_MODE}\nWaiting for players to join" />
+    <string id="XLHkPwbb" text="Select a game map" />
+    <string id="xTv4tCbZ" text="Everybody!! Listen to me" />
+    <string id="Y94H6XnK" text="Accept" />
+    <string id="yA45PqFc" text="FIND GAME" />
+    <string id="YAaAlbkX" text="Avg. Playtime" />
+    <string id="yJsE4Ayo" text="Swing Spd." />
+    <string id="yjyJgRVt" text="{TEAM} team ran out of morale" />
+    <string id="YK3nXtoM" text="Friends" />
+    <string id="yS7PvrTD" text="OK" />
+    <string id="yUpH2mQ4" text="Ammo" />
+    <string id="zBld61ck" text="Weight:" />
+    <string id="zfN0N8xN" text="Total Time Played:" />
+    <string id="zMbYCQa5" text="Average Score:" />
+    <string id="Zv1lg272" text="Offline" />
+    <string id="zxBBzoTH" text="Duel {DUEL_NAME} is starting in {DUEL_REMAINING_TIME} seconds." />
+  </strings>
+</base>
