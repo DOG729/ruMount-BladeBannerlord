@@ -1,0 +1,375 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="English" />
+  </tags>
+  <strings>
+    <string id="01zQKaF3" text="Eye Shape" />
+    <string id="034LYlKi" text="Face Walls" />
+    <string id="05w8Tl7n" text="Steppe" />
+    <string id="0cpbEvsG" text="Old Face" />
+    <string id="0DBQGaka" text="Delivered couched lance damage!" />
+    <string id="0nRbr6Z9" text="North America" />
+    <string id="0P89VyAQ" text="Face Asymmetry" />
+    <string id="0WHQKap4" text="Equipment Selection Time Limit (seconds)" />
+    <string id="0xJ3qIlJ" text="Jaw Line" />
+    <string id="1fFnE9Vk" text="Europe" />
+    <string id="1GFrsDRm" text="Poll Accept Threshold" />
+    <string id="1gU5rDws" text="Allow Polls To Ban Players" />
+    <string id="1Ndyb5I1" text="Flag Removal Time (seconds)" />
+    <string id="1siBGYlP" text="Cheekbone Width" />
+    <string id="1zveWQFg" text="Go to matchmaking tab and select a region in order to queue for a battle" />
+    <string id="22MOa4Fc" text="Eye Outer Height" />
+    <string id="23INS6nf" text="Password Required" />
+    <string id="26SJhCRD" text="Replace With" />
+    <string id="2blpQ3OQ" text="Markings" />
+    <string id="2d0H47C8" text="Eye To Eye Distance" />
+    <string id="2G3QpSDk" text="Lips concave/convex" />
+    <string id="2QzgefNF" text="Face Weight" />
+    <string id="2Rf2ChRD" text="Eyebrow Depth" />
+    <string id="2uynGJbP" text="Transfering Troops" />
+    <string id="39kMNdA5" text="Flag Removal" />
+    <string id="3AInGztr" text="Torso" />
+    <string id="3APdsKEi" text="Throwing Knive" />
+    <string id="3aX5gXmJ" text="Skin Color" />
+    <string id="3Kkya96j" text="Leg" />
+    <string id="3kqFHkZz" text="Lip Thickness" />
+    <string id="3syV6ymi" text="Blunt" />
+    <string id="3ydKbDmI" text="{PLAY_TIME} minutes" />
+    <string id="3ZzxddkE" text="Game Password" />
+    <string id="43L45sjx" text="Number of Bots Per Formation" />
+    <string id="4DcNDein" text="Map Time Limit (minutes)" />
+    <string id="4Dd2xgPm" text="Weight" />
+    <string id="4PrfimcK" text="Badge" />
+    <string id="4wLU6s4S" text="Abdomen" />
+    <string id="5anoN5EJ" text="Hone your combat skills in this chaotic and classic team-based game mode against other players." />
+    <string id="5LpufKs7" text="Follow Me" />
+    <string id="5mSKBidd" text="Nose Shape" />
+    <string id="5odwu8qB" text="Ranked" />
+    <string id="5rj7xQE4" text="Bow" />
+    <string id="5tbWdY1j" text="Avatar" />
+    <string id="5vZW8IJ5" text="Swap with {ITEM_NAME}" />
+    <string id="621DbiOw" text="Nose Asymetry" />
+    <string id="64n3piBf" text="Total Games" />
+    <string id="6DBVzw9r" text="Build" />
+    <string id="6yZnboe6" text="Eye Socket Size" />
+    <string id="74tYdiOb" text="Select your troops wisely according to your team's needs. Troop counts are determined by troop strength." />
+    <string id="77arWi0m" text="Eye Inner Height" />
+    <string id="7BlOJvyo" text="Mouth Width" />
+    <string id="7lvexPjZ" text="Plain" />
+    <string id="7MkoLtWC" text="Axe" />
+    <string id="7qySRF2T" text="Ping" />
+    <string id="7snGCl6z" text="Face Ranged Siege Units" />
+    <string id="880uOrte" text="Terrain" />
+    <string id="8o1lZcjR" text="Brow Outer Height" />
+    <string id="8sG5bTtK" text="Respawn Period" />
+    <string id="9aboazgu" text="Line" />
+    <string id="9TGLirQf" text="Circle" />
+    <string id="9Ts5zKIj" text="Eyes" />
+    <string id="a2xfNmqa" text="At Lobby" />
+    <string id="a8nb5HVc" text="Brow Middle Height" />
+    <string id="aAD1iOuH" text="Top Mouth Size" />
+    <string id="AbEh2y8o" text="Save And Exit" />
+    <string id="aDA9PWFT" text="Advance" />
+    <string id="aDabgVpn" text="Character Customization" />
+    <string id="adyGICWc" text="Chamber Blocked!" />
+    <string id="AEcTBnkz" text="Change Clothing" />
+    <string id="aGTgzoqW" text="Allow Polls To Kick Players" />
+    <string id="ahiBhAqU" text="Armor" />
+    <string id="aM3TlRIy" text="{SHORTCUT} Transfer" />
+    <string id="AmbKQ7LT" text="Transfer" />
+    <string id="auDOtbza" text="Culture Team 1" />
+    <string id="Ayrvf5yp" text="Kill" />
+    <string id="aZVxHbwH" text="Killed by {TROOP_NAME}" />
+    <string id="b0L0jbIa" text="Eye Position" />
+    <string id="b74zosgq" text="Nose Size" />
+    <string id="bAPQFzcW" text="Projectile Damage" />
+    <string id="bbYwqrvo" text="Jaw Shape" />
+    <string id="bc4MrqLA" text="{SHORTCUT} Horses" />
+    <string id="BFWD0pCE" text="Friendly Fire Ranged Damage Friend" />
+    <string id="bjcixGIE" text="Team" />
+    <string id="bjJkW9dO" text="View Profile" />
+    <string id="BJMPBcDn" text="Second Assist" />
+    <string id="bkysJj7F" text="Siege Weapon" />
+    <string id="BMPrnHpK" text="Nostril Size" />
+    <string id="bnfUdx3O" text="Center Height" />
+    <string id="BQzP1ivS" text="Face Ratio" />
+    <string id="BrjpmaJH" text="Games Lost" />
+    <string id="brk0f05B" text="Head Scaling" />
+    <string id="bTpn4bZ8" text="Brow Inner Height" />
+    <string id="BuLdsBpQ" text="Free For All" />
+    <string id="bV75iwKa" text="Save" />
+    <string id="bXIrqxKc" text="Min Number Of Players To Start Game" />
+    <string id="bY9U7w1Q" text="Sword" />
+    <string id="bYCfMbYk" text="Change Your Team" />
+    <string id="c1zu1b3M" text="You've been removed from the party." />
+    <string id="c2tGH5II" text="Warmup Time Limit (minutes)" />
+    <string id="cBZ6OlKW" text="Javelin" />
+    <string id="ccROnOY3" text="Received couched lance damage!" />
+    <string id="CFI2aDtg" text="Mount Armor" />
+    <string id="cJ5emwNF" text="Assist" />
+    <string id="CjPiabbn" text="Fire At Will" />
+    <string id="CJr1T7jh" text="Admin Password" />
+    <string id="cK5DE88I" text="N/A" />
+    <string id="CKtZ7bES" text="Reach the score point limit of the map as a team or score more points than the enemy team until the map runs out of time." />
+    <string id="Cl3TziQE" text="Your mount received {DAMAGE} fall damage." />
+    <string id="CoxEyDa8" text="Gauntlet" />
+    <string id="cPbHqGrI" text="Kick Player" />
+    <string id="d3RJm2zW" text="Jaw Height" />
+    <string id="DdOgvhsV" text="Kick" />
+    <string id="DHlVSaZW" text="Relative movement speed: {SPEED} m/s" />
+    <string id="DKqLY1aJ" text="Equip" />
+    <string id="dojUqbv8" text="Nose Length" />
+    <string id="dRlTmdKR" text="System" />
+    <string id="DU9SofaW" text="Cut" />
+    <string id="dxlkHhw5" text="Games Won" />
+    <string id="Dxmq32qW" text="Charge" />
+    <string id="dZ4xp6Lu" text="Temple Width" />
+    <string id="e0KdfaNe" text="Save As" />
+    <string id="E3tCWX7w" text="Square" />
+    <string id="ecUwABe2" text="Desert" />
+    <string id="eEf7hE4r" text="Scatter" />
+    <string id="EmVbbIUc" text="Return" />
+    <string id="EUHaR98k" text="Report" />
+    <string id="EX4bKRbV" text="Death Count" />
+    <string id="F09emT1k" text="Face Primary Siege Units" />
+    <string id="f4ZeGAJi" text="Relative missile speed: {SPEED} m/s" />
+    <string id="f5y9qyDb" text="Arm" />
+    <string id="F6dUDgg3" text="Defeat" />
+    <string id="F70rOpkK" text="Captain" />
+    <string id="fFLBT9wb" text="Chest" />
+    <string id="FFNJTsDL" text="Kick a player" />
+    <string id="fFULSlYb" text="Extra damage from perks: {EXTRA_DAMAGE}" />
+    <string id="fGFMqlGz" text="Gender" />
+    <string id="FgJpTBp1" text="Friendly Fire Ranged Damage Self" />
+    <string id="fjD2tRXW" text="Chin Forward" />
+    <string id="fJqJiJvl" text="Use Realistic Blocking" />
+    <string id="fnJQO5Os" text="Nose Tip Height" />
+    <string id="FoSTFipC" text="{PLAYER_NAME} is now un-muted." />
+    <string id="FzJnNNam" text="Nose Asymmetry" />
+    <string id="G1HobbjU" text="Captain Battle" />
+    <string id="g6cHDWJF" text="Head" />
+    <string id="GaF4CvmX" text="Face Sharpness" />
+    <string id="gFmkNiTo" text="to Position" />
+    <string id="GnKCsV44" text="Chin Length" />
+    <string id="GoEo27il" text="Attackers Respawn Period" />
+    <string id="Gr994CTR" text="Disallow Ranged Weapons" />
+    <string id="GY4NaieE" text="Pure" />
+    <string id="h5OsTOFM" text="Lips Concave/Convex" />
+    <string id="H7YWqwq6" text="Round Start Spawning Duration" />
+    <string id="HgpdpYuK" text="Body" />
+    <string id="HjqcmY6X" text="Ban" />
+    <string id="HL3EONMe" text="Custom Game" />
+    <string id="HLhT64IP" text="Private" />
+    <string id="hwC3OiIJ" text="Face Troops" />
+    <string id="hY9cfdZy" text="Wide" />
+    <string id="HyG3eUFN" text="Unmute" />
+    <string id="i0gOiCvG" text="New Battle" />
+    <string id="I4wnvBGd" text="Experience the brutality of medieval sieges as either a defending or attacking force in this large-scale PvP game mode. Use an array of siege engines to drive back the enemy forces or to gain a foothold within the bailey as you attempt to defend or capture the castle keep." />
+    <string id="IaaVNwwb" text="Enable BattlEye" />
+    <string id="iDMBz55E" text="In Multiplayer Game" />
+    <string id="ig0lsiwY" text="Soldiers" />
+    <string id="iJXH3841" text="Loose" />
+    <string id="IKn1YxU2" text="Gold Gain Percentage Attackers" />
+    <string id="imTtoHqW" text="Register As Coop" />
+    <string id="ImWyFyld" text="Mouth Position" />
+    <string id="irGCyJaY" text="Kill Count" />
+    <string id="iTau5cxh" text="Average" />
+    <string id="jaaQijQs" text="Age" />
+    <string id="JCcbydcJ" text="({KEY}) {ACTION}" />
+    <string id="JceqNdWx" text="Delegate Command Off" />
+    <string id="Jd0Kq9lD" text="Shield" />
+    <string id="jEh6EdF9" text="Best of {ROUND_COUNT}" />
+    <string id="JetpbYv9" text="Taint" />
+    <string id="JPimShCw" text="Game Type" />
+    <string id="jsqyGWGu" text="Gold Gain Percentage Defenders" />
+    <string id="jUsEkEBt" text="Jaw Asymmetry" />
+    <string id="jvOYgHOe" text="Custom" />
+    <string id="JW2nEe4X" text="Friendly Fire Melee Damage Friend" />
+    <string id="JwnoxhKI" text="Face Depth" />
+    <string id="k4cMrbVf" text="First Melee Kill" />
+    <string id="kCMGJl1W" text="Bridge" />
+    <string id="KHx75GnA" text="Water" />
+    <string id="koX9okuG" text="None" />
+    <string id="kVwwG63i" text="Allow Polls To Change Maps" />
+    <string id="kW4c2liv" text="Use Animation Progress Dependent Blocking" />
+    <string id="L0lGQWt5" text="Number Of Bots Team 2" />
+    <string id="L3tY2kTE" text="Friendly fire!" />
+    <string id="L9xEQ5b2" text="Select Item to Replace" />
+    <string id="LaaA8U4W" text="Nose Angle" />
+    <string id="laIfauZH" text="Eyebump" />
+    <string id="lauXoy6d" text="Number Of Bots Per Formation" />
+    <string id="lclQSt39" text="Round Time Limit (seconds)" />
+    <string id="lDPQa5gc" text="Auto Team Balance Threshold" />
+    <string id="likop0am" text="Start A Poll" />
+    <string id="LkiQDpi5" text="Ear Size" />
+    <string id="LmkYgWnF" text="Eye Size" />
+    <string id="M1RCJ9DM" text="Third Assist" />
+    <string id="m3zVR2UH" text="Show Mouse: [{KEY_NAME}]" />
+    <string id="m5UdbzHr" text="No Region Selected" />
+    <string id="MciIqod6" text="Couch Lance" />
+    <string id="MH9Pi3ao" text="Face Direction" />
+    <string id="mjhOYJWg" text="Quiver is empty." />
+    <string id="MnM0L4AV" text="Not In Multiplayer" />
+    <string id="MQqaKRtn" text="{SHORTCUT} Movement" />
+    <string id="MS795wWa" text="First Assist" />
+    <string id="MW8rlyfL" text="Thrown" />
+    <string id="NE7PmH7n" text="Conditions" />
+    <string id="nl1pL0hy" text="Coop Campaign" />
+    <string id="NqarFr4P" text="Настройки" />
+    <string id="nt5MOuwo" text="Dune" />
+    <string id="nXE6eV8W" text="Lake" />
+    <string id="NxeQasMb" text="{SHORTCUT} Fire" />
+    <string id="o5Ead68n" text="Quit Without Saving" />
+    <string id="O9F9q1zx" text="Cheekbone Depth" />
+    <string id="obB483C5" text="Body part hit: {BODY_PART}" />
+    <string id="oBbiVeKE" text="Hit Points" />
+    <string id="Oud3W58w" text="Hold ({KEY}) {ACTION}" />
+    <string id="OVcoYxj1" text="Server Name" />
+    <string id="ox8XcxfR" text="Ear Shape" />
+    <string id="OZHFucP5" text="Frown/Smile" />
+    <string id="pa4yXyDa" text="{PLAYER_COUNT} vs {PLAYER_COUNT}" />
+    <string id="pagmdsCK" text="Eyelid Height" />
+    <string id="PbLuHcJg" text="Absorbed damage: {ABSORBED_DAMAGE}" />
+    <string id="pbp0GQdO" text="Ban Player" />
+    <string id="pCRwBpzd" text="Nose" />
+    <string id="PDdh1sBj" text="Name" />
+    <string id="Ph6PhUwX" text="Distance: {DISTANCE} m" />
+    <string id="pHaRIFa8" text="First Ranged Kill" />
+    <string id="PiHpR4QL" text="One Handed" />
+    <string id="PiLml6Nl" text="Attackers hold the keep flag for 90 seconds before morale or time runs out. Capturing flags will increase morale.{newline}Defenders defend the castle until enemy morale runs out." />
+    <string id="Pkw17hO0" text="Combat Speed" />
+    <string id="pnUSAxzf" text="Add Official Game Server List" />
+    <string id="pQibMlbA" text="Nose Bump" />
+    <string id="PuX1G0h3" text="Riding Skill Not Adequate To Mount" />
+    <string id="PY6VznGu" text="Face Width" />
+    <string id="Q2EmU0TA" text="Team Point Limit" />
+    <string id="Q2yjFlC9" text="Hold Fire" />
+    <string id="q8lsn0U6" text="Lead your own detachment of troops into battle in this team-based PvP game mode. Control the battlefield to demoralize the enemy team or annihilate their forces to emerge victorious." />
+    <string id="QbkHvWgU" text="Classic Battle" />
+    <string id="QDU03vOW" text="Delivered {DAMAGE} {DAMAGE_TYPE} damage to object." />
+    <string id="qeSbaPWi" text="Number Of Bots Team 1" />
+    <string id="qF5pJt7e" text="Eye Asymmetry" />
+    <string id="Qhl77Oki" text="Assisted to kill {TROOP_NAME}" />
+    <string id="qKPSlF9L" text="{SHORTCUT} Command" />
+    <string id="qNga6uPw" text="Damage Delivered" />
+    <string id="qNRc3pXu" text="Fill" />
+    <string id="qnxJYAs7" text="Party" />
+    <string id="QTr6UDAa" text="Stop" />
+    <string id="R3BwLVmT" text="Delivered {DAMAGE} {DAMAGE_TYPE} damage." />
+    <string id="R4Gqskgq" text="Victory" />
+    <string id="R9DiQfax" text="Battle" />
+    <string id="rbYITcao" text="Mouth" />
+    <string id="rbz1Bwbv" text="Inventory" />
+    <string id="RlDVtPpB" text="Eye Depth" />
+    <string id="rTFaZCdY" text="Forest" />
+    <string id="rTPnyeJ3" text="Shield Wall" />
+    <string id="Rvr1bcu8" text="Next" />
+    <string id="Sbna6UGb" text="Kid Face" />
+    <string id="sBU9vyF1" text="Head shot!" />
+    <string id="SdxEH6b1" text="Bottom Lip Shape" />
+    <string id="SfJgnzdq" text="Mute" />
+    <string id="SN2ojCFr" text="Full Skin" />
+    <string id="SNLShTzq" text="Score" />
+    <string id="SVAmzGRM" text="Ban a player" />
+    <string id="SVeIOaab" text="Minimum Score To Win Match" />
+    <string id="SVnbZdJq" text="Hide Ears" />
+    <string id="Svtb9MQv" text="Duel" />
+    <string id="sZxSeeXp" text="Numbers Of Players To End Warmup" />
+    <string id="t2Oh6uty" text="Welcome Message" />
+    <string id="t78atYqH" text="Two Handed" />
+    <string id="tAeflOpj" text="Received {DAMAGE} {DAMAGE_TYPE} damage." />
+    <string id="tAyw51tM" text="Allow Individual Banners" />
+    <string id="TDy1GZHv" text="Skirmish Battle" />
+    <string id="tE1VwKTZ" text="Throwing Axe" />
+    <string id="tewykKdc" text="Control Block Direction" />
+    <string id="TGaU0hQi" text="Mountain" />
+    <string id="tJaRH9he" text="Attach" />
+    <string id="TlP31w8l" text="Bricole" />
+    <string id="tnCNPJMO" text="Swamp" />
+    <string id="tp6B2QGw" text="East Asia" />
+    <string id="TTWL7RLe" text="Crossbow" />
+    <string id="TuAP5xXV" text="Nostril Height" />
+    <string id="tUETZiIp" text="Helmet" />
+    <string id="tvDuF1vU" text="Siege Tower Speed (percentage)" />
+    <string id="tvHQcaC1" text="Cheekbone Height" />
+    <string id="Twdbmure" text="{SHORTCUT} Facing" />
+    <string id="tYuSNFuD" text="Badges" />
+    <string id="U1em3vrJ" text="Shoulder" />
+    <string id="U3LxBtL0" text="Enter password" />
+    <string id="U4xlUBHg" text="Nose Width" />
+    <string id="U6h8eatq" text="Team Deathmatch" />
+    <string id="u8j8nN5U" text="Face Enemy" />
+    <string id="UbMCCh8L" text="Nose Bridge" />
+    <string id="uCyQNvq1" text="Skein" />
+    <string id="uGM8DWrm" text="Mount" />
+    <string id="UHIZLFBn" text="Killed {TROOP_NAME}" />
+    <string id="Umb8XsZH" text="Pierce" />
+    <string id="umhwsoqb" text="Choose your desired troop at the start of the round and for the further respawns by using gold." />
+    <string id="uPLRkTZr" text="Spawn with better troops by using gold depending on the success at the siege." />
+    <string id="UQabkhbG" text="Mount charged for {DAMAGE} {DAMAGE_TYPE} damage." />
+    <string id="UrZvjCfE" text="Your mount received {DAMAGE} {DAMAGE_TYPE} damage." />
+    <string id="UUKzc88q" text="Spectator Camera" />
+    <string id="UvIsHvrt" text="River" />
+    <string id="UwXP9UAR" text="Good" />
+    <string id="UY79LYHf" text="Poor" />
+    <string id="V4iU0wRv" text="Gold" />
+    <string id="V6BAHTnv" text="Culture Team 2" />
+    <string id="VbeHEAsa" text="Retreat" />
+    <string id="VI4gQt8Q" text="Mace" />
+    <string id="vkEzdL3k" text="Change game type or scene" />
+    <string id="vLjgcdgB" text="Snow" />
+    <string id="vo5NpcUS" text="Top Lip Shape" />
+    <string id="vqao3Z2N" text="Battering Ram Speed (percentage)" />
+    <string id="VRdy76RQ" text="Skirmish" />
+    <string id="VRtg9zFZ" text="{SHORTCUT} Width" />
+    <string id="VwyBNTs3" text="Face" />
+    <string id="W1nzgCTY" text="Mouth Forward" />
+    <string id="W3OXv9Tx" text="Force Minimum Armor" />
+    <string id="W73My5KO" text="Death" />
+    <string id="w9m11T1y" text="Map" />
+    <string id="wBn6eVGS" text="Shallow River" />
+    <string id="WfwkVjTA" text="Work alongside your teammates in this fast-paced, tactical PvP game mode. Manage your gold wisely to buy classes and respawns while attempting to break the enemy team's morale or destroy their forces completely." />
+    <string id="WhUoF9Mw" text="Fallback" />
+    <string id="wIgbfqQR" text="Hair" />
+    <string id="wk4bgkCt" text="Dismount" />
+    <string id="Wl5xazIU" text="Extend/Shrink Map Bar" />
+    <string id="WlVa7XwJ" text="Received {DAMAGE} fall damage." />
+    <string id="WLztEbPL" text="Height" />
+    <string id="WnN8Ul7A" text="Amount of Rounds" />
+    <string id="WsbShtMt" text="Tenth Kill" />
+    <string id="WsmZzaOq" text="Column" />
+    <string id="WXAaWZVf" text="Previous" />
+    <string id="Wxlhg1f1" text="Boots" />
+    <string id="wxzhtvZR" text="Defenders Respawn Period" />
+    <string id="x1QEJna0" text="Wider" />
+    <string id="xILeUbY3" text="Admin Panel" />
+    <string id="Xj2FCkQl" text="Custom Server List" />
+    <string id="XpVARRTW" text="Deep" />
+    <string id="xq9Vxpyc" text="&lt;a style=&quot;HeadshotTitle.Text&quot; &gt;&lt;b&gt;{TITLE}&lt;/b&gt;&lt;/a&gt;" />
+    <string id="XQndveFG" text="Friendly Fire Melee Damage Self" />
+    <string id="XUKRrgOr" text="Delivered {DAMAGE} {DAMAGE_TYPE} damage to mount." />
+    <string id="xXQN7Go6" text="Monolid Eyes" />
+    <string id="XZU9SyQW" text="Quick Play" />
+    <string id="XzZFhRwr" text="Return To The Game" />
+    <string id="Ybvu10zM" text="Siege" />
+    <string id="ycCmfxhJ" text="Fifth Kill" />
+    <string id="yClOSxT8" text="Nose Definition" />
+    <string id="yfa7tpbK" text="All" />
+    <string id="YhDDXj0I" text="Canyon" />
+    <string id="YoNYyLba" text="Spear" />
+    <string id="yQtzabbe" text="Close" />
+    <string id="YRymCbaa" text="Got crushed through!" />
+    <string id="Yvjap05b" text="Movement Speed" />
+    <string id="yyJejJbO" text="Chin Shape" />
+    <string id="zatDiaEI" text="Delegate Command On" />
+    <string id="Zc2f5bhh" text="Kill all enemies or deplete the enemy team's morale or have the most morale when the round time expires." />
+    <string id="zHKHwHMr" text="Rural Area" />
+    <string id="zlYydYn8" text="{SHORTCUT} Form" />
+    <string id="zmlCRb1M" text="Max Number Of Players" />
+    <string id="ZMmrpMPk" text="Neck" />
+    <string id="zpNSyauI" text="Spawn with better troops by using gold depending on your kills on the battlefield." />
+    <string id="ZYChhMrO" text="Draw" />
+    <string id="ZZMbAjSU" text="Crushed through!" />
+  </strings>
+</base>

@@ -207,7 +207,7 @@
     <string id="9eLyeU7M" text="Sure boss, it will cost us {COST}{GOLD_ICON}, wanna go ahead?"/>
     <string id="9GAxQCJg" text="Вернуть их все."/>
     <string id="9Jm0AnJO" text="Only loyal vassals of {FACTION_LEADER} can own lands and castles. You understand, a simple mercenary cannot be trusted with such responsibility. However, after serving for some time, you may earn the right to swear homage to {FACTION_LEADER} and become his vassal. Then you would be rewarded with a fief."/>
-    <string id="9mBy0qNW" text="Я должен уехать сейчас."/>
+    <string id="9mBy0qNW" text="Мне надо идти, прощай."/>
     <string id="9O8a1Yz8" text="I heard in the market that {NOTABLE.LINK} is hiring at {?NOTABLE.GENDER}her{?}his{\?}{SHOP_TYPE}. Treats {?NOTABLE.GENDER}her{?}his{\?} workers well, they say."/>
     <string id="9PBA2OJz" text="Here {?HERO.GENDER}she{?}he{\?} is.[rb:trivial]"/>
     <string id="9pg3qc6N" text="Практиковаться в бою"/>
@@ -313,7 +313,7 @@
     <string id="BbzdVZgh" text="тест"/>
     <string id="BdpW8gUM" text="Что выглядит хорошо, давайте играть!"/>
     <string id="bDva8kVX" text="Сколько вы заплатите мне за мои услуги?"/>
-    <string id="BeD9fahY" text="Приятно познакомиться с вами."/>
+    <string id="BeD9fahY" text="Приятно было познакомиться с вами."/>
     <string id="BghO7dpc" text="Азартные игры-это не для нас. Не делай ничего об этом!"/>
     <string id="bhkC3kcQ" text="Уважительно говорить о старших, грязный оборванец!"/>
     <string id="bHRZhYzd" text="No way! I won't go anywhere near them! They will kill me![ib:closed]"/>
@@ -330,7 +330,7 @@
     <string id="bQ8CxZIy" text="Well, it will cost you {COST}{GOLD_ICON} to buy it out. Are you going to buy it?"/>
     <string id="bSo9hKwr" text="{PERSUASION_OPTION_LINE} {SUCCESS_CHANCE}"/>
     <string id="bsUVDLXa" text="I am {CONVERSATION_HERO.FIRSTNAME}, a merchant{LOCATION_STRING}. {BUSINESS_STRING}"/>
-    <string id="BsXNJHCu" text="Until next time, then.[rb:positive]"/>
+    <string id="BsXNJHCu" text="Встретимся в следующий раз.[rb:positive]"/>
     <string id="btJkBTSF" text="Я уверен, что вы можете решить."/>
     <string id="bTnmpqU4" text="Я боюсь, что у меня нет времени для другой игры."/>
     <string id="bTUPJjfk" text="You can count on me, {?NPC.GENDER}madame{?}sir{\?}."/>
@@ -376,9 +376,9 @@
     <string id="CtEbTd47" text="Тогда вы уверены? Также следует помнить, что если вы оставите свои услуги, вы будете отдавшись мне все царьку, который вы держите в мое имя."/>
     <string id="CuFvVPNt" text="У меня есть предложение, которое может принести пользу нам обоим."/>
     <string id="CVClzSC7" text="Я полагаю, вы уже заявили о себе в другой Льеж."/>
-    <string id="CX6JHwbB" text="Aye? What is it?[rb:positive]"/>
+    <string id="CX6JHwbB" text="Да? Ну и какой?[rb:positive]"/>
     <string id="cZBjV3At" text="Пусть духи предков наблюдают за тобой."/>
-    <string id="cZptYTYd" text="Well.. There are many goods around the town that can bring good money if you trade them. A caravan you formed will do this for you. You need to pay at least {AMOUNT}{GOLD_ICON} to hire {NUMBER_OF_MEN} caravan guards to form a caravan and you need one companion to lead the caravan guards."/>
+    <string id="cZptYTYd" text="Хорошо.. В городе есть много товаров, которые могут принести хорошие деньги, если вы торгуете ими. Караван, который вы сформировали, сделает это за вас. Вам надо заплатить {AMOUNT}{GOLD_ICON} чтобы нанять {NUMBER_OF_MEN} охранников каравана, и сформировать караван, и еще вам нужен один компаньон, чтобы возглавить охрану каравана."/>
     <string id="D0xDRqvm" text="{PERSUASION_REACTION}"/>
     <string id="D25oY3j1" text="Thank you {?PLAYER.GENDER}lady{?}sir{\?}. For your kindness and understanding. We won't forget this."/>
     <string id="D33fIGQe" text="Не бери в голову."/>
@@ -643,7 +643,7 @@
     <string id="jGxotDqF" text="Лучше не петь, что каждый незнакомец вы встречаете, ребенок."/>
     <string id="JhbbB2dp" text="My {?PLAYER.GENDER}lady{?}lord{\?}, may I have a word please?"/>
     <string id="ji5gXHNu" text="Ты хороший друг, чтобы иметь его. Очень хороший друг.[rb:positive][rf:happy]"/>
-    <string id="JIJnrSq0" text="I am {PLAYER.NAME}. And who are you?"/>
+    <string id="JIJnrSq0" text="Я {PLAYER.NAME}. А кто ты?"/>
     <string id="JjtmptiD" text="Больше мужчин у волос потом нет, но это другой плитки в мозаике."/>
     <string id="JjXETjYb" text="We would be eternally grateful, if you can help my relative. I have to add, I'm ready to pay you {REWARD_GOLD} gold for your trouble. He is hiding somewhere here, go talk to him and tell him he is safe now."/>
     <string id="JK48bVwx" text="Мм... я стесняюсь."/>
@@ -805,7 +805,7 @@
     <string id="nIhIU9t8" text="Хорошо. Давайте посмотрим, если мы можем выработать справедливые компенсации для нас защита дорогах."/>
     <string id="NkTLToQY" text=".. Just so you know, we're under the protection of the {FACTION_NAME}, so you might want to think twice before giving us any trouble."/>
     <string id="nMFY2Pb0" text="We are doomed I say, doomed. A ruler who cannot control {?RULER.GENDER}her{?}his{\?} passions brings ruin on the realm."/>
-    <string id="NmGJs7yB" text="My name is {PLAYER.NAME} {?NPC.GENDER}madam{?}sir{\?}. May I ask your name?"/>
+    <string id="NmGJs7yB" text="Меня зовут {PLAYER.NAME} {?NPC.GENDER}леди{?}сир{\?}. Могу я узнать ваше имя?"/>
     <string id="nmmwWekl" text="{ALLEY_INFO_TEXT}"/>
     <string id="nmPaCLHp" text="{FIGHT_DEBRIEF} Do you want to give it another go?"/>
     <string id="NMrzr7Me" text="Теперь, уйти мирно"/>
