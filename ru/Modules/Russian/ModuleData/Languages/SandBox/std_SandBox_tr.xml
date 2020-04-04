@@ -690,7 +690,7 @@
     <string id="KL8tVq8P" text="I shall do that.[ib:normal][rb:positive]"/>
     <string id="kNQMkh3j" text="(В настоящее время назначено)"/>
     <string id="ko2Nb5im" text="I know times are hard, but {NOTABLE.LINK} says {?OWNER.GENDER}lady{?}lord{\?} {OWNER.LINK} is doing what {?OWNER.GENDER}she{?}he{\?} can, and I trust {NOTABLE.FIRSTNAME}."/>
-    <string id="KPfs7L7B" text="Ah, my apologies, {?PLAYER.GENDER}madam{?}sir{\?}. May I help you with something?"/>
+    <string id="KPfs7L7B" text="Простите, {?PLAYER.GENDER}леди{?}сир{\?}. Могу я вам чем-нибудь помочь?"/>
     <string id="kPTp6TPT" text="({AGENT_ROLE})"/>
     <string id="Kq0nP6bK" text="STUB: We are travelling to {TARGET_TOWN}, we want to take this settlement under control."/>
     <string id="KQ3aYvp3" text="Некоторые день вы увидите, я сделал тебе одолжение. Собирайся, нам нужно идти."/>
@@ -742,7 +742,7 @@
     <string id="lord_conversations_343" text="Я кое-что хочу обсудить."/>
     <string id="lord_conversations_344" text="У меня есть предложение, которое может избавить нас обоих от ненужного кровопролития."/>
     <string id="lord_conversations_345" text="Придержи свою руку! Возможно, мы не должны подерутся."/>
-    <string id="LPtWLajd" text="Вы можете остановить меня сейчас. Спасибо."/>
+    <string id="LPtWLajd" text="Спасибо. Вы можете пойти заняться своими делами."/>
     <string id="LqkxF5Op" text="Во время игры, все лучшие бойцы из зоны формируют команды и тузить друг друга. Не так весело для толпы, как смотреть гладиаторы проливать их кишки, конечно, но и полезнее для участников."/>
     <string id="LrbyNgAa" text="{AGREE_TO_LEAVE}[rb:unsure]"/>
     <string id="lsjSxBsW" text="Уйти ты мерзкий попрошайка! Ты отпугиваешь моих клиентов!"/>
@@ -855,7 +855,7 @@
     <string id="oJt4bemH" text="{QUEST_GIVER.LINK} a landlord from {QUEST_SETTLEMENT} told you about an incident that is about to turn into an ugly feud. One young man killed another in an accident and the victim’s family refuses the blood money as compensation and wants blood."/>
     <string id="oL3amiu1" text="Come {DAUGHTER_NAME.NAME}, let's go before other hounds sniff our trail... I mean... No offense {?PLAYER.GENDER}madam{?}sir{\?}."/>
     <string id="OlKbD2fa" text="Я могу использовать кого-то вроде тебя в моей компании."/>
-    <string id="OlOhuO7X" text="Нет, спасибо. Хороший день для вас."/>
+    <string id="OlOhuO7X" text="Нет, спасибо. Доброго вам дня."/>
     <string id="OMaM6ihN" text="Я хочу, чтобы вы патрулировали район."/>
     <string id="OnaJowBF" text="Тяжело. Не пожалеешь."/>
     <string id="OnPC6tvb" text="Мне интересно. Пожалуйста, расскажите подробнее."/>
@@ -1070,7 +1070,7 @@
     <string id="UqBk5fVw" text="Шпион Партии"/>
     <string id="UqDNAZqM" text="Перестать ждать"/>
     <string id="UQyCoQCY" text="Придержи коней! Этот парень сейчас находится под моей защитой. Мы пришли поговорить спокойно.."/>
-    <string id="urieibC4" text="Я ищу кого-то."/>
+    <string id="urieibC4" text="Я ищу кое-кого."/>
     <string id="US9tbgLG" text="{WANDERER_GENERIC_BACKSTORY}"/>
     <string id="usMQ64pf" text="Надеюсь, что там достаточно рук для сбора урожая."/>
     <string id="UTgsRaLJ" text="Выпаса многого стоит для тех, кто владеет звери"/>
