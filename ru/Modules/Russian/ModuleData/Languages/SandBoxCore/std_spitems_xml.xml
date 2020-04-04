@@ -1,33 +1,23 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
   <tags>
     <tag language="Русский"/>
   </tags>
   <strings>
-     <string id="02g6K4Yw" text="Тюрбан Южных Племён"/>
-    <string id="0666zYUB" text="Шипованная Адарга"/>
-    <string id="06sHvThK" text="Охотничий Лук Наездника"/>
-    <string id="0aqbvIc3" text="Тяжелый Топор Берсерка"/>
-    <string id="0at2rath" text="Шестопёр"/>
-    <string id="0AVt39ae" text="Обернутый Топор"/>
-    <string id="0bE9MxK4" text="Завернутая Южная Шапка"/>
+     <string id="02g6K4Yw" text="Тюрбан южных племён"/>
+    <string id="0666zYUB" text="Шипованная адарга"/>
+    <string id="0AS3253G" text="Восточная Фланцевая Булава" />
+    <string id="0bE9MxK4" text="Завернутая Южня Шапка"/>
     <string id="0e17RZrZ" text="Арбалет"/>
-    <string id="0Hgjmgu2" text="Имперский Широкий Меч"/>
-    <string id="0ksa0zNM" text="Северный Высокий Меч"/>
     <string id="0n0JmWv0" text="Южный Метательный Топор"/>
-    <string id="0NLJnGfF" text="Простое Копьё"/>
+    <string id="0NLJnGfF" text="Простое Копье"/>
     <string id="0Pxq8UqX" text="Горный Плащ"/>
-    <string id="0QPDbyiW" text="Северный Треннировочный Метательный Топор"/>
-    <string id="0rzKQbWy" text="Степной Половинчатый Чепрак"/>
-    <string id="0SpLcthg" text="Горная Шипованная Дубинка"/>
-    <string id="0SsLGsXk" text="Подбитый Длинный Халат"/>
-    <string id="0xHbpsOU" text="Короткий Армейский Меч"/>
-    <string id="0ZNKbHLg" text="Северное Копьё"/>
-    <string id="11xDprFp" text="Западная Фланцевая Булава"/>
+    <string id="0rzKQbWy" text="Степной Половинчатый Бард"/>
+    <string id="0s4IP7jB" text="Старая Рабочая Лошадь"/>
+    <string id="0SpLcthg" text="Горная Шипастая Дубинка"/>
+    <string id="0SsLGsXk" text="Длинный Мягкий Халат"/>
     <string id="12PL4971" text="Северный Пластинчатый Доспех"/>
-    <string id="14qlpBdA" text="Южный Боевой Меч"/>
-    <string id="160aqzPm" text="Жестяная Военная Бритва"/>
-    <string id="170n89Cj" text="Южный Линзобразный Прямой Клинок"/>
+    <string id="160aqzPm" text="Военная бритва" />
     <string id="1aOuyULB" text="Штурмовой Боевой Конь"/>
     <string id="1bc4kTaz" text="Тамаскенский Стальной Обоюдоострый Меч"/>
     <string id="1bdDdwub" text="Северный Шлем с Бармицей"/>
@@ -38,34 +28,24 @@
     <string id="1cYka5tR" text="Меховая Безрукавка"/>
     <string id="1Fdtj39w" text="Пернатый Имперский Чепец"/>
     <string id="1GpTOIqU" text="Железный Котелок с Подбитым Койфом"/>
-    <string id="1GVHdGhe" text="Западный Сильный Лук"/>
+    <string id="1HWRwbwT" text="Лесной Меч" />
     <string id="1jqxlEkT" text="Специи"/>
-    <string id="1JuwbpEr" text="Западная Легкая Булава Наемника"/>
-    <string id="1Lgbxkpg" text="Длинный Широкий Топор"/>
-    <string id="1LHNLYqc" text="Тяжелый Ятаган"/>
     <string id="1lmGO2Da" text="Северный Прямоугольный Топор"/>
     <string id="1oQWbXJw" text="Рыбный Гарпун"/>
-    <string id="1pMaVY5q" text="Западный Топор Наемника"/>
-    <string id="1sa32iYk" text="Короткое Остроконечное Крылатое Копьё"/>
     <string id="1UZGbygw" text="Имперский Длинный Гамбезон"/>
     <string id="1w5StEM1" text="Плетеный Щит"/>
-    <string id="1Wavbb28" text="Степное Короткое Копьё с Широким Наконечником"/>
     <string id="1WxLaeQE" text="Двуручный Меч Из Отличной Стали"/>
-    <string id="1X2X0Qe4" text="Резвый Конь"/>
     <string id="21U7JTFv" text="Западная Стёганка"/>
     <string id="24MA4JLX" text="Длинная Остроконечная Каскара"/>
     <string id="24xuA5G2" text="Боевой Конь Пустыни"/>
-    <string id="269Js1k1" text="Составной Лук Восточных Налетчиков"/>
-    <string id="27aXjM4K" text="Клинок Наёмника"/>
     <string id="2AcfBbCR" text="Военная Гимнастерка"/>
-    <string id="2GlLbQwB" text="Большой Имперский Заостренный Топор"/>
+    <string id="2dJ5HB8a" text="Чёрное Сердце" />
+    <string id="2FubBDYB" text="Восточный Полумеч" />
     <string id="2K0o7NK9" text="Южная Пластинчатая Броня"/>
     <string id="2KQbV4To" text="Шуба Купца"/>
     <string id="2m1kWsao" text="Кожаный Шипованный Шлем Из Тонкой Шкуры"/>
     <string id="2MdVVkVL" text="Котелок с Подбитым Койфом"/>
-    <string id="2mrB2siD" text="Степной Тренировочный Меч"/>
     <string id="2Q0m5CG0" text="Пустынная Сбруя Из Ткани"/>
-    <string id="2Q52Ek7r" text="Фланцевая Легкая Булава"/>
     <string id="2qisE5ys" text="Котелок С Подшлемником"/>
     <string id="2rvCcBuS" text="Коричневый Хиджаб"/>
     <string id="2SUb8jNP" text="Тяговая Упряжь с Корзинами"/>
@@ -73,373 +53,243 @@
     <string id="2VYmGLC6" text="Северная Кожаная Шапка"/>
     <string id="2WQTvOLF" text="Тканевый Фартук"/>
     <string id="2XEbqNQz" text="Украшенные Имперские Рукавицы"/>
-    <string id="2zs2CYP9" text="Горный Колючий Короткий Топор"/>
-    <string id="305aBm4P" text="Северный Полуторный Меч"/>
     <string id="33aaUcaX" text="Баттанийская Конская Упряжь"/>
-    <string id="33sCbrXk" text="Степное Короткое Копьё с Зазубренным Наконечником"/>
-    <string id="3bExZeql" text="Южный Тренировочный Меч"/>
     <string id="3BGHFFsL" text="Северная Мягкая Ткань"/>
     <string id="3bqwOJ8z" text="Перевернутая Шапка-Ушанка"/>
     <string id="3DV3GoHb" text="Остроконечная Тюбетейка С Кольчугой"/>
     <string id="3hOPlGlS" text="Императорский Гамбезон Поверх Кожаной Куртки"/>
     <string id="3iq3rOh8" text="Стальной Колпак с Прошитым Капюшоном"/>
-    <string id="3Jg1apMu" text="Степная Глефа"/>
-    <string id="3jxdwiNg" text="Джид Имперского Наемника"/>
-    <string id="3JzbEA6o" text="Вландийский Охотник"/>
-    <string id="3miC5bGu" text="Клинок Налётчика"/>
     <string id="3NnlCd3V" text="Западная Кованая Булава"/>
-    <string id="3OnseW7V" text="Пустынный Остроконечный Фальшион"/>
     <string id="3Pv0SlYj" text="Сакс"/>
     <string id="3TAnl7hb" text="Украшенный Восточный Щит"/>
-    <string id="3vbMq6wD" text="Южное Короткое Копьё С Острым Широким Лезвием"/>
     <string id="3Wzhxkn1" text="Огненный Горшок"/>
     <string id="3YhwjpQ0" text="Узкий Меч"/>
     <string id="3Z91Nxbf" text="Каркасный Шлем Из Кожи"/>
-    <string id="41pTA6wi" text="Копьё Восточного Наёмника"/>
     <string id="42KNket2" text="Горные Ботинки"/>
     <string id="45kZUyjh" text="Оливки"/>
-    <string id="45kzVLH7" text="Острое Короткое Копьё С Широким Лезвием"/>
     <string id="46orXtt0" text="Лесная Одежда"/>
     <string id="4AfHO0BA" text="Безрукавный Доспех Обитый Мехом"/>
-    <string id="4aV6uMPI" text="Арбалет Западного Наемника"/>
     <string id="4BaTgzia" text="Южная Шапка"/>
     <string id="4BfbPgkY" text="Цервельер с Наносником и Подшлемником"/>
     <string id="4c7e0RCE" text="Северный Шлем с Наносником"/>
     <string id="4cMV1pY3" text="Имперская Легкая Булава"/>
     <string id="4gMJDK0L" text="Украшенный Северный Двуручный Топор"/>
-    <string id="4j9EQJgC" text="Рифлёная Булава Западного Наемника"/>
     <string id="4jmcs2Xm" text="Турнирные Болты"/>
     <string id="4KYF5iCd" text="Многослойная Кожаная Куртка"/>
-    <string id="4mUnWaBb" text="Южный Прямой Клинок"/>
     <string id="4n6n3KL7" text="Пустынный Головной Убор"/>
     <string id="4OaVIYuD" text="Спата С Узкими Долом"/>
     <string id="4okauhMv" text="Западные Пехотный Топор"/>
-    <string id="4OSZFEUV" text="Горное копьё с Длинным Наконечником"/>
-    <string id="4oxPg6MA" text="Горный Тренировочный Большой Двуручный топор"/>
     <string id="4pqIsPhp" text="Полупальто с Подкладкой"/>
     <string id="4RTsybkx" text="Военная Бритва"/>
     <string id="4SadJFch" text="Восточное Зазубренное Копьё"/>
-    <string id="4UOaYlRb" text="Фланцевая Булава"/>
     <string id="4wdgiTta" text="Серп"/>
     <string id="4wQRk3f5" text="Украшенный Длинный Боевой Меч"/>
     <string id="4XAa0tca" text="Южный закрытый Шлем"/>
-    <string id="4YkHf9De" text="Длинная Сабля Степных Налетчиков"/>
     <string id="4YTJJaTG" text="Тяжелая Сабля"/>
     <string id="4YxbZlbi" text="Обернутая обувь"/>
     <string id="51EcVnzd" text="Шлем с Забралом и Кольчужным Койфом"/>
     <string id="57jpWo7g" text="Кавалерийский Палаш из Отличной Стали"/>
-    <string id="5bscTXmv" text="Имперская Тренировочная Гаста"/>
+    <string id="59TEk33X" text="Южная Широкая Каскара" />
     <string id="5h1qpdoa" text="Имперский Гамбезон с Ремнями"/>
     <string id="5lJrGXqR" text="Южное Одеяние с Халатом"/>
-    <string id="5mZPBiwT" text="Ятаган с Лошадиной Рукоятью"/>
     <string id="5n4rWI9T" text="Шипастый Шлем С Маской"/>
-    <string id="5ot7dWzY" text="Степное Копьё"/>
-    <string id="5RTrkauC" text="Имперский Большой Топор"/>
-    <string id="5VEqFdkA" text="Южное Легкое Копьё"/>
-    <string id="5YLOuKWW" text="Восточное Тренировочное Копьё"/>
-    <string id="5z4w5U3k" text="Степное Турнирное Копьё"/>
-    <string id="5ZZxKIlp" text="Степное Кавалерийское Копьё Захватчика"/>
-    <string id="60fpbHiH" text="Западный Доспех"/>
+    <string id="60fpbHiH" text="Западный Кольчужный Доспех"/>
     <string id="62nIvqbA" text="Баттанийский Горный Клинок"/>
-    <string id="6bEcBQZh" text="Восточный Простой Короткий Лук"/>
     <string id="6Cc4zpeQ" text="Южный Усиленный Круглый Щит"/>
     <string id="6Db7aDbF" text="Стрелы Баллисты"/>
     <string id="6eO6QDoE" text="Стургийское Тяжелое Копьё"/>
     <string id="6EWm09LY" text="Моргенштерн"/>
     <string id="6fPAlYR5" text="Западный Длинный Лук"/>
-    <string id="6hc4NCQz" text="Южный Ятаган"/>
-    <string id="6hwZwODh" text="Глефа"/>
+    <string id="6hwZwODh" text="Палаш"/>
     <string id="6J0aJo7u" text="Южный Сельский Головной Убор"/>
-    <string id="6K8amVKI" text="Северное Рубящее Копьё Наёмника"/>
     <string id="6Ls9naf4" text="Восточные Степные Кожаные Сапоги"/>
     <string id="6n44BIll" text="Остроконечная Тюбитейка с Койфом"/>
-    <string id="6ovXlXyR" text="Боевой Топор"/>
-    <string id="6pEnFY0W" text="Меч с Широким Долом Наёмника"/>
+    <string id="6q0nmVtg" text="Лесной Топор" />
     <string id="6qaNQAND" text="Восточная Пластинчатая Броня"/>
     <string id="6QI8X6CY" text="Южная Легкая Булава"/>
     <string id="6SxJ9cpN" text="Южный Круглый Щит"/>
-    <string id="6tSlFHJC" text="Северное Короткое Копьё с Длинным Наконечником"/>
-    <string id="6twnZnA5" text="Длинный Бердыш"/>
     <string id="6WcZ5Tr0" text="Кузнечный Молот"/>
     <string id="6Wkq14uk" text="Горное Крестьянское Платье"/>
     <string id="6YCbEaHK" text="Северный Круглый Щит"/>
-    <string id="74SR5XFp" text="Южный Тренировочный Метательный Нож"/>
     <string id="77RIGK7B" text="Кольчужный Койф"/>
     <string id="7D3jvAfS" text="Закрытый Колпак"/>
     <string id="7dAy51ln" text="Цервельер с Кольчужным Койфом"/>
-    <string id="7hLdoABE" text="Тренировочный Серп"/>
     <string id="7jH0kuof" text="Шипастая Булава"/>
     <string id="7LmUe8fQ" text="Менавлион"/>
-    <string id="7ooatwOp" text="Боевой Меч Низинных Преступников"/>
     <string id="7phSQw5i" text="Мотыга"/>
-    <string id="7r0uJbtV" text="Горный Тренировочный Двуручный Топор"/>
     <string id="7rGaUG0W" text="Восточный Меховой Капюшон"/>
     <string id="7S6BjECG" text="Упряжь Мула с Сумкой"/>
     <string id="7sgW3eHd" text="Восточное Меховое Платье"/>
-    <string id="7sWfadcq" text="Горный Широкий Топор"/>
-    <string id="7xKbl4xC" text="Пернач"/>
     <string id="7yGwvnUA" text="Северная Туника"/>
-    <string id="80RymGIn" text="Горный Двуручный Молот"/>
     <string id="85q9uY76" text="Горная Поношенная Уздечка"/>
     <string id="89OWzLBb" text="Топор с Бамбуковой Ручкой"/>
     <string id="8cM840mh" text="Северная Раскошная Туника"/>
     <string id="8el5a3sF" text="Курица"/>
     <string id="8fK5E68M" text="Заострённая Сабля"/>
-    <string id="8FxozjzR" text="Варварский Топор"/>
     <string id="8hDoWBIa" text="Рубаха Простолюдина"/>
     <string id="8jEDX9J4" text="Палаш"/>
     <string id="8kUwD98O" text="Имперские Шипованные Наплечники"/>
     <string id="8mpp8ZCL" text="Боевой Меч Рыцаря"/>
     <string id="8ndLVeN0" text="Деревянный Каплевидный Щит"/>
+    <string id="8Nkurzdw" text="Восточная Стальная Булава" />
     <string id="8nNLS96w" text="Усиленный Овальный Щит"/>
     <string id="8NrM7hzY" text="Западные Метательные Ножи"/>
     <string id="8Oi89KRn" text="Северная Легкая Уздечка"/>
+    <string id="8pnCvnFR" text="Стальной Шестопёр" />
     <string id="8r0Z9Hyb" text="Южный Цветной Халат"/>
-    <string id="8R5q72eI" text="Лесной Топор Наемника "/>
     <string id="8R6kpH2J" text="Южный Халат Поверх Кольчуги"/>
     <string id="8SNS2wF9" text="Тюрбан"/>
-    <string id="8sT7zrzz" text="Горный Пони"/>
     <string id="8TbraEGR" text="Западная Кольчуга"/>
     <string id="8tHbqjmB" text="Остроконечный Меховой Капюшон"/>
-    <string id="8tXra2LC" text="Северный Одноручный топор"/>
     <string id="8uBew3nD" text="Шипованные Наручи"/>
     <string id="8ulJswRY" text="Покрытое Кожей Пальто"/>
     <string id="8UMQ8ocB" text="Восточный Кавалерийский Щит"/>
-    <string id="8uN9b8x3" text="Позолоченный Полуторный Меч"/>
-    <string id="8y6ScKRB" text="Глефа с Длинной Рукоятью"/>
     <string id="927d3urB" text="Деревянный Овальный Щит"/>
     <string id="93OHSnEV" text="Украшенный Длинный Ятаган"/>
     <string id="94yBVV6R" text="Южный Половинчатый Платок"/>
-    <string id="95Ak1ANu" text="Горный Тренировочный Меч"/>
-    <string id="9bcSXdG3" text="Имперский Боевой Меч С Орлиной Рукоятью"/>
     <string id="9BENgwRK" text="Круглый Котелок с Шнуровкой"/>
-    <string id="9biqJFbP" text="Восточное Короткое Копьё С Широким Наконечником"/>
     <string id="9cHyHQ7a" text="Ламеллярные Латные Сапоги"/>
+    <string id="9EWN9SiT" text="Легкий Пернач" />
     <string id="9Eyd2qGo" text="Усиленные Замшевые Сапоги"/>
     <string id="9FgxK9se" text="Высокий Шлем"/>
     <string id="9Hr4oEvw" text="Круглый Котелок из Имперской Кожи"/>
-    <string id="9JQfRdAg" text="Южные Тренировочные Дротики"/>
-    <string id="9JsvnirK" text="Военная Бритва с Бамбуковой Рукоятью"/>
-    <string id="9n52f3yp" text="Горный Топор Наемника"/>
-    <string id="9PlNcElL" text="Тяжелая Шипованная Дубина"/>
-    <string id="9u4qTqbL" text="Деревянная Булава с Тяжелым Набалдашником"/>
     <string id="9X2l53vY" text="Серебряная Руда"/>
-    <string id="9XShYVni" text="Восточный Тренировочный Скимитар"/>
-    <string id="9YSiKaV3" text="Длинные Деревянные Вилы"/>
     <string id="9ZiUK3JJ" text="Широкий Двуручник с Большим Долом"/>
     <string id="a10taTGb" text="Сабля с Эфесом Льва"/>
     <string id="a1BGHdaU" text="Охранные Наручи"/>
     <string id="a1KxyGOj" text="Северное Платье"/>
     <string id="A1zFbFta" text="Усиленный Плоский Каплевидный Щит"/>
     <string id="A2I5SHCr" text="Северный Шлем с Забралом"/>
+    <string id="a2XnhQ3V" text="Северный Закрытый Шлем"/>
     <string id="a71fiml4" text="Имперский Пластинчатый Доспех"/>
     <string id="A8MJWbhf" text="Обитый Мягкой Тканью Шлем с Забралом"/>
-    <string id="a8ycVmwU" text="Бердыш"/>
-    <string id="aAcZ5Yoe" text="Северный Тренировочный Топор"/>
-    <string id="AatpKltN" text="Северное Длинное Военное Копье"/>
     <string id="AB1mV5Pg" text="Железный Котелок с Шнурованным Койфом"/>
     <string id="AdafHtud" text="Остроконечный Шлем с Кольчужным Койфом"/>
     <string id="aDDTouCQ" text="Имперский Ватник из Ткани"/>
     <string id="ADJBbfbQ" text="Мех"/>
-    <string id="Ae9L1a9g" text="Кувалда"/>
     <string id="aEBMmzn6" text="Вландийское Копьё"/>
-    <string id="aeqTsIXQ" text="Степной Клинок"/>
-    <string id="aFVjbGZV" text="Горный Большой Лук Наемников"/>
     <string id="aGbTPme1" text="Коса"/>
     <string id="aGkXbDlr" text="Западная Кольчужная Рубаха"/>
     <string id="agqzAXa9" text="Шлем с Забралом и Подбитым Койфом"/>
     <string id="aHQCG5Tn" text="Бард с Цепочкой"/>
     <string id="Ai7qIb9I" text="Небольшой Треугольный Щит"/>
-    <string id="aJaHreSR" text="Западное Копьё Вельможи"/>
-    <string id="ajifXc8I" text="Плюмбата"/>
-    <string id="aLkVUV1U" text="Северный Боевой Топор с Соколиным Острием"/>
+    <string id="AIu3kKvz" text="Лошадиное Седло" />
     <string id="AloILntx" text="Южная Простая Упряжь"/>
     <string id="AMIdBVZb" text="Спата из Отличной Стали"/>
-    <string id="aMLAWwLL" text="Горный Тренировочный Метательный Топор"/>
-    <string id="an5GEcUf" text="Северный Лук"/>
-    <string id="ANG1iOd7" text="Северные Дротики Наемника"/>
-    <string id="AnQcRasA" text="Западный Тренировочный Меч"/>
-    <string id="anrTNEM6" text="Имперские Тренировочные Дротики"/>
     <string id="AobNdBBU" text="Дешевый Ватник"/>
     <string id="AOZbTGOS" text="Ксифос"/>
     <string id="ap2yulQ2" text="Плоский Треугольный Щит"/>
     <string id="aPa3Cp4l" text="Имперский Кожаный Койф"/>
-    <string id="aPJWJE2U" text="Южный Лук из Черного Дерева"/>
-    <string id="apllYORE" text="Kузаитский Запасной Меч"/>
     <string id="aq8lbNZo" text="Южный Шлем с Застёжками"/>
-    <string id="aqXRsQL8" text="Стургийская Лошадь"/>
+    <string id="arBdK7st" text="Простой Полуторный Меч" />
     <string id="ArPvuBYK" text="Тканевый Тюрбан"/>
-    <string id="ArvrqnyR" text="Южное Военное Копьё Наёмника "/>
-    <string id="atzdCozd" text="Восточный Тренировочный Меч"/>
     <string id="aufKSKLa" text="Южный Ватник из Ткани"/>
-    <string id="auQme7Ra" text="Имперский Тренирововчный Боевой Меч с Шестигранным Клинком"/>
     <string id="Auwoehal" text="Горная Броня Военачальника"/>
-    <string id="av0DEpU3" text="Западный Боевой Меч с Долом"/>
     <string id="av4ncLDl" text="Имперская Вспомогательная Броня"/>
     <string id="AVcbBH1J" text="Северный Шлем с Забралом и Подкладкой из Кожи"/>
     <string id="aVGSZhCN" text="Павезный Щит"/>
     <string id="AwARTy44" text="Имперские Сапоги Всадника"/>
-    <string id="AWGKb3P1" text="Имперский Треннировочный Меч"/>
     <string id="awQrcrt2" text="Керамика"/>
     <string id="aYCvg89I" text="Имперская Накидка"/>
     <string id="aYoIrpe0" text="Вязанные Кольчужные Плундры"/>
-    <string id="az7SoRcn" text="Восточная Булава"/>
-    <string id="Azrvr51o" text="Позолоченный Боевой Меч"/>
-    <string id="B0Fe33b4" text="Имперская Спата С Линзовидным Лезвием"/>
     <string id="b1pqUQju" text="Сегментированная Подбитая Тюбитейка из Ткани"/>
-    <string id="b34AwrRv" text="Западное Длинное Рубящее Копьё"/>
-    <string id="b4GGZCf8" text="Двуручный Меч Дворянина"/>
     <string id="b4q4ehF4" text="Северная Кольчуга с Пластинами"/>
     <string id="B5akzp6B" text="Железный Пернатый Шпангенхельм"/>
     <string id="b6JvcSiQ" text="Кошка"/>
     <string id="B7tbURzI" text="Голова Волка"/>
     <string id="b8AgXwbL" text="Широкий Боевой Меч"/>
     <string id="B8eDrNXG" text="Южные Доспехи Наездника"/>
-    <string id="B8p6E8GJ" text="Табар"/>
-    <string id="b8ZbjJa4" text="Закаленное Короткое Копьё"/>
     <string id="B9LjhTj6" text="Имперская Шипованная Кожанка"/>
     <string id="baDdigZj" text="Северный Украшенный Платок для Головы"/>
+    <string id="baIE2VQW" text="Военный Верблюд" />
     <string id="bANXyotg" text="Слегка Ребристая Флисса"/>
     <string id="BAsjzOiH" text="Топор Палача"/>
     <string id="BavVxSoC" text="Дешевая Цветная Одежда"/>
     <string id="bAvyfxIy" text="Котелок Стражника с Подбитым Койфом"/>
     <string id="bcjcw1o9" text="Колун"/>
     <string id="BD07fj39" text="Имперский Украшенный Шлем"/>
-    <string id="bd9zbFop" text="Горный Клеймор"/>
     <string id="bdpjqoGe" text="Сегментированный Цервельер с Кольчугой"/>
     <string id="beMSPAOG" text="Кожанный Шлем с Шипами"/>
     <string id="beVFwINO" text="Деревянный Молот"/>
     <string id="bevik0LU" text="Одежда с Вырезом"/>
     <string id="bEy8qTnn" text="Восточная Легкая Булава"/>
     <string id="bfFNYaiU" text="Цервельер с шнурованным Койфом"/>
-    <string id="bFHyavdd" text="Западный Меч С Латунным Эфесом"/>
     <string id="bFm9jOft" text="Кожанные Сапоги с Ремешком"/>
-    <string id="bgGytU9N" text="Тренировочный Арбалет"/>
     <string id="bGSbaT2n" text="Северные Латные Сапоги"/>
     <string id="Biq7t1xv" text="Стрелы Охотника"/>
-    <string id="bJi6PKdQ" text="Западный Топор"/>
-    <string id="bJmadwse" text="Южный Длинный Лук из Ясеня"/>
     <string id="bK03bqdA" text="Турнирные Стрелы"/>
-    <string id="bkKXyhPk" text="Боевой Меч с Перекрестной Гардой"/>
     <string id="Bl72Ribb" text="Подбитые Кожанные Наплечники"/>
     <string id="BmHJmxXz" text="Усиленный Кавалерийский Щит"/>
     <string id="bNABNs8O" text="Двуручный Топор с Квадратным Бойком"/>
-    <string id="bP7yHG2R" text="Боевой Меч Знати"/>
-    <string id="bQ3e8IDn" text="Имперский Простой Лук"/>
     <string id="BqAUrOpn" text="Легкие Стрелы с Шилообразным Наконечником"/>
-    <string id="BqebrVGS" text="Южный Тупой Прямой Меч"/>
     <string id="bQXR1jzG" text="Восточный Благородный Шлем с Защитой Шеи"/>
     <string id="brLFIN46" text="Горные Наручи Военачальника"/>
     <string id="brvgn9Ja" text="Восточный Вендельский Шлем"/>
-    <string id="BS0yMSl9" text="Горный Охотничий Длинный Лук"/>
-    <string id="bT4b0KwN" text="Дротики Северных Наёмников"/>
+    <string id="bt0uFefo" text="Лесной Двуручник" />
     <string id="btrf2AXp" text="Мешковатые Штаны"/>
     <string id="bTUGfbH5" text="Прочный Гамбезон"/>
     <string id="buaIafV6" text="Треугольный Шит с Скобами"/>
     <string id="bubcrmTC" text="Шлем с Наносником и Подбитый Сукном"/>
     <string id="bvgHgb6E" text="Восточный Отражающий Кожаный Доспех"/>
-    <string id="bvUWIzvs" text="Рубящее Копьё"/>
     <string id="bVzkrtUc" text="Обоюдоострый Кинжал"/>
-    <string id="BWMwEzYb" text="Изогнутый Тренировочный Меч"/>
     <string id="bwXACVOb" text="Копьё из Отличной Стали"/>
     <string id="bX3P9X7I" text="Латунные Пластинчатые Наплечники"/>
     <string id="bxa4JHlU" text="Кожанные Шипованные Наручи"/>
-    <string id="bxglnD8B" text="Имперский Тренировочный Лук"/>
-    <string id="bxLgR2fL" text="Тяжелый Двуручный Топор с Резной Рукоятью"/>
-    <string id="BXzFBMkA" text="Стальной Длинный Клинок"/>
-    <string id="BYtklBAe" text="Северное Копьё Наемника "/>
-    <string id="bYZ79fbE" text="Рыбный Топор"/>
+    <string id="BYPhysbH" text="Рыцарское Падение" />
     <string id="bz5lXkHS" text="Подбитое Пальто без Рукавов"/>
     <string id="bzrVXGAl" text="Бронзовый Крылатый Каркасный Шлем Обитый Кожей"/>
-    <string id="c1Ih2CPt" text="Пилумы"/>
     <string id="C2Z43pzq" text="Северная Кожанка с Подкладкой из Тяжелой Ткани"/>
     <string id="C7oo0zAY" text="Восточных Степной Халат"/>
-    <string id="C7qhmd3c" text="Северный Длинный Меч с Удлиненной рукоятью и Долом"/>
     <string id="c7UNJSNi" text="Плетенные Кожаные Наплечники"/>
-    <string id="cB4jwJ1z" text="Имперский Составной Лук"/>
     <string id="CB97qhVM" text="Мул"/>
-    <string id="CBaHKWhX" text="Степное Короткое Копьё"/>
-    <string id="CbKxPK1L" text="Имперский Широкий Меч с Долом"/>
     <string id="cCaHNMwf" text="Горные Портянки"/>
-    <string id="cD0QjZRw" text="Имперская Пика"/>
+    <string id="ccLDacS4" text="Баттанийский Чистокровка" />
     <string id="CEj2Rfh5" text="Западное Одеяние Знати"/>
-    <string id="cekpli2g" text="Копьё Налетчиков"/>
-    <string id="cERBrEDs" text="Длинный Топор Северных Налетчиков"/>
-    <string id="cEUqPott" text="Южное Длинное Копье"/>
-    <string id="cfFDbQU2" text="Южное Рубящее Военное Копьё"/>
-    <string id="CgG2aRyh" text="Полуразмерный Чепрак"/>
+    <string id="CgG2aRyh" text="Полуразмерная Броня для Лошади"/>
     <string id="CIT7Zuxh" text="Чистокровный"/>
-    <string id="Citaxpnt" text="Горный Чеканный Короткий Клинок"/>
-    <string id="cJWXHk8Q" text="Пустынный Прямой Меч Воров"/>
     <string id="CLYcnUra" text="Кожанная Кираса с Поясом"/>
-    <string id="CmJnEIY4" text="Южный Тесак Кавалериста"/>
-    <string id="CnoSfbBt" text="Северный Чеканный Длинный Меч с Удлиненной Рукоятью"/>
-    <string id="CoDTY7rC" text="Пустынный Простой Короткий Лук"/>
+    <string id="cmuMaYGR" text="Практичный Длинный Лук" />
     <string id="Cp5aIHqR" text="Северный Ламеллярный Жилет"/>
     <string id="CPI0wkaZ" text="Арбалет из Гикори"/>
-    <string id="CqU3of2e" text="Резной Остистый Колун"/>
+    <string id="CQBiJLgv" text="Верблюд" />
     <string id="cRCkC36E" text="Короткий Меч"/>
-    <string id="CRdbXFb3" text="Южный Остроконечный Фальшион"/>
     <string id="CtJPuRDa" text="Подбитое Кожанное Пальто"/>
     <string id="ctkNWKbq" text="Вландийское Легкое Копьё"/>
-    <string id="CWmpgOkW" text="Южное Копье Наемника С Тонким Лезвием"/>
-    <string id="CXCgbMds" text="Южный Меч"/>
+    <string id="CWI7a4z5" text="Южный Малый Топор"/>
     <string id="cXesETQJ" text="Широкая Адарга"/>
     <string id="CXnhFf1t" text="Усиленные Кожанные Наручи"/>
-    <string id="CXrUduWa" text="Северный Чеканный Полуторный Меч"/>
-    <string id="Czj67Eio" text="Топор Рыцаря"/>
-    <string id="d0We80qL" text="Северный Турнирный Топор"/>
-    <string id="d38oaMMB" text="Южный Двуручный Военный Топор"/>
-    <string id="D4aYU0md" text="Западный Боевой Меч"/>
     <string id="D4gxNfzG" text="Южный Шазюбль"/>
     <string id="d8DrtmwP" text="Шлем с Забралом и Кольчужным Койфом"/>
-    <string id="d8rvW2DH" text="Имперский Военный Топор"/>
     <string id="D8xeIXcI" text="Горная Туника Горожан"/>
     <string id="Da1bV3ph" text="Имперский Подбитый Койф"/>
     <string id="dacwWKE2" text="Поношенный Каплевидный Щит"/>
-    <string id="dAT4FGea" text="Южная Тренировочная Булава"/>
     <string id="dbbwszHd" text="Украшенный Круглый Щит"/>
     <string id="DbNdyJgQ" text="Горная Потрепанная Упряжь"/>
     <string id="DC0qJkVs" text="Затупившиеся Стрелы"/>
     <string id="Dc4ia4m9" text="Подбитая Шапка"/>
     <string id="dCbrowBV" text="Длинная Каскара из Отличной Стали"/>
-    <string id="DDrEZcEz" text="Имперская Фланцевая Легкая Булава"/>
-    <string id="dDZ7xIZ6" text="Западный Тяжелый Арбалет Наёмника"/>
     <string id="deA729dQ" text="Одежда с Вырезом и Походной Сумкой"/>
-    <string id="Df2XlFjl" text="Южный Широкий Ятаган"/>
-    <string id="DgTeqoGb" text="Широкая Франциска"/>
     <string id="DI9P2HDG" text="Сложенные Шиловидные Стрелы"/>
     <string id="dIfcfMbY" text="Шипованный Кожаный Жилет"/>
     <string id="Dj64aJKQ" text="Алебарда"/>
     <string id="DJjCCQ59" text="Баттанийский Доспех Дикаря"/>
-    <string id="djjONXZa" text="Южный Тяжелый Композитный Лук"/>
-    <string id="dJLM8lx2" text="Южный Тренировочный Кинжал"/>
-    <string id="DjwqMJnG" text="Кирка С Бамбуковой Ручкой"/>
+    <string id="dkuzrKJF" text="Отличная Пика" />
     <string id="DlHkNiJA" text="Горное Платье"/>
     <string id="dLLD8bVX" text="Пустынное Прочное Седло"/>
     <string id="DlPOte0H" text="Запряженный Верблюд"/>
-    <string id="Dlth9At5" text="Имперское Копьё Наёмника"/>
-    <string id="dmas1J7Z" text="Западный Длинный Меч Знати"/>
     <string id="DoiwC1Qa" text="Кольчужные Плундры"/>
     <string id="DOYS7dmq" text="Стянутые Кожаные Наручи"/>
-    <string id="dPhpHwWb" text="Южный Топор с Бамбуковой Ручкой"/>
     <string id="dPQGxmJ7" text="Усиленные Кольчужные Перчатки"/>
     <string id="DQaV0i5W" text="Железный Палаш"/>
-    <string id="Dqeb6B9s" text="Северный Молот"/>
     <string id="dqyN7Sbz" text="Имперское Легкое Копьё"/>
     <string id="dRLIr22v" text="Имперская Прошитая Кожанка"/>
+    <string id="dRWKmbaa" text="Малй Топор с Шпорой" />
     <string id="dS4zm0UT" text="Шипованная Кожанка С Подкладкой"/>
-    <string id="dthTIbmM" text="Обитая Мехом Кирка"/>
-    <string id="dtpd0ts9" text="Южный Композитный Короткий Лук"/>
     <string id="DuLFJbXJ" text="Восточная Кожанка С Поясом"/>
     <string id="dVekhkIU" text="Шуба Поверх Туники"/>
     <string id="DvGueBrU" text="Полотно"/>
-    <string id="DWbjidj9" text="Северный Расколотый Щит Рейдера"/>
     <string id="dWr3nuBq" text="Обитый Железом Каплевидный Щит"/>
-    <string id="dxlmOgeq" text="Горный Топор с Круглым Обухом"/>
-    <string id="DYWba6t5" text="Имперский Широкий Боевой Меч"/>
     <string id="DYwjfcM8" text="Шипастый Котелок с Имперской Кольчугой"/>
-    <string id="DZLka8rJ" text="Западный Чеканный Тренировочный Меч"/>
     <string id="e4lKZhgv" text="Грубые Кожаные Наручи"/>
     <string id="e6WzpsWz" text="Железный Шлем с Наносником и Имерской Ватной Подкладкой"/>
     <string id="E7miRMw1" text="Тяжелый Изогнутый Лук"/>
@@ -449,12 +299,7 @@
     <string id="eaALL6uO" text="Длинная Сабля"/>
     <string id="EadnjRjs" text="Длинный Военный Меч"/>
     <string id="ebHdQfbX" text="Каркасный Шлем с Подбитым Подшлемником"/>
-    <string id="EBOFByvG" text="Горный Двуручный Тренировочный Топор"/>
-    <string id="EbWA5mcO" text="Тренирововчная Алебарда"/>
-    <string id="ECfh4peG" text="Тяжелый Серп"/>
-    <string id="eEaBWa5E" text="Усиленная Дубина"/>
     <string id="EELLBAbX" text="Горная Чешуйчатая Броня"/>
-    <string id="eES8JdzX" text="Стургийский Открытый Шлем"/>
     <string id="efFb16x7" text="Доспех Наёмника-Ветерана"/>
     <string id="EfRKaKs0" text="Степная Меховая Сбруя"/>
     <string id="efW2XbK8" text="Шлем Эмира"/>
@@ -463,77 +308,52 @@
     <string id="ekUvh8Em" text="Заостренный Двуручник"/>
     <string id="ELsDFwAD" text="Вино"/>
     <string id="elTXYb9f" text="Серповидный Нож"/>
-    <string id="EmAwUzc9" text="Горный Боевой Топор Разбойника"/>
     <string id="eND6ECxg" text="Копьё Тяжелого Конника"/>
+    <string id="EO7pCu1b" text="Лук Знати" />
     <string id="ErOLa263" text="Факел"/>
-    <string id="ErvtRgob" text="Двуручный Боевой Топор Горного Наёмника"/>
     <string id="ESqqwNDd" text="Южный Шлем Двоорянина"/>
-    <string id="EtfKNKcv" text="Длинный Топор Лесного Бродяги"/>
     <string id="eTKxlDl1" text="Горные Сапоги Военачальника"/>
-    <string id="EtQnxVhc" text="Горное Листовое Копьё"/>
     <string id="eU6YOqBC" text="Южный Халат"/>
     <string id="eWf7bFGo" text="Меховые Доспехи С Ремешком"/>
     <string id="EWR2MNeM" text="Шлем с Наносником и Кольчугой"/>
     <string id="ewSpZ10R" text="Грубая Подбитая Шапка"/>
-    <string id="EX3aHQHX" text="Имперский Короткий Меч"/>
     <string id="EXasg15J" text="Северный Подбитый Гамбезон"/>
     <string id="EXLY9mEb" text="Усиленный Большой Круглый Щит"/>
-    <string id="EYbSoFMe" text="Лесной Тренировочный Тисовый Лук"/>
-    <string id="EyibGK8n" text="Западная Рогатина c Длинным Клинком"/>
     <string id="f2O1XjYd" text="Собака"/>
-    <string id="F3xMFYFm" text="Простой Изогнутый Лук"/>
     <string id="F4xD8gjJ" text="Франческа"/>
-    <string id="f7h2GUAv" text="Глефа Преступника"/>
     <string id="f7RmWqJ2" text="Западный Платок"/>
-    <string id="f7zOPkE5" text="Имперское Тренировочное Военное Копьё"/>
     <string id="F9GB8lMZ" text="Рваные Лохмотья"/>
     <string id="F9HQABfN" text="Усиленный Плетённый Квадратный Щит"/>
     <string id="FAPHmzxQ" text="Саб"/>
     <string id="FaWA8c50" text="Северное Тяжелое Пальто"/>
+    <string id="FAzGPJn6" text="Бамбуковый топор" />
     <string id="Fb7PrJuc" text="Лубяные Сапоги"/>
     <string id="FbG3CW5p" text="Военные Вилы"/>
     <string id="fcgDtZy7" text="Восточная Тяжелая Булава"/>
-    <string id="fdVefSfl" text="Тисовый Длинный Лук Горных Разбойников"/>
-    <string id="FezC8K7i" text="Западная Булава Наёмника"/>
-    <string id="fEZonI9b" text="Северный Меч"/>
     <string id="ffwgZit3" text="Отличный Арбалет"/>
     <string id="fHj6NbWy" text="Железная Флисса"/>
     <string id="FhTUc64z" text="Гусь"/>
     <string id="FHu0bGub" text="Северная Шапка с Козырьком"/>
-    <string id="FizYb0lB" text="Большой Длинный Топор"/>
-    <string id="FjzWa7YI" text="Западное Боевой Меч с Широким Чеканным Лезвием"/>
     <string id="fk42FxCE" text="Многослойный Халат"/>
-    <string id="FkBc26V8" text="Военный Молот"/>
     <string id="FktkkUMK" text="Стальной Круглый Щит"/>
     <string id="FlikwkEx" text="Имперская Дополнительная Броня с Ремнями"/>
-    <string id="FmrzGOOZ" text="Горный Военный Топор Горцев"/>
     <string id="FOJHPU5N" text="Полупередник"/>
-    <string id="Fopv5TJl" text="Западный Чеканный Боевой Меч"/>
     <string id="FOx5vZSJ" text="Бронированный Меховой Кивер"/>
-    <string id="fpBlykcY" text="Тяжелый Тесак"/>
-    <string id="fpC9oEyj" text="Северное Копьё"/>
     <string id="fptsl0Qn" text="Килт С Армированной Кожей"/>
     <string id="fqHrMC1v" text="Западный Свободный Платок"/>
-    <string id="FRjLDk98" text="Южный Килич Наёмника"/>
     <string id="frwBm3Oh" text="Тканевый Платок"/>
     <string id="FSa9qv8i" text="Западный Шарф"/>
     <string id="FsDZC8Yl" text="Полный Шлем с Кольчужным Койфом"/>
     <string id="FSGtJ7eX" text="Тяжелый Шлем с Наносником и Имперской Кожаной Подкладкой"/>
-    <string id="fT6Rsrvs" text="Горный Длинный Палаш"/>
-    <string id="FTlqaCA6" text="Западное Тренировочное Копьё"/>
-    <string id="FuAARoRH" text="Стургийский Открытый Шлем"/>
     <string id="fUmehyHq" text="Тканые Кожаные Наручи"/>
     <string id="fUsA9TM4" text="Простой Восточный Тесак"/>
     <string id="fuyj7s3F" text="Длинный Ятаган из Отличной Стали"/>
-    <string id="FVzXRUCa" text="Имперские Метательные Ножи"/>
     <string id="FWFDkjBk" text="Шлем с Наносником и Шнурованным Койфом"/>
     <string id="FxnFBhrF" text="Кавалерийский Каплевидный Щит"/>
     <string id="FyaygeEx" text="Дубина с Набалдашником"/>
     <string id="FyXM8Iob" text="Пустынные Тканевые Наплеченики"/>
-    <string id="FZMbDVMn" text="Длинный Лук Скитальца"/>
     <string id="G40DJB7q" text="Южный Шлем с Кольчугой"/>
     <string id="g51zVsKU" text="Кольчужные Перчатки"/>
-    <string id="g5ckZqoT" text="Горный Мощный Длинный Лук"/>
     <string id="G7AEWZ6c" text="Украшенный Овальный Щит"/>
     <string id="g7iQsvPw" text="Шипованный Имперский Ошейник"/>
     <string id="gadEbFyj" text="Чеканная Стальная Сабля"/>
@@ -541,78 +361,56 @@
     <string id="gbRVBOLH" text="Одежда Простолюдина"/>
     <string id="GcFAmAaR" text="Восточные Кожаные Наручи"/>
     <string id="GD4aQgl7" text="Овца"/>
-    <string id="gdkijcA5" text="Южный Военный Ятаган Наёмника"/>
     <string id="gf3tDqNk" text="Коричневая Куфия"/>
     <string id="gfQDDkEY" text="Деревянная Адарга"/>
     <string id="gFtu0j4T" text="Стрелы"/>
     <string id="gfvG04SP" text="Пустынный Кожаный Наплечник"/>
-    <string id="gfwuuj2U" text="Западная Тренирововчная Рогатина"/>
     <string id="GghHAbIT" text="Топорик"/>
     <string id="gGhrQa29" text="Женский Капюшон"/>
-    <string id="GIabrPOV" text="Западный Длинный Лук Преступника"/>
-    <string id="GIdT7llw" text="Бамбуковое Копьё с Длинным Лезвием"/>
-    <string id="gk9QtP4J" text="Степное Копьё Наёмника"/>
-    <string id="gKhpLiyg" text="Кольчужный Чепрак с Пластинами"/>
+    <string id="gJPogg0J" text="Простой Длинный Топор" />
+    <string id="gKhpLiyg" text="Кольчужная Броня для Лошади с Пластинами"/>
+    <string id="GKzw7E8a" text="Простая Пика" />
     <string id="gLfxeU17" text="Императорский Шлем Охраны Лорда"/>
-    <string id="GLKK1i2D" text="Западная Тренирововчная Алебарда"/>
-    <string id="gloV5GAd" text="Северное Короткое Охотничье Копьё"/>
     <string id="GMqE9FCN" text="Прекрасные Южное Платье"/>
     <string id="GNdVXMue" text="Шарф"/>
-    <string id="Gobmbf64" text="Имперский Чеканный Боевой Меч"/>
-    <string id="gON27Fbo" text="Лук Егеря"/>
+    <string id="gnvIGThE" text="Асерайская Лошадь" />
+    <string id="Goloz0Vm" text="Легкоупряжная Лошадь" />
     <string id="gqbjCBld" text="Северный Метательный Топор"/>
     <string id="GrfnpDxu" text="Горный Метательный Топор"/>
-    <string id="gRQFm4Sr" text="Низинное Копьё Наёмника"/>
     <string id="Gs2f3aeh" text="Латные Полосатые Рукавицы"/>
     <string id="gSaKwztg" text="Горные Наручи Знати"/>
-    <string id="GsGJgGDE" text="Копьё"/>
     <string id="gsGjXj8J" text="Пустынный Длинный Меч"/>
     <string id="gT8WENO3" text="Высокий Манекен"/>
     <string id="GTWUtUFj" text="Цепная Конская Упряжь"/>
     <string id="gUTqDROO" text="Закрытый Платок"/>
-    <string id="gUxN8TQl" text="Стургийский Закрытый Шлем"/>
-    <string id="guZIl5U2" text="Южный Кавалерийский Длинный Меч С Линзовидным Лезвием"/>
-    <string id="gW1w21t6" text="Широкий Ребристый Короткий Меч Северян"/>
     <string id="gXbmGrGL" text="Украшенные Имперские Сапоги"/>
     <string id="GXmDq2KR" text="Медвежья Голова"/>
     <string id="Gxual4pG" text="Имперский Шлем с Металлическими Полосами"/>
-    <string id="GY7Ljf4W" text="Восточная Шипастая Булава "/>
     <string id="gYpNILVC" text="Кувалда"/>
     <string id="GyYsQlVd" text="Украшенная Короткая Спата"/>
     <string id="h1jKICdp" text="Простой Короткий Лук"/>
-    <string id="H1Z1pTk2" text="Сабля Кочевника"/>
-    <string id="H3EqqbEM" text="Длинный Топор Северян"/>
     <string id="h3vqV5Qy" text="Северная Кожаная Накидка"/>
     <string id="H41qKfaL" text="Горный Благородный Шлем с Пером"/>
     <string id="h5kfaD4v" text="Боевой Конь"/>
-    <string id="h60wQVVX" text="Пика"/>
     <string id="h6UXvU3B" text="Цервельер с Наносником и Шнурованным Койфом"/>
     <string id="h7IWO4DV" text="Пустынная Лошадь"/>
     <string id="h7VQk4jd" text="Горный Плащ с Плечевыми Ремнями"/>
-    <string id="h9gByuWc" text="Чеканный Имперский Боевой Меч"/>
+    <string id="H9hzBJz3" text="Практичное Копьё" />
     <string id="ha3rVEzP" text="Боевой Меч с Ребристым Острием"/>
+    <string id="habJjtmv" text="Ребристый Железный Палаш" />
     <string id="HaK3y9yi" text="Шипастая Дубина"/>
-    <string id="HbbbvMDS" text="Южная Легкая Тренировочная Булава"/>
-    <string id="HBYSzzoQ" text="Лесной Меч Наёмника"/>
     <string id="hCBCLp0e" text="Полукольчужная и Полупластинчатая Барда"/>
     <string id="HclLXEaT" text="Хлыст"/>
     <string id="hE8s9bpP" text="Изогнутый Круглый Щит"/>
     <string id="hELN8VXv" text="Рваный Халат"/>
-    <string id="HF4zUN9i" text="Императорский Длинный Боевой Меч С Линзовидным Лезвием"/>
     <string id="HG2emvr7" text="Южной Халат с Поясом"/>
     <string id="hhprIQti" text="Южный Халат с Кожаным Поясом"/>
-    <string id="hII0F68o" text="Топор Лесоруба"/>
     <string id="HiSzYWeh" text="Пиво"/>
     <string id="HkiLq2ry" text="Горные Меховые Наплечники"/>
     <string id="HKRGEXqy" text="Кольчуга Егеря"/>
-    <string id="HKzf1VKY" text="Турнирный Вульж"/>
     <string id="Hm61IBcT" text="Пёстрый Южный Халат"/>
-    <string id="HnwgGaRc" text="Крепкий Длинный Лук"/>
     <string id="ho4bsI3Q" text="Имперская Чешуйчатая Броня"/>
-    <string id="hpikOBKS" text="Южная Рифленая Булава"/>
-    <string id="hQ4oYSxy" text="Кавалерийское Копьё с Бамбуковым Древком"/>
     <string id="hQrLHkaU" text="Галлогальский Топор"/>
-    <string id="Hr9hLt1H" text="Горное Кавалерийское Копьё с Маленьким Наконечником"/>
     <string id="hRKmfw2H" text="Тяжелый Круглый Щит"/>
     <string id="hsRwbHSk" text="Копьё Мамлюка"/>
     <string id="htACXBhH" text="Железный Шлем с Наносником и Имперской Кольчугой"/>
@@ -622,40 +420,25 @@
     <string id="hXijcZyp" text="Короткое Пальто из Грубой Ткани"/>
     <string id="hyNitMsQ" text="Горный клинок из отличной Стали"/>
     <string id="hytuHaoA" text="Шипованный Каплевидный Щит"/>
-    <string id="i0FffeJp" text="Имперский Изогнутый Клинок"/>
-    <string id="i1s4UjqG" text="Оноручный Тесак"/>
+    <string id="hz87PBsa" text="Копьё с Широким Лезвием" />
+    <string id="i17zuvS4" text="Стургийский Охотник" />
     <string id="i4bslk7h" text="Южные Метательные Кинжалы"/>
     <string id="i4CfsNGd" text="Имперский Кольчужный Жилет"/>
     <string id="i8S2PJB4" text="Горные Перчатки"/>
     <string id="iAWzr8Q0" text="Пластинчатая Кожанка Поверх Кольчуги"/>
     <string id="IbdUT6PA" text="Южные Чешуйчатые Наплечники"/>
-    <string id="IbGycKdL" text="Южное Копьё Наёмника"/>
-    <string id="IC20kM9h" text="Военный Лук Наёмника"/>
     <string id="iD0ePqi7" text="Стёганные Кожаные Наручи"/>
-    <string id="iDkoR2jk" text="Северный Меч Знати"/>
+    <string id="iE9JNuZI" text="Круглый Степной Щит" />
     <string id="iEbP2INp" text="Украшенная Каскара"/>
-    <string id="Iex33XQv" text="Степная Рогатина Наёмника с Коротким Древком"/>
     <string id="iFPkhVGe" text="Малый Ровный Треугольный Щит"/>
     <string id="ifzgMcrK" text="Лук Кочевника"/>
-    <string id="IG0u89jn" text="Имперский Пехотный Топор"/>
-    <string id="igAT9Eqb" text="Степной Боевой Конь"/>
-    <string id="iGdZtrI0" text="Серп Наездника"/>
-    <string id="IgeGBDYL" text="Кузаитская Лошадь"/>
-    <string id="ii3svUwM" text="Имперская Тренировочная Спата С Линзовидным Лезвием"/>
-    <string id="Ij8iFmzb" text="Северный Чеканный Меч"/>
-    <string id="IJjrSbiV" text="Изогнутый Лук"/>
     <string id="IK2IPJi1" text="Соль"/>
-    <string id="iLJ8vUR8" text="Бамбуковое Копьё с Ужасным Крылатым Лезвием"/>
     <string id="IM2SamZ8" text="Фальшион"/>
     <string id="Im7wOGaC" text="Северная Подпоясанная Туника"/>
-    <string id="InR4uPVt" text="Северный Дуэльный Топорик"/>
     <string id="inr9Mt1i" text="Кузаитское Копьё"/>
-    <string id="IPp2QGwE" text="Крестьянский Серп"/>
+    <string id="IOt4KTHs" text="Палфри Среднинных Земель" />
     <string id="IPyPb4Dp" text="Северный Шлем с Маской"/>
-    <string id="IS70ksMm" text="Южное Копьё Наемника С Коротким Наконечником"/>
     <string id="Isioqvt9" text="Горная Одежда"/>
-    <string id="isJpIfEY" text="Чеканный Имперский Боевой Меч С Орлиной Рукоятью"/>
-    <string id="IsuAbpil" text="Горный длинный Боевой Меч"/>
     <string id="Ita1lG33" text="Каплевидный Щит Обитый Кожей"/>
     <string id="ITUNob5T" text="Тяжелый Шлем с Наносником и Имперской Кольчугой"/>
     <string id="ItUyYjdd" text="Топор для Казни"/>
@@ -665,31 +448,20 @@
     <string id="iUjgXGNn" text="Западное Платье с Корсетом"/>
     <string id="iVataLxL" text="Подбитый Халат с Кожанными Полосами"/>
     <string id="IW6uvAgP" text="Западное Короткое Копьё"/>
-    <string id="iwjJdxMD" text="Одноручный Колун"/>
-    <string id="iWUyJ86K" text="Северная Короткая Глефа"/>
     <string id="IX3kafcb" text="Железными Котелок с Шипами и Кольчугой"/>
-    <string id="IYa61CCG" text="Фальшион Пустынных Налётчиков"/>
-    <string id="iyNqA9H8" text="Военные Дротики"/>
     <string id="J00AF9Qv" text="Плетенные Кожаные Сапоги"/>
     <string id="J1zcabv4" text="Восточные Шипованные Наплечники"/>
+    <string id="J3erdO1b" text="Кровавая Заря" />
     <string id="J3YHMkL3" text="Подбитые Рукавицы"/>
     <string id="J4fgemze" text="Стургийское Копьё"/>
     <string id="j5O8mt4I" text="Западная Обмотка для Головы"/>
-    <string id="j6zzvnac" text="Палица"/>
     <string id="j7EZxCiG" text="Старая Шуба"/>
-    <string id="j84uANOs" text="Имперский Короткий Гладиус Наёмника"/>
-    <string id="J8HCa9iC" text="Северный Широкий Большой Топор"/>
-    <string id="J9Bp7BlY" text="Восточный Прямой Меч"/>
-    <string id="j9osM6OJ" text="Двуручный Топор с Рукоятью из Вырезанной Остистой Кожи"/>
     <string id="jakLnIQv" text="Грубый Шлем"/>
     <string id="JbTCDDb0" text="Болт"/>
     <string id="JBVAeXx3" text="Вилы"/>
     <string id="jbxeZs8K" text="Обычная Туника без Рукавов"/>
-    <string id="JdTneMfR" text="Степная Глефа"/>
-    <string id="jEHLd5gm" text="Килич"/>
+    <string id="JEaU5XOP" text="Северный Открытый Шлем" />
     <string id="jfWzICId" text="Чеканный Длинный Боевой Меч"/>
-    <string id="JGdncAKe" text="Западный Легкая Рифленая Булава Наёмника"/>
-    <string id="JgigpTU0" text="Тренировочный Полуторный Меч"/>
     <string id="JHef9oad" text="Упряжь Мула с Мешками"/>
     <string id="jhFSLdve" text="Двуручный Топор с Наконечником"/>
     <string id="jhgVsWKr" text="Королевская Лошадь"/>
@@ -697,755 +469,501 @@
     <string id="jIwjYOVj" text="Рваные Обмотки для Рук"/>
     <string id="JjLQ2VdT" text="Цервельер с Наносником и Подбитым койфом"/>
     <string id="JK7uQLqb" text="Северный Кожаный Жилет"/>
-    <string id="jkIGxM17" text="Лесной Клеймор"/>
+    <string id="Jkd2gmyj" text="Копьё с Треугольным Наконечником" />
     <string id="JkLoAelJ" text="Кольчужные Наплечники"/>
     <string id="JKRQ8RDA" text="Подбитая Одежда с Полосками"/>
-    <string id="jkykrhuc" text="Восточной Спарринг-Соболиный"/>
-    <string id="jLkVVTJh" text="Восточной Покрыла Кожаные Наручи"/>
-    <string id="JLWxF0yJ" text="Южные платье с поясом"/>
-    <string id="JM8Mjfa0" text="Пикировали Булава"/>
-    <string id="jOzV71SH" text="Степной Турнир Копье"/>
+    <string id="jLkVVTJh" text="Восточнst Латные Наручи из Кожи"/>
+    <string id="JLWxF0yJ" text="Южное Платье с Поясом"/>
+    <string id="JM8Mjfa0" text="Спиральная Булава"/>
     <string id="JPByibJQ" text="Железный Ятаган"/>
-    <string id="Jpt1WvTM" text="Чайник охранника за Кружевной чепец"/>
-    <string id="jqWBGBo7" text="Усиленная Кавалерией Малый Щитовой"/>
-    <string id="jRpDku31" text="Шипастый Топор"/>
-    <string id="jS7dHftN" text="Восточная Сабля С Квадратными Гвардии"/>
-    <string id="jsFgjWOj" text="Красный Табард За Почту"/>
-    <string id="JslRu3rX" text="Сырой Восточной Кожаные Доспехи"/>
-    <string id="JsmnUp0T" text="Дамы Платье"/>
-    <string id="JSnElr9e" text="Украшенный Степной Щит"/>
-    <string id="jSwVEgxZ" text="Имперский Наемник Спата"/>
-    <string id="JTrZ8ugB" text="Roundkettle Над Имперской Почты"/>
-    <string id="JvhvtKsT" text="Остроконечный Шлем По Почте"/>
+    <string id="Jpt1WvTM" text="Котелок Стражника с Шнурованым Койфом"/>
+    <string id="jqWBGBo7" text="Усиленный Кавалерийский Малый Щит"/>
+    <string id="jsFgjWOj" text="Красная Накидка поверх Кольчуги"/>
+    <string id="JslRu3rX" text="Грубая Восточная Кожаная Броня"/>
+    <string id="JsmnUp0T" text="Женское Платье"/>
+    <string id="JTrZ8ugB" text="Котелок поверх Имперской Кольчуги"/>
+    <string id="JvhvtKsT" text="Остроконечный Шлем с Кольчугой"/>
     <string id="jw2Kb97b" text="Имперское Копье"/>
     <string id="JxV66l02" text="Длинная Глефа"/>
-    <string id="jZLmDm5F" text="Степной Спарринг Warglaive"/>
-    <string id="K0FFOkeM" text="Svardstav"/>
-    <string id="K1UFTirG" text="Легким Арбалетом"/>
-    <string id="k2N8ZFxd" text="Сильный Изогнутый Лук"/>
-    <string id="K2xGw3Oo" text="Пустышка Ниже Среднего"/>
-    <string id="K2Xtca1a" text="Короткое Законопроект"/>
+    <string id="K1UFTirG" text="Легкий Арбалет"/>
+    <string id="K2xGw3Oo" text="Низкий Манекен"/>
+    <string id="K2Xtca1a" text="Короткий Билл"/>
     <string id="K4JtuMzP" text="Баттанийский Лесной Плащ"/>
-    <string id="K5XLb84w" text="Имперские Стрелки"/>
-    <string id="kanUXCLc" text="Хайленд Житель Туника"/>
-    <string id="KaZY0Ixp" text="Хайленд Туника"/>
-    <string id="KB9han2c" text="Лук браконьера "/>
-    <string id="kcoZpkPN" text="Тупой Тренировочный Меч"/>
-    <string id="kE0b93nV" text="Имперский Спарринг-Лэнс"/>
-    <string id="KEfcdzFM" text="Хаста"/>
-    <string id="KEhWTUjv" text="Императорский Широким Лезвием Рогатина"/>
-    <string id="KekIhUEO" text="Тонкий Чеканный Меч Дуэль "/>
+    <string id="K5XLb84w" text="Имперские Стрелы"/>
+    <string id="kanUXCLc" text="Туника Горного Жителя"/>
+    <string id="KaZY0Ixp" text="Горная Туника Туника"/>
     <string id="KFGfTXqE" text="Вьючная Лошадь"/>
-    <string id="kGaRjYRE" text="Разбойники Пустыни Шоршбрау"/>
     <string id="Kgnm0FkE" text="Кожаная Обувь"/>
-    <string id="KHFQdxvL" text="Тяжелые Северные Туника"/>
+    <string id="KHFQdxvL" text="Тяжелая Северная Туника"/>
     <string id="KhXnRIan" text="Женский Головной Обруч"/>
-    <string id="kIMOcPgn" text="Утюг Nasalhelm Над Имперской Тряпкой"/>
-    <string id="KIxX6dH2" text="Грубый Мех По Цепочке"/>
-    <string id="Kj68cfhA" text="Имперский Пластинчатые Плечи"/>
-    <string id="kJzIZMBR" text="Треугольный Бросок Копья"/>
-    <string id="KKWEkA4P" text="Грубый Медвежатник"/>
-    <string id="kmdjRAoG" text="Ажурные Ткани Чепец"/>
-    <string id="KmZHXINa" text="Бронзовый Nasalhelm Над Имперской Кожа"/>
-    <string id="kNDbSy6K" text="Усиленная Кавалерией Каплевидный Щит"/>
-    <string id="knMMpCss" text="Слегка Чеканный Вооружается Мечом"/>
-    <string id="Ko7tWuRb" text="Южной Халат С Почты"/>
-    <string id="koOrDa9q" text="Хайленд Кинжалов"/>
-    <string id="KpyTaAwL" text="Хайленд Позолоченный Благородный Шлем"/>
-    <string id="KrCGcsmJ" text="Восточное Платье Конверт "/>
-    <string id="KRiVe1Gh" text="Степной Налетчик Длинная Сабля"/>
-    <string id="kshM0xDc" text="Потрепали каплевидный щит всадника "/>
-    <string id="ksxylfU4" text="Коньковый Вооружается Мечом"/>
-    <string id="KTegaNPW" text="Лук"/>
-    <string id="Kv4zAMIh" text="Катафракты Палицу"/>
-    <string id="KVO4xr4D" text="Долгой Северной Топор"/>
-    <string id="kweDHlz8" text="Западные Венчает Позолоченный Шлем"/>
-    <string id="KXwN1PW4" text="Огромный Топор"/>
-    <string id="kyPoQt0f" text="Имперский Простые Кожаные Доспехи"/>
-    <string id="KZmZ9HXW" text="Латунь Масштаб Плечи"/>
-    <string id="l03IE9ub" text="Степной Наемник Рогатина"/>
-    <string id="l0bQCc6F" text="Закрепленный на Шесте Секач"/>
-    <string id="l2pDKbUc" text="Хайленд Наемника Двуручный Топор"/>
-    <string id="l69aXkKH" text="Давить Вилкой"/>
-    <string id="L7qYlJqn" text="Сапоги Вудленд"/>
-    <string id="l8t2LfHq" text="Воинов Пустоши Изл"/>
+    <string id="kIMOcPgn" text="Железный Шлем с Наносником и Имперской Тряпичной Подклакой"/>
+    <string id="KIxX6dH2" text="Грубый Мех Поверх Цепной Кольчуги"/>
+    <string id="Kj68cfhA" text="Имперские Пластинчатые Наплечники"/>
+    <string id="kJzIZMBR" text="Треугольное Метательное Копье"/>
+    <string id="KKWEkA4P" text="Грубая Медвежья Шкура"/>
+    <string id="kmdjRAoG" text="Шнурованый Койф из Ткани"/>
+    <string id="KmZHXINa" text="Бронзовый Шлем с Наносником поверх Имперского Кожанного Подшлемника"/>
+    <string id="kNDbSy6K" text="Усиленный Кавалерийский Каплевидный Щит"/>
+    <string id="Ko7tWuRb" text="Южной Халат С Кольчугой"/>
+    <string id="koOrDa9q" text="Горный Метательный Кинжал"/>
+    <string id="KpyTaAwL" text="Горный Латный Шлем Знати"/>
+    <string id="kR1blV2k" text="Зубчатые Военные Вилы" />
+    <string id="KrCGcsmJ" text="Восточное Платье-Конверт"/>
+    <string id="KRhIG1cw" text="Большая Франциска" />
+    <string id="KRuZuMFI" text="Приговор" />
+    <string id="kshM0xDc" text="Потрепаный Каплевидный Щит Всадника "/>
+    <string id="ksxylfU4" text="Остроконечный Боевой Меч"/>
+    <string id="KTegaNPW" text="Длинный Лук"/>
+    <string id="ktJ6crBs" text="Широкий Фальшион" />
+    <string id="Kv4zAMIh" text="Булава Тяжелого Кавалериста"/>
+    <string id="kweDHlz8" text="Западные Венценосный Латный Шлем"/>
+    <string id="kxtSkGju" text="Посол" />
+    <string id="kyPoQt0f" text="Имперский Простой Кожаный Доспех"/>
+    <string id="KZmZ9HXW" text="Латунные Чешуйчатые Наплечники"/>
+    <string id="l69aXkKH" text="Давящие Вилы"/>
+    <string id="L7qYlJqn" text="Лесные Сапоги"/>
     <string id="l91l1TJo" text="Цветной Тюрбан"/>
-    <string id="l9kAJ1Xh" text="Хайленд Широкое Лезвие"/>
-    <string id="L9uXLDlS" text="Имперский Короткое Копье"/>
-    <string id="LaKFAU1V" text="Имперская Почта За Кожей"/>
-    <string id="Lbm7asY3" text="Высокий Нагревателя"/>
-    <string id="Ldqb9oAF" text="Хайленд Военачальник Оплечье"/>
-    <string id="LFbWDveJ" text="Странное Лезвие"/>
-    <string id="LgftnHPs" text="Тканые Кожаный Жилет"/>
+    <string id="l9kAJ1Xh" text="Горный Широкий Клинок"/>
+    <string id="LaKFAU1V" text="Имперская Кольчуга с Кожаной Подкладкой"/>
+    <string id="Lbm7asY3" text="Высокий Треугольный Щит"/>
+    <string id="Ldqb9oAF" text="Горные Наплечники Полководца"/>
+    <string id="LgftnHPs" text="Плетеный кожаный жилет"/>
     <string id="lIJ1EVBh" text="Кожаные Перчатки"/>
-    <string id="lj53C5iN" text="Наемник Составной Лук"/>
-    <string id="ljE4zLrf" text="Северная Военачальника Шлем По Полной Почте"/>
-    <string id="ljOwXClb" text="Скандинавский Топорик"/>
-    <string id="lkDQMG0y" text="Западные Тисовый Лук"/>
-    <string id="LKpz9MtN" text="Имперский Длинный Меч Вооружения"/>
-    <string id="lLN5b4Ya" text="Тонкий Чеканный Вооружается Мечом"/>
-    <string id="lMqR4D3Z" text="Лесной Топор"/>
-    <string id="ln6ZboT7" text="Северных Словен Кожа"/>
-    <string id="lnTUKmoI" text="Мех Обработан Короткий Топор С Круглым Кусаются"/>
-    <string id="LOhfAMnh" text=" Небольшой Конный Нагревателя"/>
-    <string id="loHYOJA9" text="Северный Лорд Шлем С Открытым Чепец Почте "/>
-    <string id="LOPavWRp" text="Привязали Обувь"/>
-    <string id="LqA9uBH9" text="Указал Тюбетейка Над Тканью Гидроманта"/>
-    <string id="LSaNBkTp" text="Налетчики Топорик"/>
-    <string id="LSgDVSfl" text="Западные Коронованный Шлем"/>
-    <string id="lspv3mUE" text="Шипованные Степи Barding"/>
-    <string id="Lt8nT1hb" text="Послойная Плечи"/>
+    <string id="ljE4zLrf" text="Северный Шлем Военачальника с Целой Кольчужной Подкладкой"/>
+    <string id="ljOwXClb" text="Северный Топорик"/>
+    <string id="lkDQMG0y" text="Западный Тисовый Лук"/>
+    <string id="ln6ZboT7" text="Северная Кожанка Разгильдяя"/>
+    <string id="LOhfAMnh" text="Небольшой Кавалерийский Треугольный Щит"/>
+    <string id="loHYOJA9" text="Северный Шлем Предводителя с Открытым Кольчужным Койфом "/>
+    <string id="LOPavWRp" text="Обувь На Ремешках"/>
+    <string id="LqA9uBH9" text="Остроконечная Тюбетейка Поверх Матерчатого Головного Убора"/>
+    <string id="LSgDVSfl" text="Западный Венценосный Шлем"/>
+    <string id="lspv3mUE" text="Степная Шипованная Броня для Лошади"/>
+    <string id="Lt8nT1hb" text="Пластинчатые Наплечники"/>
     <string id="lULBZ714" text="Масло"/>
-    <string id="LWbJKKK1" text="Северная Благородный Проводов"/>
-    <string id="lwxOPEPx" text="Гладиус"/>
-    <string id="lxej2qAZ" text="Разбойники Пустыни Прямой Меч"/>
-    <string id="lXwaLAYP" text="Thamaskene Стали Warsword"/>
-    <string id="lZ93DOrn" text="Рукавов Ватник"/>
-    <string id="lZabcPbx" text="Степной Обучение Лук"/>
-    <string id="Lzv7UHlj" text="Южный Вооружается Мечом"/>
+    <string id="LWbJKKK1" text="Северная Благородная Уздечка"/>
+    <string id="lXwaLAYP" text="Тамаскенский Стальной Палаш"/>
+    <string id="lZ93DOrn" text="Подбитый Ватник без Рукавов"/>
+    <string id="LzqugHen" text="Скальпель" />
     <string id="M00MeRJD" text="Хлопок"/>
-    <string id="M0S8dl81" text="Рифленный Булава"/>
-    <string id="M16d43Pf" text="Узкий Чеканный Меч"/>
-    <string id="m1KNwmwW" text="Южный Наемника Лэнса"/>
-    <string id="m2s63WSb" text="Восточных Налетчиков Охотничий Лук"/>
     <string id="M2wvaObX" text="Спата"/>
-    <string id="m3Nv9rt2" text="Пернатый Кочевник Шлем"/>
-    <string id="m7Vj9FWm" text="Северная Полуторный Меч"/>
-    <string id="m9WHH6cq" text="Северное Короткое Копье"/>
-    <string id="mA3Fo3VY" text="Деревянной Лопаткой"/>
-    <string id="mAEjSAlV" text="Северная Закрытый Шлем По Почте"/>
-    <string id="MamotK0a" text="Мягкие Наручи"/>
-    <string id="maYSspDY" text="Roundkettle Над Имперской Тряпкой"/>
-    <string id="Mb1hQRyT" text="Пустыня Овальный Щит"/>
-    <string id="MbViUHhh" text="Взвешенный Восточной Щука"/>
-    <string id="MC4R8oDM" text="Восточное Обучение Лук"/>
-    <string id="MC60aiL7" text="Хайленд Топор Войны "/>
-    <string id="Mc6IC6UM" text="Подогнулись Wildsman Броня"/>
-    <string id="mdHHXaTP" text="Западный Наймит Копье"/>
-    <string id="meC5HTQD" text="Северная Военачальника Шлем По Почте"/>
-    <string id="MEOtMRxx" text="Потрепали Каплевидный Щит"/>
+    <string id="m3Nv9rt2" text="Пернатый Шлем Кочевника"/>
+    <string id="mAEjSAlV" text="Северный Закрытый Шлем с Кольчугой"/>
+    <string id="MamotK0a" text="Подбитые Нарукавники"/>
+    <string id="maYSspDY" text="Котелок с Имперской Тряпичной Подкладкой"/>
+    <string id="Mb0CuONB" text="Бородатый Топор" />
+    <string id="Mb1hQRyT" text="Пустынный Овальный Щит"/>
+    <string id="Mc6IC6UM" text="Стёганый Доспех Дикаря"/>
+    <string id="meC5HTQD" text="Северный Шлем Военачальника с Кольчугой"/>
+    <string id="MEOtMRxx" text="Потрепаный Каплевидный Щит"/>
     <string id="mFbFEOVz" text="Северная Меховая Шапка"/>
     <string id="mfeM775z" text="Тесак"/>
-    <string id="mk9a6BTJ" text="Плохо"/>
     <string id="mkdIMTrX" text="Широкий Чеканный Северной Двуручный Меч"/>
-    <string id="mkoMUmLh" text="Мешковина Жилет"/>
-    <string id="MKT5IzWm" text="Толстые Рукавами Халат"/>
+    <string id="mkoMUmLh" text="Жилет Из Мешковины"/>
+    <string id="MKT5IzWm" text="Халат с Утолщеными Рукавами"/>
     <string id="MLBA8tej" text="Платье"/>
-    <string id="mlJKNbbn" text="Кожаный Чепец"/>
-    <string id="mMGfhc3M" text="Хайленд Благородные Доспехи"/>
-    <string id="mMtKWolp" text="Коньковый Большой Шашкой"/>
-    <string id="mpI3Yz6U" text="Лук Восточного вельможи "/>
-    <string id="MpVvb7HK" text="Северный Клинок"/>
-    <string id="MQ8LCvCE" text="Связали Ткань Туника"/>
-    <string id="Mr06Juj5" text="Восточной Сшитые Кожаное Пальто"/>
-    <string id="mRGIxvYh" text="Носовые Cervelliere По Почте Чепец"/>
-    <string id="MRIdGqhA" text="Острые Warsword"/>
-    <string id="MTDaLQOV" text="Имперский Длинный Мыс"/>
-    <string id="mTHZCZ2D" text="Рыцари Ланс"/>
-    <string id="mtVcMgWO" text="Бронзовое Пернатые Spangenhelm По Почте"/>
-    <string id="mTWvG1xz" text="Рейнджер Лук"/>
-    <string id="MTZ2erbj" text="Западные Voulge Narrowhead Наемник "/>
-    <string id="MV0GbABf" text="Хайленд Военных Наемников Лук"/>
-    <string id="MvvlKO0U" text="Утюг Spangenhelm Пернатого За Кожей"/>
-    <string id="MwjUf5vK" text="Западные Длинноклинкового Рогатина"/>
-    <string id="mWxNSjSP" text="Тонкой Стальной Рубать Копье"/>
-    <string id="Mx1MQYHl" text="Северная Общего Топор"/>
-    <string id="MYA3SKhh" text="Вооружается Мечом С Золотыми Лепестками Отпечаток"/>
-    <string id="MZP9rD4A" text="Хайленд Спарринг Длинный Меч"/>
-    <string id="MZzQZcCf" text="Восточной благородный шлем с перьями"/>
-    <string id="n1Jb7piG" text="Южные Кожаный Капюшон"/>
-    <string id="N28bDEhh" text="Тонкой Стальной Рубать Копье"/>
-    <string id="N2S0Uj8R" text="Западные Простое Копье"/>
-    <string id="n3fktLTD" text="Южный Спарринг Фальшион"/>
-    <string id="n3sz2k5j" text="Рыцари Каплевидный Щит"/>
-    <string id="N3xdjuMV" text="Северная Двуручный Меч"/>
-    <string id="n6xMABUd" text="Легкий Рекурсивный Лук"/>
-    <string id="n7moPiyI" text="Одной Рукой Длинный Топор С Круглым Кусаются"/>
-    <string id="nBU3EXp6" text="Хайленд Погоны "/>
-    <string id="NC6k17pi" text="Степное Дао"/>
-    <string id="ndfDy5B8" text="Повязала Голову Оборачивать"/>
-    <string id="NEupkuqV" text="Платок Пустыни "/>
+    <string id="mlJKNbbn" text="Кожаный Койф"/>
+    <string id="mMGfhc3M" text="Горные Доспехи Знати"/>
+    <string id="mMtKWolp" text="Ребристая Большая Сабля"/>
+    <string id="MQ8LCvCE" text="Перевязанная Тканью Туника"/>
+    <string id="MqBSmahz" text="Вландианский Скакун" />
+    <string id="Mr06Juj5" text="Восточное Сшитое Кожаное Пальто"/>
+    <string id="mRGIxvYh" text="Цервельер с Наносником и Иперским Койфом"/>
+    <string id="MRIdGqhA" text="Заострённый Палаш"/>
+    <string id="MTDaLQOV" text="Имперская длинная Накидка"/>
+    <string id="mTHZCZ2D" text="Копьё Рыцаря"/>
+    <string id="mtVcMgWO" text="Бронзовый Пернатый Каркасный Шлем  с Кльчугой"/>
+    <string id="mTWvG1xz" text="Лук Егеря"/>
+    <string id="mVAaWp5U" text="Имперский Быстрый Боевой Конь" />
+    <string id="MvvlKO0U" text="Железный Каркасный Шлем с Оперением и Кожаным Подшлемником"/>
+    <string id="mWxNSjSP" text="Рубящее Копьё из Тонкой Отличной Стали"/>
+    <string id="Mx1MQYHl" text="Северный Обычный Топор"/>
+    <string id="MYA3SKhh" text="Боевой меч с Золотым Листовидным Оттиском"/>
+    <string id="mzvtFPPi" text="Костедробилка" />
+    <string id="MZzQZcCf" text="Восточный благородный шлем с перьями"/>
+    <string id="n1Jb7piG" text="Южный Кожаный Капюшон"/>
+    <string id="N28bDEhh" text="Рубящее Копьё из отличной Стали"/>
+    <string id="N2S0Uj8R" text="Западное Простое Копьё"/>
+    <string id="n3sz2k5j" text="Рыцарский Каплевидный Щит"/>
+    <string id="nBU3EXp6" text="Горные плечевые Ремни"/>
+    <string id="ndfDy5B8" text="Повязаная Обмотка для Головы"/>
+    <string id="NEupkuqV" text="Пустынный платок"/>
     <string id="NFvuDpwG" text="Укрепленный Каплевидный Щит"/>
-    <string id="NiaycI4Q" text="Северная Спарринг Меч"/>
-    <string id="nixio0FR" text="Западное Вооружение Меч С Длинным Лезвием"/>
-    <string id="njxSSTGO" text="Северные Учебные Лук"/>
     <string id="NkV2c6YX" text="Наборный Степные Стрелки"/>
-    <string id="NlgNkdA4" text="Широкий Чеканный Скандинавский Меч С Скрыть Ручка"/>
-    <string id="NmLEZfiI" text="Восточной Джавелин"/>
-    <string id="NMNkRXIS" text="Пустыня Фальшион Воров "/>
-    <string id="nNGCuIUf" text="Императорский Открыть Почту Чепец"/>
-    <string id="Nqa2maO2" text="Тканые Кожаные Пальто"/>
+    <string id="NmLEZfiI" text="Восточные Дротики"/>
+    <string id="nNGCuIUf" text="Имперский Открытый Кольчужный Койф"/>
+    <string id="Nqa2maO2" text="Плетёное Кожаное Пальто"/>
     <string id="NtsdmmW9" text="Финики"/>
-    <string id="nUarDXVH" text="Утюг Roundkettle Над Имперской Кожа"/>
-    <string id="NUHzapSv" text="Длинные Пеньки Туника"/>
-    <string id="NUmDuEqI" text="Имперский Езда Упряжь"/>
+    <string id="nUarDXVH" text="Железный котелок с Имперской Кожаной Подкладкой"/>
+    <string id="NUHzapSv" text="Длинная Пеньковая Туника"/>
+    <string id="NUmDuEqI" text="Имперская Ездовая Упряжь"/>
     <string id="nVAhoxcH" text="Рыцарский Щит"/>
-    <string id="NVV1j1E4" text="Западные Гамбезон"/>
-    <string id="NX03jDaN" text="Мэйс Костяшками Граб "/>
-    <string id="NXfZ5zfa" text="Круглый Впились Обернута Рукоять Топора"/>
-    <string id="NZ4aMEaP" text="Степные Налетчики Сейбр"/>
-    <string id="NZLTEI9c" text="Восточной Кожаные Плечи"/>
-    <string id="o0ZuY9Ux" text="Западные Кожаные Пальто"/>
-    <string id="o24Fpzvu" text="Шипованные Степной Кожа"/>
+    <string id="NVV1j1E4" text="Западный Гамбезон"/>
+    <string id="NZLTEI9c" text="Восточной Кожаные Наплечники"/>
+    <string id="o0ZuY9Ux" text="Западное Кожаное Пальто"/>
+    <string id="o24Fpzvu" text="Шипованная Степная Кожанка"/>
     <string id="O37kzdXO" text="Легкая Упряж"/>
-    <string id="o3Azu0ce" text="Двуручный Топор С Усиленной Ручкой"/>
-    <string id="O3TTXEFe" text="Легкая Кавалерия Каплевидный Щит"/>
-    <string id="o3yOF1JM" text="Черный Деревянный Короткий Лук"/>
-    <string id="o67ySkfH" text="Позолоченный Шлем"/>
-    <string id="o6nBAM6H" text="Езда На Верблюдах"/>
+    <string id="O3TTXEFe" text="Легкая Кавалерийский Каплевидный Щит"/>
+    <string id="o67ySkfH" text="Латный Шлем"/>
     <string id="O8TpGSDA" text="Бархат"/>
-    <string id="Oa4h7TVi" text="Номад Крышка"/>
+    <string id="Oa4h7TVi" text="Шапка Кочевника"/>
     <string id="ObGN145P" text="Лесные Дротики"/>
-    <string id="oEJnxsQ1" text="Наручные Обмотки"/>
-    <string id="oEvhhNNR" text="Кожа Cavalier Сапоги"/>
-    <string id="OEyuUWji" text="Восточный Обернутый Armguards"/>
+    <string id="oEJnxsQ1" text="Обмотки Для Рук"/>
+    <string id="oEvhhNNR" text="Кожаные кавалерийские Сапоги"/>
+    <string id="OEyuUWji" text="Восточный Обернутые Перчатки"/>
     <string id="oFEzCTpW" text="Железные Вилы"/>
-    <string id="OflbQCw6" text="Верблюжье седло с легкой нагрузкой "/>
-    <string id="oGVGhYeP" text="Восточной Степной Доспех"/>
-    <string id="oH8iFEv7" text="Сложить Городе Сапоги"/>
-    <string id="OhEQUMk0" text="Широкий Нагревателя"/>
+    <string id="OflbQCw6" text="Верблюжье Седло с Легкой Поклажей"/>
+    <string id="oGVGhYeP" text="Восточный Степной Доспех"/>
+    <string id="oH8iFEv7" text="Загнутые Городские Сапоги"/>
+    <string id="OhEQUMk0" text="Широкий Треугольный Щит"/>
     <string id="OIcwZGmC" text="Усиленный Плетеный Щит"/>
-    <string id="oIOYBIbv" text="Северная Закрытый Шлем"/>
-    <string id="OKjldRDK" text="Обучение Лонгбоу"/>
-    <string id="olamAwhb" text="Назальный Шлем За Ткань Гидроманта"/>
-    <string id="OLTUHPaD" text="Тонкой Стальной Paramerion"/>
+    <string id="oIOYBIbv" text="Северный Закрытый Шлем"/>
+    <string id="olamAwhb" text="Шлем с Наносником поверх Матерчатой Головной Обмотки"/>
+    <string id="OLTUHPaD" text="Тонкий Стальной Парамерион"/>
     <string id="OM9achAa" text="Усиленный Дубовый Каплевидный Щит"/>
-    <string id="omLMiX89" text="Сшитые Из Кожи По Почте"/>
-    <string id="Oo0baNaq" text="Грубо Связали Сапоги"/>
-    <string id="OpYdqPWs" text="Открыть Чепец Почте "/>
-    <string id="OQg5Plsh" text="Узкие Долгое Время Возглавлял Восточное Копье"/>
+    <string id="omLMiX89" text="Сшитая Кожанка повер Кольчуги"/>
+    <string id="Oo0baNaq" text="Грубые Завязанные Сапоги"/>
+    <string id="OpYdqPWs" text="Открытый Кольчужный Койф"/>
+    <string id="OQg5Plsh" text="Восточное Копьё с Узким Коротким Наконечником"/>
     <string id="oQmUlQWp" text="Простая Сабля "/>
-    <string id="OrEgjXZ1" text="Kefiyyeh Roughspun "/>
-    <string id="Orx2jbyH" text="Восточной Тонкой Стальной Булавы"/>
-    <string id="oV3Vavut" text="Скандинавский Меч С Узким Фуллер"/>
-    <string id="p1OQef4R" text="Хайленд Короткий Спарринг Копье"/>
-    <string id="p2jR7Urm" text="Прочный Седло"/>
-    <string id="P8GrNSkF" text="Сегментированный Тюбетейку Поверх Кольчуги Причесон"/>
-    <string id="p92WdLt4" text="Северная Меча"/>
-    <string id="p949oNWk" text="Пальто пластин по почте"/>
-    <string id="Pa6fdQ2w" text="Двуручный Деревянный Меч"/>
-    <string id="PaqZEqhp" text="Южная Бамбук Кавалерийское Копье"/>
-    <string id="pBroKUDq" text="Короткое Menavlion"/>
-    <string id="PdnqWgKN" text="Коньковый Короткий Палаш"/>
-    <string id="pe3asBgJ" text="Южная Пехота Булава"/>
-    <string id="pEaYQqG9" text="Плетеные Квадратный Щит"/>
-    <string id="PF7sPCYq" text="Дротики"/>
-    <string id="PfNQBTb1" text="Восточных Налетчиков Шоршбрау"/>
-    <string id="Pg3LUbF9" text="Деревянные Вилы"/>
-    <string id="PhLpiblx" text="Южный Шипованных Клуб"/>
-    <string id="PhodGU5y" text="Женщины шарф"/>
-    <string id="pjvwuVuc" text="Одной Рукой Бородатый Топор"/>
-    <string id="PL3Ut0vL" text="Южный Крестьянское Одеяние"/>
-    <string id="PL5SG9hI" text="Кожаный Шкала Броня"/>
-    <string id="PLE45x0P" text="Западное Вооружение Меч Чеканный С Длинным Лезвием"/>
+    <string id="OrEgjXZ1" text="Грубосплетёная Куфея"/>
+    <string id="Orx2jbyH" text="Восточная Булава из Отличной Стали"/>
+    <string id="OSHSIyhN" text="Горный Круглый Щит" />
+    <string id="OzUsuoDO" text="Северный Шлем" />
+    <string id="p2jR7Urm" text="Прочное Седло"/>
+    <string id="P8GrNSkF" text="Сегментированная Тюбетейка Поверх Кольчужного Койфа"/>
+    <string id="p92WdLt4" text="Северный Палаш"/>
+    <string id="p949oNWk" text="Пластинчатое Пальто с Кольчугой"/>
+    <string id="PBLsXDgP" text="Легкая Булава" />
+    <string id="pEaYQqG9" text="Плетеный Квадратный Щит"/>
+    <string id="PhodGU5y" text="Женский шарф"/>
+    <string id="pjvwuVuc" text="Одноручный Бородатый Топор"/>
+    <string id="PL3Ut0vL" text="Южное Крестьянское Одеяние"/>
+    <string id="PL5SG9hI" text="Кожаная Чешуйчатая Броня"/>
     <string id="PLtQdf23" text="Усиленные Мягкие Варежки"/>
     <string id="pmabPgC0" text="Племенной Степной Щит"/>
-    <string id="PN3NaU81" text="Военные Косой"/>
-    <string id="PNZmPprx" text="Двуручный Меч"/>
-    <string id="poAqwg0U" text="Простой Степной Рекурсивный Лук"/>
     <string id="PoY2Vh7K" text="Степной Лук"/>
-    <string id="pP0GacSW" text="Круглый Тонкой Флагов Стальная Секира"/>
-    <string id="PP5SzUx0" text="Кружевной Платье"/>
-    <string id="ppiy9Cwl" text="Широкое Лезвие Копья"/>
-    <string id="pqPklfMx" text="Хайленд Клеймор С Круглым Гвардии"/>
-    <string id="Pr7ADCFQ" text="Южная Бамбук Hafted Рубать Копье Войны "/>
-    <string id="prTnuW70" text="Северные Налетчики Одноручный Топор"/>
-    <string id="PS2gGa0G" text="Северная Svärdstav"/>
-    <string id="PTKyNh2O" text="Легионер Почте"/>
-    <string id="Pu1AZ8mF" text="Кузаитский Клинок"/>
-    <string id="PuqtiVQx" text="Скандинавский Крылатый Короткое Копье"/>
-    <string id="PuqxWabk" text="Западные Шипастая Булава"/>
-    <string id="Pv3YQMk1" text="Хайленд Завернутый Головной Платок, Который"/>
-    <string id="PVgSGCYK" text="Назальный Шлем По Почте Чепец"/>
-    <string id="pzfbPbWW" text="Боулдер"/>
-    <string id="pzZI1ANB" text="Северные Широкий Топор С Усиленной Ручкой"/>
-    <string id="Q0B6iFN7" text="Шипастую Дубину"/>
-    <string id="q1z4FQub" text="Верблюда Седлать"/>
-    <string id="Q2ExR8wp" text="Вудленд Палаш"/>
-    <string id="q3ePGPbF" text="Имперская Конница Доспехи"/>
-    <string id="q3hX9jxv" text="Тяжелые Zagaya"/>
-    <string id="q60wAimy" text="Восточное Копье Наемника С Неровными Голову"/>
-    <string id="Q6plCpkB" text="Стургийский Основной Шлем"/>
-    <string id="Q7eSv5Y9" text="Тренирововчное Рубящее Копьё"/>
-    <string id="QA3k2I4A" text="Широкий Холодного Метательные Ножи"/>
-    <string id="QaKohN0V" text="Имперская Почта За Содрана Кожа"/>
-    <string id="qaraQjXa" text="Roundkettle Над Имперской Обивка"/>
-    <string id="qAxBfVyx" text="Южный Прямой Войны Меч"/>
+    <string id="pP0GacSW" text="Закруглённый Топор из Отличной Стали"/>
+    <string id="PP5SzUx0" text="Кружевное Платье"/>
+    <string id="ppiy9Cwl" text="Дротики с широким клинком"/>
+    <string id="PTKyNh2O" text="Кольчуга легионера"/>
+    <string id="Pv3YQMk1" text="Горный обернутый Платок"/>
+    <string id="PVgSGCYK" text="Шлем с Наносником и Кольчужным Койфом"/>
+    <string id="pzfbPbWW" text="Валун"/>
+    <string id="PZPphq6H" text="Степная Военная Лошадь" />
+    <string id="q1z4FQub" text="Верблюжье Седло"/>
+    <string id="q3ePGPbF" text="Имперский Кавалерийский Доспех"/>
+    <string id="Q4sO8AZd" text="Нахасави" />
+    <string id="QaKohN0V" text="Имперская Кольчуга Поверх Ободраной Кожанки"/>
+    <string id="qaraQjXa" text="Котелок с Имперским подбитым Подшлемником"/>
     <string id="QaysED62" text="Туника С Закатанными Ткани"/>
-    <string id="Qazvdg1P" text="Императорский Ткани Шапочка"/>
-    <string id="QbPbWfwk" text="Джид"/>
-    <string id="qc0P0b2r" text="Выпучит Шлем По Почте"/>
+    <string id="Qazvdg1P" text="Имперский Койф из Ткани"/>
+    <string id="qc0P0b2r" text="Шлем с Маской и Кольчугой"/>
     <string id="QcKpipVr" text="Адарга"/>
-    <string id="QCvO6Qvk" text="Серый Обрабатываются Изл"/>
-    <string id="qD4MTCmU" text="Хайленд Небольшой Главе Длинные Кавалерийские Копья"/>
-    <string id="qDlabQvR" text="Южные Широкий Двуручный Топор"/>
-    <string id="qFL0VxZX" text="Кружевной Чепец"/>
+    <string id="qDlabQvR" text="Южный Широкий Двуручный Топор"/>
+    <string id="qFL0VxZX" text="Шнурованый Койф"/>
     <string id="QGaIYQpg" text="Рыба"/>
-    <string id="qGzZ78bM" text="Прикручены Кожаными Полосками"/>
-    <string id="qhbOjHRI" text="Разорванный Ватник Одежды"/>
-    <string id="qILO0HdK" text="Рукавов Окутали Мягкие Одежды"/>
+    <string id="qGzZ78bM" text="Полосатая Кожанка на Болтах"/>
+    <string id="qhbOjHRI" text="Рваный Подбитый Наряд"/>
+    <string id="qILO0HdK" text="Облегающий Подбитый Наряд без Рукавов"/>
     <string id="QjdyYS0m" text="Железная Сабля"/>
-    <string id="QL0N3vwn" text="Южный Дуэльные Копье"/>
     <string id="QLcP8bIs" text="Серп"/>
-    <string id="QMAGJdyN" text="Хайленд Платье Селянки "/>
-    <string id="qMbShU39" text="Северная Спарринг Огромный Топор"/>
-    <string id="qo8hwDNU" text="Грубый Меховой Брони"/>
+    <string id="QMAGJdyN" text="Горное Платье Селянки"/>
+    <string id="QN1Zg2eV" text="Булава Южного Ополченца" />
+    <string id="qo8hwDNU" text="Грубая Меховая Броня"/>
     <string id="QodawBSN" text="Железный Круглый Щит"/>
-    <string id="qOfuxNxR" text="Южный Шипованные Кожаные Пальто"/>
-    <string id="qoT97j7u" text="Бронзовый Roundkettle"/>
-    <string id="qOVR1vTa" text="Южные Наемные Булава"/>
+    <string id="qOfuxNxR" text="Южный Шипованное Кожаное Пальто"/>
+    <string id="qoT97j7u" text="Бронзовый Круглый Котелок"/>
     <string id="Qpl5aCb0" text="Ветеран Воины Топор"/>
-    <string id="qRA2zZ6J" text="Восточной Кавалерии Копье"/>
     <string id="qSn0JTfa" text="Южный Завернутый Шарф"/>
     <string id="qsVRoGUv" text="Открытый Платок"/>
-    <string id="qT6jIu3v" text="Меховая Юбка С Туника"/>
-    <string id="QuaE76ua" text="Ученые Халатик"/>
-    <string id="QUGDr6Te" text="Ятаган"/>
-    <string id="qVj5NqrL" text="Полный Шлем Над Подшлемник"/>
-    <string id="QvSnCdeC" text="Кавалерия С Круглыми Щитами"/>
-    <string id="qW2MFla8" text="Северная Конница Короткое Копье"/>
-    <string id="qw2oyv1j" text="Вудленд-Кольчуга"/>
+    <string id="qT6jIu3v" text="Меховая Юбка С Туникой"/>
+    <string id="QuaE76ua" text="Халат Учёного"/>
+    <string id="qVj5NqrL" text="Полный Шлем с Подбитым Подшлемником"/>
+    <string id="qw2oyv1j" text="Лесной Кольчужный доспех"/>
+    <string id="QwiI8Uho" text="Стургийский Рысак" />
     <string id="QWqvGa1P" text="Корова"/>
-    <string id="QX2pp6jX" text="Императорский Гамбезон С Юбками"/>
+    <string id="QX2pp6jX" text="Императорский Гамбезон С Подолом"/>
+    <string id="qXb7YoGc" text="Асалигат" />
     <string id="QxzcuhmA" text="Леопардовая Шкура"/>
-    <string id="qyTP87eA" text="Южный Наемников Меч"/>
-    <string id="qZOpdQVx" text="Звезда Фальшион"/>
-    <string id="QZzdABrm" text="Имперский Спарринг Вооружается Мечом"/>
+    <string id="qZOpdQVx" text="Звездный Фальшион"/>
     <string id="r07M9xbT" text="Тяжелый Арбалет"/>
     <string id="r0Ln9bAp" text="Кожаный Передник"/>
-    <string id="r1qL5w4a" text="Западные Voulge Наемник "/>
-    <string id="r3HndIyo" text="Благородный Ятаган"/>
-    <string id="R4B9TaWj" text=" Деревянные Вооружается Мечом"/>
     <string id="R4RT36MH" text="Восточный Шлем"/>
-    <string id="R5ZFHk36" text="Вырезать Бородатого Двуручный Топор"/>
-    <string id="r7axxEjv" text="Южный Наемник Войны Меч"/>
-    <string id="r87VabeF" text="Западные Длинный Меч"/>
-    <string id="r8arrfux" text="Южное Копьё"/>
-    <string id="r8b5miDE" text="Чайник охранника по почте чепец"/>
-    <string id="rabNzmeh" text="Восточной Длинное Копье"/>
-    <string id="rapEEcbF" text="С Плоским Лезвием Спата"/>
-    <string id="RaTK0SBu" text="Западные Наездники Каплевидный Щит"/>
-    <string id="RB93Ejd3" text="Топор Лесника"/>
-    <string id="RBbYLHpr" text="Южный Шоршбрау"/>
-    <string id="rBkc9Z7H" text="Хайленд Разбойники Лучники"/>
-    <string id="Rcc0JW6H" text="Thamaskene Стали Спата"/>
-    <string id="RcCtV0aS" text="Вудленд Тисовый Лук"/>
-    <string id="RCq6DcvS" text="Северная Длинное Копье"/>
+    <string id="r8b5miDE" text="Котел Стражника с Кольчужным Койфом"/>
+    <string id="RaTK0SBu" text="Каплевидный Щит Западных Наездников"/>
+    <string id="Rcc0JW6H" text="Спата из Тамаскенской Стали"/>
+    <string id="RcCtV0aS" text="Лесной Тисовый Лук"/>
     <string id="rdKSIamN" text="Бронебойные Стрелы"/>
-    <string id="REDqdlbE" text="Хайленд Длинный Палаш С Рукоятью "/>
-    <string id="REnD3D6G" text="Northlander Наемник Копьем"/>
     <string id="REYaHXQb" text="Стургийский Кавалерийский Доспех"/>
-    <string id="RF1YBUi7" text="Двумя руками Табар"/>
-    <string id="rF7Xm7C0" text="Тяжелые Нагревателя"/>
-    <string id="RgpoapAa" text="Имперский Тяжелый Лэнс"/>
-    <string id="Rhbz822o" text="Зеркало"/>
-    <string id="Rhfp7ath" text="Остроконечный Шлем За Кружевной Чепец"/>
-    <string id="rhWOdhjr" text="Хайленд Копье Войны "/>
-    <string id="rI1S2dLx" text="Шипастая Булава Деревянная "/>
-    <string id="rifv0h0H" text="Северная Конница Каплевидный Щит"/>
-    <string id="rjepaQb2" text="Западные Swordstaff"/>
-    <string id="Rlx1PqSM" text="Военный Молот"/>
-    <string id="RmS5fS0e" text="Сильный Составной Лук"/>
+    <string id="rF7Xm7C0" text="Тяжелый Треугольный Щит"/>
+    <string id="Rhfp7ath" text="Остроконечный Шлем с Шнурованным Койфом"/>
+    <string id="rifv0h0H" text="Северная Кавалерийский Каплевидный Щит"/>
+    <string id="Rmpm1E71" text="Восточная Прямая Сабля" />
     <string id="rnzpyc0N" text="Пернач"/>
-    <string id="rO0oKtAo" text="Баннерная Кампания Маленькая"/>
-    <string id="rOpxDHXL" text="Восточной Кожаный Ламелляр"/>
-    <string id="rsYDX4WS" text="Имперская Булава Спарринг С Усиленной Ручкой"/>
-    <string id="rtRGq1uU" text="Широкий Двух Правша"/>
-    <string id="rTuNnhWI" text="Южный Шали"/>
-    <string id="RU2EppgI" text="Женская обувь "/>
-    <string id="RWKafLdU" text="Восточной Изогнутые Сапоги"/>
-    <string id="rwO8I8KO" text="Хайленд Наемника Меч"/>
-    <string id="rXO7ajRX" text="Бронзовый Roundkettle Над Имперской Почты"/>
-    <string id="S0IkfoDo" text="Восточной Покрытием Кожа"/>
-    <string id="S6BFpEg3" text="Имперский Широким Лезвием Метательные Ножи"/>
-    <string id="s7jkSgba" text="Зазубренными Стрелами"/>
+    <string id="rO0oKtAo" text="Походное Малое Знамя"/>
+    <string id="rOpxDHXL" text="Восточная Кожаная Пластинчатая Броня"/>
+    <string id="rtRGq1uU" text="Широкий Двуручник"/>
+    <string id="rTuNnhWI" text="Южная Шаль"/>
+    <string id="RU2EppgI" text="Женская обувь"/>
+    <string id="RWKafLdU" text="Восточные Изогнутые Сапоги"/>
+    <string id="RwpJFXxc" text="Тамаскенская Пика" />
+    <string id="rXO7ajRX" text="Бронзовый Круглый Котелок с Имперской Кольчугой"/>
+    <string id="S0IkfoDo" text="Восточная Пластинчатая Кожанка"/>
+    <string id="S6BFpEg3" text="Имперские Метательные Ножи С Широким Лезвием"/>
+    <string id="s7jkSgba" text="Зазубренные Стрелы"/>
     <string id="s7WRzaf2" text="Шкура Медведя"/>
-    <string id="S9htzkbe" text="Купец шляпу"/>
-    <string id="SAfKzven" text="Лесной Учебные Лук"/>
-    <string id="saIjvOgA" text="Подсыпали Западной Топор"/>
-    <string id="Sb48IJvj" text="Морские Налетчики Длинный Топор"/>
-    <string id="SbARa2gU" text="Стрелки Бодкин "/>
-    <string id="SdNvc1s7" text="Пустыня Щука"/>
-    <string id="Se3La8Aq" text="Южный Тяжелую Палицу"/>
-    <string id="sfPB9ro3" text="Оформленные Северной Доспех"/>
-    <string id="SGa04hNj" text="Западные Тяжелое Копье"/>
-    <string id="SGdY9jmK" text="Чеканный Узкие Warsword"/>
+    <string id="S9htzkbe" text="Шляпа Купца"/>
+    <string id="SbARa2gU" text="Шиловидные Стрелы"/>
+    <string id="Se3La8Aq" text="Южная Тяжелая Булава"/>
+    <string id="sfPB9ro3" text="Украшенный Северный Кольчужный Доспех"/>
+    <string id="SGdY9jmK" text="Чеканный Узкий Боевой Меч"/>
     <string id="sgfKrAaZ" text="Баттанийский Пони"/>
     <string id="SHZ0P7Iu" text="Мягкий Кожаный Плащ"/>
-    <string id="SIoBrGAm" text="Скандинавская Longspear С Длинным Лезвием"/>
-    <string id="siuuhU6b" text="Бронзовый Nasalhelm Над Имперской Почты"/>
+    <string id="siuuhU6b" text="Бронзовый Шлем с Наносником и Имперской Кольчугой"/>
     <string id="sJ1R62Tn" text="Пернатый Шлем"/>
-    <string id="smHA8Apa" text="Оформленные Номад Крышка"/>
-    <string id="smKogclC" text="Власяница Хитон"/>
-    <string id="Sn2O0Ogx" text="Бронзовый Roundkettle Над Имперской Кожа"/>
-    <string id="sQAXkEQ7" text="Южный Почтовый Чепец"/>
-    <string id="SrRspWRy" text="Кожаные и железные доспехи"/>
-    <string id="SRur5tb8" text="Северная Спарринг Топорик"/>
-    <string id="sTRz2Ugw" text="Северные Охотничьи Копья"/>
-    <string id="sUs1uciG" text="Степной Меч Дуэль "/>
-    <string id="SV1pTR2P" text="Мягкий Чепец"/>
-    <string id="SW3lkPHe" text="Цветные Бишт"/>
-    <string id="SXCa9d1n" text="Утюг Nasalhelm Над Имперской Чепец"/>
-    <string id="SXHeku7i" text="Северная Спарринг Дротиками"/>
-    <string id="SY2LOqnB" text="Северное Короткое Простое Копье"/>
-    <string id="syBiaheK" text="Хайленд Highwaymans Топор"/>
-    <string id="SYvBTD0p" text="Полный Шлем Над Тканью Гидроманта"/>
+    <string id="smHA8Apa" text="Украшенная Шапка Кочевника"/>
+    <string id="smKogclC" text="Туника из Мешковины"/>
+    <string id="Sn2O0Ogx" text="Бронзовый Круглый Котелок с Имперским Кожаным Подшемником"/>
+    <string id="sQAXkEQ7" text="Южный Кольчужный Койф"/>
+    <string id="SrRspWRy" text="Пластинчатые Доспехи из Кожи и Железа"/>
+    <string id="SUSbUAEl" text="Практичный Лук" />
+    <string id="SV1pTR2P" text="Подбитый Койф"/>
+    <string id="SW3lkPHe" text="Цветной Бишт"/>
+    <string id="SXCa9d1n" text="Железный Шлем с Наносником и Имперским Койфом"/>
+    <string id="SY2LOqnB" text="Северное Короткое Простое Копьё"/>
+    <string id="syb2EPBa" text="Северный Простой Боевой Топор" />
+    <string id="SYvBTD0p" text="Полный Шлем с Головной обмоткой из Ткани"/>
     <string id="SZrd85Uh" text="Дестриер"/>
     <string id="Szuxa9Bs" text="Рваные Сапоги"/>
-    <string id="t01v8qW7" text="Барское Мягкие Варежки"/>
-    <string id="t28VYqjP" text="Длинные Тонкие Стальные Копья"/>
-    <string id="T49rswmY" text="Открытые Южные Шлем"/>
-    <string id="t4b259g3" text="Northlander Лесорубов Топор"/>
+    <string id="t01v8qW7" text="господские Подбитые Варежки"/>
+    <string id="t28VYqjP" text="Длинное Копьё из Отличной Стали"/>
+    <string id="T49rswmY" text="Открытый Южный Шлем"/>
     <string id="t695AnJU" text="Простое Платье"/>
-    <string id="TBW9E2ao" text="Привязан Арбалет"/>
-    <string id="TDCn5dar" text="Имперский Ватник На Плечи"/>
-    <string id="tE1VwKTZ" text="Метательный Топор"/>
-    <string id="te48yHa8" text="Leafblade Метательный Нож"/>
-    <string id="tEimkEsU" text="Скандинавская Шоршбрау"/>
-    <string id="Tepn0nO0" text="Империя Тонкий Чеканный Вооружается Мечом"/>
-    <string id="TFT2Xapz" text="Остроконечный Шлем За Мягкие Ткани"/>
-    <string id="TFW5lv9J" text="Южный Глефа"/>
-    <string id="TgfaspTW" text="Рейнджер Меч"/>
-    <string id="TgZIAdRk" text="Южный Сильный Лук"/>
-    <string id="tiTTWhpW" text="Мягкие Кожаные Рубашки"/>
-    <string id="tKODIU0F" text="Кожаный Ламеллярный Плечи"/>
-    <string id="tmaGclRl" text="Имперский Широкий Главе Спарринг Копье"/>
-    <string id="tMLH04n4" text="Чайник Шляпу На Почту Чепец"/>
+    <string id="t7IgyUea" text="Восточное Благородное Копьё" />
+    <string id="TbFLTHHm" text="Tyrhung" />
+    <string id="TBW9E2ao" text="Плетённый Арбалет"/>
+    <string id="TDCn5dar" text="Имперские Подбитые Наплечники"/>
+    <string id="te48yHa8" text="Метательный Нож с Тонким Лезвием"/>
+    <string id="tEimkEsU" text="Северный Короткий Лук"/>
+    <string id="TFT2Xapz" text="Остроконечный Шлем с Подбитым Тканевым Подшлемником"/>
+    <string id="TgZIAdRk" text="Южный Мощный Длинный Лук"/>
+    <string id="tiTTWhpW" text="Подбитая Кожанная Рубашка"/>
+    <string id="tKODIU0F" text="Кожаный Ламеллярные Наплечники"/>
+    <string id="tMLH04n4" text="Котелок с Кольчжным Койфом"/>
     <string id="tMwsE9IR" text="Стянутые Кожаные Сапоги"/>
-    <string id="Tp7zXWGa" text="Назальный Шлем Более Мягкий Чепец"/>
-    <string id="TpjbgasA" text="Северная Военачальника Шлем"/>
-    <string id="tpQLvMSM" text="Назальный Шлем По Почте"/>
-    <string id="TpRrs6r2" text="Круглый Впились Короткие Топор"/>
-    <string id="tpTcMbhM" text="Налетчики Рыба Топор"/>
-    <string id="tQw4Zfwu" text="Указал Фальшион"/>
-    <string id="Tr3x7ynD" text="Хайленд Плед Платье"/>
-    <string id="Ts5fC8yW" text="Лук Горца"/>
-    <string id="TsGFHbqp" text="Южный Шкала Броня"/>
-    <string id="tskVtgYR" text="Чеканный вооружается мечом"/>
-    <string id="TTjTNtgx" text="Чеканный Большой Меч"/>
+    <string id="Tp7zXWGa" text="Шлем с Наносником и Подбитым Койфом"/>
+    <string id="TpjbgasA" text="Северный Шлем Военачальника"/>
+    <string id="tpQLvMSM" text="Шлем с Наносником и Кольчугой"/>
+    <string id="tQw4Zfwu" text="Остроконечный Фальшион"/>
+    <string id="Tr3x7ynD" text="Горное Клетчатое Платье"/>
+    <string id="TsGFHbqp" text="Южный Чешуйчатая Броня"/>
     <string id="TTWL7RLe" text="Арбалет"/>
-    <string id="tVyuxl8e" text="Драные Халаты"/>
-    <string id="tw5SZ6sb" text="Сабля"/>
-    <string id="tWfAPrPa" text="Почта Cavalier Сапоги"/>
-    <string id="TxAYmCjr" text="Назальный Шлем С Кожаной"/>
+    <string id="tVyuxl8e" text="Драный Халат"/>
+    <string id="tWfAPrPa" text="Кольчужные Кавалерийские Сапоги"/>
+    <string id="TxAYmCjr" text="Шлем с Наносником и Кожанным Подшлемником"/>
     <string id="tXbRb3QO" text="Шипованные Меховые Доспехи"/>
-    <string id="txgUxMYw" text="Нагреватель Щит С Вырезом"/>
-    <string id="txIhMX1U" text="Киянка"/>
-    <string id="tYVrECy7" text="Самодельный Horsemans Каплевидный Щит"/>
-    <string id="tZ5WDzGB" text="Хайленд Небольшой Главе Копье"/>
-    <string id="Tzgm2U7N" text="Имперский Длинный Меч Чеканный Вооружение"/>
-    <string id="u218TYr4" text="Копье Войны "/>
+    <string id="txgUxMYw" text="Треугольный Щит С Вырезом"/>
+    <string id="tYVrECy7" text="Самодельный Каплевидный Щит Наездника"/>
+    <string id="tZN9H492" text="Баттанийская Боевая Лошадь" />
     <string id="U4n0uSlg" text="Плотный Головной Платок"/>
-    <string id="U5M2sqqA" text="Дротики Полета "/>
-    <string id="u6c9yIXF" text="Южный Мягкий Короткий Халатик"/>
-    <string id="U6fqWxx4" text="Хайленд Короткие Кавалерийские Копья"/>
-    <string id="U8QfF3Gw" text="Длинные Шерстяные Туники"/>
-    <string id="ubplQTXa" text="Южный Ringmail Плечо"/>
-    <string id="uCEZGQHD" text="Вудленд Наемника Двуручный Топор"/>
-    <string id="Ud2oGIH4" text="Восточной Тяжелое Копье"/>
-    <string id="UD2Om1dS" text="Имперский Лук"/>
-    <string id="uDC3JaHh" text="Императорский Турнир Джавелин"/>
-    <string id="UDgm1qno" text="Шамшир"/>
-    <string id="uDrT6v7a" text="Западные Ткань Туника"/>
-    <string id="uehVi67I" text="Простой Спата"/>
-    <string id="uEPRE33m" text="Грубо Связали Наручи"/>
-    <string id="ufhcpnMZ" text="Южный Прямой Спарринг Клинок"/>
+    <string id="u6c9yIXF" text="Южный Короткий Подбитый Халат"/>
+    <string id="U8QfF3Gw" text="Длинная Шерстяная Туника"/>
+    <string id="ubplQTXa" text="Южные Кольчужные Наплечники"/>
+    <string id="uDrT6v7a" text="Западныая Тканевая Туника"/>
+    <string id="uEPRE33m" text="Грубые Связанные Наручи"/>
+    <string id="ueSnrLRy" text="Cossian" />
     <string id="ufnnUxKb" text="Кожа"/>
-    <string id="ufpUlWna" text="Одной Рукой Рейдеров Топор"/>
-    <string id="UG8aeEQH" text="Имперский Боевой Конь"/>
-    <string id="ugQr1C84" text="Турнирное Копье "/>
-    <string id="uGR3jYrC" text="Южный Боевой Топор"/>
-    <string id="UHcXARc6" text="Клинок"/>
-    <string id="ui0VqbiV" text="Одноручный Боевой Топор"/>
-    <string id="uiueijEP" text="Западные Bushwackers Лук"/>
-    <string id="UKgvYiuf" text="Степной Сабли"/>
-    <string id="ukQCN90m" text="Восточной Кожаные Сапоги"/>
-    <string id="uLpnmNkZ" text="Кожаный Крышка"/>
-    <string id="Um0IEtvN" text="Хайленд Короткий Клинок"/>
-    <string id="UmUJqvNx" text="Императорский Быстроногий"/>
-    <string id="UMX05EQF" text="Света Королевская Палица"/>
-    <string id="Un3Z51ge" text="Клеймор"/>
-    <string id="UoHZGyZa" text="Шлем Faceguard"/>
-    <string id="UoSMWEqW" text="Долгих Варвара топор"/>
-    <string id="up5RN62k" text="Рыцарский Меч"/>
-    <string id="up8EXhc7" text="Хайленд Спарринг Огромный Топор"/>
+    <string id="UGhKalqb" text="Западный Загнутый топор" />
+    <string id="ukQCN90m" text="Восточные Кожаные Сапоги"/>
+    <string id="uLpnmNkZ" text="Кожаная Крышка"/>
+    <string id="UMX05EQF" text="Легкая Королевская Булава"/>
+    <string id="UoHZGyZa" text="Шлем с Защитной Маской"/>
     <string id="UqdZmdcf" text="Боевой Конь "/>
     <string id="uqO6e6vN" text="Каплевидный Щит"/>
-    <string id="UsOgGylA" text="Чайник Шлем С Почты"/>
-    <string id="UTTRZ0p0" text="Хайленд Спарринг Копье"/>
-    <string id="uUGAMReu" text="Прекрасный Город Сапоги"/>
-    <string id="UunjXpgb" text="Тонкой Стальной Menavlion"/>
-    <string id="UvGbZy5C" text="Вудленд Широкий Чеканный Меч"/>
+    <string id="UsOgGylA" text="Котелковый шлем с Кольчугой"/>
+    <string id="uUGAMReu" text="Отличные городские Сапоги"/>
+    <string id="UunjXpgb" text="Менавлион из Отличной Стали"/>
     <string id="UvJDlhMq" text="Восточная Шапка"/>
-    <string id="UvNwdDNX" text="Степной Копье"/>
-    <string id="UvOa4elc" text="Зеленый Капюшон"/>
-    <string id="UWPEu577" text="Северная Латунь Наручи"/>
-    <string id="UWvOndG0" text="КУзаитское Легкое Копьё"/>
-    <string id="uZ1sIlSQ" text="Восточной Кожаный Жилет"/>
-    <string id="UzLbk1ab" text="Южное Конница Кылыдж"/>
-    <string id="V0fKr58V" text="Южный Прямой Дуэли Меч"/>
+    <string id="UvOa4elc" text="Зелёный Капюшон"/>
+    <string id="UWPEu577" text="Северная Латунные Наручи"/>
+    <string id="UWvOndG0" text="Кузаитское Легкое Копьё"/>
+    <string id="uZ1sIlSQ" text="Восточный Латный Кожаный Жилет"/>
+    <string id="v1I2K4ab" text="Северный Широкий Топор" />
     <string id="v3lIxLvX" text="Пила"/>
     <string id="V4b2ZRTH" text="Rhomphalia"/>
     <string id="v6W9XaDI" text="Старые Меховые Доспехи"/>
-    <string id="V7U0fFU9" text="Хайленд Кольчугу"/>
+    <string id="V7U0fFU9" text="Горная Объёмная Кольчуга"/>
     <string id="v7WQhge3" text="Украшенные Сабли"/>
-    <string id="VAcSEseI" text="Широкий Чеканный Широкий Вооружается Мечом"/>
-    <string id="VAO11FSu" text="Thamaskene Стали Два Правша"/>
-    <string id="Vb0IFmKh" text="Западный Наймит Топор Войны "/>
-    <string id="VbAHQ1BS" text="Длинный Мех Пальто"/>
-    <string id="vbd9jYmB" text="Горное Копье"/>
+    <string id="VAcSEseI" text="Широкий Боевой Меч с Глубоким долом"/>
+    <string id="VAO11FSu" text="Thamaskene Стальной Двуручник"/>
+    <string id="VbAHQ1BS" text="Длинное Меховое Пальто"/>
     <string id="VbL6GFmy" text="Масло"/>
-    <string id="VbM53qJa" text="Хайленд Короткий Малый Во Главе Кавалерийского Копья"/>
-    <string id="vbOjUu9M" text="Шипами Чайник Над Имперской Обивка"/>
+    <string id="vbOjUu9M" text="Шипами Котелок с Имперской Обивкой"/>
     <string id="vbPBXiPC" text="Богатая Туника"/>
-    <string id="VcbEaV7T" text="Чайник Шлем За Мягкие Ткани"/>
-    <string id="VcuK3ZFd" text="Южный Малый Во Главе Спарринг Дротиками"/>
-    <string id="vCULGpCC" text="Имперский Наемник Гладиус"/>
-    <string id="vdayIxxs" text="Северная Сплиттер Топор"/>
-    <string id="Vdi0vZV7" text="Хайленд-Мыса"/>
-    <string id="VDMkVMxt" text="Тяжелый Почте Варежки"/>
-    <string id="VdXUXQku" text="Имперский Длинный Меч Вооружения С Шестигранным Лезвием"/>
+    <string id="VcbEaV7T" text="Котелковый шлем с Подбитым Тканевым Подшлемником"/>
+    <string id="Vdi0vZV7" text="Горная Шапка"/>
+    <string id="VDMkVMxt" text="Тяжелые Кольчужные Варежки"/>
+    <string id="vDvj5zkG" text="Ярость Ветров" />
     <string id="veI9RcR3" text="Усиленный Каплевидный Щит"/>
-    <string id="vfBg561n" text="Северная Шипастый Боевой Топор"/>
-    <string id="VGwJSsqb" text="Хайленд Чеканный Клинок"/>
-    <string id="VHPPqw9J" text="Западный Голову Обернуть"/>
-    <string id="VI4gQt8Q" text="Булава"/>
-    <string id="vK7J7ci5" text="Западные Короткий Меч"/>
-    <string id="vL3cS6Ae" text="Восточной Спарринг Сабля"/>
-    <string id="vLhO8nlC" text="Южные Наемные Спарринг Копье"/>
-    <string id="VM9UZZvY" text="Рейнджерс Клеймор"/>
-    <string id="vMOXcba7" text="Длинный Топор Налетчика "/>
-    <string id="VMqzvfDO" text="Восточной Привязали Пластинчатая Броня"/>
-    <string id="vmz4vfu5" text="Крючковатые Копья"/>
-    <string id="vNNMGllv" text="Северная Покрытием Перчатки"/>
-    <string id="vojk2yUc" text="Лесной Топор Bushwackers "/>
-    <string id="vPAHwC3X" text="Украденный Товар"/>
-    <string id="VpxmlDyY" text="Отложным Кожаные Сапоги"/>
-    <string id="vPXWpJTP" text="Хайленд Кинжал"/>
+    <string id="vfBg561n" text="Северный Шипастый Боевой Топор"/>
+    <string id="VHPPqw9J" text="Западная Головная Обмотка"/>
+    <string id="VMqzvfDO" text="Восточной Пластинчатый Ременной Доспех"/>
+    <string id="vmz4vfu5" text="Крючковатые Дротики"/>
+    <string id="vNNMGllv" text="Северная Латные Перчатки"/>
+    <string id="vPAHwC3X" text="Украденные Товары"/>
+    <string id="VpxmlDyY" text="Отложные Кожаные Сапоги"/>
+    <string id="vPXWpJTP" text="Горный Кинжал"/>
     <string id="VqFV9LS4" text="Красное Платье"/>
-    <string id="vReW51wm" text="Южная Бамбук Hafted Широким Лезвием Короткое Копье"/>
-    <string id="VRP5Q4mU" text="Южная Кольцевая Почта"/>
-    <string id="vsavMoLZ" text="Сегментированный Cervelliere За Мягкие Ткани"/>
+    <string id="VRP5Q4mU" text="Южная Кольцевая Кольчуга"/>
+    <string id="vsavMoLZ" text="Сегментированный Цервельер с Подбитым Тканевым Подшлемником"/>
     <string id="VSMpadvq" text="Меховые Доспехи"/>
-    <string id="vSu1fLNl" text="Хайленд Плащ Мехом "/>
-    <string id="VtB6gpOB" text="Хайленд Одной Рукой Серп"/>
-    <string id="vtoxbHmB" text="Коньковый Хайленд руля"/>
-    <string id="vU1ibFrY" text="Восточной Усиленную Броню"/>
-    <string id="VucrovFw" text="Гравировка Меча"/>
-    <string id="vw9qbiER" text="Степной Проводов"/>
-    <string id="vwAaIwnD" text="Закрытые Южной Шлем С Почты"/>
-    <string id="vwVFF1XJ" text="Хайленд Меховые Сапоги"/>
-    <string id="VxbtKGPk" text="Западные Спарринг-Лэнс"/>
-    <string id="VXER7AbJ" text="Имперский Лорд Шлем"/>
+    <string id="vSu1fLNl" text="Горный Меховой Плащ"/>
+    <string id="vtoxbHmB" text="Горный шлем с Гребнем"/>
+    <string id="vU1ibFrY" text="Восточной Усиленная Броня"/>
+    <string id="VucrovFw" text="Гравированый Тесак"/>
+    <string id="vw9qbiER" text="Степная Упряжь"/>
+    <string id="vwAaIwnD" text="Закрытый Южной Шлем С Кольчугой"/>
+    <string id="vwVFF1XJ" text="Горные Меховые Сапоги"/>
+    <string id="VXER7AbJ" text="Имперский Шлем Предводителя"/>
     <string id="VXFwEF3M" text="Капюшон Пилигрима "/>
     <string id="vXvuViMT" text="Самодельный Каплевидный Щит"/>
-    <string id="VylHwqVq" text="Сегментированный Тюбетейка Над Кружевной Чепец"/>
-    <string id="VyOsYv8J" text="Длинные Южном Халате"/>
-    <string id="w6EU77OH" text="Степной Рекурсивный Лук"/>
-    <string id="w6j8Oaai" text="Бронированный Багги Стволы"/>
-    <string id="w6sFabVp" text="Лук Южного племени "/>
-    <string id="W8OGOfyt" text="Kefiyyeh с коричневой полосой"/>
-    <string id="w9RLq82l" text="Утюг Вооружается Мечом"/>
-    <string id="WahziEXA" text="Завернутый Кожаные Сапоги"/>
-    <string id="wBfGpcCO" text="Чайник Шляпу На Мягкие Ткани"/>
-    <string id="WCbpw1wM" text="Тяжелые Nasalhelm Над Имперской Обивка"/>
-    <string id="WcwgmQ57" text="Кузнецы Молотом"/>
-    <string id="wEfZyccm" text="Полный Шлем Над Кружевной Чепец"/>
+    <string id="VylHwqVq" text="Сегментированный Тюбетейка с Шнурованным Койфом"/>
+    <string id="VyOsYv8J" text="Длинный Южный Халат"/>
+    <string id="w6EU77OH" text="Степной Изогнутый Лук"/>
+    <string id="w6j8Oaai" text="Бронированныt Мешковатые Полуштаны"/>
+    <string id="w6sFabVp" text="Лук Южных Племён"/>
+    <string id="W8OGOfyt" text="Куфия с Коричневыми Полосами"/>
+    <string id="w9RLq82l" text="Железный Боевой Меч"/>
+    <string id="WahziEXA" text="Обернутые Кожаные Сапоги"/>
+    <string id="WaQOFmas" text="Имперский Топор" />
+    <string id="wBfGpcCO" text="Котелок с Подбитой Тканью"/>
+    <string id="WCbpw1wM" text="Тяжелый Шлем с Наносником и Имперским Подбитым Подшлемником"/>
+    <string id="wEfZyccm" text="Полный Шлем с Шнурованным Койфом"/>
     <string id="wEJAab0A" text="Северная Шапка"/>
-    <string id="WePcpx0u" text="Большой Баннер"/>
-    <string id="weqHFkbA" text="Западные Тонкий Чеканный Меч"/>
-    <string id="wEs2uEmb" text="Восточной Густую Шерсть"/>
-    <string id="WF6XdlhJ" text="Имперская Булава Спарринг С Железной Ручкой"/>
+    <string id="WePcpx0u" text="Большое Знамя"/>
+    <string id="wEs2uEmb" text="Восточное Богатое Пальто"/>
     <string id="wfhHGTbl" text="Степной Боевой Лук"/>
-    <string id="wFrONNwI" text="Западные Турнир По Меч"/>
-    <string id="wG582fzT" text="Cervelliere За Подшлемник"/>
+    <string id="wG582fzT" text="Cervelliere с Подбитым Подшлемником"/>
     <string id="Wh48Wl0C" text="Вландийское Тяжелое Копьё"/>
-    <string id="WH7bbK6G" text="Западные Ватник"/>
-    <string id="whHahhVI" text="Хайленд Шипастый Топор"/>
-    <string id="whvMZZba" text="Охраняемая Мягкие Наручи"/>
-    <string id="wI6NdM7C" text="Степной Короткое Рубящее Копье"/>
-    <string id="wiyLpYfw" text="Западной Стрелки"/>
-    <string id="wK1nQqbc" text="Южной Лист Возглавил Короткий Спарринг Копье"/>
-    <string id="wKucIANJ" text="Кожаное Пальто За Ткань"/>
+    <string id="WH7bbK6G" text="Западный Ватник"/>
+    <string id="whvMZZba" text="Охранные Подбитые Наручи"/>
+    <string id="wiyLpYfw" text="Западные Стрелы"/>
+    <string id="wKucIANJ" text="Кожаное Пальто поверх Одежды"/>
     <string id="wltdyF2j" text="Охотничий Лук"/>
-    <string id="Wm5i4A9E" text="Почерневший Железный Меч"/>
-    <string id="wMO0hoqC" text="Западные Общий Платье"/>
-    <string id="wMq1UksI" text="Вонзиться Фальшион"/>
-    <string id="WMqHlEvb" text="Сегментированный Cevelliere По Почте Чепец"/>
-    <string id="wpaVnRZG" text="Баннер Треугольник "/>
-    <string id="WpdmIlU5" text="Ironrimed Каплевидный Щит"/>
-    <string id="WPslQ9nQ" text="Стургийский Запасной Закрытый Шлем"/>
-    <string id="WrlIl4nW" text="Западные Щука"/>
+    <string id="wMO0hoqC" text="Западное Обычное Платье"/>
+    <string id="WMqHlEvb" text="Сегментированный Цервельер с Кольчужным Койфом"/>
+    <string id="wpaVnRZG" text="Треугольное Знамя"/>
+    <string id="WpdmIlU5" text="Обитый Железом Каплевидный Щит"/>
+    <string id="WrlIl4nW" text="Западная Пика"/>
+    <string id="WRqYWspc" text="Благородный Длинный Лук" />
     <string id="WrwO8xsN" text="Сшитые Кожаные Плечи"/>
-    <string id="wSaoZOr2" text="Указал На Северный Лорд Шлем С Пером"/>
+    <string id="wSaoZOr2" text="Остроконечный Северный Шлем Предводителя с Пером"/>
     <string id="WSk5Sibs" text="Сыр"/>
-    <string id="WST7ftTa" text="Северной Пальто Плит"/>
-    <string id="Wst89mg1" text="Сеть"/>
-    <string id="wSUN0Dmo" text="Манекен Максимум Брони"/>
-    <string id="WTYBjw9e" text="Длинноклинкового Спарринг Копье"/>
-    <string id="WUArer5A" text="Открытые Мягкий Чепец"/>
-    <string id="WuaXo6BP" text="Вудленд Сплиттер Топор"/>
-    <string id="WvDZMmaj" text="Номад Шлем"/>
+    <string id="WST7ftTa" text="Северное пластинчатое Пальто"/>
+    <string id="wSUN0Dmo" text="Манекен с Максимальной Броней"/>
+    <string id="WUArer5A" text="Открытые Подбитый Койф"/>
+    <string id="WvDZMmaj" text="Шлем Кочевника"/>
     <string id="WVqaRKUm" text="Шерсть"/>
     <string id="wW3iouiU" text="Хиджаб"/>
     <string id="WYFDXE82" text="Большой Круглый Щит"/>
-    <string id="WYytQbvS" text="Полный Шлем За Вооружение Чепец"/>
-    <string id="wZ3nKO6j" text="Восточной Кожаное Оплечье"/>
-    <string id="X1Wn0sBa" text="Кожа Studdedhelm За Roughscale"/>
-    <string id="X2q4fMOL" text="Восточная Сабля С Лошадью Рукояти"/>
-    <string id="X3FAb6Wm" text="Северный Украшен Опустил Забрало Шлема"/>
-    <string id="x6kB0BlA" text="Южные Короткий Спарринг Копье"/>
-    <string id="xa7KRSCy" text="Сшитый Кожаный Жилет"/>
-    <string id="XamoYKzc" text="Южный Спарринг Табар"/>
-    <string id="XazcYatD" text="Императорский Носового Руля"/>
-    <string id="xbB9Ga5X" text="Зауженные Северный Клинок"/>
-    <string id="xbJY6zfa" text="Хайленд Спарринг Рогатина"/>
-    <string id="XBnkJLry" text="Одной Рукой Киянку"/>
-    <string id="XbwDj80t" text="Степные Стрелки"/>
-    <string id="xDAb72OY" text="Императорский Фальшион"/>
-    <string id="XdfdFwnh" text="Zagaya"/>
-    <string id="XDsFl200" text="Имперское Копье"/>
-    <string id="XelGxsaW" text="Западный Наймит Арбалет"/>
-    <string id="XG8UGpvA" text="Скандинавский Дровосек"/>
-    <string id="xgAbIrn7" text="Топорик Морских Налетчиков "/>
-    <string id="XGX6DbFL" text="Ламеллярные Пластины Рукавиц"/>
+    <string id="WYytQbvS" text="Полный Шлем с боевым Койфом"/>
+    <string id="wZ3nKO6j" text="Восточные Кожаные Наплечники"/>
+    <string id="x0x1gIbT" text="Раннее Отступление" />
+    <string id="X1Wn0sBa" text="Кожанный Шипованный Шлем с Грубым Чешуйчатым Подшлемником"/>
+    <string id="X3FAb6Wm" text="Северный Украшенный Шлем с Забралом"/>
+    <string id="x8gjWt79" text="Топор Центуриона" />
+    <string id="xa7KRSCy" text="Сшитый Кожаный Наряд"/>
+    <string id="XazcYatD" text="Имперский Шлем с Наносником"/>
+    <string id="xbB9Ga5X" text="Зауженный Северный Клинок"/>
+    <string id="XbwDj80t" text="Степные Стрелы"/>
+    <string id="XDsFl200" text="Имперское Копьё"/>
+    <string id="XGX6DbFL" text="Пластинчатые Латные Рукавицы"/>
     <string id="XH9f3yOX" text="Меховой Жилет Поверх Туники"/>
-    <string id="XhoWHECj" text="Узкие Вооружается Мечом"/>
-    <string id="XIOj0yve" text="Ручка Во Главе С Шипами Клуб"/>
-    <string id="xjrQHxnO" text="Северное Копье"/>
-    <string id="xkX9T0yT" text="Свободно Обернутые Южной Шлем"/>
+    <string id="xkX9T0yT" text="Свободный Обёрнутый Южный Шлем"/>
     <string id="xl5MgK49" text="Стургийский Тяжелый Кавалерийский Шлем"/>
-    <string id="xMNlKKua" text="Хайленд Короткое Клинковое Клеймор"/>
-    <string id="xnoAJwoy" text="Полный Шлем За Мягкие Ткани"/>
-    <string id="XoISdMVx" text="Восточной благородный шлем с мехом"/>
-    <string id="XOLhhHEM" text="Улучшенный Шипами Клуб"/>
-    <string id="XoQpvWn2" text="Восточной Короткие Бамбуковые Копья"/>
-    <string id="XOvg9rbg" text="Южный Броню Лучника"/>
-    <string id="xS7m37o7" text="Указал Тюбетейке По Почте"/>
-    <string id="Xs8a5YxN" text="Южный Лорд Шлем"/>
-    <string id="xsO9LNmO" text="Имперская Почта Чепец"/>
-    <string id="xsu6bPTv" text="Лен"/>
+    <string id="xnDWqYKW" text="Охотник" />
+    <string id="xnoAJwoy" text="Полный Шлем с Подбитым Тканевым Подшлемником"/>
+    <string id="XoISdMVx" text="Восточной Благородный Шлем с Мехом"/>
+    <string id="XOvg9rbg" text="Южная Броня Лучника"/>
+    <string id="XRaPBg6d" text="Топор с Малым Топорищем" />
+    <string id="xS7m37o7" text="Остроконечная тюбитейка с Кольчугой"/>
+    <string id="Xs8a5YxN" text="Южный Шлем Предводителя"/>
+    <string id="xsO9LNmO" text="Имперский Кольчужный Койф"/>
+    <string id="xsu6bPTv" text="Лён"/>
     <string id="XTGdfqVV" text="Двуручный Тесак "/>
-    <string id="XTqplCsv" text="Северный Доспех"/>
-    <string id="xTyib5ms" text="Широкие Листья В Форме Копья"/>
-    <string id="XU9WgcIO" text="Усиленная Замша Броня"/>
-    <string id="xUKpvFej" text="Западные Молоток"/>
-    <string id="XvDlD4yW" text="Широкий Чеканный Западной Двуручный Меч"/>
-    <string id="xWEcuOe5" text="Velite Копье"/>
+    <string id="XTqplCsv" text="Северный Кольчужный Доспех"/>
+    <string id="xTyib5ms" text="Широколистное Копьё"/>
+    <string id="XU9WgcIO" text="Усиленная Замшевая Броня"/>
     <string id="xWFW8jXw" text="Боевой Топор"/>
-    <string id="XXL6DruM" text="Северный Одноручный Топор"/>
-    <string id="xYUHruEl" text="Хайленд Капот"/>
-    <string id="XyXSx0R8" text="Общее Восточное Платье"/>
-    <string id="XZAAz7NX" text="Империя Короткая Туника"/>
-    <string id="y3CqG6bD" text="Метательные Ножи"/>
+    <string id="xYUHruEl" text="Горный Капюшон"/>
+    <string id="XyXSx0R8" text="Общычное Восточное Платье"/>
+    <string id="XZAAz7NX" text="Имперская Короткая Туника"/>
     <string id="y3oIzUEp" text="Туника С Подплечниками"/>
-    <string id="Y4YpaQZk" text="Западные Огромный Топор"/>
-    <string id="Y5T6b8vr" text="Восточная Сабля С Диска Охранник"/>
-    <string id="y7c8d42u" text="Рекурсивный Лук Наемника"/>
-    <string id="y8vHWT2H" text="Северные Сделал Спата"/>
-    <string id="y9uMjAKT" text="Усиленные Замшевые Плечи"/>
-    <string id="Yak0KLpN" text="Ятаган с изогнутой гарды"/>
-    <string id="YAOfXanz" text="Северный Лорд Шлем"/>
-    <string id="yAUWNblw" text="Короткое Дуэльные Копье"/>
+    <string id="y9uMjAKT" text="Усиленные Замшевые Наплечники"/>
+    <string id="YAOfXanz" text="Северный Шлем Предводителя"/>
     <string id="YAYhozbN" text="Степной Конь"/>
-    <string id="yB9hdwE8" text="Крылатый Степной Кавалерии Копье"/>
-    <string id="YBEHTW9P" text="Северная Топорик"/>
-    <string id="ybpZdt9S" text="Северная Многослойные Ткани"/>
-    <string id="Ybq7jZDj" text="Хайленд Thinhide Чепец"/>
-    <string id="yCbEDtgM" text="Северная Спарринг Двуручный Топор"/>
+    <string id="ybpZdt9S" text="Северная Многослойная Одежда"/>
+    <string id="Ybq7jZDj" text="Горный Койф из Тонкой Шкуры"/>
     <string id="yCvBx27Z" text="Зазубренное Копьё"/>
-    <string id="Yd4lmlQp" text="Узкие Тонкие Стальные Каскара"/>
-    <string id="YDibTDob" text="Хайленд Коронованный Шлем"/>
-    <string id="YdTsz0xL" text="Длинное Клинковое Копье"/>
-    <string id="ydxXW0ZW" text="Северная Шлем За Кожей"/>
-    <string id="YEUFtX4G" text="Плечо Волка "/>
-    <string id="YfB0SJqY" text="Белый Табард За Почту"/>
+    <string id="Yd4lmlQp" text="Тонкая Каскара из Отличной Стали"/>
+    <string id="YDibTDob" text="Горный Венценосный Шлем"/>
+    <string id="ydxXW0ZW" text="Северный Шлем с Кожаной Подкладкой"/>
+    <string id="YEUFtX4G" text="Вольчи Наплечники"/>
+    <string id="YfB0SJqY" text="Северная Кожанная Геральдическая Накидка повер Кольчуги"/>
     <string id="yFjmkALW" text="Северные Кожаные Табард За Почту"/>
     <string id="ygfhbfr0" text="Шипастый Шлем"/>
-    <string id="YGQ6UXCo" text="Горная Охота Лук"/>
+    <string id="YGQ6UXCo" text="Горный Охотничий Лук"/>
     <string id="yGwxXsIL" text="Степной Боевой Конь "/>
-    <string id="Yh7Dorsr" text="Полосатый Упряжь"/>
-    <string id="yI2QQwc5" text="Лук лесной дворянина "/>
-    <string id="yK3ktNd5" text="Степной Налетчик Короткие Кавалерийские Копья"/>
-    <string id="YKkrO3wt" text="Вооружение Меч С Длинным Лезвием Двояковыпуклые"/>
-    <string id="ykZVILie" text="Вдалбливают Коньковый Рыцарский Меч"/>
-    <string id="YLplNGxb" text="Calradic Палицу"/>
-    <string id="yMa2QmjU" text="Северных Наемников Дротиками"/>
-    <string id="yMi4ijgI" text="Номад Мягкий Капюшон"/>
-    <string id="Yms2FQ7g" text="Halfchain Barding"/>
-    <string id="YMtHkAUj" text="Восточной Густая Шерсть"/>
-    <string id="YNabqvLK" text="Северная Спарринг Копье"/>
-    <string id="Yo56PtJZ" text="Императорский Гамбезон"/>
-    <string id="yOChPSzH" text="Северные Воины Двуручный Топор"/>
-    <string id="YoNYyLba" text="Копье"/>
+    <string id="Yh7Dorsr" text="Полосатая Кожанная Упряжь"/>
+    <string id="yHGfsYzg" text="Утяжеленное Восточное Копьё" />
+    <string id="YLplNGxb" text="Кальрадийская Палица"/>
+    <string id="yMi4ijgI" text="Подбитый Капюшон Кочевника"/>
+    <string id="Yms2FQ7g" text="Полукольчужная Броня для Лошади"/>
+    <string id="YMtHkAUj" text="Восточное Плотное Пальто"/>
+    <string id="Yo56PtJZ" text="Имперский Гамбезон"/>
     <string id="YPUDAJDH" text="Гарпун"/>
     <string id="YqhOxb1Z" text="Пернатый Ламеллярный Шлем"/>
     <string id="yQTBY9ie" text="Ювелирные изделия"/>
-    <string id="YrAVxmFn" text="Хайленд Палаш"/>
-    <string id="YRYJGzxw" text="Витиеватые Adarga"/>
-    <string id="yt7Rj2Dr" text="Восточная Сабля"/>
-    <string id="YteV789y" text="Хайленд Меховой Шлем"/>
-    <string id="yTWOMSmv" text="Конопля Туника"/>
-    <string id="YtzsLVxa" text="Длинный Бородатый Топор"/>
-    <string id="yVvIfaT8" text="Имперские Копья Наемников "/>
-    <string id="YW8DNgqa" text="Южные Метательные Ножи"/>
-    <string id="yY8RppbH" text="Сокращенный Военный Косой"/>
-    <string id="yZ2MsaNP" text="Меч"/>
-    <string id="yzCprGW5" text="Горные Бандиты Короткое Копье"/>
-    <string id="z4eNiKd1" text="Имперский Спарринг Булава"/>
-    <string id="z54bVjnr" text="Степной Djerids"/>
-    <string id="z62uDlbh" text="Скандинавский Круглый Щит"/>
-    <string id="Z6Ak3H6G" text="Jereed"/>
-    <string id="z6eTba5h" text="Тяжелые Nasalhelm Более Кружевной Ткани"/>
-    <string id="z8d2uyY1" text="Сегментированный Cevelliere За Кружевной Чепец"/>
-    <string id="Z8Kc6XlP" text="Западные Джавелин"/>
+    <string id="YrAVxmFn" text="Горный Палаш"/>
+    <string id="YRYJGzxw" text="Изысканая Адарга"/>
+    <string id="YteV789y" text="Горный Меховой Шлем"/>
+    <string id="yTWOMSmv" text="Пеньковая Туника"/>
+    <string id="z62uDlbh" text="Северный Круглый Щит"/>
+    <string id="Z6Ak3H6G" text="Джид"/>
+    <string id="z6eTba5h" text="Тяжелый Шлем с Наносником и Шнурованной Тканевой подкладкой"/>
+    <string id="z8d2uyY1" text="Сегментированный Цервельер с Шнурованным Койфом"/>
+    <string id="Z8Kc6XlP" text="Западные Дротики"/>
     <string id="Z9RlnXrD" text="Меховая Юбка"/>
-    <string id="zAvb7WKe" text="Сегментированный Шлемник Более Мягкий Чепец"/>
-    <string id="ZavkKkU1" text="Хайленд Наемник Лук"/>
-    <string id="ZbmlNZpU" text="Восточной Папахе"/>
+    <string id="zAvb7WKe" text="Сегментированная Тюбитейка с Подбитым Койфом"/>
+    <string id="ZbmlNZpU" text="Восточная Меховая Шапка"/>
     <string id="zbsajPMp" text="Вульж"/>
     <string id="ZbsGBv10" text="Кабанчик"/>
-    <string id="zBUT90xQ" text="Thamaskene Стали Каскара"/>
-    <string id="zcgakMCj" text="Свет Южных Лэнс"/>
-    <string id="Ze9u7Saj" text="Утюг Spangenhelm Пернатых По Почте"/>
-    <string id="ZEybMjoq" text="Северная Roughhide Крышка"/>
-    <string id="ZFde57gC" text="Прочный Хайленд Седло"/>
-    <string id="ZFETxZKP" text="Kefiyyeh С Шелковой Лентой"/>
-    <string id="ZFSqyVqP" text="Меч Хайленд Ноубл "/>
-    <string id="ZFwKlHIJ" text="Лесной Лук"/>
-    <string id="zgu0bija" text="Западный Меч С Рукоятью Кружения"/>
-    <string id="ZgU59FnE" text="Железный Топор"/>
+    <string id="zBUT90xQ" text="Тамаская Стальная Каскара"/>
+    <string id="Ze9u7Saj" text="Железный Пернатый Каркасный Шлем с Кольчугой"/>
+    <string id="ZEybMjoq" text="Северная Шерстяная Шапка"/>
+    <string id="ZFde57gC" text="Прочное Горное Седло"/>
+    <string id="ZFETxZKP" text="Куфея с Шелковой Лентой"/>
+    <string id="ZFwKlHIJ" text="Лесной Длинный Лук"/>
     <string id="ZgVVPGTb" text="Виноград"/>
-    <string id="zGXZJFOb" text="Пластинчатые Со Шкалой Юбка"/>
-    <string id="zHz0t31O" text="Имперский Наемник Копья Войны "/>
-    <string id="ZIiqjBHt" text="Южный Наемник Спарринг Меч"/>
-    <string id="ZjAZNjvu" text="Северное Кольцо Barding"/>
-    <string id="ZJYVpjuR" text="Верблюжье седло с тяжелой нагрузкой"/>
-    <string id="ZLpYFYXo" text="Неровные Тонкие Стальные Копья"/>
+    <string id="zGXZJFOb" text="Пластинчатый Доспех с Чешуйчатой Юбкой"/>
+    <string id="ZjAZNjvu" text="Северная Кольчужная Броня для Лошади"/>
+    <string id="ZJYVpjuR" text="Верблюжье седло с Тяжелой Кладью"/>
+    <string id="ZLpYFYXo" text="Зубчатое Копьё из Отличной Стали"/>
     <string id="zLxE6e7A" text="Стургийская Укрепленная Броня"/>
-    <string id="zmEnxUpL" text="Имперским Размахом Barding"/>
-    <string id="ZOJTBSaz" text="Сбалансированные Метательные Ножи"/>
-    <string id="ZOoxd36t" text="Хайленд Наемника Броня"/>
-    <string id="ZOWdFaUi" text="Указал Тюбетейку Поверх Кольчуги Причесон"/>
-    <string id="ZpwN0dLV" text="Ручки Граненые Булавы"/>
-    <string id="ZqbyJ5Pl" text="Утюг Roundkettle Над Имперской Почты"/>
+    <string id="zmEnxUpL" text="Имперская Чешуйчатая Броня для Лошади"/>
+    <string id="ZOoxd36t" text="Горная Броня Наёмника"/>
+    <string id="ZOWdFaUi" text="Остроконечная Тюбиейка с Кольчужным Койфом"/>
+    <string id="ZqbyJ5Pl" text="Железный Круглый Котелок с Имперской Кольчугой"/>
     <string id="ZqTFQeai" text="Кожаная Туника"/>
-    <string id="zQv3w264" text="Мягкий Пол Чепец"/>
-    <string id="ZRDoABz9" text="Пернатый Меховой Подкладке Шлема"/>
-    <string id="ZSbVynji" text="Гора Копье"/>
-    <string id="ztaOhpc1" text="Абреков Изл"/>
-    <string id="zUFRE9y4" text="Кирка "/>
-    <string id="zuhULS73" text="Северная Чеканный Меч С Короткой Ручкой"/>
-    <string id="ZuOWvXMB" text="Хайленд Кожа Шипованных Руля"/>
-    <string id="ZV1bKLUn" text="Чайник Шлем С Кожаной"/>
-    <string id="Zvxydvao" text="Императорская Богатая Платье"/>
-    <string id="ZWavfxrQ" text="Южный Кавалерийский Тесак Наёмника"/>
+    <string id="zQv3w264" text="Полуподбитый Койф"/>
+    <string id="ZRDoABz9" text="Шлем с Меховой Подкладкой Украшенный Перьями"/>
+    <string id="zUFRE9y4" text="Кирка" />
+    <string id="ZuOWvXMB" text="Горный Кожаный Шлем С Шипами"/>
+    <string id="ZV1bKLUn" text="Шарообразный шлем с Кожанным Ремешком"/>
+    <string id="Zvxydvao" text="Императорское Богатое Платье"/>
     <string id="Zwb65ufG" text="Глина"/>
-    <string id="Zx4h7jDy" text="Учебный Тонкий Доспех"/>
-    <string id="zxkAfbm7" text="Восточной Короткая Сабля для Тренировок"/>
-    <string id="zXmmShV6" text="Южное Тренировочное Копьё с Тупым Наконечником"/>
-    <string id="ZYIzO4rc" text="Тяжелые Метательные Топоры"/>
-    <string id="zyMn4wOC" text="Западная Фланцевая Булава Наёмника"/>
+    <string id="Zx4h7jDy" text="Манекен с Минимальной Защитой"/>
     <string id="zZ2G7uIO" text="Котелок с Кольчугой"/>
   </strings>
 </base>
