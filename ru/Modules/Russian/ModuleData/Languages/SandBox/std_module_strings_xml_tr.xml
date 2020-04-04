@@ -4,84 +4,84 @@
     <tag language="Русский"/>
   </tags>
   <strings>
+	<string id="7ZhNilg8" text="Легко (5% бонус)"/>
+	<string id="9jSxo790" text="Реалистично"/>
+	<string id="AQfVclN8" text="Приз"/>
+	<string id="B0uvwKae" text="Герои могут умереть на поле боя."/>
+	<string id="bLwIgxXa" text="Сложность набора войск"/>
+	<string id="cA1D2Ua3" text="Вам нужно улучшить отношения со знатью, чтобы открыть все их войска."/>
+	<string id="carorTAF" text="Уменьшен до 2/3 (Легко)"/>
+    <string id="cUHlzCRx" text="Разрешить Смерть"/>
+    <string id="D9GkBqyW" text="Вы можете покинуть тренировочное поле зажав [{LEAVE_KEY}]{newline}Вы можете вернуться в любое время с глобальной карты."/>
+    <string id="DFMhzFGV" text="Несколько дополнительных лошадей в вашем инвентаре могут значительно ускорить ваш отряд, так как они увеличат вашу грузоподъемность, а пехота будет ехать на запасных лошадях. Вьючные лошади и мулы полезны только для перевозки грузов."/>
+    <string id="EGwqzjpa" text="Вы можете удерживать клавишу Tab, чтобы покинуть текущую локацию."/>
+    <string id="F8TaKnjh" text="Когда вы находитесь в городе или деревне, удерживайте клавишу Alt чтобы отобразить метки важных людей и интересных мест."/>
+    <string id="fbaQp3ox" text="Включить автоматическое распределение перков для членов вашего клана."/>
+    <string id="hEYfasE1" text="Коэффициент получаемого урона персонажем."/>
+    <string id="HVrobtL5" text="Новое название королевства:{newline} - Не должно содержать цифры.{newline} - Не должно превишать {MAX_LETTER_COUNT} знаков.{newline} - Cannot be shorter than {MIN_LETTER_COUNT} characters."/>
+    <string id="IgeL6qHr" text="Коэффициент получаемого урона своими союзникам, которые не находятся под вашим командованием."/>
+    <string id="IWD56KMc" text="Скорость передвижения по глобальной карте"/>
+    <string id="JaHlwYmo" text="Когда вы смотрите на окно информации, вы можете зажать клавишу Alt, чтобы увидеть расширенную версию."/>
+    <string id="k4CF68S6" text="Мы воздерживаемся"/>
+    <string id="k71J6bVH" text="Побед"/>
+    <string id="KbPD5cEw" text="Уменьшен до 1/3 (Очень Легко)"/>
+    <string id="KM7uAbL8" text="Полученный Урон Игроком"/>
+    <string id="mD89ih8N" text="Изменить Название Клана "/>
+    <string id="N6fz1efb" text="Пропускает обучение в начале игры."/>
+    <string id="Oea9a5nY" text="Полученный Урон Дружественными Войсками"/>
+    <string id="qc9Llr3x" text="Герой"/>
+    <string id="QGA2TilH" text="В игровых окнах, вы можете щелкнуть правой кнопкой на элементе, чтобы открыть запись в энциклопедии о нем. Это работает для портретов бойцов, иконок городов, и большинства других элементов."/>
+    <string id="QUZku1Jr" text="Штраф к скорости отряда наиболее эффективен на глобальной карте."/>
+    <string id="QzmJL5I7" text="Легко (1 доп.)"/>
+    <string id="raD9MK3O" text="Сложности"/>
+    <string id="ReNnVfEn" text="Изменить Название Королевства "/>
+    <string id="RyNYEVYp" text="{RANK}."/>
+    <string id="RZFAxCMp" text="Очень легко (10% бонус)"/>
+    <string id="sp8Kred0" text="Member должен быть в отряде игрока, чтобы сделать это действие."/>
+    <string id="TZ9ugd1p" text="Автоматическм Распределять Перки Членам Клана"/>
+    <string id="UcgNVM0P" text="Очень легко (2 доп.)"/>
+    <string id="UfQotsfo" text="Ранг #"/>
+    <string id="vGF5S2hE" text="Таблица Лидеров"/>
+    <string id="wip6jLEM" text="Коэффициент получаемого урона своими войсками."/>
+    <string id="ZcyJePFm" text="Полученный Урон Дружественными Отрядами"/>
+    <string id="ZWiFWA2W" text="Пропустить Обучение Главного Сюжета "/>
     <string id="1bq1oFJP" text="DefaultNote"/>
     <string id="3TQTClro" text="AgainstGreatOdds"/>
-    <string id="7ZhNilg8" text="Легкий (5% бонус)"/>
     <string id="8m9AH69a" text="CompetingGangLeaderQuarrel"/>
     <string id="9GjxRWET" text="HereticQuarrel"/>
-    <string id="9jSxo790" text="Реалистичные"/>
     <string id="aEdsdIPn" text="MadePeace"/>
     <string id="AJcTPuPN" text="NPCFreed"/>
     <string id="apQoUXb8" text="VillageRaid"/>
-    <string id="AQfVclN8" text="Приз"/>
-    <string id="B0uvwKae" text="Выбрать если герои способны умереть на поле боя."/>
-    <string id="bLwIgxXa" text="Сложность набора войск"/>
     <string id="bZusb8s6" text="SacrificedTroops"/>
-    <string id="cA1D2Ua3" text="Вам нужно улучшить отношения с нотаблями, чтобы открыть все свои войска."/>
-    <string id="carorTAF" text="Уменьшены на 2/3 (простой)"/>
     <string id="cScWgdo7" text="Предательски"/>
-    <string id="cUHlzCRx" text="Включить Смерть"/>
-    <string id="D9GkBqyW" text="You can leave the training field by holding [{LEAVE_KEY}]{newline}You can return at any time from the campaign map."/>
-    <string id="DFMhzFGV" text="Держать несколько лошадей в инвентаре может значительно ускорить вашу партию, так как они могут увеличить свою несущую способность и лакеи будут ездить на запасных лошадей. Вьючных лошадей и мулов полезны только для перевозки грузов."/>
     <string id="DxJ9OS7c" text="RuthlessBusinessQuarrel"/>
-    <string id="EGwqzjpa" text="Вы можете удерживать клавишу Tab, чтобы оставить текущую область."/>
     <string id="esJ5tkzf" text="ExploitativeMerchantQuarrel"/>
-    <string id="F8TaKnjh" text="Когда вы находитесь в городе или селе место, удерживая нажатой клавишу Alt отображает метки на важных людей и процентных пунктов."/>
     <string id="fatCKnBU" text="PartyHungry"/>
-    <string id="fbaQp3ox" text="Включить автоматическое назначение перков для членов вашего клана."/>
     <string id="FyrsOj8x" text="EasyPlayerПобеда"/>
-    <string id="hEYfasE1" text="Получено соотношение ущерба для вашего персонажа."/>
     <string id="hgDMPXaT" text="VengeanceQuarrel"/>
-    <string id="HVrobtL5" text="New kingdom name:{newline} - Cannot include digits.{newline} - Cannot be longer than {MAX_LETTER_COUNT} characters.{newline} - Cannot be shorter than {MIN_LETTER_COUNT} characters."/>
     <string id="iaeVwUKW" text="HostileAction"/>
-    <string id="IgeL6qHr" text="Полученный коэффициент урона своим союзникам, которые не находятся под вашим командованием."/>
-    <string id="IWD56KMc" text="Скорость передвижения по карте кампании"/>
     <string id="j9cE7oic" text="BattleValor"/>
-    <string id="JaHlwYmo" text="Когда вы смотрите на подсказки, вы можете нажать клавишу Alt, чтобы увидеть расширенную версию подсказки."/>
     <string id="JTfahwzM" text="ResponsibilityStrategyQuarrel"/>
-    <string id="k4CF68S6" text="Мы воздерживаемся"/>
-    <string id="k71J6bVH" text="Побед"/>
-    <string id="KbPD5cEw" text="Снижается до 1/3 (очень легко)"/>
-    <string id="KM7uAbL8" text="Получение урон игроком"/>
     <string id="kwVELZN1" text=""/>
-    <string id="mD89ih8N" text="Изменить Название Клана "/>
-    <string id="N6fz1efb" text="Пропускает туториал в начале игры."/>
-    <string id="Oea9a5nY" text="Получение урона дружественными войсками"/>
     <string id="og4waI70" text="LandCheatingQuarrel"/>
     <string id="prj0jVxk" text="QuestBetrayal"/>
     <string id="Q5ttMDEu" text="CourtshipQuarrel"/>
-    <string id="qc9Llr3x" text="Герой"/>
-    <string id="QGA2TilH" text="В игры Windows, вы можете щелкнуть правой кнопкой на элементе, чтобы открыть запись энциклопедия для ее. Это работает для портретов войск, город, иконы, и большинство других элементов."/>
-    <string id="QUZku1Jr" text="Скорость стороной штрафные санкции будут более эффективны на карте кампании."/>
-    <string id="QzmJL5I7" text="Легкий (1 доп.)"/>
     <string id="R2XhM9yO" text="QuestSuccess"/>
-    <string id="raD9MK3O" text="Сложности"/>
-    <string id="ReNnVfEn" text="Изменить Название Королевства "/>
     <string id="rmwE1qtb" text="GrantedDux"/>
-    <string id="RyNYEVYp" text="{RANK}."/>
-    <string id="RZFAxCMp" text="Очень легкий (10% бонус)"/>
     <string id="SFAawqR1" text="DishonestBusinessQuarrel"/>
-    <string id="sp8Kred0" text="Член должен быть в партии игрока, чтобы сделать это действие."/>
     <string id="TEd5n7xo" text="ValorStrategyQuarrel"/>
-    <string id="TZ9ugd1p" text="Автоматическое распределение титулов членам клана"/>
     <string id="U1zsHey1" text="ExtortingQuarrel"/>
-    <string id="UcgNVM0P" text="Очень легкая (2 дополнительных)"/>
-    <string id="UfQotsfo" text="Ранг #"/>
     <string id="UyFTIvc2" text="GrantedFief"/>
     <string id="v3hXzd35" text="QuestFailed"/>
-    <string id="vGF5S2hE" text="Лидеров"/>
     <string id="vH6Apmfr" text="PersuadedToDefect"/>
     <string id="Vn6n7KCO" text="PlayerLastStand"/>
     <string id="WgooVSUL" text="PartyTakenCareOf"/>
-    <string id="wip6jLEM" text="Полученный коэффициент урона своим войскам."/>
     <string id="X7g4Kz7F" text="IgnoredPeace"/>
     <string id="xwzyZghT" text="TroublemakerQuarrel"/>
     <string id="xyn4YBvp" text="CalculatingStrategyQuarrel"/>
     <string id="zcAsRVZW" text="ByRebellion"/>
-    <string id="ZcyJePFm" text="Получение урона членами отряда"/>
     <string id="zmCwsjEw" text="FiefQuarrel"/>
     <string id="ZpjdNabw" text="MadeWar"/>
-    <string id="ZWiFWA2W" text="Пропустить Основной Учебник Сюжетом "/>
     <string id="zwV2tyb4" text="NoQuarrel"/>
   </strings>
 </base>

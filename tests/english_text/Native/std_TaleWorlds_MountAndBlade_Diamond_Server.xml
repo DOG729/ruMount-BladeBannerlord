@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="English" />
+  </tags>
+  <strings>
+    <string id="0W4dgUho" text="Banned from game until {BANNEDUNTIL}, Reason: {BANREASON}" />
+    <string id="2xOyWxIo" text="Player is not a party member." />
+    <string id="4XDu4Qcd" text="Only party leader can kick players from the party." />
+    <string id="5kgkZo2o" text="Player you tried to kick is not in your party!" />
+    <string id="91cJB1tP" text="Player {INVITEDPLAYER} is already in party." />
+    <string id="aFQa3pQt" text="You have to be in lobby to promote another player to party leader." />
+    <string id="ah4Pm8wU" text="You must be at lobby to disband your party![Temporary]" />
+    <string id="bcdU2DHW" text="Player {INVITEE} invited to your party by {INVITER}." />
+    <string id="bivF3RXY" text="You cannot promote yourself" />
+    <string id="BwBR7TJB" text="No one left in your party and it has been disbanded!" />
+    <string id="caMylVF7" text="Cannot queue to battle because no enabled game types are selected." />
+    <string id="E2ILp86t" text="Cannot queue to battle because region is not available." />
+    <string id="efpifbtd" text="You must be at lobby to invite someone to your party!" />
+    <string id="emx7txM9" text="Member promotion action can only be performed by the party leader." />
+    <string id="fD2SyeA7" text="You cannot invite yourself to party." />
+    <string id="GZXVxl3E" text="{PLAYERNAME} disconnected. Your party invitation is no longer valid." />
+    <string id="i5ZTTTZw" text="Player {INVITEDPLAYER} is not at lobby." />
+    <string id="jP2hUg7H" text="You are not in a party!" />
+    <string id="kY2oXMng" text="Could not login." />
+    <string id="l6a9vI9z" text="Only party leader can invite other players." />
+    <string id="mcAG0eHJ" text="You must be at lobby to kick someone from your party![Temporary]" />
+    <string id="MepGBJMQ" text="Player you attempted to promote could not be found" />
+    <string id="mvQKpHXH" text="Your party is full." />
+    <string id="nJ7aEkRt" text="You are invited to party by {PLAYERNAME}." />
+    <string id="nw7r2S5z" text="Selected disabled game type(s): {GAMETYPES}." />
+    <string id="OByu0fjQ" text="Cannot queue to battle because not all players are ready in your party." />
+    <string id="olLwOWf8" text="Cannot queue to battle because not all players are using anti-cheat." />
+    <string id="p5K0ATtZ" text="Could not destroy your old session." />
+    <string id="pehfmZvM" text="Player {PLAYERNAME} was promoted to party leader." />
+    <string id="Pn13ZKwI" text="Your party has been disbanded!" />
+    <string id="Rj8RhD7F" text="Failed" />
+    <string id="Tauk2JzA" text="Version mismatch, Server Version: {SERVERVERSION} - Your Version: {CLIENTVERSION}." />
+    <string id="TpBDiSBp" text="{PLAYERNAME} was assigned party leader." />
+    <string id="VDDm5bqb" text="You can only invite players running the game with Anti-cheat." />
+    <string id="w8WiqZT3" text="You must run the game with Anti-cheat to join or create a party!" />
+    <string id="wNubP2BF" text="Only party leader can queue for games." />
+    <string id="xMa4QqvL" text="Current players in party: {PLAYERS}" />
+    <string id="ysfEQO6c" text="Player not found" />
+    <string id="zyDyPr4I" text="Player you tried to promote is not in your party." />
+  </strings>
+</base>
