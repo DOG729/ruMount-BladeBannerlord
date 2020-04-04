@@ -8,7 +8,7 @@
     <string id="08oulGov" text="Бросить экипированное оружие."/>
     <string id="0EDGnl1C" text="Только Дальнобойное"/>
     <string id="0fLpwDzk" text="Выбор режима экрана.{newline}Оконный: Запускает игру в окне.{newline}Полный экран: Запускает игру в полноэкранном режиме.{newline}Оконный без рамки: Запускает игру в оконном режиме, но без рамки."/>
-    <string id="0hzYbsXD" text="Оборудовать оружие 1 деск"/>
+    <string id="0hzYbsXD" text="Оборудовать оружие 1 DESC"/>
     <string id="0MvDMsEl" text="Метод Окклюзии "/>
     <string id="0ot0eBzv" text="Поворот Камеры Верхом От Первого Лица"/>
     <string id="0ufcpRUS" text="Движение Камеры Вверх"/>
@@ -118,7 +118,7 @@
     <string id="AiYklNiQ" text="Переместить Интерфейс Вправо"/>
     <string id="aJxmDbur" text="Удерживайте, чтобы покинуть площадь. "/>
     <string id="aKghgqEl" text="ВыбратьПриказ1 DESC"/>
-    <string id="aky3YmaT" text="Карту ждать деск"/>
+    <string id="aky3YmaT" text="Карту ждать DESC"/>
     <string id="amdYLZ6o" text="Окно Квестов "/>
     <string id="aNs2hcVi" text="Переместить Интерфейс Вниз"/>
     <string id="ap1wEfdW" text="V"/>
@@ -186,7 +186,7 @@
     <string id="DqFxOjTp" text="Разрешение Экрана "/>
     <string id="drbgOAqx" text="Включить отчеты для получения опыта."/>
     <string id="drG1OL8d" text="Колесико Вверх"/>
-    <string id="dRx9qWRO" text="Карта контексте деск меню "/>
+    <string id="dRx9qWRO" text="Контекстное Меню Карты DESC"/>
     <string id="DTSHoHbu" text="Окно Инвентаря "/>
     <string id="Dw58UUua" text="Подповерхностное Рассеивание"/>
     <string id="dYu897GO" text="Кнопка A"/>
@@ -260,7 +260,7 @@
     <string id="Ibl4avht" text="Right Bumper"/>
     <string id="iblHebbT" text="F1"/>
     <string id="IcEPmXxM" text="Устанавливает метод окклюзии."/>
-    <string id="ICgda8Is" text="Двойное Нажатие Вперед: Атака"/>
+    <string id="ICgda8Is" text="Двойное Нажатие Вперед: Ускорение"/>
     <string id="ID9lG6xg" text="Просмотр Приказов"/>
     <string id="IDKbw4Sw" text="UI Leave DESC"/>
     <string id="igGLkaf6" text="Экипировать Предмет 2"/>
@@ -301,7 +301,7 @@
     <string id="jwNpDFOh" text="128 (Низкий)"/>
     <string id="JXdwIX8Q" text="Установить толщину следов от снарядов оружия дальнего боя."/>
     <string id="jZs8I1Uq" text="Включает зернистость пленки."/>
-    <string id="JZYQGUF3" text="Двойное Нажатие Назад: Внезапный "/>
+    <string id="JZYQGUF3" text="Двойное Нажатие Назад: Быстрая Остановка"/>
     <string id="k2QXfBBn" text="Кнопку Y"/>
     <string id="k3CLKsrz" text="Движением Мыши"/>
     <string id="k3LajvfJ" text="Открывает экран редактирования знамени"/>
@@ -491,7 +491,7 @@
     <string id="U5xKAHGi" text="Блум"/>
     <string id="u7FkCtRN" text="Группа 0 Слушай"/>
     <string id="U8NaF1bo" text="Калибровка Яркости"/>
-    <string id="Uaae1eBV" text="Двойное Нажатие Вправо : Внезапный поворот"/>
+    <string id="Uaae1eBV" text="Двойное Нажатие Вправо : Резко Вправо"/>
     <string id="UboDNGJw" text="Выбрать Группу 7"/>
     <string id="uBRn8Je8" text="3"/>
     <string id="ucyy9Sc5" text="{LEFT} / {RIGHT}"/>
@@ -603,7 +603,7 @@
     <string id="zUXxshZK" text="F12"/>
     <string id="zvD48rVQ" text="Быстрое Сохранение"/>
     <string id="ZVLr4CMO" text="5 Кнопка Мыши"/>
-    <string id="ZvtKqPt3" text="Двойное Нажатие Влево : Внезапный Поворот"/>
+    <string id="ZvtKqPt3" text="Двойное Нажатие Влево : Резко Влево"/>
     <string id="zwL5NFAr" text="Insert"/>
     <string id="zxMOqlhs" text="Атака"/>
   </strings>

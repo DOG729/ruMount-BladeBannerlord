@@ -1,0 +1,386 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="English" />
+  </tags>
+  <strings>
+    <string id="0GKH29JG" text="Mercenary Guard" />
+    <string id="0GkJB08d" text="Sturgian Veteran Caravan Guard" />
+    <string id="0Xku0LQD" text="Sturgia Peasant" />
+    <string id="1MXhl6TV" text="tournament_template_vlandia_one_participant_set_v3" />
+    <string id="1PovWQ3G" text="tournament_template_aserai_one_participant_set_v1" />
+    <string id="1PsLlMaQ" text="Imperial Equite" />
+    <string id="1sJcKkVP" text="Guard" />
+    <string id="1WfDVpya" text="Sturgian Archer" />
+    <string id="1zObCG2o" text="Battanian Fian Champion" />
+    <string id="275LD0Gh" text="Shop Worker" />
+    <string id="2gUjKT5H" text="Battanian Horseman" />
+    <string id="2HDPaohZ" text="Expert Forester" />
+    <string id="2RGc09o0" text="Alijin" />
+    <string id="2w6jXVzJ" text="Battania preset" />
+    <string id="34as7AX2" text="tournament_template_battania_two_participant_set_v3" />
+    <string id="3lNtvh9W" text="Bounty Hunter" />
+    <string id="3UoCf10i" text="Valtis" />
+    <string id="3uSMU7zy" text="Sturgia Weapon Dummy" />
+    <string id="3VosbFR0" text="Vlandian Champion" />
+    <string id="4BxUa4Sr" text="Aserai Skirmisher" />
+    <string id="4C4WiTb2" text="Varyag" />
+    <string id="5b6KjY5b" text="Vlandian Billman" />
+    <string id="5JFkQn5U" text="Khuzait Militia Veteran Archer" />
+    <string id="5NhnfkCq" text="Battania Weapon Dummy" />
+    <string id="6akxY6JL" text="tournament_template_khuzait_four_participant_set_v2" />
+    <string id="6aqDcMPr" text="Max Armor (55)" />
+    <string id="6C3OMP1X" text="Battanian Scout" />
+    <string id="6HG4SVYE" text="tournament_template_empire_two_participant_set_v1" />
+    <string id="6hhspFvz" text="Khuzait Veteran Caravan Guard" />
+    <string id="6oc7CXbI" text="Aserai Veteran Faris" />
+    <string id="6UFEfIJV" text="Khuzait Spear Infantry" />
+    <string id="79ElOr2x" text="Horse Trader" />
+    <string id="7aRhhGAs" text="Expert Thug" />
+    <string id="7EUhAv8b" text="Ghulam" />
+    <string id="7JZPTbxB" text="Scholar" />
+    <string id="7LaefhBV" text="Battania Gear Dummy" />
+    <string id="7WWUxI6y" text="Sturgian Veteran Bowman" />
+    <string id="80plewQ1" text="Oath Keeper Recruit" />
+    <string id="8bA4PvdG" text="Imperial Veteran Archer" />
+    <string id="8Gh8q1PX" text="Beni Zilal Royal Guard" />
+    <string id="8nRua2zi" text="tournament_template_aserai_two_participant_set_v1" />
+    <string id="8PLgCsiR" text="Vlandian Vanguard" />
+    <string id="8TdbKFa9" text="Aserai Armed Trader" />
+    <string id="96pj2wxH" text="Sturgian Warrior" />
+    <string id="9Bw85Elg" text="Boar Novice" />
+    <string id="9Di0NfG2" text="Infant" />
+    <string id="9GIK6fnm" text="Kradus" />
+    <string id="9Ylw5Spz" text="Boar Veteran" />
+    <string id="9zXXes9i" text="Beni Zilal Soldier" />
+    <string id="A3XqnOlT" text="tournament_template_khuzait_two_participant_set_v2" />
+    <string id="a9b2fKYR" text="Sturgian Berserker" />
+    <string id="abFIj4ZW" text="Battanian Mounted Skirmisher" />
+    <string id="ac8MZYne" text="Battanian Hero" />
+    <string id="acubGB3g" text="Vlandian Hardened Crossbowman" />
+    <string id="afhXdjBU" text="Nomad" />
+    <string id="ah2qifbo" text="tournament_template_vlandia_two_participant_set_v3" />
+    <string id="AlmaRAib" text="RuralNotableNotary" />
+    <string id="AloMryIU" text="Vlandian Light Cavalry" />
+    <string id="ansW4mx2" text="Aserai Townswoman" />
+    <string id="AoFZUbun" text="Aserai Vanguard Faris" />
+    <string id="arb5nRri" text="Aserai Tribesman" />
+    <string id="AssCCFew" text="Mercenary Horseman" />
+    <string id="aSZpSRmr" text="tournament_template_vlandia_four_participant_set_v2" />
+    <string id="aUHtqC9o" text="Vlandian Militia Spearman" />
+    <string id="auxU5OGA" text="Sturgian Warrior Son" />
+    <string id="B4ls6R2b" text="Aserai Master Archer" />
+    <string id="b4QPaEnA" text="Battanian Militia Archer" />
+    <string id="B7oI7AZG" text="Khuzait Khan's Guard" />
+    <string id="b7OTX7XO" text="tournament_template_vlandia_four_participant_set_v4" />
+    <string id="baAQDdE5" text="Vlandia Townswoman" />
+    <string id="BBJKgKj2" text="Sturgian Recruit" />
+    <string id="BbTpfJ7G" text="Dranton" />
+    <string id="bFyidmyK" text="Sturgia preset" />
+    <string id="bHx8jaeI" text="Warrior" />
+    <string id="bLMGbLF8" text="PreacherNotary" />
+    <string id="bLq2HXMo" text="Imperial Veteran Caravan Guard" />
+    <string id="BmYpwIYi" text="Battania Peasant" />
+    <string id="bNnQt4jN" text="Blacksmith" />
+    <string id="brlJJW5I" text="Sturgian Soldier" />
+    <string id="bTApMxWr" text="Vlandian Banner Knight" />
+    <string id="Btb7p3mD" text="Battanian Fian" />
+    <string id="bYn4ad1t" text="Expert Oath Keeper" />
+    <string id="c5rVdg75" text="Imperial Militia Veteran Spearman" />
+    <string id="c7uYiGFj" text="Sturgia Gear Dummy" />
+    <string id="CAYZDsAj" text="Legionary" />
+    <string id="Cc3knKFB" text="Palace Guard" />
+    <string id="CDUvlu4d" text="Imperial Palatine Guard" />
+    <string id="cEKbOxRA" text="Veteran Eleftheroi" />
+    <string id="CfO7eDsv" text="Sturgian Spearman" />
+    <string id="CKoq1wQa" text="Khuzait Militia Archer" />
+    <string id="cMcGn6n3" text="Expert Guardian" />
+    <string id="cOt1onbR" text="Triarii" />
+    <string id="cP1bu5GK" text="Khuzait Heavy Lancer" />
+    <string id="CPcJ2gRF" text="Aserai Militia Archer" />
+    <string id="cPQx1RXt" text="Sturgian Armed Trader" />
+    <string id="CRRzVcBT" text="tournament_template_vlandia_two_participant_set_v2" />
+    <string id="CRzrHomf" text="Sturgian Druzhinnik" />
+    <string id="cSdSSXsO" text="Boar Champion" />
+    <string id="CsjtWt1g" text="Tavern Keeper" />
+    <string id="cte0zSCz" text="Empire Tribesman" />
+    <string id="cVMvBy1p" text="Empire Gear Dummy" />
+    <string id="cZms8Ivb" text="Battanian Highborn Youth" />
+    <string id="d6vsgKnp" text="Aserai Peasant" />
+    <string id="d7MMYGLI" text="Aserai Weapon Dummy" />
+    <string id="dAIGb3JM" text="tournament_template_empire_four_participant_set_v2" />
+    <string id="dfv7E49q" text="Aserai Tribal Horseman" />
+    <string id="DhtS4tVo" text="tournament_template_empire_four_participant_set_v1" />
+    <string id="DIt9SuMb" text="Sprout" />
+    <string id="DlIU2vJB" text="Khuzait Marksman" />
+    <string id="DNIa6a5p" text="Vlandian Militia Veteran Archer" />
+    <string id="DNsbKR7B" text="Battanian Wood Runner" />
+    <string id="DNTUqbGo" text="Xerina" />
+    <string id="DvHR91Ca" text="Khuzait preset" />
+    <string id="E2uvuKII" text="tournament_template_vlandia_four_participant_set_v3" />
+    <string id="e8qbF7Ey" text="Imperial Menavliaton" />
+    <string id="ECxiXTbF" text="Artisan Notary" />
+    <string id="ehACDRBk" text="Hidden Pawn" />
+    <string id="EhCc2XI1" text="Khuzait Gear Dummy" />
+    <string id="eHVgfyPH" text="Khuzait Horse Archer" />
+    <string id="eHYBfWLj" text="tournament_template_aserai_two_participant_set_v3" />
+    <string id="euTE3FUY" text="tournament_template_battania_four_participant_set_v3" />
+    <string id="eWRlQ4XU" text="Thief" />
+    <string id="eYIMQafj" text="Imperial Heavy Horseman" />
+    <string id="f2a1fPca" text="Khuzait Militia Veteran Spearman" />
+    <string id="F54qLieU" text="Aserai Mameluke Guard" />
+    <string id="fdaZ3tri" text="Sturgian Woodsman" />
+    <string id="fHQ8ifKM" text="Imperial Trained Archer" />
+    <string id="FpdoaZST" text="Vlandia Weapon Dummy" />
+    <string id="FrTTT0G1" text="Sturgian Druzhinnik Champion" />
+    <string id="fxGlBFPk" text="Thug" />
+    <string id="g1zvdEE3" text="Aserai Veteran Infantry" />
+    <string id="G9ByT85b" text="Hastati" />
+    <string id="gBuGfUg3" text="Karakhuzait Elder" />
+    <string id="Gd0y7SxJ" text="Vlandian Spearman" />
+    <string id="Ge4GmFVE" text="tournament_template_sturgia_two_participant_set_v2" />
+    <string id="GEnwDYp1" text="Vlandian Recruit" />
+    <string id="GGlSSJ6w" text="tournament_template_empire_two_participant_set_v2" />
+    <string id="GGVehOu9" text="Squire" />
+    <string id="GopVkA1q" text="Outlaw" />
+    <string id="GUQ3zfg2" text="Battanian Volunteer" />
+    <string id="Gvy2b4fa" text="Aserai Youth" />
+    <string id="gwEB28tC" text="Crazy Man Without Weapon" />
+    <string id="gyvXsXs8" text="Battanian Wildling" />
+    <string id="gZ4JeEw4" text="Sturgian Militia Veteran Archer" />
+    <string id="H5HJUejD" text="Aserai Recruit" />
+    <string id="H5iWxbbl" text="Ghilman" />
+    <string id="H7eELtL6" text="Borrowed Troop" />
+    <string id="h7nGFImt" text="Recruit Forester" />
+    <string id="hcMzt0G2" text="tournament_template_sturgia_two_participant_set_v3" />
+    <string id="HMHzTNqJ" text="Battanian Trained Warrior" />
+    <string id="HsboF2mR" text="Imperial Militia Veteran Archer" />
+    <string id="HZRKBDyB" text="Beggar" />
+    <string id="i17zuvS4" text="Sturgian Hunter" />
+    <string id="i5DfUz6D" text="Battanian Militia Veteran Archer" />
+    <string id="i5QgQbRi" text="Imperial Soldier" />
+    <string id="i9Nm42Wl" text="tournament_template_battania_one_participant_set_v1" />
+    <string id="ieiqOaZp" text="Archer" />
+    <string id="IfjWyWjc" text="Imperial Infantryman" />
+    <string id="IHczn7ti" text="Battanian Highborn Warrior" />
+    <string id="IHKXNP9H" text="Tournament Master" />
+    <string id="IKvwsCaJ" text="Battanian Raider" />
+    <string id="IxcCmtxz" text="Battanian Militia Veteran Spearman" />
+    <string id="iXjMfCyp" text="Khuzait Horseman" />
+    <string id="IZ8OmByJ" text="Imperial Trained Infantryman" />
+    <string id="iZqYAIQy" text="Sturgian Shock Troop" />
+    <string id="jaK1A7CI" text="Aserai Faris" />
+    <string id="jFQPRvLg" text="Huskarl Swordsman" />
+    <string id="JGsUtBT3" text="Imperial Legionary" />
+    <string id="jMQvcrlf" text="tournament_template_empire_one_participant_set_v1" />
+    <string id="JMZiICD8" text="Vlandia Peasant" />
+    <string id="jRFfRZv2" text="Sturgian Militia Archer" />
+    <string id="jRFHgzHi" text="tournament_template_empire_four_participant_set_v3" />
+    <string id="juBPAThy" text="Battanian Veteran Caravan Guard" />
+    <string id="JVG0zC4e" text="Aserai Mameluke Heavy Cavalry" />
+    <string id="jx8ohENz" text="Armorer" />
+    <string id="jxNe8lH2" text="Caravan Guard" />
+    <string id="k2vXtuDV" text="tournament_template_battania_four_participant_set_v1" />
+    <string id="k4EiLrU0" text="Sturgian Ulfhednar" />
+    <string id="KAJKOooN" text="Khuzait Heavy Horse Archer" />
+    <string id="kih9DwL4" text="Vlandian Crossbowman" />
+    <string id="KnhpjA7Y" text="Koleman" />
+    <string id="kNt6v1Aa" text="Vlandia Gear Dummy" />
+    <string id="kPCcelVX" text="Trader " />
+    <string id="kppseK3N" text="Khuzait Tribal Warrior" />
+    <string id="KPrRxeC3" text="each with axe and shield" />
+    <string id="KqpiU4tH" text="with two-handed swords" />
+    <string id="KtqB640w" text="Empire Peasant" />
+    <string id="kueBlg9A" text="tournament_template_aserai_four_participant_set_v2" />
+    <string id="L0cGAnWw" text="Battanian Militia Spearman" />
+    <string id="L2q565AG" text="tournament_template_battania_two_participant_set_v1" />
+    <string id="l6NFOl8c" text="Khuzait Armed Trader" />
+    <string id="L8uOuwsM" text="tournament_template_sturgia_one_participant_set_v1" />
+    <string id="LbjxH9yp" text="Imperial Archer" />
+    <string id="lduchnvD" text="Karakhuzait Rider" />
+    <string id="LEJukldW" text="Imperial Armed Trader" />
+    <string id="LFUaO6rG" text="Khuzait Peasant" />
+    <string id="LKb8DXby" text="Battanian Caravan Master" />
+    <string id="lkrV8jZa" text="Khuzait Archer" />
+    <string id="LNfQk4MM" text="Min Armor (0)" />
+    <string id="LNNXiPyV" text="Gang Leader Bodyguard" />
+    <string id="Loc1XOIk" text="Khuzait Hunter" />
+    <string id="lumFaIud" text="Khuzait Lancer" />
+    <string id="LVEU4se3" text="Sturgian Militia Veteran Spearman" />
+    <string id="lxU4pWsS" text="Battanian Veteran Skirmisher" />
+    <string id="LXybWXde" text="Skolder Warrior Brotva" />
+    <string id="m0T0vXjT" text="tournament_template_battania_two_participant_set_v4" />
+    <string id="Mcbjdntz" text="Jawwal Camel Rider" />
+    <string id="MDIuyBHP" text="Khuzait Militia Spearman" />
+    <string id="mfFIyKIa" text="Brogomir" />
+    <string id="Mgr6qv1j" text="Mercenary Swordsman" />
+    <string id="mrBbsiPN" text="Young Wolf" />
+    <string id="muu5cofb" text="Townsman" />
+    <string id="MVHawAEp" text="Hidden Hand" />
+    <string id="MYwUFMsz" text="Imperial Elite Cataphract" />
+    <string id="mzyc3bms" text="Magistrate" />
+    <string id="n41jlEa3" text="Imperial Vigla Recruit" />
+    <string id="nDoENDqD" text="Aserai Caravan Master" />
+    <string id="nLGiBeUj" text="tournament_template_sturgia_four_participant_set_v2" />
+    <string id="noTLVPDD" text="Doctor" />
+    <string id="nPyqHxmf" text="Vlandian Sergeant" />
+    <string id="nsyTIbtp" text="Veteran Oath Keeper" />
+    <string id="o077j2j5" text="Teenager" />
+    <string id="o1jvmi9P" text="Khuzait Raider" />
+    <string id="OQPDvtpk" text="Vlandian Gallant" />
+    <string id="oseSwa56" text="Vlandian Knight" />
+    <string id="oXAbblBV" text="Main Hero" />
+    <string id="p4rN07tt" text="tournament_template_sturgia_two_participant_set_v1" />
+    <string id="P8EATvn8" text="Imperial Militia Archer" />
+    <string id="PCZ23wvW" text="Engineering" />
+    <string id="Pd9qAiOu" text="Aserai Militia Veteran Spearman" />
+    <string id="PG7b26H7" text="tournament_template_khuzait_four_participant_set_v1" />
+    <string id="PgOknaEN" text="Mercenary Crossbowman" />
+    <string id="PJNW1UWK" text="Shop Keeper" />
+    <string id="pOCOS8um" text="Child" />
+    <string id="pooybAKI" text="Vlandian Swordsman" />
+    <string id="pRbbJHkU" text="Imperial Bucellarii" />
+    <string id="PU2zIMu0" text="Puppeteer" />
+    <string id="pzKCIEaK" text="Vlandia Tribesman" />
+    <string id="pzmgMODE" text="Sturgian Caravan Guard" />
+    <string id="q1tbZIR9" text="Higher Average Armor (37)" />
+    <string id="q7b4pQc9" text="Seasoned Wolf" />
+    <string id="q7VeZazL" text="Battanian Skirmisher" />
+    <string id="Q7wFotYV" text="Battania Townswoman" />
+    <string id="Q96uooDt" text="tournament_template_battania_four_participant_set_v2" />
+    <string id="qAsnj7vU" text="Imperial Elite Menavliaton" />
+    <string id="qAvxmnav" text="Jawwal Bedouin" />
+    <string id="QbSjMefR" text="Vlandian Caravan Master" />
+    <string id="qBVNIhme" text="Expert Eleftheroi" />
+    <string id="QE4RyAlt" text="tournament_template_vlandia_two_participant_set_v1" />
+    <string id="qfaTMEBw" text="Battanian Caravan Guard" />
+    <string id="QfVe3IVw" text="Hired Crossbow" />
+    <string id="QGPAEtj7" text="Varyag Veteran" />
+    <string id="QhNpvW0Y" text="Khuzait Torguud" />
+    <string id="QlVeZvbv" text="Aserai Veteran Caravan Guard" />
+    <string id="qMqRkvWu" text="Sturgia Townswoman" />
+    <string id="qMYpZKWo" text="Principes" />
+    <string id="QNKfXvuA" text="Imperial Signifier" />
+    <string id="Qo2cc7bF" text="Skene" />
+    <string id="qu7ObbPa" text="tournament_template_aserai_four_participant_set_v3" />
+    <string id="QvSmhaAV" text="Chosen Wolf" />
+    <string id="R74i2pQz" text="Hired Blade" />
+    <string id="reoVAtrE" text="Merchant Notary" />
+    <string id="rIqwYlSK" text="Khuzait Nomad" />
+    <string id="riT39wKu" text="Sapling" />
+    <string id="Rj0bNOOh" text="Kern" />
+    <string id="RJNNsaSP" text="Sturgian Brigand" />
+    <string id="ro3qze3R" text="tournament_template_vlandia_one_participant_set_v2" />
+    <string id="rojq8QTp" text="Khuzait Weapon Dummy" />
+    <string id="rQ0t0Wws" text="Vlandian Caravan Guard" />
+    <string id="rtOJNB6u" text="Guardian Recruit" />
+    <string id="Ru3xeL6l" text="Minstrel" />
+    <string id="RYP9hzIy" text="Watchman" />
+    <string id="RzZyrBw7" text="tournament_template_khuzait_four_participant_set_v3" />
+    <string id="s0oKleXi" text="tournament_template_battania_one_participant_set_v2" />
+    <string id="s3IJIFUw" text="Imperial Recruit" />
+    <string id="S6BosJUq" text="Recruit Eleftheroi" />
+    <string id="S8ElYRrb" text="Aserai preset" />
+    <string id="S9z09NaN" text="Veteran Borrowed Troop" />
+    <string id="SAILNYbu" text="Vlandian Infantry" />
+    <string id="SaqVvzyV" text="Mercenary Cavalry" />
+    <string id="SDRIahK8" text="Crazy Man" />
+    <string id="sG8BWbhw" text="tournament_template_battania_two_participant_set_v2" />
+    <string id="Si5ZCb1O" text="Vlandian Pikeman" />
+    <string id="sMI3wMZu" text="disguise_equipment_set" />
+    <string id="SNziVpYb" text="tournament_template_khuzait_two_participant_set_v1" />
+    <string id="strAI" text="AI" />
+    <string id="SvAADOwm" text="Vlandian Levy Crossbowman" />
+    <string id="szrwmL2i" text="tournament_template_khuzait_two_participant_set_v3" />
+    <string id="t9eMjdgC" text="Empire Weapon Dummy" />
+    <string id="ta34CxLs" text="Redshank" />
+    <string id="TbBnWiao" text="Imperial Caravan Guard" />
+    <string id="tCCm9Pka" text="tournament_template_battania_two_participant_set_v5" />
+    <string id="tDYfuUuU" text="Aserai Mameluke Palace Guard" />
+    <string id="thbcgVVO" text="Trader" />
+    <string id="THOfB9DZ" text="Khuzait Caravan Guard" />
+    <string id="THyv3q9f" text="Imperial Sergeant Crossbowman" />
+    <string id="tke6VCV6" text="Aserai Infantry" />
+    <string id="tKKZubh8" text="tournament_template_empire_two_participant_set_v3" />
+    <string id="tL6aGah4" text="Aserai Militia Veteran Archer" />
+    <string id="Tm3CY9tC" text="Lower Average Armor (12)" />
+    <string id="TpECDErA" text="Imperial Caravan Master" />
+    <string id="tPMjk0SX" text="tournament_template_khuzait_one_participant_set_v2" />
+    <string id="tSc0mHy7" text="Battanian Picked Warrior" />
+    <string id="twCIejxn" text="Game Host" />
+    <string id="u0UNwnw2" text="Imperial Cataphract" />
+    <string id="u3K1SozQ" text="Arboreal" />
+    <string id="UaN2lfwi" text="Weaponsmith" />
+    <string id="uca778lM" text="Beni Zilal Recruit" />
+    <string id="uDseaKcb" text="Sturgian Caravan Master" />
+    <string id="UdTc1PGo" text="Imperial Crossbowman" />
+    <string id="ueasbGtd" text="Veteran Forester" />
+    <string id="ugAzd39p" text="tournament_template_vlandia_one_participant_set_v1" />
+    <string id="ugJfuabA" text="Horse Archer" />
+    <string id="uh4rIbZ9" text="Horseman" />
+    <string id="ULaNn3pp" text="Aserai Militia Spearman" />
+    <string id="uqpp0v8D" text="tournament_template_aserai_two_participant_set_v2" />
+    <string id="UrSjhs4x" text="Vlandian Voulgier" />
+    <string id="uViDMxLC" text="Skolder Recruit" />
+    <string id="UYPaQP2j" text="Khuzait Qanqli" />
+    <string id="uzwfybTH" text="Khuzait Footman" />
+    <string id="V1hoeBch" text="Master Thug" />
+    <string id="v5zz9lxR" text="Aserai Gear Dummy" />
+    <string id="V7iJlSuT" text="sword to sword" />
+    <string id="V8GrFH4B" text="Khuzait Townswoman" />
+    <string id="v8hRrmY2" text="Battanian Armed Trader" />
+    <string id="VbWtdAWn" text="Sturgian Hardened Brigand" />
+    <string id="VdmOugeu" text="tournament_template_vlandia_four_participant_set_v1" />
+    <string id="vGFdbjFC" text="Vlandian Militia Veteran Spearman" />
+    <string id="vkuJeNSa" text="Vlandian Militia Archer" />
+    <string id="VqrQ096u" text="Khuzait Kheshig" />
+    <string id="VtlvxEs7" text="Battanian Clan Warrior" />
+    <string id="vxlAJIiU" text="Jawwal Recruit" />
+    <string id="vYeUaQSp" text="tournament_template_aserai_four_participant_set_v4" />
+    <string id="vZlMfmng" text="Aserai Mameluke Axeman" />
+    <string id="W2WXkiAh" text="Ransom Broker" />
+    <string id="w6YwFaG7" text="Khuzait Spearman" />
+    <string id="WbH2HS8j" text="Empire Townswoman" />
+    <string id="WEHDGbEE" text="Khuzait Caravan Master" />
+    <string id="Whj89hlF" text="tournament_template_sturgia_four_participant_set_v1" />
+    <string id="WJbOQSiT" text="Aserai Mameluke Regular" />
+    <string id="wLuvDLeY" text="tournament_template_sturgia_one_participant_set_v2" />
+    <string id="WNU7kE5N" text="Veteran Guardian" />
+    <string id="wtmCSMrC" text="Aserai Footman" />
+    <string id="X12lazIs" text="Vlandian Armed Trader" />
+    <string id="X3KYysuv" text="Dancer" />
+    <string id="X4GvzDdW" text="Battanian Falxman" />
+    <string id="X6CQ9CMZ" text="Vlandian Sharpshooter" />
+    <string id="xaYwo9tM" text="Mercenary Scout" />
+    <string id="XgjXfmM1" text="Prison Guard" />
+    <string id="XI3qvYnG" text="tournament_template_vlandia_two_participant_set_v4" />
+    <string id="xIFHLI66" text="Karakhuzait Nomad" />
+    <string id="xiuAStPO" text="Sturgian Veteran Warrior" />
+    <string id="xJFWflj0" text="tournament_template_sturgia_four_participant_set_v3" />
+    <string id="xnzpQbwQ" text="Sturgian Horse Raider" />
+    <string id="XTM6Lthg" text="tournament_template_aserai_four_participant_set_v1" />
+    <string id="XzDObEiH" text="Vlandian Squire" />
+    <string id="YE4RGuzU" text="Vlandian Veteran Caravan Guard" />
+    <string id="yG42k5GC" text="Aserai Caravan Guard" />
+    <string id="YGexslSX" text="Skolder Veteran Brotva" />
+    <string id="yhBagy1Y" text="Aserai Archer" />
+    <string id="YIuBzk88" text="Regular Fighter" />
+    <string id="yMqWnBfT" text="Battanian Veteran Falxman" />
+    <string id="yPF32fbh" text="Vlandian Footman" />
+    <string id="yrGYZsQ7" text="Imperial Veteran Infantryman" />
+    <string id="YUCzyA8C" text="Aserai Mameluke Cavalry" />
+    <string id="z4Ke6pJl" text="Champion Fighter" />
+    <string id="z6RMWTaA" text="Tavern Maid" />
+    <string id="Za4B0blc" text="Veteran Fighter" />
+    <string id="ZEA2JReZ" text="tournament_template_khuzait_one_participant_set_v1" />
+    <string id="zEQTwpnv" text="Aserai Mameluke Soldier" />
+    <string id="zfCoeglY" text="Musician" />
+    <string id="ZhKoCVby" text="Imperial Militia Spearman" />
+    <string id="ZK0GXYCx" text="Sword Sister" />
+    <string id="ZKuabzhK" text="Khuzait Noble's Son" />
+    <string id="zkVWALaF" text="Battanian Trained Spearman" />
+    <string id="Zmajp2o1" text="Sturgian Militia Spearman" />
+    <string id="ZRkceJx3" text="Judge" />
+    <string id="ZSU7sMYX" text="Khuzait Darkhan" />
+  </strings>
+</base>
