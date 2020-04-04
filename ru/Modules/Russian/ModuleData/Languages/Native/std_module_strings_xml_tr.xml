@@ -753,7 +753,7 @@
     <string id="itvLr7dL" text="Забрать"/>
     <string id="iUTXqFmm" text=" and the nearby {?VILLAGE_COUNT}villages{?}village{\?}s of {VILLAGE_NAMES}"/>
     <string id="IuWu5Bu7" text="Щедрость"/>
-    <string id="IUxlDj4s" text="Все Перемешать"/>
+    <string id="IUxlDj4s" text="Все случайно"/>
     <string id="iVEZrZzs" text="Ездить в Авангард"/>
     <string id="IvrBQHRp" text="Оружие Ближнего Боя "/>
     <string id="IwpFM2CJ" text="Турнир будет скачек."/>
@@ -956,7 +956,7 @@
     <string id="MT4b8H9h" text="Неизвестно"/>
     <string id="mTTWkewD" text="Дать"/>
     <string id="MUCmJaXQ" text="Ruler of {FACTION}"/>
-    <string id="MW8rlyfL" text="Кинули"/>
+    <string id="MW8rlyfL" text="Метательное"/>
     <string id="mwegfVKr" text="Головного мозга"/>
     <string id="MWGATOoz" text="Турнир будет групповой рукопашный бой."/>
     <string id="MwgcfGsr" text="A pawn that lands on a tile with an opposing pawn already there, will capture that opposing pawn. The captured pawn will be stacked underneath the invading pawn.{newline}A stack of pawns can be also be re-captured as long as the top pawn belongs to the opponent.{newline}As soon as a pawn makes a capture, it will move back towards its home-tile in the next turn."/>
@@ -1001,7 +1001,7 @@
     <string id="NQbqtEqP" text="Cost: {COUNT}"/>
     <string id="NqSLYe6b" text="Известность:"/>
     <string id="NRpwZGxI" text="Солдат"/>
-    <string id="NSSsxBHV" text="Перемешать"/>
+    <string id="NSSsxBHV" text="Случайно"/>
     <string id="NvJru5Tz" text="Мужчина Только"/>
     <string id="nVKEUvaC" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}are{?}is{\?} using murder holes."/>
     <string id="nvswKHTZ" text="You paid {GOLD_AMOUNT}{GOLD_ICON}."/>
@@ -1036,7 +1036,7 @@
     <string id="OIBpCGYv" text="Эта партия будет уменьшаться в размерах. Его текущий размер целевой является {TARGET_SIZE}"/>
     <string id="OiCCv0EL" text="Деревня переживает трудные времена. Сельскохозяйственные инструменты ржавые и сломанные. Кустарник и сорняки занимают самые дальние поля."/>
     <string id="oiSW6MyB" text="Броня "/>
-    <string id="OJbpmlXu" text="Заколебались"/>
+    <string id="OJbpmlXu" text="Дальний бой"/>
     <string id="OJmC1Ckc" text="Remaining opponent: {REMAINING_OPPONENT_COUNT}"/>
     <string id="okH55fbn" text="Новые подкрепления прибывают на стороне союзника!"/>
     <string id="OKUTPdaa" text="Уровень"/>
@@ -1272,7 +1272,7 @@
     <string id="tDDG7gPa" text="Количество здоровых атакующий солдат"/>
     <string id="TDQId8c9" text="Вы построили барьер против вашего противника, и еще осталось пешек. Вы выиграете игру!"/>
     <string id="tDy1TfDq" text="Возвращение Героя"/>
-    <string id="tdYB3Tzc" text="Повтор"/>
+    <string id="tdYB3Tzc" text="Повторить"/>
     <string id="tE1VwKTZ" text="Метательный Топор"/>
     <string id="Te4xxzzK" text="Денаров"/>
     <string id="TeWnL9bh" text="my husband {REFERING_HERO.LINK}"/>
@@ -1308,7 +1308,7 @@
     <string id="U7Z7f7ZT" text="Супруга"/>
     <string id="U8TPlwW9" text="Well met {PLAYER.LINK}. I am in your debt for what you just did. I hope one day I will find a way to repay it."/>
     <string id="U8VHRdwF" text="Броня Ног: "/>
-    <string id="ua15BlYh" text="Сбросить Все"/>
+    <string id="ua15BlYh" text="Сбросить все"/>
     <string id="uAL3bCfN" text="Encumbrance{newline}Total equipped armor and weapon weight.{newline}High encumbrance will slow down your on foot movement speed"/>
     <string id="UaN2lfwi" text="Ювелир"/>
     <string id="Uaw5VF3D" text="Ваш противник хочет сдаться. Вы принимаете свой выигрыш? Если вы этого не сделаете, вы будете продолжать играть."/>
@@ -1364,7 +1364,7 @@
     <string id="V7ESaOJU" text="Выбрать ваш баннер"/>
     <string id="v7HPTy2y" text="С сильной армией в вашей воле, вы можете покорить вражеский замок или город. Это выглядит как хорошая мишень для осады."/>
     <string id="Vap6ahft" text="Men! {BEHAVIOUR_NAME_BEGIN}!"/>
-    <string id="VbeHEAsa" text="Отступаем"/>
+    <string id="VbeHEAsa" text="Сдаться"/>
     <string id="VbL6GFmy" text="Масло"/>
     <string id="Vc9Mx6Jb" text="Квест"/>
     <string id="vdEoBkpr" text="You must maintain food supplies at all times. If you run out of food, your party will lose morale. Your troops may desert you because of low morale.{newline}{newline}You can see your food reserve on the info bar. Hover over it to see how much food your party consumes each day. Since your party needs food, go to marketplace now to purchase some."/>
