@@ -1,0 +1,328 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="English" />
+  </tags>
+  <strings>
+    <string id="05j6iK6w" text="Your request for a meeting is relayed inside, and finally {s6} appears in the courtyard to speak with you." />
+    <string id="0BxE0BsX" text="50 yards." />
+    <string id="0cqntvyT" text="Your kingdom no longer holds any land." />
+    <string id="0TtOy5mm" text="You enter the Dhorak Keep" />
+    <string id="0Uf6nsNI" text="Enemy has retreated." />
+    <string id="1m7Udicr" text="Go back marketplace." />
+    <string id="1RGsShBj" text="You were born years ago, in a land far away. Your father was..." />
+    <string id="2C3Dhnbu" text="Assess prices" />
+    <string id="2fBqfnjT" text="There is a feast in progress in the lord's hall, but you are not of sufficient status to be invited inside. Perhaps increasing your renown would win you admittance -- or you might also try distinguishing yourself at a tournament while the feast is in progress..." />
+    <string id="2g2FhKb5" text="Farewell." />
+    <string id="2la0ukEn" text="70 yards." />
+    <string id="2Mu1d2ZQ" text="Head back." />
+    <string id="2YUUGQvG" text="Female" />
+    <string id="2YYRyrOO" text="Leave..." />
+    <string id="2znoZAZZ" text="Accept the decision." />
+    <string id="3h9FB2k5" text="{!}quick battle scene 2" />
+    <string id="3nbuRBJK" text="Forget it." />
+    <string id="3nT5wWzb" text="Surrender." />
+    <string id="3oh6WKbY" text="What range do you want to practice at?" />
+    <string id="3sRdGQou" text="Leave" />
+    <string id="3y6IdEsc" text="You have no prisoners to recruit from." />
+    <string id="3YNVPMzV" text="{!}Initialize economic stats." />
+    <string id="3yOCGoby" text="Show prices and productions." />
+    <string id="40fBLI2g" text="Resume traveling." />
+    <string id="49qjBLr4" text="Do you wish to continue looting this village?" />
+    <string id="4a1xSAMN" text="You are at day {reg0}. Your current luck is {reg1}. Are you sure you want to retire?" />
+    <string id="4QL21HiU" text="View list of known lords by relation." />
+    <string id="4QNycK7T" text="Go back" />
+    <string id="55UbdXeU" text="A page at a nobleman's court." />
+    <string id="5B6WPxeu" text="{CHAR_NAME}" />
+    <string id="5CdXHpbf" text="You enter the test scene." />
+    <string id="5GCPSUmR" text="Sparring practice." />
+    <string id="5LiYg4tG" text="Do you wish to embark?" />
+    <string id="5M4muwbC" text="The bandits are broken! Those few who remain run off with their tails between their legs, terrified of the peasants and their new champion. The villagers have little left in the way of wealth after their ordeal, but they offer you all they can find to show their gratitude." />
+    <string id="63BblDLk" text="Choose your opponent #{reg1}:" />
+    <string id="6Fe34wbr" text=" Request a meeting with the commander." />
+    <string id="6ZaCPvWP" text="Bring the herd to a stop." />
+    <string id="7A7CF9RB" text="Assess the local prices." />
+    <string id="7N0IliZB" text="{!}quick battle scene 4" />
+    <string id="7tmHbQ3N" text="Pull back, leaving some soldiers behind to cover your retreat." />
+    <string id="7VXbwTTw" text="Order the attack to begin." />
+    <string id="84ivZusS" text="You have failed to follow {s8}. The marshal assumes that you were otherwise engaged, but would have appreciated your support." />
+    <string id="8jXXrQU0" text="Enter." />
+    <string id="8k6AXNW8" text="You successfully escaped." />
+    <string id="8X4oJYqT" text="{!}Field 3" />
+    <string id="90Lr6obc" text="Choose an action:" />
+    <string id="98BDrwI2" text="Enter 6." />
+    <string id="9eRQJ6sa" text="{!}CHEAT! - increase honor" />
+    <string id="9gvnRugm" text="{s11}{s12}" />
+    <string id="9jnQy7OY" text="Charge the enemy." />
+    <string id="9Js83EQM" text="20 yards." />
+    <string id="9OaaK18j" text="Minor Faction Base" />
+    <string id="a4humJtw" text="Let {s15} learn that you are willing to serve as marshall." />
+    <string id="a67bJTfc" text="A university student." />
+    <string id="aajVEjSP" text="A travelling merchant." />
+    <string id="abgZKbqF" text="Your troops prepare to attack the enemy." />
+    <string id="AbNe5BCm" text="{!}quick battle scene 1" />
+    <string id="afFGi7fF" text="In a battle worthy of song, you and your men drive the bandits out of the village, making it safe once more. The villagers have little left in the way of wealth after their ordeal, but they offer you all they can find." />
+    <string id="AFJ3BvTH" text="You are quickly surrounded by guards who take away your weapons. With curses and insults, they throw you into the dungeon where you must while away the miserable days of your captivity." />
+    <string id="AGb8AlNE" text="{!}Force gather army." />
+    <string id="AhPUGsGD" text="Retire from adventuring." />
+    <string id="aJ6Uug2m" text="{!}Field 2" />
+    <string id="Aj9fzfHJ" text="Resume travelling." />
+    <string id="aLwhz53W" text="{!}Force rethink." />
+    <string id="AnQprbjP" text="What kind of weapon do you want to train with?" />
+    <string id="aojoJWYT" text="A troubadour." />
+    <string id="aOPmkVJo" text="{!}CHEAT! - disable alternative ai" />
+    <string id="AORQ2aCD" text="Bow." />
+    <string id="aTMyvtBl" text="How many animals do you want to slaughter?" />
+    <string id="aVNFN0u6" text="Welcome, adventurer, to Mount and Blade: Warband. Before beginning the game you must create your character. Remember that in the traditional medieval society depicted in the game, war and politics are usually dominated by male members of the nobility. That does not however mean that you should not choose to play a female character, or one who is not of noble birth. Male nobles may have a somewhat easier start, but women and commoners can attain all of the same goals -- and in fact may have a much more interesting if more challenging early game." />
+    <string id="aWDAHf77" text="The defenders sally out to meet your assault." />
+    <string id="AwWSyXbX" text="{BATTLE_CONDITION}^^Your casualties: {YOUR_CASUALTIES}^^Allies' casualties: {ALLIES_CASUALTIES}^^Enemy casualties: {ENEMY_CASUALTIES}" />
+    <string id="b0JJCYNC" text="Enter 2." />
+    <string id="B10lcpMz" text="As you get ready to continue the training, a sentry from the village runs up to you, shouting alarums. The bandits have been spotted on the horizon, riding hard for {s3}. The elder begs that you organize your newly-trained militia and face them." />
+    <string id="b88WoLBl" text="Suddenly all the world goes black around you. Many hours later you regain your conciousness and find yourself at the spot you fell. Your enemies must have taken you up for dead and left you there. However, it seems that none of your wound were lethal, and altough you feel awful, you find out that can still walk. You get up and try to look for any other survivors from your party." />
+    <string id="bBvWHdj8" text="Order your men to join the battle without you." />
+    <string id="bDTahEHG" text="{s13}" />
+    <string id="BfrQNKa8" text="{s4}^^Your casualties: {s8}^^Allies' casualties: {s9}^^Enemy casualties: {s10}" />
+    <string id="bgiowuXu" text="{!}Increase last offensive time by 24 hours." />
+    <string id="biib5HTx" text="Renew your contract with {FACTION_OWNER} for another month." />
+    <string id="bLNocKd1" text="Continue.." />
+    <string id="bMbAmTRM" text="Call your soldiers back." />
+    <string id="BNVi52PU" text="Take them." />
+    <string id="bOGVkOtG" text="A lady-in-waiting." />
+    <string id="bOzdqafw" text="Request that {TOWN_NAME} be awarded to your {?PLAYER.GENDER}husband{?}wife{\?}." />
+    <string id="bPzCuf2H" text="{!}Field 5" />
+    <string id="buKXELE3" text="Accept the offer." />
+    <string id="bZ8Ebzqh" text="Stub" />
+    <string id="bZmbrrvX" text="Renounce your oath and give up your holdings." />
+    <string id="c4z2OXgJ" text="The besiegers let you approach the gates without challenge." />
+    <string id="c5hBaWn2" text="{!}{s11}" />
+    <string id="Cd4weMNM" text="{s15} will soon select a new marshall for {s23}. Some of the lords have suggested your name as a likely candidate." />
+    <string id="cmSvwyeA" text="Recruit some of your prisoners to your party." />
+    <string id="CRPQKyZN" text="Order your troops to attack with your allies while you stay back." />
+    <string id="CRukOyi9" text="Reject. You have no interest in holding {TOWN_NAME}." />
+    <string id="CtXukTUO" text="In order to become a vassal, you must swear an oath of homage to {s3}. You shall have to find him and give him your oath in person. {s5}" />
+    <string id="czt21qqg" text="Throwing Knives." />
+    <string id="D7WhZ2IN" text="Enemy Sighted: Enemies have been sighted outside the walls of {s4}, and {s5} and others are preparing for a sortie. You may join them if you wish." />
+    <string id="D9WJXQ9Z" text="Reject" />
+    <string id="dB8iP1e4" text="{!}Go back." />
+    <string id="def7LZeh" text="{TOWN_NAME} has fallen to your troops, and you now have full control of the castle. It is time to send word to {KING.LINK} about your victory. {s5}" />
+    <string id="dejauJEv" text="Lust for money and power." />
+    <string id="DiaGRBai" text="Trade with the goods merchant." />
+    <string id="DM6luo3c" text="Continue" />
+    <string id="DOsjwiLG" text="View companion mission report." />
+    <string id="dTMSNlRl" text="How many opponents will you go against?" />
+    <string id="DvcmnLFs" text="{!}Force defend." />
+    <string id="dziMGFUB" text="The decision is made, and you resolve to give up your adventurer's life and settle down. You sell off your weapons and armour, gather up all your money, and ride off into the sunset...." />
+    <string id="E05uLqqx" text="30 yards." />
+    <string id="e0bDqIIN" text="Town Name: {s1}^Rent Income: {reg1} denars^Tariff Income: {reg2}{GOLD_ICON}^Food Stock: for {reg3} days" />
+    <string id="e2aJDBxU" text="{s0}" />
+    <string id="e8pv4Xub" text="You arrive at the Four Ways Inn." />
+    <string id="Ee3uXAox" text="{s1}." />
+    <string id="EjWE9YO5" text="Pass through the siege lines and enter {s1}." />
+    <string id="Ekkd0wZ5" text="Produce {4}." />
+    <string id="EMduOQ7S" text="Three." />
+    <string id="emlCtX0B" text="Become free of your bond." />
+    <string id="eO1bDbmw" text="Four." />
+    <string id="eOOrzq4Y" text="{s4}^^Your casualties:{s8}^^Enemy casualties were: {s9}" />
+    <string id="eVYtO8uU" text="Start." />
+    <string id="F3Bi3R6J" text="Fighting with courage and determination, the villagers manage to hold together and drive off your forces." />
+    <string id="Faf9KgRu" text="A steppe child." />
+    <string id="FDuNN0jy" text="A goods peddler." />
+    <string id="fF4OgEm3" text="Assessed prices:" />
+    <string id="fktjXAhN" text="You had a contract with {FACTION_OWNER} to serve him for a certain duration. Your contract has now expired. What will you do?" />
+    <string id="FM0PSaFP" text="Leave." />
+    <string id="FSkWAHxV" text="Slaughter some of the animals." />
+    <string id="ft5EI4KF" text="{!}This menu automatically returns to caller." />
+    <string id="Fw9c0oTK" text="Reject them." />
+    <string id="FzSYztM1" text="{!}Select a field..." />
+    <string id="g2LSSzth" text="Go Back" />
+    <string id="G8ybKBKr" text="{SETTLEMENT_TAKEN_TEXT}" />
+    <string id="gaWqFqes" text="Renounce your oath and rule your lands, including {s2}, in your own name." />
+    <string id="GfUvDcUl" text="View character report." />
+    <string id="GfW8kSay" text="Being forced out of your home." />
+    <string id="GgVTuoYz" text="{s10}" />
+    <string id="GM1tvFNX" text="You remain in disguise for as long as possible before revealing yourself. The guards are outraged and beat you savagely before throwing you back into the cell for God knows how long..." />
+    <string id="GmcgoiGy" text="Trade" />
+    <string id="gPbFPJPw" text="Join the battle." />
+    <string id="GT2FAj5O" text="Renouncing your oath is a grave act. Your lord may condemn you and confiscate your lands and holdings. However, if you return them of your own free will, he may let the betrayal go without a fight." />
+    <string id="gx901scU" text="Go to the blacksmith." />
+    <string id="gyGbu5ev" text="{!}CHEAT! - increase persuasion" />
+    <string id="h6blabDI" text=" " />
+    <string id="HbBdQLKZ" text="{s2} You have {reg10} troops fit for battle against their {reg11}." />
+    <string id="hdriPBxD" text="A veteran warrior." />
+    <string id="hIjkJtll" text="Rename your kingdom." />
+    <string id="hKdbHeZk" text="What kind of ranged weapon do you want to train with?" />
+    <string id="hm4FQCE1" text="Talk with leader." />
+    <string id="HOuwCM5Y" text="Productions are:^(Note: base/modified by raw materials/modified by materials plus prosperity)^{s1}^^Price factors are:^{s2}" />
+    <string id="hskGr3v2" text="Character Renown: {reg5}^Honor Rating: {reg6}^Party EffectiveMorale: {reg8}^Party Size Limit: {reg7}^" />
+    <string id="HyVkLlEB" text="{!}Select next faction." />
+    <string id="i1zayKeW" text="{s7}{s1}" />
+    <string id="i8vsf7Nn" text="(NO TRANS)" />
+    <string id="iC8Cme9U" text="40 yards." />
+    <string id="iHCqkBfB" text="{s1}" />
+    <string id="IhiFTkuW" text="{!}quick battle scene 5" />
+    <string id="iJamKTOR" text="Enter 4." />
+    <string id="ioGm79B9" text="{!}CHEAT! - enable alternative ai" />
+    <string id="IQnPqyZI" text="{INFEST_BANDITS_RESULT}" />
+    <string id="irZRiNKV" text="STUB: Kingdom Menu" />
+    <string id="iv56Qh0r" text="{!}Force rethink for all factions." />
+    <string id="IvlOdk6X" text="{ARMY_LEADER} sends word that he wishes you to join {?LEADER_GENDER}her{?}his{\?} new military campaign. You need to bring at least {TROOP_COUNT} troops to the army, and are instructed to raise more men with all due haste if you do not have enough." />
+    <string id="iW9iKbb8" text="Nothing." />
+    <string id="jDnXpaQv" text="The bandits fall before you as wheat to a scythe! Soon you stand alone in the streets while most of your attackers lie unconscious, dead or dying. Searching the bodies, you find a purse which must have belonged to a previous victim of these brutes. Or perhaps, it was given to them by someone who wanted to arrange a suitable ending to your life." />
+    <string id="jJlVUW83" text="Select your character's gender." />
+    <string id="JL7rnNjm" text="You shouldn't be reading this... {s9}" />
+    <string id="JMKefKRe" text="Trade with the armor merchant." />
+    <string id="JMNC9Esp" text="Order your troops to attack without you." />
+    <string id="jQQjOLWN" text="Your lord offers to extend your fiefs! {KING.LINK} sends word that he is willing to grant {TOWN_NAME} to you in payment for your loyal service, adding it to your holdings. What is your answer?" />
+    <string id="jSo7iacI" text="Do you wish to disembark?" />
+    <string id="karAn3ki" text="Five." />
+    <string id="kB65SzbF" text="Yes." />
+    <string id="KBeC23PZ" text="A game poacher." />
+    <string id="kN01nbE6" text="The battle is over. {1} Your side killed {5} enemies and lost {6} troops over the battle. You personally slew {7} men in the fighting." />
+    <string id="KN6vt93e" text="{!}{s9}" />
+    <string id="kp426Ppq" text="10 yards." />
+    <string id="Kt7zl3Za" text="{!}Go back" />
+    <string id="kwVELZN1" text="" />
+    <string id="kZWQCPHJ" text="{s4} {s5}" />
+    <string id="l0UzjjSV" text="You are helping the {ATTACKER} against the {DEFENDER}. You have {YOUR_TROOPS} troops fit for battle against the enemy's {ENEMY_TROOPS}." />
+    <string id="l2p9bsqx" text="{!}quick battle scene 3" />
+    <string id="l56bHLVL" text="A craftsman's apprentice." />
+    <string id="l7ZWvWhP" text="Enter 8." />
+    <string id="lAHqezLw" text="{s3}" />
+    <string id="LatgwvxY" text="Order your soldiers to continue the attack." />
+    <string id="lcqAlGUR" text="Enter 9." />
+    <string id="lFCzeMdW" text="You have been wronged! Renounce your oath to your liege!" />
+    <string id="LGHFBwQU" text="You drive off the guards and cover your trail before running off, easily losing your pursuers in the maze of streets." />
+    <string id="LgoEpa8R" text="Trade with the horse merchant." />
+    <string id="Ll2TTbMs" text="Produce {1}." />
+    <string id="luBKaxaM" text="Back to menu." />
+    <string id="M8tgkkVJ" text="Approach the siege camp." />
+    <string id="mC9ac4c2" text="Join the next assault." />
+    <string id="Mg1PotzO" text="After a brief wait, the guards open the gates for you and allow your party inside." />
+    <string id="mGn05CWb" text="Refuse, stating that they need these items more than you do." />
+    <string id="Mo9hvqPV" text="You offer your prisoners freedom if they agree to join you as soldiers. {s18}" />
+    <string id="MpENoTkf" text="{!}NPC status check." />
+    <string id="msa49tfv" text="{!}You shouldn't be reading this." />
+    <string id="muE7pa65" text="Bow and arrows." />
+    <string id="mUubYb7v" text="Call To Arms" />
+    <string id="mwqr6B7R" text="{!}CHEAT! - increase renown" />
+    <string id="mxlANkA6" text="Your enemies take you prisoner." />
+    <string id="MxmOWsHj" text="Encyclopedia" />
+    <string id="mY6uYlbU" text="{s5}" />
+    <string id="N0ya2sAX" text="Choose randomly." />
+    <string id="N2p0yzuk" text="Back to camp menu." />
+    <string id="N7jKTuUg" text="{!}Field 4" />
+    <string id="N7Jsdrhd" text="Recruit them ({reg6}{GOLD_ICON})." />
+    <string id="nbrkwb5W" text="You and your opponent prepare to duel." />
+    <string id="nHI8WYpc" text="View faction relations report." />
+    <string id="NHRSzpmO" text="You approach a training field where you can practice your martial skills. What kind of training do you want to do?" />
+    <string id="NIYiASfR" text="{!}Cheat: Go to range." />
+    <string id="O0WzRhno" text="Choose a book to read:" />
+    <string id="oa5CO6qy" text="Prepare for a fight!" />
+    <string id="oAb4NqO5" text="Male" />
+    <string id="obCZfO3a" text="Speak with the trainer." />
+    <string id="oHXQm7gM" text="Order your soldiers to join the next assault without you." />
+    <string id="OimilXIv" text="The town has been looted. A handful of souls scatter as you pass through the burnt out houses." />
+    <string id="oK3YPvAX" text="Good day, sir. Tell me which weapon you want me to produce." />
+    <string id="ov0IJT6g" text="Drive the cattle onward." />
+    <string id="P0IoWmEG" text="stub" />
+    <string id="p2f9TEVj" text="Go to the weapon production center." />
+    <string id="p5LMCu0I" text="Go back." />
+    <string id="PaW9ATX3" text="{s1} is launching an assault against the walls of {s2}. You have {reg10} troops fit for battle against the enemy's {reg11}. You decide to..." />
+    <string id="pBAx7jTM" text="With whom do you want to meet?" />
+    <string id="PdlqoIgy" text="Enter 5." />
+    <string id="PmmwUWI2" text="You enter the salt mine." />
+    <string id="ppPJfVBy" text="Two." />
+    <string id="pSSDfAjR" text="Disguised in the garments of a poor pilgrim, you fool the guards and make your way into the town." />
+    <string id="PuAKERn0" text="A squire." />
+    <string id="PVsnuDkH" text="Enter 3." />
+    <string id="pwbDUnJd" text="Become an adventurer and ride to your destiny." />
+    <string id="Q3jydb0f" text="{s7}{s2}" />
+    <string id="qBqkNNaN" text="I don't have enough money..." />
+    <string id="QLh3voMK" text="A smith." />
+    <string id="qOfQkZ4W" text="{s1} has come under siege by {s2}." />
+    <string id="QPNl8CNL" text="{s18}" />
+    <string id="QpQQJjD6" text="The lord of this castle has forbidden you from coming inside these walls, and the guard sergeant informs you that his men will fire if you attempt to come any closer." />
+    <string id="QtbAVqYC" text="{s5}." />
+    <string id="QXqV3CGV" text="{s11}^^Your Casualties:{s8}{s10}^^Enemy Casualties:{s9}" />
+    <string id="Qzm8onUR" text="Remain loyal and accept the decision." />
+    <string id="r13Pg2vJ" text="{!}Cheat: Faction orders." />
+    <string id="R1Av7RNk" text="{s10}^^ You started to learn about the world almost as soon as you could walk and talk. You spent your early life as..." />
+    <string id="R8rzU9sm" text="Cheat : Leave." />
+    <string id="racnwi0x" text="{!}You shouldn't be reading this..." />
+    <string id="RbRLOyMk" text="You enter the town of Zendar." />
+    <string id="RK6Hz91r" text="Whom do you wish to visit?" />
+    <string id="rNuPwSsg" text="View courtship relations." />
+    <string id="RrM7800A" text="As you try to sneak in, one of the guards recognizes you and raises the alarm! You must flee back through the gates before all the guards in the town come down on you!" />
+    <string id="rSAKB3aV" text="You spot your victim and follow him, observing as he turns a corner into a dark alley. This will surely be your best opportunity to attack him." />
+    <string id="rsqxbnq5" text="A steppe nomad." />
+    <string id="rugdDCI1" text="{s9}" />
+    <string id="rVLcqpea" text="Visit {s12}" />
+    <string id="rVN7KaZ2" text="{s1} remains under siege. The banners of {s2} fly above the camp of the besiegers, where you and your men are welcomed." />
+    <string id="s774Ggbt" text="Truce Has Expired^^The truce between {s1} and {s2} has expired." />
+    <string id="SAQoxLbI" text="You head towards the marketplace." />
+    <string id="sbOVsaOq" text="Enter 1." />
+    <string id="shbnd77b" text="A heavy blow from the fugitive sends you to the ground, and your vision spins and goes dark. Time passes. When you open your eyes again you find yourself battered and bloody, but luckily none of the wounds appear to be lethal." />
+    <string id="skEn0V8G" text="An impoverished noble." />
+    <string id="SqPrn3NT" text="{s8} sends word that you are to join the siege of {s9} in preparation for a full assault. Your troops are to take {s9} at all costs." />
+    <string id="sQZFrhS8" text="You overhear several discussions about the price of trade goods across the local area.^You listen closely, trying to work out the best deals around." />
+    <string id="sS08Ixwz" text="A shop assistant." />
+    <string id="Sv01qbaE" text="A street urchin." />
+    <string id="syxvXpZu" text="Attack the hideout..." />
+    <string id="SZrkPSic" text="You receive a message from your liege, {TOWN_NAME}.^^ {?KING.GENDER}She{?}He{\?} has decided to grant {TOWN_NAME} and {VILLAGES} to your husband, {HUSBAND.LINK}." />
+    <string id="t0PuYZhw" text="Cancel." />
+    <string id="TakHCuuH" text="You Receive a Peace Offer^^The {s1} offers you a peace agreement. What is your answer?" />
+    <string id="td8zXb00" text="You hear about Calradia, a land torn between rival kingdoms battling each other for supremacy, a haven for knights and mercenaries,  cutthroats and adventurers, all willing to risk their lives in pursuit of fortune, power, or glory... In this land which holds great dangers and even greater opportunities, you believe you may leave your past behind and start a new life. You feel that finally, you hold the key of your destiny in your hands, free to choose as you will, and that whatever course you take, great adventures will await you. Drawn by the stories you hear about Calradia and its kingdoms, you..." />
+    <string id="TifFb1vR" text="Polearm." />
+    <string id="tjjCSpDQ" text="Election for owner" />
+    <string id="U8bP1TJj" text="Select a book to read." />
+    <string id="Ue0iUofQ" text="{s4}^^Your casualties: {s8}^^Enemy casualties: {s9}" />
+    <string id="UPzJpsGB" text="continue" />
+    <string id="UX1R6rnO" text="A thief." />
+    <string id="V99ppYaZ" text="One." />
+    <string id="VBeb5kWb" text="{!}Cheat: Modify your banner." />
+    <string id="veWOovVv" text="Continue..." />
+    <string id="vHNiVtja" text="You receive a message from your liege, {TOWN_NAME}.^^ {?KING.GENDER}She{?}He{\?} has decided to grant {TOWN_NAME}{VILLAGES} to you, with all due incomes and titles, to hold in {?KING_GENDER}her{?}his{\?} name for as long as you maintain your oath of homage.." />
+    <string id="vrmiePbO" text="Produce {5}." />
+    <string id="Vtn7CDgR" text="Request that {TOWN_NAME} be awarded to you." />
+    <string id="Vty4JhAC" text="{!}Field 1" />
+    <string id="wbZviPzZ" text="You encounter a herd of cattle." />
+    <string id="WlqnaH0D" text="60 yards." />
+    <string id="wTm8nRms" text="Produce {2}." />
+    <string id="WVkc4UgX" text="Continue." />
+    <string id="X9dvQy1n" text="{s11}^^ Then, as a young adult, life changed as it always does. You became..." />
+    <string id="x9nQwFJp" text="Ranged weapon practice." />
+    <string id="Xbwxw6Ru" text="Ask no rewards." />
+    <string id="XGaT0URq" text="Trade with the arms merchant." />
+    <string id="XGr9eoH8" text="{!}CHEAT! - increase Right to Rule" />
+    <string id="xjyQh5TX" text="{s17}" />
+    <string id="XMCDvnp3" text="Personal revenge." />
+    <string id="xRci3NgO" text="{!}CHEAT! - increase your relation with {s14}" />
+    <string id="xWcAG3zs" text="Call them back." />
+    <string id="y6FHodim" text="{s12}^^But soon everything changed and you decided to strike out on your own as an adventurer. What made you take this decision was..." />
+    <string id="Y94H6XnK" text="Accept" />
+    <string id="YB24mdaI" text="View party morale report." />
+    <string id="YcXViPqF" text="Hello sir/lady. What do you want to do?" />
+    <string id="YKyiobOD" text="Wanderlust." />
+    <string id="YmNbQhxS" text="What do you want to do?" />
+    <string id="yp7buQea" text="View party size report." />
+    <string id="yTgyUI9V" text="One handed weapon." />
+    <string id="yUO2Vqq7" text="Select a char:" />
+    <string id="YVbfDp5x" text="A hunter." />
+    <string id="YXeTF9Va" text="You tell {reg4} of your troops to hold the enemy while you retreat with the rest of your party." />
+    <string id="yYrC4n2U" text="{s8} sends word that he wishes to speak with you about a task he needs performed. He requests you to come and see him as soon as possible." />
+    <string id="Z0z5XbKQ" text="The loss of a loved one." />
+    <string id="z1bYGz46" text="Take it as your just due." />
+    <string id="Z2sLYZkZ" text="Crossbow." />
+    <string id="Z40bFgOY" text="Enter 7." />
+    <string id="Za2z5swo" text="{!}Cheat: Go to track." />
+    <string id="zaupBMFt" text="Horseback practice." />
+    <string id="ZavkSerY" text="Thrown weapon." />
+    <string id="zaYwKcje" text="Produce {3}." />
+    <string id="zdhJi1xj" text="Upgrade blacksmith." />
+    <string id="zFEWSmjz" text="Tell everyone that you are too busy these days." />
+    <string id="zjHYjTwo" text="You receive a message from your monarch, {KING.LINK}.^^ 'I was most pleased to hear of your valiant efforts in the capture of {TOWN_NAME}. Your victory has gladdened all our hearts. You also requested me to give ownership of the castle to your husband, but that is a favour which I fear I cannot grant, as he already holds significant estates in my realm. Instead I have sent you {REWARD}{GOLD_ICON} to cover the expenses of your campaign, but {TOWN_NAME} I give to {TOWN_OWNER}.' " />
+    <string id="znDzVxVJ" text="No." />
+    <string id="ZPSM5DU8" text="{!}Force feast." />
+    <string id="Zuu1RcdD" text="You receive a message from your monarch, {KING.LINK}.^^ 'I was most pleased to hear of your valiant efforts in the capture of {TOWN_NAME}. Your victory has gladdened all our hearts. You also requested me to give you ownership of the castle, but that is a favour which I fear I cannot grant, as you already hold significant estates in my realm. Instead I have sent you {REWARD}{GOLD_ICON} to cover the expenses of your campaign, but {TOWN_NAME} I give to {TOWN_OWNER}.' " />
+  </strings>
+</base>
