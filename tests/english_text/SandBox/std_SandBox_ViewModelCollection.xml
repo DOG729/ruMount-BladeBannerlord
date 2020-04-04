@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="English" />
+  </tags>
+  <strings>
+    <string id="3CpNUnVl" text="Cancel" />
+    <string id="5zeL8sa9" text="You gained {A0} influence." />
+    <string id="6qYaQkDD" text="{COUNT} + {PRISONER_COUNT}p" />
+    <string id="7WdWK2Dt" text="Save Game" />
+    <string id="8OkPHu4f" text="No" />
+    <string id="9NuttOBC" text="Load" />
+    <string id="aeouhelq" text="Yes" />
+    <string id="Ahy035gM" text="Build Cost" />
+    <string id="azJulvrp" text="{?IS_BETTING}You are going to lose {BET_AMOUNT}{GOLD_ICON} if you forfeit.{newline}{?}{\?}Do you really want to forfeit?" />
+    <string id="bV75iwKa" text="Save" />
+    <string id="CiIWjF3f" text="+{PRISONERAMOUNT}p" />
+    <string id="eiWQoW9j" text="You gained {A0} renown." />
+    <string id="eL8nhkhQ" text="Create New Save Slot" />
+    <string id="eTw2aNV5" text="+" />
+    <string id="GAWxyVgq" text="Delete" />
+    <string id="GZWPHmAw" text="Day : {DAY}" />
+    <string id="HH2mZq8J" text="Are you sure you want to delete this save game?" />
+    <string id="hiCxFj4E" text="Saved Campaigns" />
+    <string id="hYL3CFHX" text="Do you want to overwrite this saved game?" />
+    <string id="IwhpeT8C" text="Level : {PLAYER_LEVEL}" />
+    <string id="IXwOaa98" text="Party Size" />
+    <string id="JAFIo7cM" text=":" />
+    <string id="kJtNMYum" text="Module mismatch" />
+    <string id="L9GnQvsq" text="Stake: {BETTED_DENARS}" />
+    <string id="LBNzsqyb" text="Fiefs" />
+    <string id="lh0so0uX" text="Do you want to load the saved game with different modules?" />
+    <string id="lPMYSSAa" text="Tools Required" />
+    <string id="mDFhzEMC" text="Max. Hit Points" />
+    <string id="nvemmBZz" text="You earned {AMOUNT}% of the loot and prisoners" />
+    <string id="O9nwLrYp" text="+{WOUNDEDAMOUNT}w" />
+    <string id="oBbiVeKE" text="Hit Points" />
+    <string id="oHaWR73d" text="Ok" />
+    <string id="Q1HIlJxe" text="Overwrite" />
+    <string id="QHV8aeEg" text="Delete Save" />
+    <string id="qIeDZoSx" text="Purchased" />
+    <string id="qSi4DlT4" text="Food" />
+    <string id="R2AaCaPJ" text="Expected Change" />
+    <string id="raD9MK3O" text="Difficulty" />
+    <string id="RVPidk5a" text="Influence" />
+    <string id="UwuYCgIU" text="Caution" />
+    <string id="V4iU0wRv" text="Gold" />
+    <string id="WAKz9xX8" text="You gained {A0} morale." />
+    <string id="WDlVhNuq" text="Name your save file" />
+    <string id="WiNRdfsm" text="Done" />
+    <string id="xu5NA6AW" text="You earned {A0}% of the loot." />
+    <string id="xzzSaN4b" text="Expected: {OVERALL_EXPECTED_DENARS}" />
+    <string id="yF5fpwNE" text="Total: {TOTAL}" />
+    <string id="YgyHVu8S" text="Sold" />
+    <string id="YXgNatqF" text="This save's version doesn't correspond to current game's version. Proceed with caution." />
+  </strings>
+</base>

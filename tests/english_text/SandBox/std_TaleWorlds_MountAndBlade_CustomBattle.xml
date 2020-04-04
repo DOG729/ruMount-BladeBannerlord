@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="English" />
+  </tags>
+  <strings>
+    <string id="35IHscBa" text="ENEMY" />
+    <string id="4gOGGbeQ" text="Custom Battle" />
+    <string id="BC7n6qxk" text="PLAYER" />
+    <string id="fXhblsky" text="MAP" />
+    <string id="MVOWsP48" text="Select a Melee Machine" />
+    <string id="mxbq3InD" text="{ARMY_SIZE} men" />
+    <string id="SLZzfNPr" text="Select a Ranged Machine" />
+  </strings>
+</base>
