@@ -146,7 +146,7 @@
     <string id="2P9G7Xkc" text="Одноглазая Описание"/>
     <string id="2P9mMbrq" text="Это не в моих интересах, чтобы перейти на другую сторону. (Корысть убеждения не удалось.)"/>
     <string id="2paRqO8u" text="Faster building production +{a0}%"/>
-    <string id="2pDXt7qA" text="Половина потребления продуктов питания и +5% ускоряется передвижение в горах."/>
+    <string id="2pDXt7qA" text="Потребление пищи уменьшается на половину и +5% к более быстрому передвижение по холмам."/>
     <string id="2PEKd3Sz" text="На самом деле, я передумал. Отменить заказ..."/>
     <string id="2pzjOTtj" text="Vlandian Восприятие Боя "/>
     <string id="2Qx4bL66" text="Правитель обладает монополией на определенные товары, хотя практически он может лицензии на производство купцам и собрать часть средств."/>
@@ -207,7 +207,7 @@
     <string id="3W67kdtc" text="Это решение было поддержано Советом."/>
     <string id="3wb2dCfz" text="It'll be right up then, {?PLAYER.GENDER}ma'am{?}sir{\?}.[rf:happy][rb:very_positive]"/>
     <string id="3WFgPigk" text="{ISSUE_GIVER.NAME} wants to sell you stolen goods. The price is low because of the added risk."/>
-    <string id="3wljKQl6" text="+2% скорость передвижения ночью."/>
+    <string id="3wljKQl6" text="+2% к скорости передвижения ночью."/>
     <string id="3wzCrzEq" text="{HERO.LINK} gained a level."/>
     <string id="3xuwVbfs" text="Дополнительное Здоровье I"/>
     <string id="3ZaNnkSX" text="Отката!"/>
@@ -309,7 +309,7 @@
     <string id="63rmmW2Y" text="Давайте посмотрим."/>
     <string id="651FEKXw" text="10% Меньше штраф для оружий ближнего боя верхом."/>
     <string id="65PA77cZ" text="(Рифма) &quot;дождь, Дождь уходи прочь&quot;"/>
-    <string id="67UGQ0Kd" text="Холмы Знания"/>
+    <string id="67UGQ0Kd" text="Знание холмов"/>
     <string id="68rmPu7Z" text="Ваше здоровье слишком низкое для борьбы."/>
     <string id="69cxRmEr" text="Увеличение урона одноручным оружием на 4%."/>
     <string id="6bQIRaIl" text="Смотреть турнир"/>
@@ -354,7 +354,7 @@
     <string id="6XRt8101" text="{ARMY} has been disbanded since the objective is finished"/>
     <string id="6XvszYj2" text="You brought {REQUESTED_AMOUNT} units of {REQUESTED_GOOD} to {?QUEST_GIVER.GENDER}her{?}him{\?} as promised."/>
     <string id="6y59FBgL" text="{ISSUEGIVER.LINK}, a merchant from {SETTLEMENT}, has told you about {?ISSUEGIVER.GENDER}her{?}his{\?} recent problems with bandits. {?ISSUEGIVER.GENDER}She{?}he{\?} asked you to guard {?ISSUEGIVER.GENDER}her{?}his{\?} caravan for a while and deal with any attackers.{newline}You agreed to lend {?ISSUEGIVER.GENDER}her{?}him{\?} {NEEDED_MEN_COUNT} men. They should be enough to turn away most of the bandits. Your troops should return after {RETURN_DAYS} days."/>
-    <string id="6yEeYNRu" text="Оглушающий Удар"/>
+    <string id="6yEeYNRu" text="Оглушающий удар"/>
     <string id="6ZCAQ1S9" text="Здорово. Я буду скоро."/>
     <string id="6ZTNuF30" text="Это правильный призыв. Спасибо, что прислушалась к голосу разума."/>
     <string id="71EyPbaE" text="Протуберанец"/>
@@ -562,7 +562,7 @@
     <string id="aG7KXlu0" text="Хирург Перки"/>
     <string id="agaSYd5t" text="Производство продуктов питания в городах и замках увеличивается на 2\лояльности nTown снижается на 0,2"/>
     <string id="aGecGUub" text="Max track difficulty that can be detected:  {a0}"/>
-    <string id="aglI1tbc" text="+5% к скорости передвижения на пастбища."/>
+    <string id="aglI1tbc" text="+5% бонуса к скорости передвижения на пастбищах."/>
     <string id="aHid0t6n" text="Дай ему шанс, я уверен, что он скоро проявит себя."/>
     <string id="ahpSGaow" text="You hear {NOTABLE.LINK} with whom you got separated after a battle has been sighted in this settlement"/>
     <string id="ai7NRnEK" text="{NAME} the Rat"/>
@@ -640,7 +640,7 @@
     <string id="B0eBWPoO" text=" You shared your food with starving soldiers of your army. You gained {INFLUENCE}{INFLUENCE_ICON}."/>
     <string id="B0uKPW9S" text="Vote for the next ruler of {KINGDOM_NAME}"/>
     <string id="B1meG5eO" text="Ваша мастерская производств увеличился на 25%"/>
-    <string id="b1PyDfuK" text="Увеличивает скорость передвижения партии на 1%."/>
+    <string id="b1PyDfuK" text="Увеличивает скорость передвижения отряда на 1%."/>
     <string id="b2ePtImV" text="Те, кто верны мне, я лоялен к ним."/>
     <string id="b2InhEeP" text="Мы выступаем против Изгоняющего клана"/>
     <string id="b36QZ1aZ" text="{LYRIC_SCRAP}"/>
@@ -707,7 +707,7 @@
     <string id="bItEf0WN" text="You need to be the {?PLAYER.GENDER}lady{?}lord{\?} of this settlement."/>
     <string id="bIWDtytH" text="the {ETHNIC_TERM}"/>
     <string id="bj49Bq15" text="Это не так легко найти то, что вы хотели. Будьте терпеливы, пожалуйста."/>
-    <string id="Bj6la71T" text="Запасные Стрелы"/>
+    <string id="Bj6la71T" text="Запасные стрелы"/>
     <string id="bJ6ygV3P" text="Как вы путешествуете вдоль побережья, вы увидите бухте, с тем, что появляется очертания лагеря."/>
     <string id="BJbbahYe" text="Let {HERO.NAME} Go"/>
     <string id="bjJs0eeB" text="Мой Господь, я отмечаю, что вы еще не жена."/>
@@ -889,7 +889,7 @@
     <string id="D3W9Qi0Z" text="Все лорды имеют официальной роли в Совете."/>
     <string id="d4QExzzV" text="Очень хорошо. Мы прошли через многое вместе. Я буду рядом с тобой, для добра или зла"/>
     <string id="d5DhwYY1" text="{FIRST_NAME} the Spider"/>
-    <string id="d5XKdp8T" text="Бонус к скорости с высоким боевым духом партии."/>
+    <string id="d5XKdp8T" text="Бонус к скорости при высоком боевом духе отряда."/>
     <string id="d5ztuP3P" text="Это слишком много."/>
     <string id="D6rPvikH" text="Костянные Болты"/>
     <string id="D6YLpUQa" text="Кантоны"/>
@@ -1023,13 +1023,13 @@
     <string id="ebiXdm5W" text="Сельское хозяйство"/>
     <string id="ebUwP3Q3" text="Не увлекаться."/>
     <string id="eC4laxrj" text="Я еще рекрутинга."/>
-    <string id="eceQYPPK" text="Железный Конь"/>
+    <string id="eceQYPPK" text="Железный конь"/>
     <string id="eCryPe6X" text="Правитель получает двойное влияние от\наемников отсутствия правителя клана увеличена на 10% меньше влияние от сражений"/>
     <string id="ecUwABe2" text="Пустыня"/>
     <string id="edzN3EQ3" text="ОБМАНУТЬ И ВЫИГРАТЬ"/>
     <string id="eEh752CZ" text="Конная Ферма "/>
     <string id="eEo6T1nF" text="{FIRST_NAME} of the Steps"/>
-    <string id="EeQv1qRD" text="Лора Пустыне "/>
+    <string id="EeQv1qRD" text="Знание пустынь"/>
     <string id="EerNV0aM" text="Создатель стали II"/>
     <string id="eEwI880g" text="Собрать Зерна"/>
     <string id="eeWx1yYd" text="Контрабандист"/>
@@ -1043,7 +1043,7 @@
     <string id="EJCrymMr" text="Хорошие Материалы"/>
     <string id="eJuvk4om" text="Wise decision.[ib:closed][rb:positive]"/>
     <string id="EkkNQb5N" text="Я как воин, который вселяет страх в сердца своих врагов. Ты что за человек?"/>
-    <string id="Ekqj9IFR" text="Пастбища Навигатор"/>
+    <string id="Ekqj9IFR" text="Пастбищный навигатор"/>
     <string id="elJCacQO" text="Я работаю над этим."/>
     <string id="eM1qFKNs" text="Снайпер"/>
     <string id="emH1yQAs" text="Средний бонус XP за день до эшелона войск 1-2-3."/>
@@ -1385,7 +1385,7 @@
     <string id="I4JZRzuH" text="Увеличить прирост отношения с одного пола на 20%"/>
     <string id="I5f6Xg3a" text="Вы, наверное, слышали о моих делах. Я обращаюсь к вам, как один воин с другим."/>
     <string id="I6gvDHdg" text="Обеспечение Присутствия"/>
-    <string id="i6KYqPfH" text="Размещение Лезвия II"/>
+    <string id="i6KYqPfH" text="Направление лезвия II"/>
     <string id="i8I0BKbS" text="{FIRST_NAME} of the Mound"/>
     <string id="I8raOMRH" text="К сожалению. Никакого прогресса пока нет."/>
     <string id="I8ZZagQU" text="Мастер Осад "/>
@@ -1413,7 +1413,7 @@
     <string id="iHFo2kjz" text="Армия браконьеров"/>
     <string id="ihfuqu2S" text="Я найду тех семенного материала для вас."/>
     <string id="IhHa4jVi" text="Давайте торговли. Я, возможно, потребуется некоторые из ваших продуктов."/>
-    <string id="IHXPw4L4" text="Следователь"/>
+    <string id="IHXPw4L4" text="Исследователь"/>
     <string id="iHYAEEfv" text="ВЫБОР НАСЛЕДНИКА"/>
     <string id="iiH5gKzE" text="Vote for {POLICY_NAME}"/>
     <string id="IIqbOWhk" text="Быстрые рубящие удары древкового оружия."/>
@@ -1513,15 +1513,15 @@
     <string id="JhJBBWab" text="Они скоро будут мертвы."/>
     <string id="JHR4ySCf" text="As {?IS_FEMALE}queen{?}king{\?} you must decide if the owner of {SETTLEMENT} should change."/>
     <string id="jhxVWCOS" text="{FIRST_NAME} of the Cavern"/>
-    <string id="jhZe9Mfo" text="Марш-Бросок"/>
+    <string id="jhZe9Mfo" text="Принудительный марш"/>
     <string id="ji2eenPE" text="Все правильно - мы сдаемся. Мы не можем сражаться с вами. Может быть, нас не заслуживают милосердия, но... показать, что милосердие, которое вы можете."/>
     <string id="jidYZW2s" text="Most of the goods are here, but I lost some of them along the way. I have {AVAILABLE_AMOUNT} with me."/>
     <string id="jIeo090u" text="У меня нет времени для подобных игр."/>
     <string id="jikaakdy" text="Заполнен до краев"/>
     <string id="JIWVeTMD" text="Your clan is now at war with the {QUEST_GIVER.LINK}'s faction. Your agreement with {QUEST_GIVER.LINK} was canceled."/>
-    <string id="JJm1ZmPx" text="Ночного Видения"/>
+    <string id="JJm1ZmPx" text="Ночное видение"/>
     <string id="jjTcNhKE" text="Удалось ли вам справиться с любой мародер сторон еще?"/>
-    <string id="jKkPGAXT" text="Мощное Натягивание"/>
+    <string id="jKkPGAXT" text="Мощное натягивание"/>
     <string id="jKWJpIES" text="{JOIN_ENCOUNTER_TEXT}. You decide to..."/>
     <string id="jkYNBr5p" text="Увеличить силу (СИЛ) на 1."/>
     <string id="JL204Kc0" text="Конечно... конечно. Мы передадим их.."/>
@@ -1570,7 +1570,7 @@
     <string id="k1Ba2w7A" text="Лучники обеспечивают 60% больше урона при моделировании в лесах."/>
     <string id="k1hyviBO" text="Скажи, что у тебя на уме?"/>
     <string id="K1J6Xqht" text="К сожалению, я должен сделать это."/>
-    <string id="K1nom5gJ" text="Серия Ударов"/>
+    <string id="K1nom5gJ" text="Серия ударов"/>
     <string id="K1wzZqdC" text="Посетил"/>
     <string id="k2qbQL2J" text="{ROMANCE_PERSUADE_ATTEMPT_2}"/>
     <string id="K4AMwxCZ" text="{FIRST_NAME} the Wart"/>
@@ -1687,11 +1687,11 @@
     <string id="LandDiUh" text="Приказ, залп!"/>
     <string id="lay7hKUK" text="I insist that my {?PLAYER.GENDER}wife{?}husband{\?} conduct {?PLAYER.GENDER}herself{?}himself{\?} according to the highest standards."/>
     <string id="Lb9yaPNJ" text="PersonaIronic Описание"/>
-    <string id="lbGarlra" text="Половина потребления продуктов питания и +5% ускоряется передвижение в лесах."/>
+    <string id="lbGarlra" text="Потребление пищи уменьшается на половину и +5% к более быстрому передвижению в лесах."/>
     <string id="lbrOAvKj" text="Spotting distance +{a0} %"/>
     <string id="Lbs2bNlg" text="The {KINGDOM} will start {POLICY_DESCRIPTION} ({POLICY}). {POLICY_SUPPORT}"/>
     <string id="LbTETjZu" text="I want you to crush them. Go to {VILLAGE} and kill them all."/>
-    <string id="LBxJky9p" text="Качественный Уход"/>
+    <string id="LBxJky9p" text="Качественный уход"/>
     <string id="LcppL68A" text="признавая права, которыми пользуются все свободные мужчины и женщины королевства"/>
     <string id="LD6ATanq" text="+2% к скорости передвижения в бою с древковым оружием"/>
     <string id="LDhU5urT" text="So that's how it is, is it? Right then - I'll make one of bleed before I go down.[if:idle_angry][rb:very_negative]"/>
@@ -1835,7 +1835,7 @@
     <string id="musbt5Hm" text="Извините за вмешательство сэра. Пожалуйста..."/>
     <string id="mvhyI8Hb" text="Вы уже сделали недавно враждебных действий в этой деревне."/>
     <string id="mVKcvY2U" text="Центр Города"/>
-    <string id="MvSXVguR" text="Улучшенное Прицеливание"/>
+    <string id="MvSXVguR" text="Улучшенное прицеливание"/>
     <string id="MvxW9rmf" text="Уголовное"/>
     <string id="Mw5bJ5Fb" text="Каждый день без соответствующего гарнизона-это день, который мы уязвимы. Не торопитесь, если вы можете."/>
     <string id="mWLA9sfT" text="Я не хочу нарушать закон. Вы можете принять товар"/>
@@ -1861,7 +1861,7 @@
     <string id="N70ovtjV" text="You will stay in {SETTLEMENT} for a while."/>
     <string id="N7hncI0e" text="Great {NAME}"/>
     <string id="N8aBOj2R" text="{SETTLEMENT} has been given to {LEADER.NAME} from {CLAN} with majority support."/>
-    <string id="n96TJTa7" text="Запугивание Лучников"/>
+    <string id="n96TJTa7" text="Запугивание лучников"/>
     <string id="n99VA8KP" text="Вы никогда не возьмете нас живыми![if:idle_angry][rb:very_negative]"/>
     <string id="N9r8azlb" text="{POACHERS_PERSUADE_ATTEMPT_2}"/>
     <string id="nA6ocIeI" text="10% больше налогов от деревни."/>
@@ -1990,7 +1990,7 @@
     <string id="OOeXnr40" text="Мастер Меча I"/>
     <string id="ooHbl6JU" text="Вот ваши мужчины."/>
     <string id="OoNULWKy" text="Как идет подготовка? Вы довольны своим учеником?"/>
-    <string id="OPfL2Szs" text="Быстрый Удар"/>
+    <string id="OPfL2Szs" text="Быстрый удар"/>
     <string id="Oq5TNfHF" text="Доктор Буш Перк"/>
     <string id="oqPf2Gdp" text="Нет никакого потенциального покупателя в городе."/>
     <string id="OqqUatT9" text="Я... я думаю, что это будет сложно. Возможно, мы не предназначены друг для друга."/>
@@ -2043,7 +2043,7 @@
     <string id="paj1NIZE" text="{NAME} the Ladykiller"/>
     <string id="PAwDV08b" text="Врачи Клятву"/>
     <string id="PaYjTYhR" text="{NAME} the Bandit"/>
-    <string id="PB5iowxh" text="Кочевые Традиции"/>
+    <string id="PB5iowxh" text="Кочевые традиции"/>
     <string id="pBAx7jTM" text="С кем ты хочешь встретиться?"/>
     <string id="PBGiIbEM" text="{ISSUE_GIVER.NAME} Needs Help with {BRIGAND_TYPE}"/>
     <string id="PBq1FyrJ" text="{CLAN_NAME} clan was destroyed."/>
@@ -2136,7 +2136,7 @@
     <string id="q2Ovtr1s" text="Последствия налоговых поселения."/>
     <string id="Q2sUkFxa" text="Снижение Заработной Платы"/>
     <string id="Q3swf82p" text="Сохранить Силы"/>
-    <string id="q3wD0rbq" text="{SETTLEMENT_LINK} is governed by {LORD.LINK}, {FACTION_OFFICIAL} of the {FACTION_TERM}. {KEEP_INFO}"/>
+    <string id="q3wD0rbq" text="{SETTLEMENT_LINK} принадлежит {LORD.LINK}, {FACTION_OFFICIAL} из {FACTION_TERM}. {KEEP_INFO}"/>
     <string id="q4gRWqRe" text="+0,5 пищи в лесах."/>
     <string id="q4wWEbsa" text="You decided not to deliver the items after listening to {COUNTER_OFFER_HERO.LINK}."/>
     <string id="q5jTibwy" text="Налетчик II"/>
@@ -2192,7 +2192,7 @@
     <string id="qNSOb7pJ" text="Еще раз повторюсь, это не то, что я доволен..."/>
     <string id="qnw1b0XR" text="Да будет так!"/>
     <string id="QO0EX2O3" text="Sure. I can order one of my companions and {TROOP_AMOUNT} men to escort your herds to pasture in {TARGET_SETTLEMENT}."/>
-    <string id="QOEiYUig" text="+1% К скорости передвижения отряда в течение дня."/>
+    <string id="QOEiYUig" text="+1% к скорости передвижения отряда в течение дня."/>
     <string id="qOhDHFyH" text="Are you another one of {QUEST_GIVER.NAME}'s lackeys? Did {?QUEST_GIVER.GENDER}she{?}he{\?} send you to hunt me like an animal? Well, I think you've found you've caught not a hare but a lion."/>
     <string id="QOiPDGbf" text="Я никогда не слышал о вашем клане. Я не уверен, если я могу рассчитывать на вас или нет."/>
     <string id="QojyhVIg" text="Я вижу. Вы можете взять их, потом."/>
@@ -2269,7 +2269,7 @@
     <string id="RGZWdKDx" text="Ах. Это заставляет меня так рад слышать это от тебя!"/>
     <string id="Rh0DlvvE" text="Я рад, что ты это понимаешь. Перейти на. Продолжить свое обучение."/>
     <string id="RH8mgLEk" text="{AGGRESSOR_KINGDOM} has declared war on {KINGDOM} with equal support on both sides."/>
-    <string id="rHcVKSbA" text="Железный Рудник"/>
+    <string id="rHcVKSbA" text="Железный рудник"/>
     <string id="RhkT5ylu" text="RogueSkills"/>
     <string id="rhKxsdtz" text=" {PARTY_NAME} wages"/>
     <string id="rhqAfYSc" text="SteppeScoutSkills"/>
@@ -2277,7 +2277,7 @@
     <string id="RIiVDdi0" text="Усилие Для Народа"/>
     <string id="riYecgOn" text="We have heard rumors that you have purchased goods from {QUEST_GIVER.NAME}. Well, our laws require that only merchants resident in the city can buy goods directly from the artisans."/>
     <string id="rJIY7OiR" text="You have to send {NEEDED_TROOP_COUNT} troops with at least tier 2 to this quest."/>
-    <string id="rjNunOyE" text="Мощный Удар"/>
+    <string id="rjNunOyE" text="Мощный удар"/>
     <string id="rJwExPKb" text="Do you have a need for fighters, {?PLAYER.GENDER}madam{?}sir{\?}? I am looking for a master. I'll join you for {GOLD_AMOUNT}{GOLD_ICON}"/>
     <string id="Rl1AHKSp" text="Королевскую Привилегию"/>
     <string id="RL8z99Dt" text="Знатные силы, чтобы дать вам новобранцев"/>
@@ -2294,7 +2294,7 @@
     <string id="rMydJO93" text="Ironskull {FIRST_NAME}"/>
     <string id="rNDRyFP4" text="You cleared the hideout and rescued the {QUEST_GIVER.LINK}'s associates. {?QUEST_GIVER.GENDER}She{?}He{\?} sends you the following letter. "/>
     <string id="RNT5hMVb" text="Товары С Рынка"/>
-    <string id="RnUOrIb8" text="Без Чести"/>
+    <string id="RnUOrIb8" text="Без чести"/>
     <string id="rO704KOG" text="Нет никого с авторитетом, поговорить с тобой."/>
     <string id="rOBRabQz" text="Хорошо. Я жду ваших хороших новостей."/>
     <string id="ROtMFUqe" text="Стрельба Из Лука Рекрутер"/>
@@ -2307,7 +2307,7 @@
     <string id="rrQx9jaV" text="Похоже, вы не заинтересованы."/>
     <string id="RrTAX7QE" text="You got the troublesome mercenaries killed off. You get no extra money for the contract, but you did get rid of them as you promised. {QUEST_GIVER.LINK} is grateful and sends {?QUEST_GIVER.GENDER}her{?}his{\?} regards."/>
     <string id="Rs8xhY46" text="оружие"/>
-    <string id="rSATpMpq" text="Стальной Щит"/>
+    <string id="rSATpMpq" text="Стальной щит"/>
     <string id="RScf2bnd" text="Thank you {?PLAYER.GENDER}milady{?}sir{\?}. My liege {?QUEST_GIVER.GENDER}lady{?}lord{\?} {QUEST_GIVER.NAME} send {?QUEST_GIVER.GENDER}her{?}him{\?} regards. Here is the reward {?QUEST_GIVER.GENDER}she{?}he{\?} has promised. I must take my leave now."/>
     <string id="RSQbOjub" text="Попросить о встрече с кем-то."/>
     <string id="RssJTUpL" text="Берсерк"/>
@@ -2426,7 +2426,7 @@
     <string id="ssbSTbt3" text="Ваша кавалерия наносит 50% больше урона для лучников в симуляции."/>
     <string id="SSdYsV4R" text="Кузнец Фехтовальщик"/>
     <string id="ssljPTUr" text="Интересные Люди"/>
-    <string id="Stk3PbV4" text="Размещение Лезвия I"/>
+    <string id="Stk3PbV4" text="Направление лезвия I"/>
     <string id="stmJi5s0" text="Это верно!"/>
     <string id="SvahUNo6" text="Пленных Выкуп "/>
     <string id="SVebFiHQ" text="So looks like {ENEMY_NAME} want war with us. Well, I say we show the bastards who we are!"/>
@@ -2476,7 +2476,7 @@
     <string id="TFy2VYtM" text="Бухгалтер Зернохранилище "/>
     <string id="tGFgar0U" text="Я не хочу въезжать в город. Просто проезжали мимо."/>
     <string id="tGI135jv" text="Ah - I don't know of any right now. That's a bit unusual though. Must be the wars.[ib:warrior][rb:unsure]"/>
-    <string id="TgOwisdD" text="Лесные Предания"/>
+    <string id="TgOwisdD" text="Знание лесов"/>
     <string id="TgQphdNk" text="Уверяю вас, мужчины знают, как убивать и умирать. Что вы думаете?"/>
     <string id="TGYJUUn0" text="Перейти на."/>
     <string id="THz06NQD" text="Пора помириться"/>
@@ -2534,7 +2534,7 @@
     <string id="u3eGQRn8" text="Мне не совсем удобно обсуждать это с тобой."/>
     <string id="U4azeSib" text="Совершите прогулку по землям"/>
     <string id="u5zNNZKa" text="Эффективное Угольщик"/>
-    <string id="u63WBQ5a" text="Более низкий штраф за проведение ударов на лошади"/>
+    <string id="u63WBQ5a" text="Более низкий штраф за проведение ударов по лошади"/>
     <string id="U7s1LycQ" text="Относится к скандинавской практика назначения независимых старейшин, чтобы напомнить совету о Закон и прецеденты. Это, как правило, в пользу тех, кто с образованием, чтобы сделать сложные правовые аргументы."/>
     <string id="U7sTASN4" text="{ISSUE_OWNER.LINK} is a Gang Leader from {QUEST_SETTLEMENT}, has told you that some bounty hunters captured some of {?ISSUE_OWNER.GENDER}her{?}his{\?} gang members and are holding them in their hideout. {?ISSUE_OWNER.GENDER}She{?}He{\?} wants them found and rescued. You agreed to send {TROOP_COUNT} of your men along with a {COMPANION.LINK} to find these bounty hunters and rescue {?ISSUE_OWNER.GENDER}her{?}his{\?} associates. They should be back in {RETURN_DAYS} days."/>
     <string id="U90asNb9" text="Artisans in {SETTLEMENT} cannot continue their work because of the overpriced raw materials."/>
@@ -2672,7 +2672,7 @@
     <string id="VN4ctHIU" text="Купить продукты"/>
     <string id="VnECJbmq" text="Этого не достаточно."/>
     <string id="VNFKqpyV" text="Да, я думал об этом."/>
-    <string id="vnG1q18y" text="Носитель Щитов"/>
+    <string id="vnG1q18y" text="Носитель щитов"/>
     <string id="VnglMYzZ" text="This companion's {SCOUT_SKILL} skill level is not enough for this quest."/>
     <string id="VNXgZ8mt" text="Alternatively, if you can assign a companion with {TROOP_COUNT} or so men to this task, they can do the job."/>
     <string id="vo3MqtMn" text="Вы находитесь на пороге смерти, охваченный лихорадкой, дрейфовал в и из сознания. В целителей не верю, что можно восстановить. Вы должны решить финал дела и определять наследника для своего клана, пока еще есть силы говорить."/>
@@ -2694,7 +2694,7 @@
     <string id="VQtFMWl4" text="Урон рубящими ударами увеличен на 3%."/>
     <string id="vry4r5tR" text="Я понимаю. Вы можете принять товар."/>
     <string id="vsoyhPnl" text="Частота"/>
-    <string id="VSQ1bVrC" text="Половина потребления продуктов питания и +5% ускоряется передвижение на болотах."/>
+    <string id="VSQ1bVrC" text="Потребление пищи уменьшается на половину и +5% к более быстрому передвижению на болотах."/>
     <string id="VSzwMDJ2" text="Вы будете преданы смерти"/>
     <string id="VT1hSCaw" text="Все правильно."/>
     <string id="VtSg9OYK" text="I've heard good things about you. They say that you are an accomplished warrior. Some also say an accomplished general. I have a proposal for you. There is a young lord from my clan. He is an aspiring warrior and I must say he quite admires you. He wants to learn from you. What do you say? Are you willing to take him under your wings for a while? Let's say {QUEST_DURATION} days?"/>
@@ -2843,7 +2843,7 @@
     <string id="xAWvm25T" text="Эффект лояльности поселения."/>
     <string id="XaZyU3Cn" text="The vote to declare war on {KINGDOM} has failed despite majority support against it."/>
     <string id="XB1HSxLX" text="Для решения королевства, Уровень 4 варианта+ клан иметь двойной эффект  Influence стоимость правителем переопределение популярные решения удваивается"/>
-    <string id="xb8nogrn" text="Сильный Удар"/>
+    <string id="xb8nogrn" text="Сильный удар"/>
     <string id="xBaL3RM4" text="Well, as you know we're not farmers or artisans. I need {NEEDED_AMOUNT} pieces of {NEEDED_TYPE}. Don't mind the quality, just buy the weapons and bring them to me, got it?"/>
     <string id="XbphYvnU" text="Очень хорошо. Я верю В делать вещи по старинке. Прежде чем наши мужчины отвечают, давайте вы и я бороться в честном единоборстве. Нарисуйте свой меч."/>
     <string id="XbQFAKUz" text="{PRISONER_LORD.LINK_AND_FACTION} has died while being held captive by the {CAPTURER_FACTION}."/>
@@ -2947,10 +2947,10 @@
     <string id="ydbVysqv" text="You are waiting in {CURRENT_SETTLEMENT}."/>
     <string id="yDomN9L2" text="Эффект Имущества "/>
     <string id="ydspCDIy" text="Низкая Мораль"/>
-    <string id="YEg9dTUC" text="Запугивание Пехоты"/>
+    <string id="YEg9dTUC" text="Запугивание пехоты"/>
     <string id="YequZz6U" text="'Oh the maidens of {RANDOM_TOWN} are merry and fair    Plotting their mischief with flowers in their hair    Were I still a young man I sure would be there    But now I'll take warmth over trouble'"/>
     <string id="yFahppU2" text="Держись за них"/>
-    <string id="YfQxIAuj" text="Удар Щитом II"/>
+    <string id="YfQxIAuj" text="Удар щитом II"/>
     <string id="yGaGlXgQ" text="Плеер Королевства"/>
     <string id="yghMrFdT" text="Отбросим мелкие политики и доверяйте своему сердцу!"/>
     <string id="YHSm72Ln" text="I'll find your recruits and bring them to {SETTLEMENT} garrison."/>
@@ -2980,7 +2980,7 @@
     <string id="YNxGcaJI" text="Я хочу поговорить с вами о диковинных цен вы просите за товар вы продаете ремесленников."/>
     <string id="YNXK352h" text="{CHARACTER.NAME} was a prominent {PROFESSION} from {HOMETOWN}. {FURTHER_DETAILS}"/>
     <string id="yNyQ3RFa" text="{HERO.NAME} has died in childbirth."/>
-    <string id="yo0I8D0r" text="Половина потребления продуктов питания и +5% ускоряется передвижение по пустыням."/>
+    <string id="yo0I8D0r" text="Потребление пищи уменьшается на половину и +5% к более быстрому передвижение в пустынях."/>
     <string id="YO0x7ZAo" text="Лояльность"/>
     <string id="YOBeOFxY" text="Город налоги заплатили, чтобы правитель снижены на 5%\лояльности nTown увеличивается на 1 в день"/>
     <string id="yOfrb9Lu" text="Не ждите слишком долго. Это очень опасные люди. Будьте осторожны."/>
@@ -3015,7 +3015,7 @@
     <string id="YVNZaVCA" text="Какие действия вы имеете в виду?"/>
     <string id="yw62BLhy" text="Поставленный Товар"/>
     <string id="yWD4Nwy2" text="Мы должны помогать нашим союзникам."/>
-    <string id="ywmjNJnH" text="Знания Болота "/>
+    <string id="ywmjNJnH" text="Знание болот"/>
     <string id="YWorGaI1" text="Эх... все у нас получится. Я не буду лгать. Это будет трудно. Я просто надеюсь, что вы можете доставить в ближайшее время."/>
     <string id="YwQfsQfU" text="предоставление земли ветеранам"/>
     <string id="YWu5Xfgz" text="Я не чувствую, что ты принимаешь всерьез мои жалобы."/>
@@ -3089,7 +3089,7 @@
     <string id="ZPv3uCOb" text="{FACTION_LEADER} proposes disavowing the policy of {POLICY_NAME}. You can pick your stance regarding this decision."/>
     <string id="ZQa7tXdK" text="Вы несколько меньше. Даже если я соглашусь с вами, было бы мудро подождать."/>
     <string id="zqapPfSK" text="Нет.. Нет."/>
-    <string id="Zr62k1r2" text="Быстрая Перезарядка"/>
+    <string id="Zr62k1r2" text="Быстрая перезарядка"/>
     <string id="zr80RMa6" text="This will cost you {AMOUNT}{GOLD_ICON}. Paid in advance, of course."/>
     <string id="ZrMeSyPu" text="{WEAPON} of {BESIEGER} hit some soldiers in {SETTLEMENT}!"/>
     <string id="zS68eOsl" text="{QUEST_GIVER.LINK} has lost {SETTLEMENT} and your agreement with {?QUEST_GIVER.GENDER}her{?}his{\?} canceled."/>
@@ -3116,7 +3116,7 @@
     <string id="ZwpWX8Zx" text="Vote for expelling {CLAN_NAME} from the kingdom"/>
     <string id="zWTNOfHm" text="Я хочу тебя и если ты хочешь меня, этого должно быть достаточно!"/>
     <string id="Zwy8JybD" text="Вы находитесь в подворотнях. В местной таверне, кажется, привлекает своей обычной толпы."/>
-    <string id="zxfxfKi1" text="+5% К скорости грабежа"/>
+    <string id="zxfxfKi1" text="+5% к скорости грабежа"/>
     <string id="zxMOqlhs" text="Атака"/>
     <string id="zxonBgY2" text="О, полагаю, я мог бы продать их республиках героя, в ряду своих галер, хотя даже в героя, они предпочитают в эти дни, свободные гребцы... но это редко доходит до этого. Вы удивитесь, какие сокровища крестьянского можете выкопать его коровник или выведать его двоюродных братьев!"/>
     <string id="ZYSGp5vO" text="King of {KINGDOM_NAME}"/>
