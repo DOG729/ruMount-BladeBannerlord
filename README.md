@@ -11,8 +11,17 @@ vk: https://vk.com/by.dog729
 # Огромная благодарность за помощь:
 * haman115
 * EdMyGod
+* ZhestkovAS
+* taranikys
 * energizerus
-* Pupkens
 * Scaroman
-* CasperShade
+* Cas
 * Isknikita
+* Scaro
+* angel - Isknikita
+* i1qwert
+* Emphatic44
+* ChaosClap
+* MyUselessness
+* freeExec
+* BROadu$
