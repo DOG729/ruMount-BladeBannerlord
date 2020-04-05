@@ -31,7 +31,7 @@
     <string id="0h5BrVdA" text="Ваши отношения со знатью в своих поселениях возросло в связи с высокой лояльностью"/>
     <string id="0HBTC7ZW" text="Широкий Шаг"/>
     <string id="0I6xdead" text="налогообложение землевладельцев на их собственность"/>
-    <string id="0i8RgslK" text="Or, maybe one of your trusted companions alongside {COMPANION_NEED_GOLD_AMOUNT}{GOLD_ICON} gold and with some {ALTERNATIVE_TROOP_AMOUNT} men can pull of the job."/>
+    <string id="0i8RgslK" text="Или, может быть, один из ваших доверенных компаньонов вместе с {COMPANION_NEED_GOLD_AMOUNT}{GOLD_ICON} и с несколькими {ALTERNATIVE_TROOP_AMOUNT} мужчинами может справиться с этой работой."/>
     <string id="0IJfs3Fx" text="{FIRST_NAME} Sourwine"/>
     <string id="0JxFiVPt" text="Персонаж может использовать более эффективный метод производства древесного угля, который производит 3 единицы древесного угля из 2 единиц древесины."/>
     <string id="0JZbmdhP" text="Вдохновляющие Злоумышленника"/>
@@ -268,7 +268,7 @@
     <string id="5bSWSaPl" text="Лакеев на лошадях"/>
     <string id="5cH6ssDI" text="компанию наемников "/>
     <string id="5CJOMH90" text="{ARMY} has been disbanded."/>
-    <string id="5CokRxmL" text="{QUEST_GIVER.LINK}, the headman of the {QUEST_SETTLEMENT} asked you to deliver {GRAIN_AMOUNT} units of grain to {?QUEST_GIVER.GENDER}her{?}him{\?} to use as seeds. Otherwise peasants cannot sow their fields and starve in the coming season.       You have agreed to bring them {GRAIN_AMOUNT} units of grain as soon as possible."/>
+    <string id="5CokRxmL" text="{QUEST_GIVER.LINK}, староста {QUEST_SETTLEMENT} попросил вас доставить {GRAIN_AMOUNT} единицы зерна в {?QUEST_GIVER.GENDER}her{?}him{\?} для использования в качестве семян. Иначе крестьяне не смогут засеять свои поля и голодать в наступающем сезоне. Вы согласились принести им {GRAIN_AMOUNT} единицы зерна как можно скорее."/>
     <string id="5E2bIcGb" text="Я не предам мой сеньор. (Убеждение лояльность не удалось.)"/>
     <string id="5ehlbXm6" text="Они не хотят делить пастбища. Но я провел свое серебро, и я держу титул. Мне нужен кто-то чтобы ездить вместе с моими пастухами и убрать любого, кто встанет на их пути."/>
     <string id="5fD5o6ra" text="Ваши караваны собирают торговля слухов также отметить цены товара по отношению к средней цене"/>
@@ -498,7 +498,7 @@
     <string id="a09WG8vK" text="Traitorous {NAME}"/>
     <string id="a0MVffcN" text="Из подворотни"/>
     <string id="A0UCmgaY" text="{NAME} Bluebeard"/>
-    <string id="a0UTO8tW" text="{ISSUE_OWNER.LINK}, the headman of the {ISSUE_SETTLEMENT} asked you to deliver {GRAIN_AMOUNT} units of grain to {?QUEST_GIVER.GENDER}her{?}him{\?} to use as seeds. Otherwise peasants cannot sow their fields and starve in the coming season. You have agreed to send you companion {COMPANION.NAME} along with 20 men to find some seeds and return to the village. Your men should return in {RETURN_DAYS} days."/>
+    <string id="a0UTO8tW" text="{ISSUE_OWNER.LINK}, староста {ISSUE_SETTLEMENT} попросил вас доставить {GRAIN_AMOUNT} единицы зерна в {?QUEST_GIVER.GENDER}her{?}him{\?} для использования в качестве семян. Иначе крестьяне не смогут засеять свои поля и голодать в наступающем сезоне. Вы согласились отправить своего спутника {COMPANION.NAME} вместе с 20 мужчинами найти семена и вернуться в деревню. Ваши люди должны вернуться через {RETURN_DAYS} дней."/>
     <string id="A1LHEGX4" text="Ледокол"/>
     <string id="a1n2zCaD" text="Я хочу узнать, что именно вы хотите от меня."/>
     <string id="a2AO5T1Q" text="{CLAN_NAME} has ended its mercenary contract with {KINGDOM_NAME}."/>
@@ -647,7 +647,7 @@
     <string id="b3iBOVXN" text="Проходя мимо Вади, вы видите то, что выглядит как закамуфлированный скважины до крана грунтовых вод, оставленные редкими осадками."/>
     <string id="b3PsxeiB" text="Оценщик"/>
     <string id="b3shPt8Q" text="Вы не можете ввести врага держать."/>
-    <string id="B3WyJjBx" text="{QUEST_GIVER.LINK}, a gang leader from {SETTLEMENT} has wanted you to buy some weapons for {?QUEST_GIVER.GENDER}her{?}his{\?} private business. {?QUEST_GIVER.GENDER}She{?}He{\?} asked you to buy {NEEDED_AMOUNT} pieces of {NEEDED_TYPE} and deliver them to {SETTLEMENT} where {QUEST_GIVER.LINK}'s will be waiting for you. {?QUEST_GIVER.GENDER}She{?}He{\?} promised to give you {REWARD_GOLD}{GOLD_ICON} for your troubles."/>
+    <string id="B3WyJjBx" text="{QUEST_GIVER.LINK}, главарь банды из {SETTLEMENT} хотел, чтобы вы купили какое-то оружие для {?QUEST_GIVER.GENDER}her{?}his{\?} приватный дельца. {?QUEST_GIVER.GENDER}She{?}He{\?} попросил вас купить {NEEDED_AMOUNT} штук {NEEDED_TYPE} и доставить их в {SETTLEMENT}, где {QUEST_GIVER.LINK}  будет ждать вас. {?QUEST_GIVER.GENDER}She{?}He{\?} обещал дать вам {REWARD_GOLD}{GOLD_ICON} за ваши хлопоты."/>
     <string id="b4TeiuoJ" text="Исключительные налоги часто применялись в военное время."/>
     <string id="B52IxT9p" text="Бартер линия - покрывается бартером интерфейс. Пожалуйста, не удаляйте эти строки!"/>
     <string id="b5DWVsOZ" text="{HERO.NAME} has died in battle."/>
@@ -1760,7 +1760,7 @@
     <string id="m1rzHfxI" text="{VILLAGE_ENCOUNTER_RESULT}"/>
     <string id="m24bXmOD" text="Вы хотите заработать легкие деньги? Мне нужны инструменты для моего частного бизнеса. Вы заинтересованы?"/>
     <string id="M26XhddN" text="Этот вопрос был решен. Ваши люди вернутся."/>
-    <string id="m2h6zMp7" text="{ISSUE_GIVER.LINK}, the headman from {SETTLEMENT}, has asked you to deliver some of the village's livestock to {SETTLEMENT_TARGET}. The villagers can't afford their own guards and also can't afford any losses. You sent one of your companions with {NEEDED_MEN_COUNT} of your men to protect the herd. They should return to you with good news in {RETURN_DAYS} days."/>
+    <string id="m2h6zMp7" text="{ISSUE_GIVER.LINK}, староста из {SETTLEMENT_TARGET} попросил вас доставить часть деревенского скота в {SETTLEMENT_TARGET}. Жители деревни не могут позволить себе иметь собственную охрану, а также не могут позволить себе никаких убытков. Вы послали одного из своих спутников с {NEEDED_MEN_COUNT} вашими людьми, чтобы защитить стадо. Они должны вернуться к вам с хорошими новостями через {RETURN_DAYS} дней."/>
     <string id="m3EkYCA6" text="Возможно, если вы видите, как сильно я люблю тебя, ты мог бы полюбить меня с течением времени."/>
     <string id="m41vdhSR" text="{TARGET_HERO.LINK} is no longer alive. It might not be your fault that you didn't get the herd to {?TARGET_HERO.GENDER}her{?}him{\?} in time, but many people will consider this breach of trust."/>
     <string id="M560TDza" text="{ISSUE_OWNER.LINK} is the lord of {QUEST_SETTLEMENT} told you that he needs more troops in {?ISSUE_OWNER.GENDER}her{?}his{\?} garrison. You asked your companion to deploy {NUMBER_OF_TROOP_TO_BE_RECRUITED} {TROOP_TYPE} troops to {QUEST_SETTLEMENT}'s garrison."/>
@@ -2004,7 +2004,7 @@
     <string id="osrVFKEy" text="Каждую ночь, они передают огромное количество товаров. Около полуночи на въезде в город и охотиться на них."/>
     <string id="oT4JNyFp" text="Я назначу одного из моих спутников, чтобы обучить ваших людей."/>
     <string id="oT8DUcHf" text="Landowner needs {TARGET_SETTLEMENT}'s pasture"/>
-    <string id="otwfa0K3" text="{QUEST_GIVER.LINK}, a gang leader from {SETTLEMENT} has wanted to deliver some weapons to {?QUEST_GIVER.GENDER}her{?}him{\?} contact form {SETTLEMENT}. You asked {COMPANION.LINK} to take some of your men and buy {NEEDED_AMOUNT} pieces of {NEEDED_TYPE} to deliver to {QUEST_GIVER.LINK} in {SETTLEMENT} They should rejoin your party in {RETURN_DAYS} days."/>
+    <string id="otwfa0K3" text="{QUEST_GIVER.LINK}, главарь банды из {SETTLEMENT} хотел доставить некое оружие для {?_GIVER.GENDER}her{?}him{\?} находящемуся в {SETTLEMENT}. Вы попросили {COMPANION.LINK} взять несколько ваших людей и купить {NEEDED_AMOUNT} штук {NEEDED_TYPE}, чтобы доставить их к {QUEST_GIVER.LINK} в {SETTLEMENT} они должны присоединиться к вашему отряду через {RETURN_DAYS} дней."/>
     <string id="otWlERkc" text="Поле для военных учений, которые увеличивают ежедневный прирост опыта все гарнизонные подразделения."/>
     <string id="ouehpRl8" text="The proposal to change the owner of {SETTLEMENT} has been accepted with equal support on all sides."/>
     <string id="oURRnvIl" text="20% более выгодные сделки с выкупом брокера."/>
@@ -2606,7 +2606,7 @@
     <string id="UW1roOES" text="You should discuss this issue with {REDIRECT_HERO_RELATIONSHIP}, who speaks for our family."/>
     <string id="uW7jNpaT" text="Скрытое Лезвие"/>
     <string id="UwEbBanm" text="Таковы законы нашего города. Ремесленники не жалуйтесь, когда законы требуют от нас, чтобы купить от них."/>
-    <string id="uwjjqEob" text="{QUEST_GIVER.LINK}, a gang leader from {QUEST_GIVER_SETTLEMENT}, has offered you to sell {STOLEN_GOOD_AMOUNT} units of stolen {STOLEN_GOOD} for half the normal price. {?QUESTGIVER.GENDER}She{?}He{\?} says once you go to another town, selling them won't be an issue. You agreed to buy."/>
+    <string id="uwjjqEob" text="{QUEST_GIVER.LINK}, главарь банды из {QUEST_GIVER_SETTLEMENT}, предложил вам продать {STOLEN_GOOD_AMOUNT} единицы украденного {STOLEN_ Good} за половину нормальной цены. {?QUESTGIVER.GENDER}She{?}He{\?} говорит, что как только вы поедете в другой город, продажа их не будет проблемой. Вы согласились купить его."/>
     <string id="UwPs3wmj" text="My liege {NEW_LIEGE.NAME} would welcome your support. Join us!"/>
     <string id="UWzQsHA2" text=" {SETTLEMENT_LINK} is governed by {LORD.LINK}, {FACTION_OFFICIAL} of the {FACTION_TERM}. {PROSPERITY_INFO} {MORALE_INFO}"/>
     <string id="UxAl9iyi" text="Личное"/>
@@ -2795,7 +2795,7 @@
     <string id="wsbkjJhz" text="Арена закрывается на ночь."/>
     <string id="wSbsHDhF" text="Каково состояние моего города?"/>
     <string id="wScKLt7F" text="Давайте посмотрим на вещи таким образом... она не выросла на меня вообще, так как в последний раз это случилось."/>
-    <string id="wsGDDXPN" text="{QUEST_GIVER.LINK}, the headman from {QUEST_GIVER_SETTLEMENT} has asked you to deliver {ANIMAL_COUNT_TO_DELIVER} head of {HERD_TYPE_TO_DELIVER} to {TARGET_HERO.LINK} in {TARGET_SETTLEMENT}. {?QUEST_GIVER.GENDER}She{?}He{\?} fears such a large herd will attract attention from the brigands on the way. You need to deliver at least half of the herd to {TARGET_HERO.LINK}."/>
+    <string id="wsGDDXPN" text="{QUEST_GIVER.LINK}, староста из {QUEST_GIVER_SETTLEMENT} попросил вас доставить {ANIMAL_COUNT_TO_DELIVER} головы {HERD_TYPE_TO_DELIVER} в {TARGET_HERO.LINK} в {TARGET_SETTLEMENT}. {?QUEST_GIVER.GENDER}She{?}He{\?} опасается, что такое большое стадо привлечет внимание разбойников по дороге. Вам нужно доставить по крайней мере половину стада в {TARGET_HERO.LINK}."/>
     <string id="WSLHfiwg" text="You have delivered the goods from {QUEST_GIVER.NAME}."/>
     <string id="WSU35a7F" text="Маршалы"/>
     <string id="wTBtu1t5" text="Открытая площадь в поселке, где люди могут встречаться, проводить время, и делиться своими идеями. Увеличивает влияние владельца поселения."/>
@@ -2844,7 +2844,7 @@
     <string id="XaZyU3Cn" text="The vote to declare war on {KINGDOM} has failed despite majority support against it."/>
     <string id="XB1HSxLX" text="Для решения королевства, Уровень 4 варианта+ клан иметь двойной эффект  Influence стоимость правителем переопределение популярные решения удваивается"/>
     <string id="xb8nogrn" text="Сильный удар"/>
-    <string id="xBaL3RM4" text="Well, as you know we're not farmers or artisans. I need {NEEDED_AMOUNT} pieces of {NEEDED_TYPE}. Don't mind the quality, just buy the weapons and bring them to me, got it?"/>
+    <string id="xBaL3RM4" text="Ну, как вы знаете, мы не фермеры и не ремесленники. Мне нужны {NEEDED_AMOUNT} штук {NEEDED_TYPE}. Не беспокойтесь о качестве, просто купите оружие и принесите его мне, ясно?"/>
     <string id="XbphYvnU" text="Очень хорошо. Я верю В делать вещи по старинке. Прежде чем наши мужчины отвечают, давайте вы и я бороться в честном единоборстве. Нарисуйте свой меч."/>
     <string id="XbQFAKUz" text="{PRISONER_LORD.LINK_AND_FACTION} has died while being held captive by the {CAPTURER_FACTION}."/>
     <string id="xbVCRbUu" text="You have hunted {CURRENT_COUNT}/{TOTAL_COUNT} party of {BRIGAND_TYPE}"/>
@@ -3068,7 +3068,7 @@
     <string id="ZJ2tJnJk" text="Лояльность поселения увеличивается на 0,5 в день\безопасность nSettlement снижается на 0,2 в день  Clans потерять 1 влияния за день"/>
     <string id="zJujFbXU" text="You decided that the villagers had more right to the disputed pasture than the landowner, {QUEST_GIVER.LINK}. {?QUEST_GIVER.GENDER}She{?}he{\?} probably feels betrayed."/>
     <string id="zk9QyKIz" text="Караван был уничтожен. Поиски не увенчались успехом."/>
-    <string id="zKHkS5Gf" text="Лидер банды должен оружия"/>
+    <string id="zKHkS5Gf" text="Лидеру банды нужно оружие"/>
     <string id="zKhvUmeH" text="{?TARGET_HERO.GENDER}She{?}He{\?} is {TARGET_HERO.NAME} from {TARGET_HERO.CLAN}. I want {?TARGET_HERO.GENDER}her{?}him{\?} brought to me, so I can settle this score once and for all. I have a {BASE_REWARD}{GOLD_ICON} that I am told is worth a king's ransom. I will give it away who brings {?TARGET_HERO.GENDER}her{?}him{\?} back alive to me within a year."/>
     <string id="zkJPFtYn" text="Quest Completed: {QUEST_TITLE}"/>
     <string id="zLdXCpne" text="Рынок"/>
