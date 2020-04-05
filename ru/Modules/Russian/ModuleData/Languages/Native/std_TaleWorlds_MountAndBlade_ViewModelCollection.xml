@@ -26,17 +26,17 @@
     <string id="74PKmRWJ" text="Перевернуть"/>
     <string id="7qySRF2T" text="Пинг"/>
     <string id="8nJFaJio" text="Пароль"/>
-    <string id="AaAcmalE" text="Вы были приглашены присоединиться в пати"/>
+    <string id="AaAcmalE" text="Вы были приглашены присоединиться в команду"/>
     <string id="aB4Md0if" text="Есть игроки"/>
     <string id="ahiBhAqU" text="Броня"/>
     <string id="aO3avkK9" text="Матчмейкинг отключен"/>
     <string id="ApD0xQXT" text="{STR1}: {STR2}"/>
     <string id="aRzlp5XH" text="Создать"/>
     <string id="aVixswW5" text="Выбор команды"/>
-    <string id="b31ITmm0" text="Размер стака"/>
+    <string id="b31ITmm0" text="Размер группы"/>
     <string id="b9PT1Yxc" text="Выберите тип игры "/>
     <string id="BAaS5Dkc" text="Применить"/>
-    <string id="bIcFZT6L" text="Тип бровей "/>
+    <string id="bIcFZT6L" text="Форма бровей "/>
     <string id="bON4Kn6B" text="Автоматическое Назначение"/>
     <string id="BrYUHFsg" text="ВЫБРАТЬ ИГРУ"/>
     <string id="bsiRNJtk" text="{NAME}:"/>
@@ -62,11 +62,11 @@
     <string id="FD7EQDmW" text="Поиск игры"/>
     <string id="ffjTMejn" text="Статистика"/>
     <string id="fM9E7frB" text="Графика"/>
-    <string id="FRSGOfUJ" text="Тумблер включить боевой журнал"/>
+    <string id="FRSGOfUJ" text="Включить боевой журнал"/>
     <string id="ftoSCQ0x" text="Длина"/>
     <string id="g1lgiwn1" text="Не вошли в"/>
     <string id="G6hYIR5k" text="Тембр Голоса:"/>
-    <string id="gcl2duJH" text="Сбросить свой значок"/>
+    <string id="gcl2duJH" text="Сбросить свой знак"/>
     <string id="GGseMDd3" text="Прочность"/>
     <string id="GMhOZGnb" text="Нельзя отдать приказ, пока вы мертвы"/>
     <string id="GmU1to3Y" text="Статистика"/>
@@ -107,7 +107,7 @@
     <string id="Met1U45t" text="Мышь и клавиатура"/>
     <string id="MsAb6hed" text="{TEAM} команда была уничтожена"/>
     <string id="NaZ6xg33" text="Не удалось найти подходящий сервер, чтобы присоединиться."/>
-    <string id="nFvVw68B" text="Пригласить в пати"/>
+    <string id="nFvVw68B" text="Пригласить в отряд"/>
     <string id="NJolh9ye" text="Последние игры"/>
     <string id="NLKmdNbt" text="Поиск"/>
     <string id="NqarFr4P" text="Настройки"/>
@@ -118,15 +118,15 @@
     <string id="OSoAVlqc" text="Экипировано"/>
     <string id="OVcoYxj1" text="Имя Сервера"/>
     <string id="OwqFpPwa" text="Фильтры"/>
-    <string id="P7moPm3F" text="Установить в качестве лидера пати"/>
+    <string id="P7moPm3F" text="Установить в качестве лидера группы"/>
     <string id="pguhTmXw" text="Результаты битвы"/>
     <string id="pSheKLB4" text="Зритель"/>
     <string id="Q50X65NB" text="Классы"/>
     <string id="qaycA9YY" text="Итого Благодарностей:"/>
-    <string id="QDNcl3DH" text="Приглашение в пати"/>
+    <string id="QDNcl3DH" text="Приглашение в отряд"/>
     <string id="qe46yXVJ" text="ЗАБЛОКИРОВАНА ДЛЯ БАЛАНСА"/>
     <string id="qFPBhVh4" text="Обновить"/>
-    <string id="QfTt7YRB" text="Скорострельность "/>
+    <string id="QfTt7YRB" text="Скорострельность"/>
     <string id="qXxpITdc" text="Цвет Глаз:"/>
     <string id="R28ac5ij" text="{NUMBER} игроков"/>
     <string id="r5WzivPb" text="Время Раунда"/>
@@ -134,15 +134,15 @@
     <string id="RCuCoVgd" text="РАУНД ВЫИГРАН"/>
     <string id="RfXJdNye" text="Игроки"/>
     <string id="rg7OuWS2" text="Манёвр"/>
-    <string id="RNgWFLIO" text="Swing урон"/>
+    <string id="RNgWFLIO" text="Режущий урон"/>
     <string id="Rzor6tbG" text="Скины"/>
     <string id="S2bKbhTc" text="АВТОМАТИЧЕСКИЙ ПОИСК ИГРЫ"/>
     <string id="s31DnnAf" text="Урон"/>
     <string id="saZ1OvPt" text="Вы можете нажать кнопку входа, чтобы установить соединение"/>
-    <string id="SKjI2a8V" text="Выйти из пати"/>
+    <string id="SKjI2a8V" text="Выйти из группы"/>
     <string id="SoQcsslF" text="НЫНЕШНЯЯ КОМАНДА"/>
     <string id="sPmQz21k" text="Враг"/>
-    <string id="SxxxusWS" text="Выберите игрока, чтобы кикнуть его"/>
+    <string id="SxxxusWS" text="Выберите игрока, чтобы удалить его"/>
     <string id="TAnabTdy" text="Точность"/>
     <string id="tFLLx4J4" text="Наиболее популярные классы"/>
     <string id="tjioq56N" text="Список Друзей"/>
@@ -174,7 +174,7 @@
     <string id="Y94H6XnK" text="Принять"/>
     <string id="yA45PqFc" text="НАЙТИ ИГРУ"/>
     <string id="YAaAlbkX" text="Длительность игры"/>
-    <string id="yJsE4Ayo" text="Swing скорость"/>
+    <string id="yJsE4Ayo" text="Скорость замаха"/>
     <string id="yjyJgRVt" text="{TEAM} команда потеряла моральный дух"/>
     <string id="YK3nXtoM" text="Друзья"/>
     <string id="yS7PvrTD" text="ОК"/>
