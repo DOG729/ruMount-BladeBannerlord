@@ -215,7 +215,7 @@
     <string id="8bSHlWBL" text="В настоящее время в городе не проводится турнир."/>
     <string id="8cY08v3s" text="Деревня со средним достатком. Люди и животные выглядят сытыми. Жители занимаются сезонными делами."/>
     <string id="8geYNpC9" text="Метательный {THRUST_DAMAGE_TYPE} Урон: "/>
-    <string id="8HMyTKF6" text="Vlandians"/>
+    <string id="8HMyTKF6" text="Вландия"/>
     <string id="8Jb61k7G" text="(+{GAIN_AMOUNT} сплоченности)"/>
     <string id="8kVhiTmu" text="Следующий Уровень:"/>
     <string id="8l8xEu64" text="Купить и Надеть"/>
@@ -585,7 +585,7 @@
     <string id="fMmlUHyz" text="Повреждения Качели: "/>
     <string id="fMSYE6Ii" text="По умолчанию"/>
     <string id="Fp68NbYO" text="Королевств"/>
-    <string id="fpdXZ0fl" text="Подбор"/>
+    <string id="fpdXZ0fl" text="Найм"/>
     <string id="FpI5JMZq" text="Сделки были сброшены"/>
     <string id="fpP2s7hX" text="+{BONUS_AMOUNT} bonus to village production"/>
     <string id="fQAGU9GW" text="Щедрость:"/>
@@ -668,7 +668,7 @@
     <string id="hbeUbpEA" text="Вы уверены, что хотите отменить?"/>
     <string id="HcAV8x7p" text="Член Партии "/>
     <string id="HCZ5XSEL" text="{?IS_POSITIVE}+{?}-{\?} {NUMBER}"/>
-    <string id="HD2wzAxz" text="Sturgians-потомки чужих племен Северной Кальрадии. Поскольку империя расширилась в своих холодных лесах, они обнаружили, что готовый рынок для роскошных мехов из лесных животных, которых они традиционно охотился и ставил капканы. Sturgian атаманы становились князьями, борющихся за превосходство с помощью Норд наемников, которые мигрировали в своих владениях. Они хорошие охотники и странники, путешествуя далеко в поисках возможности для торговли и грабежа."/>
+    <string id="HD2wzAxz" text="Стургиты являются потомками иностранных племен северной Кальрадии. По мере того, как империя расширялась в свои холодные леса, она обнаружила готовый рынок для роскошных мехов лесных животных, на которых они традиционно охотились и ловили. Стургийские вожди стали князьями, борясь за превосходство с помощью нордских наемников, которые мигрировали в их королевство. Они хорошие охотники и странники, путешествующие далеко в поисках возможностей как для торговли, так и для грабежа."/>
     <string id="hDktLs4a" text="Вы поступили мудро и с уважением. Вы можете пойти."/>
     <string id="HdTVkcII" text="Улучшайте отношения с людьми. Общайтесь с дворянами. Совершайте сделки."/>
     <string id="HEQ2zEei" text="Отменить"/>
@@ -678,7 +678,7 @@
     <string id="HiSzYWeh" text="Пиво"/>
     <string id="hJypvWMR" text="Улучшить"/>
     <string id="HkfY3Ds5" text="Бронежилет "/>
-    <string id="HkZ4E94O" text="Конфедерация Хузаит степных племен, жила кочевым образом жизни, но недавно обосновались в восточной границе Империи, и они медленно переходят в аграрном обществе с постоянными центрами городов. Несмотря на это, они все еще сохраняют многие аспекты их жизни, включая их сродство с лошадьми. Они мастера конной стрельбы из лука, стрельбы, а потом galluping вне досягаемости."/>
+    <string id="HkZ4E94O" text="Кузаитская конфедерация степных племен вела кочевой образ жизни, но недавно поселилась на восточной границе Империи и постепенно переходит в аграрное общество с постоянными городскими центрами. Несмотря на это, они все еще сохраняют многие аспекты своей кочевой жизни, в том числе свою близость с лошадьми. Они мастера стрельбы из лука, стреляют, а затем скачут за пределы досягаемости."/>
     <string id="hL3JIQbd" text="Привести это формирование в бой."/>
     <string id="HmbvM9Na" text="Вы хотите пропустить текущую матч?"/>
     <string id="HMgrtLYa" text="Ваш чемпион уже проиграл дуэль. Ваша армия разочарованы этим поражением. Ваша партия теряет боевой дух."/>
@@ -834,7 +834,7 @@
     <string id="kgqCVvIb" text="my brother {REFERING_HERO.LINK}"/>
     <string id="kHC5EjDJ" text="Город Бонус"/>
     <string id="kHC5EjEJ" text="Небольшой Бонус Фракции "/>
-    <string id="Khr5yETv" text="В Aserai жители пустыни Nahhas, смесь кочевых бедуинов и оседлых земледельцев оазисов. Они славятся своим искусством верховой езды и их знания изучение многих землях, особенно медицины, получила от лежания на некоторые из самых прибыльных континента торговых путей. Каждый клан гордятся своим происхождением и часто завидует другим, но когда объединены харизматического лидера, они становятся серьезной силой на юге."/>
+    <string id="Khr5yETv" text="Асераи - это жители пустыни Нахаса, смесь кочевых бедуинов и оседлых фермеров оазисов. Они славятся своим искусством верховой езды и изучениями многих земель, а так же исследованиями в области медицины, благодаря тому, что они располагаются на одних из самых прибыльных торговых путей континента. Каждый клан отчаянно гордится своим происхождением и часто завидует другим, но когда их объединяет харизматический лидер, они становятся главной силой на юге."/>
     <string id="kIAsKjp1" text="Welcome to Mount&amp;Blade II: Bannerlord Gamescom demo!{newline}This demo showcases the mid-game features of Bannerlord!{newline}You are free to resolve issues, conquer settlements, govern cities, join tournaments, trade or just hang around in the game world. {newline}Have fun and don't hesitate to ask if you have any questions."/>
     <string id="KiJd6Xik" text="Движение"/>
     <string id="kiOst6DH" text="Империя"/>
@@ -974,7 +974,7 @@
     <string id="N6QTvjMf" text="Заключенных"/>
     <string id="N7w6zi0F" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}are{?}is{\?} pulling back."/>
     <string id="N84HlDaV" text="{NUMBER_OF} {ITEM} ({AMOUNT}{GOLD_ICON})"/>
-    <string id="NaNMRPv4" text="Aserai"/>
+    <string id="NaNMRPv4" text="Асераи"/>
     <string id="NaorUInI" text="Understrength Сторон"/>
     <string id="nbBgbwM2" text="In Queue: {NUMBER}"/>
     <string id="NBv29XpJ" text="Вы не можете распустить армию, а ты в эту армию."/>
@@ -1380,7 +1380,7 @@
     <string id="ViYdZUbQ" text="Расформировать Армию"/>
     <string id="vJmBi58H" text="Маршалл"/>
     <string id="VJNJsdif" text="{COMPANION.LINK} joined your party."/>
-    <string id="vJOWy1QF" text="Khuzaits"/>
+    <string id="vJOWy1QF" text="Кузаит"/>
     <string id="vLU6nNwp" text="You bet {BET_AMOUNT} on {FIGHTER_NAME} and {?FIGHTER_GENDER}she{?}he{\?} won the fight. Here is your reward {REWARD_AMOUNT}{GOLD_ICON}."/>
     <string id="vmMqs3Ck" text="Благородный"/>
     <string id="vn7A8aXV" text="You are outside {SETTLEMENT_NAME}. Your banner flies over the castle gate."/>
@@ -1507,7 +1507,7 @@
     <string id="YbB2IpTR" text="Your relation is decreased by {MAGNITUDE} to {VALUE} with {HERO.NAME}."/>
     <string id="yBnwGiuB" text="Господа"/>
     <string id="Ybvu10zM" text="Осада"/>
-    <string id="yCEMiKjB" text="Choose your {SELECTION}"/>
+    <string id="yCEMiKjB" text="Выберите вашу {SELECTION}"/>
     <string id="YCYwPPlJ" text="Отключить Все Учебники"/>
     <string id="YDYnuBmC" text="Мультиплеер"/>
     <string id="yeEaBV29" text="We'll take it. You can live. Now go before I change my mind.[ib:closed][rb:positive]"/>
@@ -1588,7 +1588,7 @@
     <string id="znxbib0f" text="Показать статистику использования"/>
     <string id="zo5hQfll" text="The wolves win if they can remove 5 sheep from the board.{newline}{newline}The sheep win if they can block the wolves so they can't make any more moves."/>
     <string id="zpaLDTI4" text="Плати и тогда сможете пройти."/>
-    <string id="ZPaw3WuO" text="В Vlandians потомки авантюристов с запада, кто жил в Империи на протяжении столетий до формирования независимого королевства. С падением царской власти, они превратились в хорошо организованное феодальное общество вело литым воинственных дворян, которые предпочитают воевать с копьями и пиками на лошадях."/>
+    <string id="ZPaw3WuO" text="Вландийцы являются потомками авантюристов с запада, которые жили под властью Империи на протяжении столетий до формирования независимого королевства. С упадком имперской власти они превратились в хорошо организованное феодальное общество, возглавляемое группой воинственных дворянских семей, которые предпочитают сражаться пиками и копьями на лошадях."/>
     <string id="zqihwKAs" text="&lt;b&gt;Ballista&lt;/b&gt;{NEWLINE}Shoots bolts at deadly effect. Effective against soldiers."/>
     <string id="ZqWOb1jM" text="Вы находитесь за пределами города {SETTLEMENT_NAME}. Вы не можете войти, потому что вас разыскивает {FACTION_TERM}."/>
     <string id="ZR2bAa1p" text="Легкая Кавалерия"/>
