@@ -1,4 +1,4 @@
-<Languages DefaultLanguage="English">
+﻿<Languages DefaultLanguage="English">
   <!--Maps English fonts to Foreign fonts to use on language change-->
 
   <!-- English -->
@@ -36,11 +36,11 @@
   </Language>
 
   <!-- Russian -->
-  <Language id="Русский" DefaultFont="Galahad">
+  <Language id="Русский" DefaultFont="FiraSansExtraCondensed-Regular">
       <Map From="FiraSansExtraCondensed-Light" To="FiraSansExtraCondensed-Light"/>
       <Map From="FiraSansExtraCondensed-Medium" To="FiraSansExtraCondensed-Medium"/>
       <Map From="FiraSansExtraCondensed-Regular" To="FiraSansExtraCondensed-Regular"/>
-      <Map From="Galahad" To="Galahad"/>
+      <Map From="Galahad" To="FiraSansExtraCondensed-Regular"/>
       <Map From="Galahad_Numbers_Bold" To="Galahad_Numbers_Bold"/>
   </Language>
 
