@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿ml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
   <tags>
     <tag language="Русский"/>
@@ -1298,206 +1298,205 @@
     <string id="t3jJm2rZ" text="Please, {s65}, no reward is necessary."/>
     <string id="t5KjYL34" text="Да, моя жена?"/>
     <string id="t80qvSGO" text="В отличие от щита, блокируя с оружием может остановить только атак с одного направления. Например, если вы блокируете, вы сможете отвести от воздушных атак, но вы все еще можете быть поражены стороне качели или нападения тяги. ^^(Вы должны нажать и удерживать правую кнопку мыши на блок.)"/>
-    <string id="t9Dj1toe" text="Затем вы не можете идти."/>
-    <string id="T9ujQV9p" text="Всего лишь минуту. Мне нужно сделать кое-что еще."/>
-    <string id="tbiNfogm" text="Не так быстро. Во-первых, сдать все ваше имущество и деньги."/>
-    <string id="tbQAfygm" text="Сейчас нет. Я должна отдохнуть, прежде чем я смогу снова сражаться."/>
-    <string id="tcav6JrI" text="Возможно, я еще не готов."/>
-    <string id="tdvnKIyS" text="Никогда не ум"/>
-    <string id="tE3KvbeZ" text="Ха! Похоже, вы разработали небольшой хромотой. Не волнуйтесь, даже потери их стоимости, при условии, что вы узнаете от них. Встряхнуть звезды из глаз и вернуться туда. Нет другого способа победить."/>
-    <string id="TEUeP4XX" text="Расскажите подробнее об этих возможностях."/>
-    <string id="tfbgwuGZ" text="{s11}I would like it very much if we could see more of each other."/>
-    <string id="tfE0yK33" text="Как вы думаете, в общих чертах, о короли, лорды, и политика?"/>
-    <string id="TFk9pbNd" text="Затем, мы должны продолжать борьбу и сплотить наших сторонников!"/>
-    <string id="TGoW56Ol" text="So be it. Then my cause is lost. There is only one thing to do for me now. I will go from Calradia and never come back. With me gone, you may try to make your peace with {s4}."/>
-    <string id="tHzSRBbp" text="В weavery, чтобы сделать белье из льна"/>
-    <string id="TiLx9VFE" text="Good luck, {PLAYER.LINK}. Remember, the secret phrase is '{s11}' The counterphrase is '{s12}' Bring any reports back to me, and I'll compensate you for your trouble."/>
-    <string id="Tiy7Nsus" text="Действительно.... Ты предложил вассалитет, потом просто по времени? Очень хорошо-вы должны иметь время, чтобы пересмотреть, но если вы не играешь со мной, он будет делать вашу репутацию без кредита."/>
-    <string id="TjUQ2dqC" text="Моя леди, Я устал от ожидания для лордов этого королевства, чтобы собрать. Возможно, мы должны воспользоваться первой же возможностью, чтобы жениться, в любом большом зале, который открыт для нас."/>
-    <string id="tJvEPLTi" text="Сделать вашу подготовку. Мы уйдем на рассвете."/>
-    <string id="tlHjvQ68" text="Вы не будете жить долго, чтобы насладиться своей победой. Мои родичи скоро сотрут пятно это поражение."/>
-    <string id="TlkkxzXa" text="Хорошо! Теперь-жесткий удар, быстрый удар, а капитан и его приспешники не знали, что их поразило. Может небеса быть с вами!"/>
-    <string id="TMoMxErl" text="Деньги-это наиболее добро пожаловать, и я рад, что был полезен"/>
-    <string id="tNMJav8S" text="I am doing quite fine, {PLAYER.LINK}. Thank you for your concern."/>
-    <string id="tPKZHnhh" text="Well, there is a very great favor which you could do us... As you may have heard, some {s10}s have come across the border to attack our people. {s5} is under great pressure from some of the more bellicose of his vassals to respond with a declaration of war. Unfortunately, while the great lords of this land grow rich from bloodshed, we of the commons will be caught in the middle, and will suffer."/>
-    <string id="TPOukxWZ" text="Возможно, в другой раз."/>
-    <string id="TQgnA4Cg" text="Очень хорошо! Налет на караван, или, если вы не можете справиться с этим, нападение на одну из их деревень, следует сделать трюк. Сейчас, удачи и хорошей охоты. Перейти установить границы в огне!"/>
-    <string id="TqJwaqSX" text="Все правильно. Как вы пожелаете."/>
-    <string id="tqpMTtR0" text="От того, что я слышу, ты уже говорил с ней-без моего разрешения. Позвольте мне сказать вам это: я ей Господь и хранитель, и у меня есть планы на нее. Я не буду осмеян за моей спиной, как человек, который не может контролировать женщин своей семьи. Я бы попросил вас не обсуждать этот вопрос со мной."/>
-    <string id="TroKS3ob" text="Very good, sir. The land and the materials on which you may build your {s3} will cost you {reg7}{GOLD_ICON}. Right now, your {s3} will produce {s4} worth {reg1}{GOLD_ICON} each week, while the {s6} needed to manufacture that batch will be {reg2} and labor and upkeep will be {reg3}.{s9} I should guess that your profit would be {reg0}{GOLD_ICON} a week. This assumes of course that prices remain constant -- which, I can virtually guarantee you, they will not. Do you wish to proceed?"/>
-    <string id="trt6Q4h7" text="Конечно, моя леди. Возьмите все время вам нужно."/>
-    <string id="Ts3ktdZc" text="Я клянусь взять тебя в мужья."/>
-    <string id="TSFLErqs" text="Ах, вы так думаете? Но как долго продлится ваш драгоценный покой? Не долго, поверь мне."/>
-    <string id="TvHA0ZY0" text="Да. Дать им знак."/>
-    <string id="TVUGsBVZ" text="Давайте проведем инвентаризацию наших бытовых вещей"/>
-    <string id="TvZU0UqJ" text="Хорошо. Теперь уходи, пока я не передумал."/>
-    <string id="txFnGi5Q" text="As you wish. You shall be lord of {s4}."/>
-    <string id="txmdpJFI" text="Нет, на самом деле я не имел в виду. Вы вольны уйти."/>
-    <string id="TYdSFLop" text="Почему не моя семья заплатила выкуп? Вы можете держать меня в плен, но кажется, что ты заботишься обо мне больше, чем они!"/>
-    <string id="TzprG9yj" text="Не могли бы вы быть убеждены в том, чтобы урегулировать ваши разногласия?"/>
-    <string id="TZsA22lm" text="Well, {PLAYER.LINK}, I guess that at least some of those brigands eluded you -- and of course, it will be the peaceful travellers of this land who will pay the price. Still, it was good of you to try."/>
-    <string id="TzTljQxI" text="Да. Давай попробуем еще раз."/>
-    <string id="u1pgwiaY" text="I don't want to be involved in your quarrel with {s6}."/>
-    <string id="u54lCyOw" text="Нет, я не буду марать себя с этой непорядочной схема."/>
-    <string id="u6NIEBoE" text="Damn it, {PLAYER.LINK}. I heard that you were unable to drive off the bandits from my village of {s5}, and thanks to you, my village now lies in ruins. Everyone said that you were a capable warrior, but appearently, they were wrong."/>
-    <string id="u6QKGSkj" text="Почему бы тебе не пойти с нами?"/>
-    <string id="u91OT6ht" text="Ой, не обращай внимания."/>
-    <string id="UaDN087n" text="Спасибо. Дай мне денег."/>
-    <string id="UarDjzLb" text="Всего лишь минуту. Я еще не готов."/>
-    <string id="UB4I8GUk" text="Быстро, потом! Нет времени, чтобы проиграть."/>
-    <string id="ubr7lYXq" text="Good to see you again {PLAYER.LINK}. I have heard that you have delivered the cattle successfully. I will tell the merchants how reliable you are. And here is your pay, {reg8}{GOLD_ICON}."/>
-    <string id="uc8rEb7k" text="{PLAYER.LINK}? I do not believe I've heard of you before."/>
-    <string id="uCkJpIkJ" text="A group of bandits have taken refuge in my village of {s15}. They are plundering nearby farms, and getting rich and fat stealing my taxes and feasting on my cattle.I'd like nothing better than to go out there and teach them a lesson, but I have my hands full at the moment, so I can't do anything about it."/>
-    <string id="UcyFjLPA" text="Достаточно, сэр! Я не должна быть ворвались в браке, с вами или с кем-либо еще! Вы сделали меня очень крест. Пожалуйста, оставь меня в покое на некоторое время. Я дам вам знать, когда я готов разговаривать с тобой."/>
-    <string id="Ue9Yd7q2" text="Вы исходите из неверной, моя леди!"/>
-    <string id="uFdoYS8b" text="{s9} has always been a good liege to me, but I will hear you out. What do you suggest we do?"/>
-    <string id="UfnbyeUZ" text="Это все?"/>
-    <string id="ugKt4jBy" text="Нет необходимости для оплаты. Я делал только то, что был прав."/>
-    <string id="UhxbPIvL" text="Я оставил деньги в безопасном месте. Позволь мне пойти за ней."/>
-    <string id="uhXsNyNb" text="I wish to make myself lord of {s4}."/>
-    <string id="uhZ7cWhh" text="The cattle herd must be at {s13} within 30 days. Sooner is better, much better, but it must be absolutely no later than 30 days. If you can do that, I'd be willing to pay you {reg8}{GOLD_ICON} for your trouble. Interested?"/>
-    <string id="uIb3INit" text="Да? Что за абракадабра такая?"/>
-    <string id="UiKIzpqJ" text="Нет, не видел в последнее время каких-либо преступников."/>
-    <string id="UjRLH4jM" text="Очень хорошо, но есть много строф, чтобы пойти. Теперь, слушай внимательно..."/>
-    <string id="Uk56CfMs" text="Ну, человек в моем положении не слышать многих вещей. О ком ты думал?"/>
-    <string id="Ukch1RhG" text="Я надеюсь, вам понравилось. Теперь мы перейдем к чему-то немного более сложным. Бери Ланс, вы видите там и ездить вокруг курса попадание в цель хотя бы один раз."/>
-    <string id="UKljmuhM" text="Я уже сделал мой ум, чтобы поддержать вас."/>
-    <string id="UKvh2UY6" text="Very nice work, {PLAYER.LINK}, you made short work of those lawless curs. Thank you kindly for all your help, and please accept this bounty of 150{GOLD_ICON}."/>
-    <string id="ULmf76aW" text="Мы в вашем распоряжении."/>
-    <string id="UMhaJYaP" text="Так это ... давайте тогда часть"/>
-    <string id="umWWL9NC" text="Теперь ты догоняешь! Такой торговый порт не мог выжить без них. Корабли потерять несколько рук на каждый рейс, поэтому всегда есть высокий спрос. Капитаны подойдите ко мне и им хорошо платят."/>
-    <string id="Umx4tY2u" text="Ну, вы выглядите вполне в состоянии. Я думаю, что может что-то можно сделать."/>
-    <string id="uo7uU2g3" text="Я хотел бы заменить маршал."/>
-    <string id="uOjje9JY" text="Что я хотел бы выразить свою добрую волю, как одного монарха к другому."/>
-    <string id="upAbLB85" text="No, {PLAYER.LINK} -- I cannot afford to fritter away my good name, and neither can you."/>
-    <string id="uPcKSnpU" text="I hear that my {s11} has refused your request to marry me. Does that mean that we must part?"/>
-    <string id="UpEUTVo7" text="Ah, {PLAYER.LINK}. My quartermaster has informed me of your delivery, {reg13} heads of cattle, as I requested. I'm impressed."/>
-    <string id="UqNecZd8" text="Могу ли я иметь честь узнать больше о вас, моя леди?"/>
-    <string id="USzUYS5g" text="All right. {s2} will talk to you now."/>
-    <string id="uT6foXTW" text="На самом деле, не ввязываться в это."/>
-    <string id="ut77wtri" text="Давайте сделаем некоторые спарринг-практика."/>
-    <string id="uTjfk0f3" text="О ком вы хотите знать?"/>
-    <string id="UTOui4JJ" text="Это не мой путь, чтобы поджать хвост и бежать, даже не положив глаз на противника."/>
-    <string id="UU0W3kZc" text="Винный пресс, чтобы сделать вино из винограда"/>
-    <string id="uUescj5e" text="Я хочу закончить кампанию и пусть все вернуться домой."/>
-    <string id="UVQ6bo1w" text="Как вы пожелаете. Это была большая честь быть в вашем трудоустроить."/>
-    <string id="uwcFPm9n" text="Надеюсь, это не повторится."/>
-    <string id="UwjomgjW" text="Что слишком много платить."/>
-    <string id="UXE39rvM" text="Металлургический завод, изготавливать инструменты из железа"/>
-    <string id="UYDLz7eW" text="Кто будет гарантом? Вы должны выбрать одного, которому Вы доверяете, но который также является убедительным-тот, кто может договариваться, не давая в обиду."/>
-    <string id="V0S5E4RQ" text="Отцы отличаются, конечно. Некоторые Calradian дворяне позволит их дочери выбрать себе мужа, который их радует. Другие, однако, считают, что разрешить их дочери никакого выбора вообще бы уменьшить собственный авторитет, и настаивают на введении жених, нравится ей это или нет."/>
-    <string id="v2EF4FeQ" text="Хах! Я восхищаюсь быстрый язык. Возможно, когда-нибудь я удалить его, щипцами, любоваться им большего свободного времени, но сегодня, по крайней мере, я восхищаюсь вашим умом и мужеством."/>
-    <string id="v3LBusjY" text="I am thinking of breaking into the prison in {s24}, finding {s13}, and fighting my way out."/>
-    <string id="v3tLQUyl" text="Это будет зависеть от стихотворения. Вы собираетесь декламировать стих?"/>
-    <string id="v49Ybz11" text="Ты испытываешь мое терпение. Я сказал, что мне нечего сказать."/>
-    <string id="V4QFqGgD" text="Then a {s8} it will be."/>
-    <string id="v62bNUuv" text="Politics? Good heaven, the guild has nothing to do with politics. We are loyal servants of {s10}. We merely govern our own affairs, and pass on the townspeople's concerns to our lords and masters, and maybe warn them from time to time against evil advice. Anyway, what did you wish to ask?"/>
-    <string id="v7VayMaI" text="Очень хорошо, иди и умирай без меня."/>
-    <string id="v9gCs4F6" text="Пивоваренный завод, чтобы сделать пиво из зерна"/>
-    <string id="vAbmelxy" text="Забудь. Я найду другой способ, чтобы справиться с этим."/>
-    <string id="VavSusbm" text="Very well -- you have won. Let all those present today witness that you have defeated me, and I shall abandon my suit of {s10}. Are you satisfied, you heartless bastard?"/>
-    <string id="vB5hypy6" text="Как идут часы, солдат?"/>
-    <string id="VbDk7VtK" text="Это не стоит пролития крови."/>
-    <string id="VBHL3VPQ" text="Heh. For me, you are nothing more than walking money bags. A merchant in {s1} offered me good money for your heads."/>
-    <string id="vCIlftnJ" text="We would like you to track these {s4} down. The merchants of the town were able to get a description of their leader, and have put together a bounty. If you can hunt them down and destroy them, we'll make it worth your while..."/>
-    <string id="vesTX1Vx" text="Я ищу одного из моих товарищей..."/>
-    <string id="VfDaBqWc" text="Очень хорошо. Я буду выследить этих бандитов."/>
-    <string id="vFlRd41x" text="If I may offer you a world of advice, my {?PLAYER.GENDER}lady{?}lord{\?}, it seems that your right to rule as an independent monarch is not sufficiently recognized, and this may bring us problems further down the road. It may be advisable to find another kingdom with whom you have shared interests and seek its recognition, to establish yourself as an equal with Calradia's other kings."/>
-    <string id="VGDbSTqt" text="{s11}It is probably not suitable for us to tarry too long here in conversation, but I would hope to see you again soon."/>
+    <string id="t9Dj1toe" text="Тогда ты не сможешь войти." />
+    <string id="T9ujQV9p" text="Минутку. Сначала мне нужно сделать кое-что еще." />
+    <string id="tbiNfogm" text="Не так быстро. Во-первых, отдайте все свои товары и деньги." />
+    <string id="tbQAfygm" text="Не сейчас. Мне нужно будет отдохнуть прежде чем я снова смогу сражаться." />
+    <string id="tcav6JrI" text="Возможно, я еще не готов." />
+    <string id="tdvnKIyS" text="Не берите в голову" />
+    <string id="tE3KvbeZ" text="Ха! Похоже, у вас появилась небольшая хромота. Не волнуйтесь, даже потери имеют свою ценность, если вы учитесь на них. Встряхните звезды из ваших глаз и возвращайтесь. Иначе не победить." />
+    <string id="TEUeP4XX" text="Расскажите мне подробнее об этих возможностях." />
+    <string id="tfbgwuGZ" text="{s11} мне бы очень хотелось, чтобы мы виделись чаще." />
+    <string id="tfE0yK33" text="Что вы думаете в общих чертах о королях, лордах и политиках?" />
+    <string id="TFk9pbNd" text="Тогда мы должны продолжать борьбу и сплотить наших сторонников!" />
+    <string id="TGoW56Ol" text="Да будет так. Моя миссия провалена. Остаётся лишь один выход. Я уеду из Кальрадии и никогда больше сюда не вернусь. Теперь, когда меня не будет, ты можешь попытаться помириться с {s4}." />
+    <string id="tHzSRBbp" text="Ткацкая мастерская необходима, чтобы делать льняную ткань из льна" />
+    <string id="TiLx9VFE" text="Удачи, {PLAYER.LINK}. Помните, что секретная фраза - это ' {s11}', контрфраза - '{s12}' Принесите мне любые отчеты, и я компенсирую вам все ваши проблемы." />
+    <string id="Tiy7Nsus" text="Действительно.... Значит, вы предлагали вассалитет только для того, чтобы выиграть время? Очень хорошо - у тебя будет время подумать, но если ты играешь со мной, это не сделает тебе чести." />
+    <string id="TjUQ2dqC" text="Миледи, я устал ждать, когда соберутся лорды этого королевства. Возможно, нам следует воспользоваться первой же возможностью, чтобы пожениться, в любом большом зале, который открыт для нас." />
+    <string id="tJvEPLTi" text="Приготовьтесь. Мы двинемся в путь на рассвете." />
+    <string id="tlHjvQ68" text="Ты не проживешь достаточно, чтобы насладиться своей победой. Мои родичи скоро сотрут с меня клеймо этого поражения." />
+    <string id="TlkkxzXa" text="Хорошо! А теперь-бей сильно, бей быстро, и капитан с его приспешниками не поймут, что их ударило. Да пребудут с вами небеса!" />
+    <string id="TMoMxErl" text="Деньги очень приветствуются, и я рад, что был вам полезен. " />
+    <string id="tNMJav8S" text="У меня все прекрасно получается, {PLAYER.LINK}. Спасибо Вам за вашу заботу." />
+    <string id="tPKZHnhh" text="Вообще, вы можете оказать нам одно очень большое одолжение... Как вы, возможно, слышали, некоторые {s10}ы пересекли границу, чтобы напасть на наш народ. {s5} находится под большим влиянием со стороны некоторых наиболее воинственных из его вассалов, и скорее всего ответит объявлением войны. К несчастью, в то время как великие лорды этой страны богатеют от кровопролития, мы, простые люди, будем пойманы в ловушку и будем страдать." />
+    <string id="TPOukxWZ" text="Тогда, может быть, в другой раз." />
+    <string id="TQgnA4Cg" text="Очень хорошо! Ограбь караван или, если не можешь справиться с ним, нападени на одну из их деревень, это должно сработать. А теперь желаю удачи и доброй охоты. Иди и заставь пограничье полыхать!" />
+    <string id="TqJwaqSX" text="Всё в порядке. Как пожелаете." />
+    <string id="tqpMTtR0" text="Судя по тому, что я слышал, вы уже говорили с ней без моего разрешения. Позвольте мне сказать вам вот что: я ее господин и опекун, и у меня есть на нее свои планы. Я не позволю вам за моей спиной потешаться надо мной, как над человеком, который не может контролировать женщин в своем доме. Я бы попросил вас больше не обсуждать со мной этот вопрос." />
+    <string id="TroKS3ob" text="Очень хорошо, сэр. Земля и материалы, на которых вы можете построить свой {s3}, будут стоить вам {reg7}{GOLD_ICON}. Прямо сейчас ваш {s3} будет производить {s4} стоимостью {reg1}{GOLD_ICON} каждую неделю, в то время как {s6}, необходимый для производства этой партии, будет {reg2}, а труд и содержание - {reg3}.{s9} я бы предположил, что ваша прибыль будет составлять {reg0}{GOLD_ICON} в неделю. Подразумевается, конечно, что цены остаются неизменными-а я могу практически гарантировать вам, что они не будут постоянны. Хотите продолжить?" />
+    <string id="trt6Q4h7" text="Конечно, Миледи. Столько времени сколько пожелаете." />
+    <string id="Ts3ktdZc" text="Я клянусь взять тебя в мужья." />
+    <string id="TSFLErqs" text="Вы так думаете? Но как долго продлится ваш драгоценный покой? Совсем недолго, поверьте мне." />
+    <string id="TvHA0ZY0" text="Да. Дай им знак." />
+    <string id="TVUGsBVZ" text="Давайте проведем инвентаризацию нашего домашнего имущества" />
+    <string id="TvZU0UqJ" text="Хорошо. А теперь иди, пока я не передумал." />
+    <string id="txFnGi5Q" text="Как пожелаете. Вы будете повелителем {s4}." />
+    <string id="txmdpJFI" text="Нет, на самом деле я не это имел в виду. Вы можете идти." />
+    <string id="TYdSFLop" text="Почему моя семья не заплатила за меня выкуп? Вы можете держать меня в плену, но мне кажется, что вы заботитесь обо мне больше, чем они!" />
+    <string id="TzprG9yj" text="Вы убеждены в том, что урегулироали ваши разногласия?" />
+    <string id="TZsA22lm" text="Чтож, {PLAYER.LINK}, я полагаю, что по меньшей мере несколько разбойников ускользнули от вас и, конечно же, мирные путешественники этой земли, заплатят за это кровью. Тем не менее,попробовать стоило." />
+    <string id="TzTljQxI" text="Да. Давай попробуем еще раз." />
+    <string id="u1pgwiaY" text="Я не хочу быть вовлеченным в вашу ссору с {s6}." />
+    <string id="u54lCyOw" text="Нет, я не запятнаю своё светлое имя этим бесчестным умыслом." />
+    <string id="u6NIEBoE" text="Черт возьми, {PLAYER.LINK}. Я слышал, что вы не смогли изгнать бандитов из моей деревни {s5}, и благодаря вам она теперь лежит в руинах. Все говорили, что ты способный воин, но, похоже, они ошибались." />
+    <string id="u6QKGSkj" text="Почему бы тебе не пойти с нами?" />
+    <string id="u91OT6ht" text="О, ничего страшного." />
+    <string id="UaDN087n" text="Спасибо. Дайте мне эти деньги." />
+    <string id="UarDjzLb" text="Минутку. Я еще не готов." />
+    <string id="UB4I8GUk" text="Быстрее! Нельзя терять ни минуты." />
+    <string id="ubr7lYXq" text="Рад снова тебя видеть {PLAYER.LINK}. Я слышал, что вы успешно доставили скот. Я дам знать купцам, насколько вы надежны. А вот и ваша плата, {reg8}{GOLD_ICON}." />
+    <string id="uc8rEb7k" text="{PLAYER.LINK}? Я не думаю, что слышал о вас раньше." />
+    <string id="uCkJpIkJ" text="Группа бандитов укрылась в моей деревне {s15}. Они грабят близлежащие фермы, богатеют и толстеют, крадут мои налоги и обжираются моим скотом.Я бы ничего так не хотел так сильно, как пойти туда и преподать им урок, но у меня сейчас полно дел, так что я ничего не могу поделать с этой проблемой." />
+    <string id="UcyFjLPA" text="Довольно, сир! Я не позволю, чтобы меня поспешно выдали замуж - ни за вас, ни за кого другого! Вы меня очень рассердили. Пожалуйста, оставьте меня в покое на некоторое время. Я дам вам знать, когда буду готова снова говорить с вами." />
+    <string id="Ue9Yd7q2" text="Вы ошибаетесь, Миледи!" />
+    <string id="uFdoYS8b" text="По мне, {s9} всегда был хорошим вассалом, но я выслушаю вас. Что вы предлагаете нам совершить?" />
+    <string id="UfnbyeUZ" text="И это все?" />
+    <string id="ugKt4jBy" text="В оплате нет необходимости. Я прогсто сделал то, что посчитал правильным." />
+    <string id="UhxbPIvL" text="Я оставил деньги в надежном месте. Позволь мне пойти и достать их." />
+    <string id="uhXsNyNb" text="Я хочу стать повелителем  {s4}." />
+    <string id="uhZ7cWhh" text="Стадо крупного рогатого скота должно быть в {s13} в течение 30 дней. Лучше раньше, гораздо лучше, но это в любом случае не должно быть позднее 30 дней. Если вы можете доставить их вовремя, я готов заплатить вам {reg8}{GOLD_ICON} за ваши хлопоты. Заинтересованы?" />
+    <string id="uIb3INit" text="А? Что это еще за тарабарщина такая?" />
+    <string id="UiKIzpqJ" text="Нет, в последнее время я не видел никаких разбойников." />
+    <string id="UjRLH4jM" text="Очень хорошо, но впереди еще много строф. А теперь слушайте внимательно..." />
+    <string id="Uk56CfMs" text="Ну, человек в моем положении действительно много чего слышит. О ком же вы думали?" />
+    <string id="Ukch1RhG" text="Надеюсь, вам понравилась верховая езда. Теперь переходим к более сложному. Возьмите копье, которое вы видите вон там, и объезжайте поле, поражая каждую цель по крайней мере один раз." />
+    <string id="UKljmuhM" text="Я уже принял решение поддержать тебя." />
+    <string id="UKvh2UY6" text="Очень хорошая работа, {PLAYER.LINK}, Вы быстро справились с этими преступными шавками. Большое Вам спасибо за всю Вашу помощь, и, пожалуйста, примите эту скромную награду в размере 150{GOLD_ICON}." />
+    <string id="ULmf76aW" text="Мы в вашем распоряжении" />
+    <string id="UMhaJYaP" text="Да будет так - давайте расстанемся" />
+    <string id="umWWL9NC" text="Наконец ты понял! Такой торговый порт, как этот, не смог бы выжить без них. Корабли теряют несколько рабочих рук на каждом рейсе, так что всегда есть высокий спрос на новых матросов. Капитаны приходят ко мне и хорошо за них платят." />
+    <string id="Umx4tY2u" text="Ну, ты выглядишь достаточно способным. Я думаю, что у меня есть кое-какая работа, которой ты мог бы заняться." />
+    <string id="uo7uU2g3" text="Я хочу заменить маршала." />
+    <string id="uOjje9JY" text="Что я хочу выразить свою добрую волю, как один монарх другому." />
+    <string id="upAbLB85" text="Нет, {PLAYER.LINK}, я не могу позволить себе запятнать свое доброе имя, и Вам этого делать не следует." />
+    <string id="uPcKSnpU" text="Я слышал, что мой {s11} отклонил вашу просьбу о женитьбе. Значит ли это, что мы должны расстаться?" />
+    <string id="UpEUTVo7" text="Ооо, {PLAYER.LINK}.Мой квартирмейстер сообщил мне о вашей поставке, {reg13} голов крупного рогатого скота, как я и просил. Я впечатлен." />
+    <string id="UqNecZd8" text="Могу ли я иметь честь узнать о вас больше, Миледи?" />
+    <string id="USzUYS5g" text="Хорошо. {s2} примет вас сейчас." />
+    <string id="uT6foXTW" text="Вообще-то, не вмешивайся в это дело." />
+    <string id="ut77wtri" text="Давайте устроим спарринг." />
+    <string id="uTjfk0f3" text="О ком же вы хотели узнать?" />
+    <string id="UTOui4JJ" text="Это не для меня, бежать, поджав хвост, даже не взглянув на врага." />
+    <string id="UU0W3kZc" text="Винодельня необходима, чтобы сделать вино из винограда" />
+    <string id="uUescj5e" text="Я хочу закончить кампанию и позволить всем вернуться домой." />
+    <string id="UVQ6bo1w" text="Как пожелаете. Для меня было честью служить вам." />
+    <string id="uwcFPm9n" text="Надеюсь, этого больше не повторится." />
+    <string id="UwjomgjW" text="Слишком дорого". />
+    <string id="UXE39rvM" text="Кузница необходима,чтобы производить инструменты из железа" />
+    <string id="UYDLz7eW" text="Кто будет вашим послом? Вы должны выбрать того, кому вы доверяете, того, кто может убеждать других и вести переговоры, не нанося оскорблений." />
+    <string id="V0S5E4RQ" text="Отцы, конечно, бывают разные. Некоторые кальрадские аристократы позволяют своим дочерям выбирать мужа, который им нравится. Другие, однако, считают, что позволить своим дочерям любой выбор вообще означало бы умалить их собственный авторитет, и настаивают на выбранном ими женихе, нравится ей это или нет. " />
+    <string id="v2EF4FeQ" text="Ха! Я восхищаюсь вашим острым языком. Возможно, когда - нибудь я вырву его щипцами, чтобы полюбоваться им на досуге, но сегодня, по крайней мере, я отдам должное вашему остроумию и мужеству." />
+    <string id="v3LBusjY" text="Я думаю о том, чтобы ворваться в тюрьму в {s24}, найти {s13} и с боем пробиться наружу." />
+    <string id="v3tLQUyl" text="Это будет зависеть от стихотворения. Вы намеревались прочесть какой-нибудь стих?" />
+    <string id="v49Ybz11" text="Ты испытываешь мое терпение. Я же ясно дал понять, что мне нечего сказать." />
+    <string id="V4QFqGgD" text="Тогда {s8} так и будет." />
+    <string id="v62bNUuv" text="Политика? Святые небеса, гильдия не имеет никакого отношения к политике. Мы-верные слуги {s10}. Мы просто управляем своими собственными делами и передаем вести и нуждах горожан нашим лордам и хозяевам, а может быть, и предостерегаем их время от времени от дурных решений. И вообще, что ты хотел спросить?"/>
+    <string id="v9gCs4F6" text="Пивоварня необходима, чтобы делать эль из зерна" />
+    <string id="vAbmelxy" text="Забудь это. Я найду другой способ справиться с этим." />
+    <string id="VavSusbm" text="Очень хорошо - ты победил. Пусть все присутствующие сегодня засвидетельствуют, что ты победил меня, и я откажусь от своих претензий на {s10}. Ты доволен, бессердечный ублюдок?" />
+    <string id="vB5hypy6" text="Как идет дозор, солдат?" />
+    <string id="VbDk7VtK" text="Это не повод для кропоролития." />
+    <string id="VBHL3VPQ" text="Хаха. Для меня вы не более чем ходячие денежные мешки. Один торговец в {s1} предложил мне хорошие деньги за ваши головы."/>
+    <string id="vCIlftnJ" text="Мы хотели бы, чтобы вы отследили этих {s4}. Купцы нашего города сумели получить описание их предводителя и собрали щедрую награду. Если вы сможете выследить их и уничтожить, то мы хорошо оплатим вашу работу..."/>
+    <string id="vesTX1Vx" text="Я ищу одного моего товарища..."/>
+    <string id="VfDaBqWc" text="Прекрасно! Я буду выслеживать этих бандитов."/>
+    <string id="vFlRd41x" text="Я могу дать вам множество ценных советов, мой{?PLAYER.GENDER}леди{?}лорд{\?}, похоже, что ваше право властвовать в качестве независимого монарха недостаточно признано другими, и это может привести к некоторым проблемам в будущем. Возможно, вам следует выбрать другое королевство, с которым у вас есть общие интересы, и добиться его признания, чтобы стать равным другим королям Калрадии."/>
+    <string id="VGDbSTqt" text="{s11}Вероятно, нам не следует слишком долго беседовать сдесь, но я надеюсь вскоре увидеть вас снова."/>
     <string id="VhRBIuoz" text="{s31}"/>
-    <string id="vHZuK0bM" text="Not a problem, {s65}."/>
-    <string id="VInRb4bD" text="Ваше сиятельство... Ваше сиятельство... вы бы хотели, чтобы я был свидетелем ваших клятв?"/>
-    <string id="vJ30cCUv" text="Что если девушка и ее отец не согласен насчет жениха?"/>
-    <string id="vk0Z8GbX" text="I'll breathe easy when we reach {s1} and not a moment sooner. Let's keep moving."/>
-    <string id="VkoKANyM" text="Прощание сейчас, потом."/>
-    <string id="vLiwdvHK" text="My lord {s2} does not want you here. Begone now."/>
-    <string id="Vn4Nbbnz" text="Это приятно слышать, что ваши намерения благородны. Тем не менее, я твердо решила выйти замуж только за мужчину из самых сильных моральных устоев. Я хотел бы, чтобы вы доказали себя в этом отношении."/>
-    <string id="Vn4vmKq3" text="Excellent! Make your way to {s13} as soon as you can, the spy will be waiting."/>
-    <string id="vo1bY7Ee" text="Then take these 300{GOLD_ICON}. I hope this will help you and your family."/>
-    <string id="VOzX74DR" text="Many thanks, my friend. He will serve very well for a bargain. You've done a fine work here. Please accept these {reg5}{GOLD_ICON} for your help."/>
-    <string id="vQ47Cejw" text="Я хочу, чтобы ты покинуть замок и присоединиться к моей партии."/>
-    <string id="VQt6aLvr" text="I wish to invite the vassals of the realm to a feast at {s4}."/>
-    <string id="vr8uIvpg" text="I can reveal this information to you for a small price, let's say 30{GOLD_ICON}."/>
-    <string id="vRwKpyZf" text="Вы знаете о каких-либо текущих праздников?"/>
-    <string id="vTCEIrql" text="So we hear -- but alas, {s5} seems not to have listened. Still, we are grateful to you for trying."/>
-    <string id="VTea5Tpg" text="To teach it to you, I will need some hours of your time -- and, of course, a small fee for my services. About 300{GOLD_ICON} would suffice."/>
-    <string id="vTHPopxm" text="I support {s15}. {s10}"/>
-    <string id="VUtLDq8C" text="Я пошлю слово, то, что мы будем принимать праздник как только условия в разрешении царство. Вы, возможно, должны продолжать складе нашей кладовой, так что мы можем воздать должное нашим гостеприимства."/>
-    <string id="VVvxeMbc" text="Did I mention that we here are all {s9}? Because I can't stress that enough... Anyway... Is there anything else?"/>
-    <string id="VwE2On3O" text="Here's 100{GOLD_ICON}. Tell me what you know."/>
-    <string id="VyGKhAsY" text="{PLAYER.LINK}, it was an incredible feat to get {s14} and {s15} make peace, and you made it happen. Your involvement has not only saved our town from disaster, but it has also saved thousands of lives, and put an end to all the grief this bitter war has caused. As the townspeople of {s19}, know that we'll be good on our word, and we are ready to pay the {reg12}{GOLD_ICON} we promised."/>
-    <string id="vyXrfL9t" text="Все правильно. Ваша первая тренировка будет в стрельбе из лука. Лук является оружием, с которым трудно овладеть. Но после того, как вы достаточно хорошо, вы можете стрелять быстро и с большой силой. Подними свой лук и стрелы, вы видите сейчас туда и стрелять этих целей."/>
+    <string id="vHZuK0bM" text="Нет проблем, {s65}."/>
+    <string id="VInRb4bD" text="Ваше сиятельство... Ваше сиятельство... вы бы хотели, чтобы я стал свидетелем ваших клятв?"/>
+    <string id="vJ30cCUv" text="Что ,если отец девушки не согласен на счет выбора жениха?"/>
+    <string id="vk0Z8GbX" text="Я вздохну спокойно,лишь когда мы достигнем {s1} , и ни минутой раньше. Давайте двигаться дальше."/>
+    <string id="VkoKANyM" text="А сейчас прощайте, встретимся позже."/>
+    <string id="vLiwdvHK" text="Мой лорд {s2} не хочет, чтобы вы находились здесь. Немедленно проваливайте!"/>
+    <string id="Vn4Nbbnz" text="Приятно слышать, что ваши намерения благородны. Тем не менее, я твердо решила выйти замуж лишь за мужчину самых твёрдых моральных устоев. Я хотела бы, чтобы вы доказали, что являетесь таковым."/>
+    <string id="Vn4vmKq3" text="Отлично! Отправляйтесь в {s13} как можно скорее, шпион будет ждать вас там."/>
+    <string id="vo1bY7Ee" text="Тогда возьмите эти 300{GOLD_ICON}. Я надеюсь, что это поможет вам и вашей семье."/>
+    <string id="VOzX74DR" text="Большое спасибо, мой друг. Он очень сильно пригодится для сделки.Вы проделали прекрасную работу.Пожалуйста, примите эти скромные {reg5}{GOLD_ICON} в благодарность за вашу помощь.."/>
+    <string id="vQ47Cejw" text="Я хочу, чтобы ты покинул замок и присоединился к моему отряду."/>
+    <string id="VQt6aLvr" text="Я хочу пригласить вассалов королевства на пир, который состоится в  городе {s4}."/>
+    <string id="vr8uIvpg" text="Я могу сообщить вам эту информацию за небольшую цену, скажем 30{GOLD_ICON}."/>
+    <string id="vRwKpyZf" text="Вы знаете о каких-либо текущих праздниках?"/>
+    <string id="vTCEIrql" text="Итак, мы слышали - но, увы, {s5}, кажется, не слушали. Тем не менее, мы благодарны вам за попытку."/>
+    <string id="VTea5Tpg" text="Чтобы научить вас этому навыку, мне понадобится несколько часов -и, конечно, небольшая плата за мои услуги. Около 300{GOLD_ICON} было бы достаточно."/>
+    <string id="vTHPopxm" text="Я поддерживаю {s15}. {s10}"/>
+    <string id="VUtLDq8C" text="Тогда я пошлю весточку, что мы устроим пир, как только позволят обстоятельства в королевстве. Возможно, вам следует продолжать пополнять нашу кладовую, чтобы наше гостеприимство в полной мере соответствовало нашей репутации."/>
+    <string id="VVvxeMbc" text="Я уже говорил, что мы здесь все {s9}? Потому что я не могу достаточно подчеркнуть это... В любом случае... Что-нибудь еще?"/>
+    <string id="VwE2On3O" text="Вот 100{GOLD_ICON}. Расскажи мне, что тебе известно."/>
+    <string id="VyGKhAsY" text="{PLAYER.LINK}, это был невероятный подвиг, заставивший {s14} и {s15} заключить мир,и он ваш! Ваше участие не только спасло наш город от катастрофы, но и спасло тысячи жизней ,а главное, положило конец всем горестям, которые принесла эта жестокая война. Как горожане {s19}, знайте, что мы будем верны своему слову, и мы готовы заплатить обещанные вам {reg12}{GOLD_ICON}."/>
+    <string id="vyXrfL9t" text="Все правильно. Ваша первая тренировка заключается в стрельбе из лука. Лук является оружием, которым трудно овладеть. Но после того, как вы освоете его достаточно хорошо, вы можете стрелять быстро и с большой силой. Возбмите свой лук и стрелы и стреляйте по целям, которые видите."/>
     <string id="vZEvM5si" text="Я буду маршалом"/>
-    <string id="w0JhCeR9" text="You won't be able to do this by yourself, though. If you try and take on the whole gang singlehandedly, the hunter will become the hunted, I'll warrant. You'll first want to round up a group of volunteers. There's always a few lads in the villages around here, looking for a bit of work that's more interesting than tilling the soil or hauling water. They'll follow you if you pay. So... Take this purse of 100{GOLD_ICON}. Consider it an advance on your reward. Go round to the villages, and use the money to hire some help. I'll reckon that you need at least five men to take on these bandits."/>
+    <string id="w0JhCeR9" text="Но вы не сможете справиться с этим самостоятельно. Если вы попытаетесь взять всю банду в одиночку, то станете лёгкой добычей, я ручаюсь. Сначала вам необходимо собрать отряд добровольцев. В здешних деревнях всегда есть несколько парней, которые ищут работу поинтереснее, чем возделывать землю или таскать воду. Они последуют за тобой, если им заплатить. Так... Возьмите этот кошелек с 100{GOLD_ICON}. Считайте это авансом от вашего вознаграждения. Сходите в деревню и на эти деньги наймите себе помощников. Я думаю, что вам нужно по крайней мере пять человек, чтобы справиться с бандитами."/>
     <string id="W1XRTHly" text="Нет. Не в этот раз."/>
-    <string id="W3d9yp0c" text="И еще одна вещь-мой приятель, ваш оппонент, он не принимает также к сложности. Так он просто придет прямо на вас. Это до вас, чтобы поставить артистизм."/>
-    <string id="W3MKgZhw" text="{PLAYER.LINK}, when do you think we can reach our destination?"/>
-    <string id="w5WYWj6y" text="Да. Это время для нас, чтобы укрепить узы, которые нас объединяют."/>
-    <string id="W678ilKE" text="Вы абсолютно уверены? Я никогда не прощу вас, если вы отказаться от меня."/>
-    <string id="w6e5poeE" text="Я думаю, что это мудрый шаг. Удачи вам."/>
-    <string id="w9Av1pY8" text="Да. Перестань валять дурака и пойти сделать некоторые деньги. Я хочу видеть, что полный кошелек в следующий раз я вижу вас."/>
-    <string id="w9NzIMaX" text="Возможно, я смогу убедить вас не отсрочивать."/>
-    <string id="WbGAg4Wi" text="Как вам мой главный министр, я хотел бы говорить о делах государственных"/>
-    <string id="wBgq0OpH" text="В этом случае, мы увидим, что принесет будущее."/>
-    <string id="wCsfOeNf" text="I would, {s21}. Moreover, I have a proposal on how I might help you attain your throne. But you recently sent {s22} off on a similar mission. Perhaps we should wait for a coupl of weeks to avoid drawing too much attention to ourselves."/>
-    <string id="WCwhRjCU" text="Тогда я пойду и провести некоторое время с этими купцами."/>
-    <string id="WD1Q2CB0" text="Бандиты, такие как они обычно создают свои лагеря в лес на степь, где они имеют некое скрытие. Лучшим способом, чтобы обнаружить его местоположение будет найти группу степных разбойников, которые, кажется, возвращаюсь на свою базу для пополнения запасов и следить за ними."/>
+    <string id="W3d9yp0c" text="И еще одно - мой приятель, твой противник, очень не любит сложности. Поэтому он просто пойдет в лобовую атаку. Так что ты должен показать нам красивый бой."/>
+    <string id="W3MKgZhw" text="{PLAYER.LINK}, как вы думаете, когда мы сможем добраться до места назначения?"/>
+    <string id="w5WYWj6y" text="Да. Пришло время нам укрепить узы, объединяющие нас ."/>
+    <string id="W678ilKE" text="Вы абсолютно уверены? Я никогда не прощу вас, если вы забросите мое дело."/>
+    <string id="w6e5poeE" text="Мне кажется, это мудрый шаг. Удачи вам."/>
+    <string id="w9Av1pY8" text="Да. Перестань валять дурака и иди зарабатывать деньги. В следующий раз когда увижу тебя, этот кошель должен быть полным."/>
+    <string id="w9NzIMaX" text="Быть может, мне удастся убедить вас не медлить более."/>
+    <string id="WbGAg4Wi" text="Поскольку вы мой главный министр, я хочу поговорить с вами о государственных делах."/>
+    <string id="wBgq0OpH" text="В таком случае посмотрим, что принесет нам будущее."/>
+    <string id="wCsfOeNf" text="Я бы так и сделал, {s21}. Кроме того, у меня есть предложение о том, как можно помочь вам взойти на трон. Но вы недавно послали {s22} с подобным заданием. Возможно, нам следует подождать несколько недель, чтобы не привлекать к себе слишком много лишнего внимания."/>
+    <string id="WCwhRjCU" text="Тогда я пойду и проведу некоторое время с теми торговцами."/>
+    <string id="WD1Q2CB0" text="Разбойники обычно устраивают свои лагеря в лесу или степи, где у них есть какое нибудь укрытие. Лучший способ узнать его местоположение - найти группу степных бандитов, которые, возвращаются на свою базу для пополнения запасов, и следовать за ними."/>
     <string id="wDGhVZiB" text="Я прошу у вас прощения за свое поражение, {s65}..."/>
-    <string id="wDGkHugl" text="Возможно, мне удастся убедить вас передумать."/>
-    <string id="Wdjs6sJq" text="В любом случае, это сложная бизнес-и не забывайте, что вы можете обнаружить, что ваш костюм процветает с дамой, но спотыкаются о политические амбиции отца. Так что вы должны спросить себя: готовы ли вы рисковать разочарования и горя? Поочередно, вы готовы выбросить свое положение в обществе, сделать врагов союзниками, в погоне за запретной любви? Потому что если да, то, возможно, однажды мы будем писать стихи о тебе."/>
-    <string id="WdWSUD9B" text="Хорошо. Тогда все что вам нужно сделать, это бить педераста с оружием, и когда война закончилась вы в кандалы его. Это немного разные дворяне, и такие, как правило, они достаточно защищены, что не имеет значения, какой вид оружия вы используете, но ваш средний подстрекатель будет истекать кровью, как резаная свинья, Если вы его чем-то острым. У меня не так много требований, в мой товар, но я настаиваю, что они будут дышать, когда я их покупаю."/>
-    <string id="weahzrvQ" text="По крайней мере, хватило порядочности, чтобы вернуть деньги."/>
-    <string id="WeApM3aj" text="Увы. Моя удача никогда не изменит?"/>
-    <string id="wEYvXaZE" text="Прощай."/>
-    <string id="wFIa9dZR" text="Да. Мы должны собрать все наши силы, прежде чем мы нападем на врага."/>
+    <string id="wDGkHugl" text="Может быть, мне удастся убедить вас изменить свое мнение."/>
+    <string id="Wdjs6sJq" text="Во всяком случае, это очень трудное дело-и не забывайте, что вы можете столкнуться с тем, что ваши ухаживания воспринимаются дамой только для, только чтобы споткнуться об политические амбициии её отца. Поэтому вы должны спросить себя: готовы ли вы смириться с разочарованием и разбитым сердцем? С другой стороны, готовы ли вы отказаться от своего положения в обществе, превратить врагов в союзников, преследуя запретную любовь? Потому что если это так, то, возможно, когда-нибудь мы напишем о вас поэму."/>
+    <string id="WdWSUD9B" text="Хорошо. Тогда все, что вам нужно сделать, это сбить мерзавца с ног оружием, а когда бой закончится, вы закуете его в кандалы. Есть небольшая разница между дворянами и им подобными, они, как правило, достаточно защищены, чтобы не быть восприимчивыми к тому, каким оружием вы пользуетесь, но обычный разбойник будет истекать кровью, как свинья, если вы попадете в него чем-то острым. У меня не так много требований к товару, но я настаиваю, чтобы они хотябы дышали, когда я их покупаю."/>
+    <string id="weahzrvQ" text="По крайней мере у вас хватило порядочности вернуть деньги." />/>
+    <string id="WeApM3aj" text="Увы. Неужели удача никогда не повернется ко мне лицом?"/>
+    <string id="wEYvXaZE" text="До свидания.."/>
+    <string id="wFIa9dZR" text="Да. Мы должны собрать все наши силы прежде чем двинемся на врага.."/>
     <string id="WfmPnDgU" text="Позвольте мне сказать вам, кого я поддерживаю..."/>
-    <string id="Wg8oJCUb" text="У вас есть какие-либо идеи по укреплению единства нашего королевства?"/>
-    <string id="wGoQOWkp" text="Чит-поддержка сброса "/>
-    <string id="WHAPyYKS" text="Ваша удача закончилась, негодник. Готовься к смерти!"/>
-    <string id="WHhcJ0cw" text="Мы вновь встретимся."/>
-    <string id="Wi4uYXOq" text="Свет пронзил мрак над скалами Wercheg..."/>
-    <string id="WIgVhb4W" text="Well well, you've captured {reg0} brigands. Each one is worth 30{GOLD_ICON}, so I'll give you {reg1} for them in total."/>
-    <string id="wiu89ovy" text="Нет? Хех, ну, это должно быть ваш счастливый день. У меня есть старый клуб, лежащих вокруг, что я собирался выбросить. Его немного потрепали, но все же хорошего мало Баш кто-то, пока он не перестает двигаться. Вот, возьмите это."/>
-    <string id="WiUqBZZw" text="Я готов к этой борьбе."/>
-    <string id="WiYypmAj" text="Я хочу поговорить с кем-то в замке."/>
-    <string id="WiZxGiNZ" text="Очень хорошо. Я буду держать это в уме."/>
-    <string id="wJCgB9im" text="Мои извинения, мне это не интересно."/>
+    <string id="Wg8oJCUb" text="Есть ли у вас какие-нибудь идеи по укреплению единства нашего королевства?"/>
+    <string id="wGoQOWkp" text="Чит - сброс поддержки"/>
+    <string id="WHAPyYKS" text="Твоя удача иссякла, негодяй. Готовься к смерти!" />
+    <string id="WHhcJ0cw" text="Мы еще встретимся." />
+    <string id="Wi4uYXOq" text="Свет пронзил мрак над утесами Верчега..." />
+    <string id="WIgVhb4W" text="Ну что ж, вы захватили разбойников {reg0}. Каждый из них стоит 30 {GOLD_ICON}, поэтому я дам вам {reg1} за всех их в общей сложности." />
+    <string id="wiu89ovy" text="Нет? Хмм, ну, это, должно быть, твой счастливый день. У меня тут валяется старая дубинка, которую я собирался выбросить. Она немного потрепана, но все же достаточно хороша, чтобы колотить кого-то, пока он не перестанет двигаться. Вот, возьми её." />
+    <string id="WiUqBZZw" text="Я готов к борьбе."/>
+    <string id="WiYypmAj" text="Я хочу поговорить кое с кем в замке." />
+    <string id="WiZxGiNZ" text="Отлично. Я буду иметь это в виду." />
+    <string id="wJCgB9im" text="Прошу прощения, но мне это неинтересно." />
     <string id="WkRpxaql" text="{s11}. {s1}"/>
-    <string id="wLGPnRJu" text="Well, it was your responsibility to deliver that herd safely, no matter what. You should know that the owner of the herd demanded to be compensated for his loss, and I had to pay him 1000{GOLD_ICON}. So you now owe me that money."/>
-    <string id="WlZoIoeq" text="Помню. Вы обещали мне поместье. Я буду держать вас в это обещание."/>
-    <string id="WmZ42I0i" text="Это хорошо, чтобы иметь мою истинную ценность признается."/>
-    <string id="Wmzr2oJk" text="Я бы предпочел не обсуждать такие вещи."/>
+    <string id="wLGPnRJu" text="Ну, это была Ваша обязанность - доставить стадо в целости и сохранности, несмотря ни на что. Вы должны знать, что владелец стада потребовал компенсации за его потерю, и я заплатил ему 1000 {GOLD_ICON}. Так что теперь вы должны мне эти деньги." />
+    <string id="WlZoIoeq" text="Помни. Ты обещал мне поместье. Я заставлю тебя сдержать это обещание." />
+    <string id="WmZ42I0i" text="Хорошо, что моя истинная ценность признана." />
+    <string id="Wmzr2oJk" text="Я бы предпочел не обсуждать такие вещи." />
     <string id="wng5QjjQ" text="Да, мой друг, я буду счастлив присоединиться к вам."/>
-    <string id="WOOpPH6b" text="Ну, в таком случае, позвольте мне сказать вам кое-что, - с теми грубыми словами, вы сняли пелену с моих глаз. Я согласен, что это не было бы уместно для меня, чтобы выйти замуж за одного такого, как вы. Добрый день, моя леди."/>
-    <string id="wPpeHeeX" text="Дайте мне подумать об этом немного больше."/>
-    <string id="wQGfTbCD" text="Я вам обязан, не так И.... тогда все в порядке. Я отпущу тебя на этот раз."/>
-    <string id="WqjRAcgK" text="Хех. Ты принес деньги все в порядке. Вы можете взять девочку сейчас. Было приятно иметь с вами дело..."/>
-    <string id="wrxMChx2" text="Очень хорошо-повторяй за мной:^ я переломил ее скептически допрос дартс^ с броней из чистейшей преданностью^ продували в кузнице моей души^ от шлаков любые низменные эмоции"/>
-    <string id="WrzmAdz8" text="{PLAYER.LINK} -- how good it is to see you. (Whispers:) I still remember your visits fondly."/>
-    <string id="wSPgImEi" text="Это была честь служить."/>
-    <string id="WsWtMwEq" text="Эта информация может быть лучше получать из каравана мастеров и путешествующие торговцы. Если вы хотите, я могу отправить вам в район, где иностранные купцы остановиться, когда они приезжают в город. Если вы потратить некоторое время есть и слушать разговоры, можно узнать много интересного о том, что купить и где продать."/>
-    <string id="WtEa0GOf" text="Ах, Не обращай внимания на мое настроение ребят."/>
-    <string id="wTFjLsgq" text="ОК."/>
-    <string id="wTRiaxaL" text="In the name of {s1}, you are under arrest!"/>
-    <string id="WubbUqUk" text="Я могу научить вас часть саги Helgerad и Кара. Это героическая сказка, полна крови и битвы. Воительница Кара выбирает воин Helgered как ее любовника, а он-единственный человек, который сможет победить ее в бою. Ее отец, который обещал ее к другому, происходит с сыновьями и его хускарлы убить Helgered. Они борются, и Helgered и Кара Слотер весь узел кроме любимого младшего брата кара, который, увы, растет, чтобы отомстить за отца, убив Helgered. Образ воина и воительницы на равных обратятся к некоторым женщинам, но письмо-носить, забрызганный кровью, героиня будет шокировать и отталкивать других."/>
-    <string id="wVhE6BOf" text="Ah, you have arrived at last, {PLAYER.LINK}. We've been expecting you. I hope you have brought with you troops of sufficient number and experience."/>
-    <string id="WvpHGvje" text="Вы имеете в виду отвергнуть мой костюм откровенной, моя леди?"/>
-    <string id="wX0sH5Ch" text="Я могу научить тебя сказка Каис и Layala. Это грустная и простая история -- пастух мальчик Кай и дочь Layala вельможи любят друг друга, но они никогда не смогут жениться. Стихотворение плач Каис', как он бродит в одиночестве, не желая забыть свою истинную любовь, сам за рулем с ума от тоски. Некоторые дамы тают в сладость его проблем, другие стекленеют на его жалости."/>
-    <string id="WX3ZlduJ" text="Пока я не оспаривают ваше заявление, моя жена, я хотел бы, чтобы один из нас держать крепость, которая может служить наш суд, прежде чем мы заявим о себе публично."/>
-    <string id="WzASjCTJ" text="I await your counsel, {PLAYER.LINK}."/>
+    <string id="WOOpPH6b" text="Ну, в таком случае позвольте мне сказать вам кое-что. Из за ваших резких слов с моих глаз спала пелена. Я согласен, что мне не подобает жениться на таком человеке, как вы. Доброго дня, Миледи." />
+    <string id="wPpeHeeX" text="Дай мне еще немного подумать об этом." />
+    <string id="wQGfTbCD" text="Я ведь у тебя в долгу, верно?.. тогда все в порядке. Я отпущу тебя, но только на сей раз." />
+    <string id="WqjRAcgK" text="Хех. Вы же сами принесли деньги. Теперь можете забрать девчонку. Мне было очень приятно иметь с вами дело..." />
+    <string id="wrxMChx2" text="Очень хорошо-повторяйте за мной: я отразил ее стрелы скептицизма броней, сделанной из чистейшей преданности, очищенной в кузнице моего сердца от шлака любых низменных эмоций." />
+    <string id="WrzmAdz8" text="{PLAYER.LINK} как же я рада вас видеть! (Шепотом:) Я до сих пор с нежностью вспоминаю твои визиты." />
+    <string id="wSPgImEi" text="Служить вам было для меня честью." />
+    <string id="WsWtMwEq" text="Эту информацию лучше всего можно получить у караванных мастеров и странствующих торговцев. Если хотите, я могу послать вас в район, где останавливаются иноземные купцы, когда они посещают город. Если вы проведете там некоторое время и послушаете разговоры, то сможете многое узнать о том, что покупать и где продавать." />
+    <string id="WtEa0GOf" text="Ах, не обращайте внимания на мое приподнятое настроение, парни." />
+    <string id="wTFjLsgq" text="Хорошо." />
+    <string id="wTRiaxaL" text="Во имя {s1}, вы арестованы!" />
+    <string id="WubbUqUk" text="Я могу рассказать тебе часть саги о Хельгераде и Каре. Это героическая история, полная крови и сражений. Дева щита Кара избирает своим возлюбленным воина Хелгереда, так как он единственный мужчина, который смог победить ее в бою. Ее отец, который обещал ее другому, приходит со своими сыновьями и хускарлами, чтобы убить Хельгереда. Они сражаются, и Хельгерд с Карой убивают все войско, кроме любимого младшего брата Кары , который, увы, вырастает и отомстит за своего отца, убив Хельгерда. Изображение воина и девы щита на равных понравится некоторым женщинам, но одетая в кольчугу, забрызганная кровью героиня будет шокировать и отталкивать других." />
+    <string id="wVhE6BOf" text="Ах, наконец-то вы прибыли {PLAYER.LINK}. Мы давно ждали вас . Я надеюсь, что вы привели с собой достаточно многочисленное и опытное войско." />
+    <string id="WvpHGvje" text="Неужели вы хотите прямо отвергнуть мой иск, Миледи?" />
+    <string id="wX0sH5Ch" text="Я могу рассказать тебе историю о Кайсе и Лайале. Это печальная и простая история - пастушок Кайс и дочь дворянина Лайала любят друг друга, но никогда не смогут пожениться. Стих - это плач Каиса, когда он бродит один, не желая забыть свою истинную любовь, сводя себя с ума от тоски. Некоторые дамы тают от сладости его горестей, другие-от жалости к самой себе." />
+    <string id="WX3ZlduJ" text="Хотя я и не оспариваю твоих притязаний, моя дорогая жена , я хотел бы, чтобы один из нас удерживал крепость, которая могла бы служить нашим двором, прежде чем мы объявим себя публично." />
+    <string id="WzASjCTJ" text="Я жду вашего совета, {PLAYER.LINK}." />
     <string id="WzipKNWN" text="{s43}"/>
-    <string id="X1dXy7kL" text="Хорошо. Я не забуду твоей услуги. Вы будете вознаграждены, когда вы вернетесь."/>
-    <string id="x3I3y1xT" text="Дворяне странный лот. В Кальрадии, дочь-это политический актив, чтобы быть отданы лорду, с которым ее отец желает заключить союз. Еще великие семей этой земли идеализировать чистой любви между мужчиной и женщиной, и я видел много матерого воина плакать обильные слезы на обреченных пыл Сахира и Janun в песнях, даже когда он планирует побить собственный дочери сердце."/>
-    <string id="x6ipBwf7" text="Чего ты хочешь? Мы всего лишь простые торговцы, мы не ссорились с тобой, так что оставьте нас в покое."/>
-    <string id="X6uMhfCo" text="Мельница и пекарня для производства хлеба из зерна"/>
-    <string id="x8ERqWPG" text="Very good. {s9} is your new minister. It has been an honor to serve you."/>
-    <string id="X8iyGpdW" text="{s66}, I fear I cannot help you right now."/>
+    <string id="X1dXy7kL" text="Хорошо. Я не забуду вашей преданной службы. Вы будете вознаграждены, когда вернетесь." />
+    <string id="x3I3y1xT" text="Дворяне - странный народ. В Кальрадии дочь - это политический актив, который должен быть отдан лорду, с которым ее отец хочет заключить союз. Однако великие семьи этой страны идеализируют чистую любовь между мужчиной и женщиной, и я видел, как многие отцы рыдали над обреченным страстью Сахиром и Джануной в песнях - даже когда они строили планы разбить сердце своей дочери." />
+    <string id="x6ipBwf7" text="Что тебе надо? Мы всего лишь простые купцы, мы не хотим ссоры с тобой, так что оставь нас в покое." />
+    <string id="X6uMhfCo" text="Мельница и пекарня необходимы, чтобы производить хлеб из зерна." />
+    <string id="x8ERqWPG" text="Отлично. {s9} ваш новый министр. Для меня было честью служить вам." />
+    <string id="X8iyGpdW" text="{s66},боюсь, что сейчас я ничем не смогу вам помочь."/>
     <string id="xArjPBOP" text="Я убил нескольких мародеров."/>
-    <string id="XB1in7yO" text="Я не думаю, что я могу помочь вам."/>
-    <string id="xbrirrE2" text="Очень хорошо. Ты сделал свой выбор. Мне больше нечего сказать."/>
-    <string id="XcaSHbVY" text="Не плохо. Не плохо на всех! Вы, кажется, постиг основы стрельбы из лука. Теперь попробуйте сделать то же самое с арбалетом. Возьмите арбалет и болты туда и стрелять в тех трех задач. Арбалет гораздо легче стрелять по сравнению с луком, но нужно перезаряжать его после каждого выстрела."/>
-    <string id="XcG4VP1y" text="Кожевню, чтобы кожа из шкур"/>
-    <string id="XcmxFgHg" text="Well... Given your relationship with our liege, {s4}, I think that you will not find many here who are brave enough to sell you any land."/>
+    <string id="XB1in7yO" text="Я не думаю, что смогу помочь вам."/>
+    <string id="xbrirrE2" text="Очень хорошо. Вы высказали свою позицию. Мне больше нечего сказать." />
+    <string id="XcaSHbVY" text="Неплохо. Совсем не плохо! Похоже, вы постигли основы стрельбы из лука. А теперь попробуйте проделать то же самое с арбалетом. Возьмите арбалет и болты вон там и стреляйте по этим трем мишеням. Из арбалета гораздо легче стрелять по сравнению с луком, но его нужно перезаряжать после каждого выстрела." />
+    <string id="XcG4VP1y" text="Кожевенный завод необходим, чтобы делать кожу из шкур." />
+    <string id="XcmxFgHg" text="Что ж... Учитывая ваши отношения с нашим лордом, {s4}, думаю, вы не найдете здесь тех, кто осмелится продать вам хоть какую-нибудь землю." />
     <string id="xCTVKt30" text="Видно вам не хватает храбрости, хотя я думал по-другому. Ну что ж, {PLAYER.LINK}, Я найду кого-нибудь другого."/>
     <string id="xdzuKihr" text="Потому что {s45} может объединить Кальрадию и покончить с этим раздором."/>
     <string id="XF6K24sO" text="Если это только не бравый чемпион {PLAYER.LINK}..."/>
