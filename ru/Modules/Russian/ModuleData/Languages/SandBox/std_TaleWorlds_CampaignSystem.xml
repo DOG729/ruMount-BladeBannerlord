@@ -258,12 +258,12 @@
     <string id="563qB3ar" text="Я могу только надеяться, что если они узнают мою преданность, они примут меня."/>
     <string id="565Sz1zN" text="Перезарядка арбалетов идет на 10% быстрее."/>
     <string id="59ijHPtR" text="Да. Это очень много, Но да, я могу заплатить."/>
-    <string id="5a0NhbOA" text="Your liege, {FIRST_NAME}, is not worth of your loyalty."/>
+    <string id="5a0NhbOA" text="Ваш сеньор,  {FIRST_NAME}, не стоит вашей преданности."/>
     <string id="5acLha5Q" text="Караванщик"/>
     <string id="5Adr6toM" text="{MENU_TEXT}"/>
     <string id="5ao0RdRT" text="Ну, я не отрицаю, что есть что-то о вас, к которому меня тянет."/>
     <string id="5AvvGkk4" text="Я уверен, что ты ошибся, но есть законы. Сдать контрабанду для меня, и это будет конец."/>
-    <string id="5axKTUpX" text="Леса дают на 10% меньше скорости штраф в стороны"/>
+    <string id="5axKTUpX" text="При перемещении по лесу, штраф скорости уменьшение на 10%"/>
     <string id="5B6WPxeu" text="{CHAR_NAME}"/>
     <string id="5bSWSaPl" text="Лакеев на лошадях"/>
     <string id="5cH6ssDI" text="компанию наемников "/>
@@ -382,7 +382,7 @@
     <string id="7Jwuax4w" text="Дополнительное Здоровье"/>
     <string id="7K13R6SV" text="Вы должны отдохнуть, и пусть ваши раны заживают."/>
     <string id="7kALTmxP" text="{FIRST_NAME} of the Lamp"/>
-    <string id="7kGGgkro" text="Караваны на 30% дешевле. 10% меньше торговой казни."/>
+    <string id="7kGGgkro" text="Сбор каравана на 30% дешевле. Торговый штраф на 10% меньше."/>
     <string id="7kGwP1Lf" text="{NAME} of the Desert"/>
     <string id="7kH1W04c" text="{FIRST_NAME} the Anvil"/>
     <string id="7kNxogN8" text="назначении независимой старейшин соблюдать закон"/>
@@ -717,7 +717,7 @@
     <string id="bKsb7tcr" text="Candidly, what do you think of our liege, {FIRST_NAME}?"/>
     <string id="BkTiRPT4" text="Тренировочные Поля"/>
     <string id="BktSNgY4" text="Мы выступаем против этого предложения"/>
-    <string id="bL5YPUbd" text="На 20% больше обновить XP до войска от сражений."/>
+    <string id="bL5YPUbd" text="Войска получают на 20% больше опыта за сражения."/>
     <string id="bLfGgakQ" text=" &quot;Прийти в другой день&quot;."/>
     <string id="BlidMNGT" text="Отношения"/>
     <string id="blNhuGKd" text="{FIRST_NAME} the {?FEMALE}Freedwoman{?}Freedman{\?}"/>
@@ -789,7 +789,7 @@
     <string id="bxWITUaN" text="имея величайшие лорды отвечают области как малый тайный совет"/>
     <string id="bXzAluln" text="Когда, через некоторое время ваши силы перегруппироваться, взять быстрый подсчет ваших войск, чтобы увидеть, что ваши силы нетронутыми."/>
     <string id="ByOYHslS" text="That's enough talking for now. Make your choice.[if:idle_angry][rb:trivial][ib:aggressive]"/>
-    <string id="ByrkbDoK" text="10% дополнительный бонус к скорости для джигитов на карте кампании."/>
+    <string id="ByrkbDoK" text="10% дополнительный бонус скорости для всадников на карте кампании."/>
     <string id="BYTrUJyj" text="В Войну"/>
     <string id="bZ7Fak5a" text="Snake-eyes {FIRST_NAME}"/>
     <string id="bZbFrIUr" text="кружку кваса"/>
@@ -1251,7 +1251,7 @@
     <string id="GhPGpR90" text="тарелка даты"/>
     <string id="Giblfhdx" text="Выполнить"/>
     <string id="GIkvhuCC" text="Maybe one of your men who knows a thing or two about scouting, with {TROOP_AMOUNT} good men can deal with these scum. So what do you say?"/>
-    <string id="GIljHGh9" text="20% к скорости строительства бонуса для города проектов, ремонт стен и осадных машин."/>
+    <string id="GIljHGh9" text="20% бонус к скорости строительства городских проектов, осадных орудий и ремонту стен."/>
     <string id="gjGb044I" text="Я надеюсь, что они будут..."/>
     <string id="gJhqA727" text="Wretched {NAME}"/>
     <string id="GKlmIYik" text="Трамплер"/>
@@ -1432,7 +1432,7 @@
     <string id="IMEBieog" text="{NAME} the Wise"/>
     <string id="ImLDk2tg" text="IsEquipmentTemplate"/>
     <string id="ImN8Cfk6" text="Max difficulty of weapon that can be smithed without penalty: {a0}"/>
-    <string id="Impk9uLu" text="На 20% меньше скорости штраф от снега."/>
+    <string id="Impk9uLu" text="На 20% меньше штрафа к скорости от снега."/>
     <string id="iN1kBsac" text="Я не думаю, что они будут долго. Наши охотники заметили их готовности. Продолжаю ждать."/>
     <string id="InFseOAA" text="Это ограничивает возможность судей осуждать тех, кого они быстро считают преступниками. Это предотвращает произвольное злоупотребление властью, но землевладельцы или главари банд могут иногда использовать угрозы и взятки, чтобы манипулировать им."/>
     <string id="InLGoUbB" text="Купец"/>
@@ -2128,7 +2128,7 @@
     <string id="Py5jvZWL" text="тип элементов"/>
     <string id="py6Y46sa" text="No, I didn't hear any...[rb:negative]"/>
     <string id="PyjCZGlG" text="Этот город имеет законы о несанкционированной торговле. Очередь за товарами для меня сейчас."/>
-    <string id="pynfBIWP" text="Больше бабло от врагов."/>
+    <string id="pynfBIWP" text="Больше добычи от врагов."/>
     <string id="PZ2itbRR" text="Получают +10 большее влияние, выигрывая турниры. "/>
     <string id="pZm7HRDG" text="Не волнуйтесь, я не собираюсь нападать."/>
     <string id="q0RY0dQG" text="Нам нужно поговорить о работе."/>
