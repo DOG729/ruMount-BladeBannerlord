@@ -4,7 +4,7 @@
     <tag language="Русский"/>
   </tags>
   <strings>
-    <string id="02c5bQSM" text="Отменить"/>
+    <string id="02c5bQSM" text="Выбросить"/>
     <string id="02E0oSJm" text="Нарушение правил! Ваш противник сражался вне рыцарского турнира. Его дисквалифицировали!"/>
     <string id="03mPaWum" text="Королевство"/>
     <string id="04GuLxE1" text="Вы не можете распустить свой отряд"/>
@@ -103,7 +103,7 @@
     <string id="3wS4uOvU" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} и {?}{\?}{TROOP_NAMES_END} нападают сзади."/>
     <string id="3xeuA9VP" text="+{TROOP_AMOUNT} Отряд{?ISPLURAL}ы{?} {\?} к Поселению"/>
     <string id="3xIv2cP9" text="Держать высоту"/>
-    <string id="3XsOeE2v" text="ВЫ {?PAY_OR_GET}получите{?}заплатите{\?} {TRADE_AMOUNT}{GOLD_ICON}"/>
+    <string id="3XsOeE2v" text="Вы {?PAY_OR_GET}получите{?}заплатите{\?} {TRADE_AMOUNT}{GOLD_ICON}"/>
     <string id="3ZRTekjS" text="Перчатки"/>
     <string id="45kZUyjh" text="Оливки"/>
     <string id="4AQmS4iA" text="+{BONUS_AMOUNT} бонус к вместимости гарнизона"/>
@@ -487,7 +487,7 @@
     <string id="dO5tqXT8" text="Бывшая Супруга"/>
     <string id="DOKG38dF" text="Обучения Включены"/>
     <string id="dpylFaD1" text="Юниты"/>
-    <string id="DqJG7bvh" text="Вместимость Превышена"/>
+    <string id="DqJG7bvh" text="Перегрузка"/>
     <string id="dQRdP9eQ" text="Схватка"/>
     <string id="DRaJ7hoz" text="Победитель –"/>
     <string id="Dtcv8XNu" text="&lt;b&gt;Осадная Башня&lt;/b&gt;{NEWLINE}используется, чтобы забираться на стены. Лучше чем просто лестницы"/>
