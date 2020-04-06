@@ -263,7 +263,7 @@
     <string id="5Adr6toM" text="{MENU_TEXT}"/>
     <string id="5ao0RdRT" text="Ну, я не отрицаю, что есть что-то о вас, к которому меня тянет."/>
     <string id="5AvvGkk4" text="Я уверен, что ты ошибся, но есть законы. Сдать контрабанду для меня, и это будет конец."/>
-    <string id="5axKTUpX" text="При перемещении по лесу, штраф скорости уменьшение на 10%"/>
+    <string id="5axKTUpX" text="Уменьшение штрафа к скорости на 10% при перемещении по лесу."/> <!--Здесь был Cas. Финальная версия!--> 
     <string id="5B6WPxeu" text="{CHAR_NAME}"/>
     <string id="5bSWSaPl" text="Лакеев на лошадях"/>
     <string id="5cH6ssDI" text="компанию наемников "/>
@@ -382,7 +382,7 @@
     <string id="7Jwuax4w" text="Дополнительное Здоровье"/>
     <string id="7K13R6SV" text="Вы должны отдохнуть, и пусть ваши раны заживают."/>
     <string id="7kALTmxP" text="{FIRST_NAME} of the Lamp"/>
-    <string id="7kGGgkro" text="Сбор каравана на 30% дешевле. Торговый штраф на 10% меньше."/>
+    <string id="7kGGgkro" text="Сбор каравана на 30% дешевле. Торговый штраф на 10% меньше."/> <!--Здесь был Cas. Финальная версия!--> 
     <string id="7kGwP1Lf" text="{NAME} из пустыни"/>
     <string id="7kH1W04c" text="{FIRST_NAME} наковальня"/>
     <string id="7kNxogN8" text="назначении независимой старейшин соблюдать закон"/>
@@ -614,7 +614,7 @@
     <string id="atVsFs4O" text="Да... многие мужчины здесь обращаются к разбою в эти смутные времена. Они паразитируют на холмы за городом. Сейчас в сельской местности не является безопасным для деревенского люда и трейдеров. "/>
     <string id="auftprN9" text="позволяя обычным людям избирать племен, чтобы представлять их"/>
     <string id="AULqrp7D" text="стакан Calradian вино"/>
-    <string id="av14a64q" text="Мышление"/>
+    <string id="av14a64q" text="Обдумываете всякое."/>
     <string id="AvaZUvnu" text="Интендант Перки"/>
     <string id="AvBNKK5y" text="Ладно, у меня будет один из моих товарищей пойти и спасти своих товарищей."/>
     <string id="avFXbBLV" text="Я знаю, как это. Просто принеси мне оружие."/>
@@ -717,7 +717,7 @@
     <string id="bKsb7tcr" text="Candidly, what do you think of our liege, {FIRST_NAME}?"/>
     <string id="BkTiRPT4" text="Тренировочные Поля"/>
     <string id="BktSNgY4" text="Мы выступаем против этого предложения"/>
-    <string id="bL5YPUbd" text="Войска получают на 20% больше опыта за сражения."/>
+    <string id="bL5YPUbd" text="Войска получают на 20% больше опыта за сражения."/> <!--Здесь был Cas. Финальная версия!--> 
     <string id="bLfGgakQ" text=" &quot;Прийти в другой день&quot;."/>
     <string id="BlidMNGT" text="Отношения"/>
     <string id="blNhuGKd" text="{FIRST_NAME} the {?FEMALE}Freedwoman{?}Freedman{\?}"/>
@@ -789,7 +789,7 @@
     <string id="bxWITUaN" text="имея величайшие лорды отвечают области как малый тайный совет"/>
     <string id="bXzAluln" text="Когда, через некоторое время ваши силы перегруппироваться, взять быстрый подсчет ваших войск, чтобы увидеть, что ваши силы нетронутыми."/>
     <string id="ByOYHslS" text="That's enough talking for now. Make your choice.[if:idle_angry][rb:trivial][ib:aggressive]"/>
-    <string id="ByrkbDoK" text="10% дополнительный бонус скорости для всадников на карте кампании."/>
+    <string id="ByrkbDoK" text="10% дополнительный бонус скорости для всадников на карте кампании."/> <!--Здесь был Cas. Финальная версия!--> 
     <string id="BYTrUJyj" text="В Войну"/>
     <string id="bZ7Fak5a" text="Snake-eyes {FIRST_NAME}"/>
     <string id="bZbFrIUr" text="кружку кваса"/>
@@ -900,7 +900,7 @@
     <string id="dA8RGoQ1" text="You have arrived at {SETTLEMENT_LINK}. {KEEP_INFO}"/>
     <string id="DaLGnDdq" text="{NAME} of the Wood"/>
     <string id="dbG3PGXL" text="Я рад, что ты так думаешь? Борьбы в сторону, вы узнали что-то особенное?"/>
-    <string id="DbOv36TA" text="Идти вперед с этим."/>
+    <string id="DbOv36TA" text="Всё равно идти."/>
     <string id="dBphGKTI" text="Вещи становятся немного грубо вокруг этих частей. У меня есть некоторые парни, которые помогают мне с местными смутьянами, но они не длятся долго против настоящих воинов. Может быть, вы могли вынуть их, показать им, что фактическое войны.Я не ожидал вас, чтобы сделать их пригодными для благородной дружиной, но, по крайней мере, я хочу дать бандитам здесь некоторую паузу для размышлений."/>
     <string id="DbraLcwM" text="Мне нужно больше времени, чтобы найти правильных людей."/>
     <string id="dCbdYqVw" text="Указывает, член банды, специализирующаяся на краже и ограждения"/>
@@ -1251,7 +1251,7 @@
     <string id="GhPGpR90" text="тарелка даты"/>
     <string id="Giblfhdx" text="Выполнить"/>
     <string id="GIkvhuCC" text="Maybe one of your men who knows a thing or two about scouting, with {TROOP_AMOUNT} good men can deal with these scum. So what do you say?"/>
-    <string id="GIljHGh9" text="20% бонус к скорости строительства городских проектов, осадных орудий и ремонту стен."/>
+    <string id="GIljHGh9" text="20% бонус к скорости строительства городских проектов, осадных орудий и ремонту стен."/> <!--Здесь был Cas. Финальная версия!--> 
     <string id="gjGb044I" text="Я надеюсь, что они будут..."/>
     <string id="gJhqA727" text="Wretched {NAME}"/>
     <string id="GKlmIYik" text="Трамплер"/>
@@ -1357,7 +1357,7 @@
     <string id="hR6Zo6pD" text="Олигархический"/>
     <string id="hrn1Cdwo" text="Есть что-то еще мне нужно сделать."/>
     <string id="hs2W9sZr" text="{FIRST_NAME} the Finger"/>
-    <string id="hSdJ0UUv" text="Ушел Из Армии"/>
+    <string id="hSdJ0UUv" text="Покинуть Армию"/>
     <string id="hsIvt3WC" text="поощряя владык, чтобы укрепить свои имения"/>
     <string id="HsZBO3Wt" text=" Объект Игры "/>
     <string id="HTEYa2Hc" text="Пехота войск +50% более эффективен при увеличении городке порядок. (для безопасности)."/>
@@ -1432,7 +1432,7 @@
     <string id="IMEBieog" text="{NAME} the Wise"/>
     <string id="ImLDk2tg" text="IsEquipmentTemplate"/>
     <string id="ImN8Cfk6" text="Max difficulty of weapon that can be smithed without penalty: {a0}"/>
-    <string id="Impk9uLu" text="На 20% меньше штрафа к скорости от снега."/>
+    <string id="Impk9uLu" text="На 20% меньше штрафа к скорости от снега."/> <!--Здесь был Cas. Финальная версия!--> 
     <string id="iN1kBsac" text="Я не думаю, что они будут долго. Наши охотники заметили их готовности. Продолжаю ждать."/>
     <string id="InFseOAA" text="Это ограничивает возможность судей осуждать тех, кого они быстро считают преступниками. Это предотвращает произвольное злоупотребление властью, но землевладельцы или главари банд могут иногда использовать угрозы и взятки, чтобы манипулировать им."/>
     <string id="InLGoUbB" text="Купец"/>
@@ -1930,7 +1930,7 @@
     <string id="nwJPPIvn" text="Сможете ли вы выкупить меня, если я были сделаны?"/>
     <string id="NWLH02KL" text="Вам нужен неутомимый мужчин? Вы должны увидеть их в марш-бросок."/>
     <string id="NxcvQlAk" text="Здоровья, Советую"/>
-    <string id="NxcXfUxu" text="Деревня была разграблена. Горсть души разлетятся, как вы проходите через сгоревшие дома."/>
+    <string id="NxcXfUxu" text="Деревня была разграблена. Лишь горстка пепла от сгоревших домов рассеивается около вас."/>
     <string id="nxkNY4YG" text="Распределенные Товарами"/>
     <string id="NXs7kr2B" text="You managed to return a fraction of the troops {QUEST_GIVER.LINK} gave you to train. {?QUEST_GIVER.GENDER}She{?}He{\?} sends you the following letter.     “{?PLAYER.GENDER}Madam{?}Sir{\?}, I understand that most of my men are dead. I asked you to try and keep them alive. I do not know what to say to their kinfolk. This is a breach of my trust.”"/>
     <string id="nyN4Kwa9" text="Увеличить скорость изучения новых конструкций деталей при кузнечном деле на 100%."/>
@@ -2374,7 +2374,7 @@
     <string id="SCaWkKF1" text="Here is what we've promised, {GOLD_REWARD}{GOLD_ICON} denars. I hope this makes it worth the blood spilled."/>
     <string id="scJ2eVhS" text="What I said to you before... [default, should not appear]"/>
     <string id="SCsFatSc" text="SteppeHair Описание"/>
-    <string id="sd15CQHI" text="You devised a plan to distract the besiegers so you can rush the fortress gates, expecting the defenders to let you in. You and most of your men may get through, but as many as {POSSIBLE_CASUALTIES} {?PLURAL}troops{?}troop{\?} may be lost."/>
+    <string id="sd15CQHI" text="Вы придумали план по отвлечению осады, чтобы проникнуть через ворота крепости, где вас должна впустить оборона. Вы и большинство ваших людей могут пройти с вами, но {POSSIBLE_CASUALTIES} {?PLURAL}человека{?}человек{\?} будут утеряны."/>
     <string id="SdVJUuU2" text="В хорошей форме"/>
     <string id="sDyntejQ" text="Двуручное оружие наносит на 30% больше потери боевого духа."/>
     <string id="sEfAuErj" text="Некоторые люди говорят, вы далеко пойдете... предположим, что вы должны были подняться с позиции силы. Что бы вы сделали?"/>
@@ -2888,7 +2888,7 @@
     <string id="XN7BX0qP" text="Max usable bow difficulty: {a0}"/>
     <string id="XNc2NIGL" text="Аграрный"/>
     <string id="xnxaNWh9" text="Я не тот человек, который легко может быть обманут с этого типа Игры разума. Уйти сейчас!"/>
-    <string id="xNyKVMHx" text="{JOIN_SIEGE_TEXT}. You decide to..."/>
+    <string id="xNyKVMHx" text="{JOIN_SIEGE_TEXT}. Вы решаете..."/>
     <string id="XO3SOlZx" text="Simulation advantage: +{a0} %"/>
     <string id="xoTWC8Sm" text="Бонус Проекта "/>
     <string id="XOZcg6Sb" text="{KINGDOM} has elected {KING.NAME} as the new ruler despite majority support against it."/>
