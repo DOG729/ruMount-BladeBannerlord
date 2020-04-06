@@ -614,7 +614,7 @@
     <string id="atVsFs4O" text="Да... многие мужчины здесь обращаются к разбою в эти смутные времена. Они паразитируют на холмы за городом. Сейчас в сельской местности не является безопасным для деревенского люда и трейдеров. "/>
     <string id="auftprN9" text="позволяя обычным людям избирать племен, чтобы представлять их"/>
     <string id="AULqrp7D" text="стакан Calradian вино"/>
-    <string id="av14a64q" text="Мышление"/>
+    <string id="av14a64q" text="Обдумываете всякое."/>
     <string id="AvaZUvnu" text="Интендант Перки"/>
     <string id="AvBNKK5y" text="Ладно, у меня будет один из моих товарищей пойти и спасти своих товарищей."/>
     <string id="avFXbBLV" text="Я знаю, как это. Просто принеси мне оружие."/>
@@ -900,7 +900,7 @@
     <string id="dA8RGoQ1" text="You have arrived at {SETTLEMENT_LINK}. {KEEP_INFO}"/>
     <string id="DaLGnDdq" text="{NAME} of the Wood"/>
     <string id="dbG3PGXL" text="Я рад, что ты так думаешь? Борьбы в сторону, вы узнали что-то особенное?"/>
-    <string id="DbOv36TA" text="Идти вперед с этим."/>
+    <string id="DbOv36TA" text="Всё равно идти."/>
     <string id="dBphGKTI" text="Вещи становятся немного грубо вокруг этих частей. У меня есть некоторые парни, которые помогают мне с местными смутьянами, но они не длятся долго против настоящих воинов. Может быть, вы могли вынуть их, показать им, что фактическое войны.Я не ожидал вас, чтобы сделать их пригодными для благородной дружиной, но, по крайней мере, я хочу дать бандитам здесь некоторую паузу для размышлений."/>
     <string id="DbraLcwM" text="Мне нужно больше времени, чтобы найти правильных людей."/>
     <string id="dCbdYqVw" text="Указывает, член банды, специализирующаяся на краже и ограждения"/>
@@ -1357,7 +1357,7 @@
     <string id="hR6Zo6pD" text="Олигархический"/>
     <string id="hrn1Cdwo" text="Есть что-то еще мне нужно сделать."/>
     <string id="hs2W9sZr" text="{FIRST_NAME} the Finger"/>
-    <string id="hSdJ0UUv" text="Ушел Из Армии"/>
+    <string id="hSdJ0UUv" text="Уйти из Армии"/>
     <string id="hsIvt3WC" text="поощряя владык, чтобы укрепить свои имения"/>
     <string id="HsZBO3Wt" text=" Объект Игры "/>
     <string id="HTEYa2Hc" text="Пехота войск +50% более эффективен при увеличении городке порядок. (для безопасности)."/>
@@ -1930,7 +1930,7 @@
     <string id="nwJPPIvn" text="Сможете ли вы выкупить меня, если я были сделаны?"/>
     <string id="NWLH02KL" text="Вам нужен неутомимый мужчин? Вы должны увидеть их в марш-бросок."/>
     <string id="NxcvQlAk" text="Здоровья, Советую"/>
-    <string id="NxcXfUxu" text="Деревня была разграблена. Горсть души разлетятся, как вы проходите через сгоревшие дома."/>
+    <string id="NxcXfUxu" text="Деревня была разграблена. Лишь горстка пепла от сгоревших домов рассеивается около вас."/>
     <string id="nxkNY4YG" text="Распределенные Товарами"/>
     <string id="NXs7kr2B" text="You managed to return a fraction of the troops {QUEST_GIVER.LINK} gave you to train. {?QUEST_GIVER.GENDER}She{?}He{\?} sends you the following letter.     “{?PLAYER.GENDER}Madam{?}Sir{\?}, I understand that most of my men are dead. I asked you to try and keep them alive. I do not know what to say to their kinfolk. This is a breach of my trust.”"/>
     <string id="nyN4Kwa9" text="Увеличить скорость изучения новых конструкций деталей при кузнечном деле на 100%."/>
@@ -2374,7 +2374,7 @@
     <string id="SCaWkKF1" text="Here is what we've promised, {GOLD_REWARD}{GOLD_ICON} denars. I hope this makes it worth the blood spilled."/>
     <string id="scJ2eVhS" text="What I said to you before... [default, should not appear]"/>
     <string id="SCsFatSc" text="SteppeHair Описание"/>
-    <string id="sd15CQHI" text="You devised a plan to distract the besiegers so you can rush the fortress gates, expecting the defenders to let you in. You and most of your men may get through, but as many as {POSSIBLE_CASUALTIES} {?PLURAL}troops{?}troop{\?} may be lost."/>
+    <string id="sd15CQHI" text="Вы придумали план по отвлечению осады, чтобы проникнуть через ворота крепости, где вас должна впустить оборона. Вы и большинство ваших людей могут пройти с вами, но {POSSIBLE_CASUALTIES} {?PLURAL}человека{?}человек{\?} будут утеряны."/>
     <string id="SdVJUuU2" text="В хорошей форме"/>
     <string id="sDyntejQ" text="Двуручное оружие наносит на 30% больше потери боевого духа."/>
     <string id="sEfAuErj" text="Некоторые люди говорят, вы далеко пойдете... предположим, что вы должны были подняться с позиции силы. Что бы вы сделали?"/>
@@ -2888,7 +2888,7 @@
     <string id="XN7BX0qP" text="Max usable bow difficulty: {a0}"/>
     <string id="XNc2NIGL" text="Аграрный"/>
     <string id="xnxaNWh9" text="Я не тот человек, который легко может быть обманут с этого типа Игры разума. Уйти сейчас!"/>
-    <string id="xNyKVMHx" text="{JOIN_SIEGE_TEXT}. You decide to..."/>
+    <string id="xNyKVMHx" text="{JOIN_SIEGE_TEXT}. Вы решаете..."/>
     <string id="XO3SOlZx" text="Simulation advantage: +{a0} %"/>
     <string id="xoTWC8Sm" text="Бонус Проекта "/>
     <string id="XOZcg6Sb" text="{KINGDOM} has elected {KING.NAME} as the new ruler despite majority support against it."/>
