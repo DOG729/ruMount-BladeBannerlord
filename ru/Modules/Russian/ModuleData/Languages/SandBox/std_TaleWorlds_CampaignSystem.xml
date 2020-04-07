@@ -628,7 +628,7 @@
     <string id="aWWzrwAw" text="Стоимость отзыва феода из клана удваивается \nКланы получают 1 влияние за каждого феода, которым они владеют" />
     <string id="ax1Geb7w" text="{FIRST_NAME} Агнец" />
     <string id="axblySC2" text="-25% к полученному урону от щита." />
-    <string id="aXhPvVud" text="{HERO.LINK} создал армию." />
+    <string id="aXhPvVud" text="{HERO.LINK} создает армию." />
     <string id="aXOgAKfj" text="Спасибо, {?PLAYER.GENDER} сэр {?} мадам {\?}. Я надеюсь, что ваши люди будут успешными." />
     <string id="aY2SKxqG" text="Совершите набег на их деревни!" />
     <string id="aYQybo4E" text="Планы Подстраховки" />
@@ -1231,7 +1231,7 @@
     <string id="Gdn4wFrt" text="Описание BalancedFightingSkills "/>
     <string id="GDputQ2q" text="Свистящий Болта"/>
     <string id="GDSwyH2p" text="ваше сиятельство"/>
-    <string id="gE7QFy6y" text="{PRISONER.NAME} has escaped from {?PRISONER.GENDER}her{?}his{\?} place of captivity"/>
+    <string id="gE7QFy6y" text="{PRISONER.NAME} {?PRISONER.GENDER}сбежала{?}сбежал{\?} из места заключения"/>
     <string id="GEBRuVcZ" text="Зачем менять стороны? Когда-то один объявляет себя бунтарем, там, как правило, не возвращаюсь."/>
     <string id="gEGGdxCu" text="Олигархический Описание"/>
     <string id="geJQxzgB" text="Quest Failed: {QUEST_TITLE}"/>
@@ -1790,7 +1790,7 @@
     <string id="mfAP8Wlq" text="Оставить поселение."/>
     <string id="mfBggr9y" text="Да, {STR_SALUTATION}."/>
     <string id="MFDb5duu" text="Великолепно! Я подозреваю, что вы, возможно, в вашей работе, иногда приобретают несколько пленников. Я могу взять их с ваших рук. Я заплачу тебе, конечно."/>
-    <string id="mfYzCeGR" text="{CHARACTER.NAME} was {TITLE} of the {CHARACTER.FACTION_SHORT}. {FURTHER_DETAILS}."/>
+    <string id="mfYzCeGR" text="{CHARACTER.NAME} был {TITLE} в {CHARACTER.FACTION_SHORT}. {FURTHER_DETAILS}."/>
     <string id="mG9jW8Fp" text="Запись запрос на замок."/>
     <string id="mGET75ZZ" text="The vote to expel {CLAN} from {KINGDOM} has failed despite majority support against it."/>
     <string id="mGsnCVKh" text="Увеличивает урон по стенам во время осад."/>
@@ -2459,7 +2459,7 @@
     <string id="T7QCX5Ho" text="Катапульты на 30% становятся более эффективными."/>
     <string id="t8TfagYL" text="Дворяне рекомендуется для укрепления своих поместьях, и могут реквизировать рабочую силу и материалы, чтобы сделать так."/>
     <string id="tam7KZni" text="Деревни восстанавливаются быстрее, чем обычно после разграбления."/>
-    <string id="TauRjAud" text="{NAME} of the {FACTION}"/>
+    <string id="TauRjAud" text="{NAME} из {FACTION}"/>
     <string id="taz5cAtw" text="You failed to train the {YOUNG_HERO.LINK} enough as {QUEST_GIVER.LINK} expected. {?QUEST_GIVER.GENDER}She{?}He{\?} is disappointed."/>
     <string id="tb0gqxDZ" text="Мы лежали в засаде в деревне. Когда они появятся, мы весной. Если вы присоединитесь к нам, я думаю, у нас есть хорошие шансы избавиться от этой напасти, прежде чем они убивают нас по одному."/>
     <string id="Tbedapqy" text="Торговый штраф за лошадей -10%."/>
