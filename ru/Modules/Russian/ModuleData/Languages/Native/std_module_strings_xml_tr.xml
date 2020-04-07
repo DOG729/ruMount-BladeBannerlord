@@ -723,7 +723,7 @@
     <string id="Igoid3sR" text="Предлагаю исключить этот клан из королевства"/>
     <string id="ihVHfUFT" text="Формирование"/>
     <string id="iisvVbDI" text="Купить Все"/>
-    <string id="IjMel5eg" text="Вы можете продать всех заключенных сразу. {newline}{newline}Или вы можете переговорить с работорговцем, чтобы отобрать пленников вручную."/>
+    <string id="IjMel5eg" text="Вы можете продать всех пленных сразу. {newline}{newline}Или вы можете переговорить с работорговцем, чтобы отобрать пленников вручную."/>
     <string id="IK2IPJi1" text="Соль"/>
     <string id="iKUXVaFf" text="Стоимость влиятельности: {reg0}"/>
     <string id="iKzyJHiD" text="К сожалению, я не могу дать хороших советов по торговле в данный момент."/>
@@ -971,7 +971,7 @@
     <string id="N5fmlTza" text="{LEFT}, {RIGHT}"/>
     <string id="N6O2GtTK" text="Переработки"/>
     <string id="n6Q6vv5t" text="You plundered {GOLD} gold."/>
-    <string id="N6QTvjMf" text="Заключенных"/>
+    <string id="N6QTvjMf" text="Пленных"/>
     <string id="N7w6zi0F" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}are{?}is{\?} pulling back."/>
     <string id="N84HlDaV" text="{NUMBER_OF} {ITEM} ({AMOUNT}{GOLD_ICON})"/>
     <string id="NaNMRPv4" text="Асераи"/> <!--Здесь был Cas. Финальная версия!--> 

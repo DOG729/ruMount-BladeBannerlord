@@ -420,7 +420,7 @@
     <string id="8agoixxf" text="Борец I"/>
     <string id="8aior6PH" text="Парад бонусный перк "/>
     <string id="8Az4q2wp" text="Join {FACTION}"/>
-    <string id="8bfzW0np" text="Многие пленники все еще принимаются, и их семей будут платить их обратно. Таких мужчин, как я крест-накрест Империи и внешний царства, приобретая заключенных, и связываться с их родственниками на любой выкуп."/>
+    <string id="8bfzW0np" text="Многие пленники все еще принимаются, и их семей будут платить их обратно. Таких мужчин, как я крест-накрест Империи и внешний царства, приобретая пленных, и связываться с их родственниками на любой выкуп."/>
     <string id="8BnWa83o" text="Я просто с честью сражались вместе с товарищами, которые думали, что ничего не пролить свою кровь, чтобы держать меня в живых."/>
     <string id="8eHRth3U" text="моя жена"/>
     <string id="8EroApVD" text="FrankishHair Описание"/>
@@ -529,7 +529,7 @@
     <string id="a9zbBCTR" text="'Горной пещере приюты меня \н моей кровати жесткий холодный камень'"/>
     <string id="aa1yFm6q" text="Вьючные Животные:"/>
     <string id="aa9JY2Bp" text="{FIRST_NAME} the {?NORTHERN}Far-Farer{?}Caravanser{\?}"/>
-    <string id="aadTnAEg" text="Управлять Заключенных"/>
+    <string id="aadTnAEg" text="Управлять Пленными"/>
     <string id="aaf5R99a" text="Я дам вам ничего, кроме холодной стали, Ты мразь!"/>
     <string id="AaHa2hQT" text="The vote to make peace with {KINGDOM} has failed despite majority support against it."/>
     <string id="AahNTeXY" text="Horse maneuver: +{a0}"/>
@@ -595,7 +595,7 @@
     <string id="aQAI99d4" text="Declaring War On {KINGDOM_NAME}"/>
     <string id="aqCj9dhC" text="Нет необходимости защищать. Осада свои поселения!"/>
     <string id="aQduWCrg" text="Max difficulty of siege engine that can be built: {a0}"/>
-    <string id="AQi1arUp" text="В любом случае, если у вас возникли заключенных, я буду рад купить их у вас."/>
+    <string id="AQi1arUp" text="В любом случае, если у вас возникли пленные, я буду рад купить их у вас."/>
     <string id="aQYMefHU" text="Может быть, мы можем что-то сделать."/>
     <string id="arbaXvQf" text="Эффекты производства деревни."/>
     <string id="arCGUuR5" text="Поселок находится в осаде."/>
@@ -809,7 +809,7 @@
     <string id="C9gqMhZx" text="Туристов не безопасен, пока вы не расправитесь с ними."/>
     <string id="caG3bmUG" text="{FIRST_NAME} the Miller"/>
     <string id="caKhsNla" text="Вот твои деньги."/>
-    <string id="cAVxYAdw" text="Тогда вам лучше принести ваш кошелек. У меня есть заключенных на продажу."/>
+    <string id="cAVxYAdw" text="Тогда вам лучше принести ваш кошелек. У меня есть пленные на продажу."/>
     <string id="Cb5s9HlD" text="Боевые Советы"/>
     <string id="cBAVR7e8" text="предоставление высокопоставленными дворянами право вызывать больших армий"/>
     <string id="cbzJRaDJ" text="Ты теперь мой пленник!"/>
@@ -1622,7 +1622,7 @@
     <string id="klQQ6LQR" text="{FIRST_NAME} of the Axe"/>
     <string id="KLWn6yZQ" text="{HIDEOUT_DESCRIPTION} The remains of a fire suggest that it's been recently occupied, but its residents - whoever they are - are well-hidden for now."/>
     <string id="KmfuKH4c" text="Увидимся на поле боя, тогда!"/>
-    <string id="kmsNUfbA" text="Пожертвовать заключенным"/>
+    <string id="kmsNUfbA" text="Пожертвовать пленным"/>
     <string id="knWgaYdk" text="Оточенные Лезвия"/>
     <string id="KnxOUsuu" text="Бастион II"/>
     <string id="koZaxzLN" text="{FIRST_NAME} the Needle"/>
@@ -1857,7 +1857,7 @@
     <string id="N4p2GCsG" text="I'll assign one of my companions and {NEEDED_MEN_COUNT} of my men to protect your caravan for {RETURN_DAYS} days."/>
     <string id="N4Qa0WsT" text="Присоединяйтесь к армии"/>
     <string id="N5xh13tO" text="Защитник Стаур "/>
-    <string id="N6QTvjMf" text="Заключенных"/>
+    <string id="N6QTvjMf" text="Пленных"/>
     <string id="N70ovtjV" text="You will stay in {SETTLEMENT} for a while."/>
     <string id="N7hncI0e" text="Great {NAME}"/>
     <string id="N8aBOj2R" text="{SETTLEMENT} has been given to {LEADER.NAME} from {CLAN} with majority support."/>
@@ -2072,7 +2072,7 @@
     <string id="PGkFvo77" text="{CURRENT_LIEGE.LINK} is a friend of mine. I cannot imagine betraying him."/>
     <string id="PH7pkve4" text="{ISSUE_NAME}: Your troops are resolving this problem."/>
     <string id="PHe0oco1" text="You fought your way through the attackers to reach the gates. The defenders open them quickly to let you through. When the gates are safely closed behind you, you take a quick tally only to see you have lost the following: {CASUALTIES}.{OTHER_CASUALTIES}"/>
-    <string id="pHrxeTdc" text="Заключенные:"/>
+    <string id="pHrxeTdc" text="Пленные:"/>
     <string id="pI0j13oK" text="Отряд Налетчиков"/>
     <string id="PI6ikMsc" text="Я работаю над этим."/>
     <string id="PIlZuQnW" text="{SETTLEMENT_DESCRIPTION}"/>
@@ -2283,7 +2283,7 @@
     <string id="RL8z99Dt" text="Знатные силы, чтобы дать вам новобранцев"/>
     <string id="RLHjUDeb" text="Кузнец Описание"/>
     <string id="RliyRJKl" text="Обеспечивает учебный бой для граждан и привлекать их в милицию. Увеличивает ежедневный подбор милиции."/>
-    <string id="rLlIVqmY" text="Итак, были вы, чтобы приобрести несколько заключенных в одной из своих победоносных affrays, и желаю, чтобы избавить себя от их ухода и кормления, я или один из моих коллег были бы рады платить за них как своего рода спекулятивных инвестиций."/>
+    <string id="rLlIVqmY" text="Итак, были вы, чтобы приобрести несколько пленных в одной из своих победоносных affrays, и желаю, чтобы избавить себя от их ухода и кормления, я или один из моих коллег были бы рады платить за них как своего рода спекулятивных инвестиций."/>
     <string id="RlP8aYVJ" text="Никто не ищет помощи прямо сейчас."/>
     <string id="RLPWmTT7" text="+4 К размеру отряда."/>
     <string id="rMagXCrI" text="Вам не хватает влияния, чтобы снять обвинения."/>
@@ -2715,7 +2715,7 @@
     <string id="vWxioznX" text="Вашим городам привязаны селах зерно / оливки / рыба / дата производства увеличивается на 20%"/>
     <string id="vXCg3OYx" text="Итак, вы принесли их?"/>
     <string id="VXKGD0ta" text="Я хочу использовать кузницу."/>
-    <string id="VXkL5Ysd" text="Управлять заключенных"/>
+    <string id="VXkL5Ysd" text="Управлять Пленными"/>
     <string id="vxoaJjhO" text="Инструктор"/>
     <string id="vYasCMEi" text="Выносливость, затрачиваемая на кузнечное дело, уменьшается вдвое."/>
     <string id="vYCY931w" text="В любой новости о мои люди?"/>
@@ -2737,7 +2737,7 @@
     <string id="w3GIUD3u" text="позволив правителю собирать специальные тарифы"/>
     <string id="W3xUQxAa" text="призывая лордов иметь большие частные армии"/>
     <string id="w4BzNJYl" text="Casualty survival chance +{a0}%"/>
-    <string id="w4yxgY3F" text="Привет. Если у вас есть какие-либо заключенные, я буду рад купить их у вас."/>
+    <string id="w4yxgY3F" text="Привет. Если у вас есть какие-либо пленные, я буду рад купить их у вас."/>
     <string id="W6ebB306" text="люди"/>
     <string id="W6XMWJ8R" text="Чартеры Замок "/>
     <string id="W73My5KO" text="Смерть"/>
@@ -3033,7 +3033,7 @@
     <string id="z0WacPaW" text="Нет, справедливость требует вас заплатить за ваши преступления."/>
     <string id="Z1rfW4jL" text="-20% к шансу быть пойманным во время проникновения в города."/>
     <string id="z1RHDsOG" text="Остановиться в поселке"/>
-    <string id="Z212GSiV" text="Оставить Заключенных"/>
+    <string id="Z212GSiV" text="Оставить Пленных"/>
     <string id="Z2amOHAb" text="сохранение формальной иерархии дворянских привилегий"/>
     <string id="Z2ZNeEgY" text="Dirty {NAME}"/>
     <string id="Z3ne80iW" text="Привлекать браконьеров"/>
