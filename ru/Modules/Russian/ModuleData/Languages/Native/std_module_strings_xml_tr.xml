@@ -40,7 +40,7 @@
     <string id="1Llb4gGw" text="Завершение"/>
     <string id="1MStGeRa" text="Побежденных противников: {BEATEN_OPPONENT_COUNT}"/>
     <string id="1NbY2O5q" text="Замок"/>
-    <string id="1o1TyPib" text="Дополнительные Ограничения Компаньона"/>
+    <string id="1o1TyPib" text="Дополнительные Ограничения Спутника"/>
     <string id="1oeak0OC" text="Кузница"/>
     <string id="1PwQxaOu" text="Похоже, идет подготовка к турниру. Награда {ITEM}."/>
     <string id="1pxLpZ4r" text="Вычисления:"/>
@@ -123,7 +123,7 @@
     <string id="4ml9Bx6i" text="Мультиплеерный Перк"/>
     <string id="4mMXsVGb" text="Таверна Игрового Хоста"/>
     <string id="4nv6LzDp" text="Мушкет"/>
-    <string id="4okzoXIw" text="Компаньон"/>
+    <string id="4okzoXIw" text="Спутник"/>
     <string id="4ol7MhA5" text="Вы оказались в ловушке врагов. Но ваши люди не в состоянии воевать."/>
     <string id="4rRsmX8i" text="Хорошо. Иногда лучше стричь овец, чем съесть их."/>
     <string id="4Skg9QhO" text="Требушет"/>
@@ -233,7 +233,7 @@
     <string id="929Lxhde" text="Вы потеряете {INFLUENCE_COST} влияния, если покинете армию."/>
     <string id="92M0Pb5T" text="Разведчик"/>
     <string id="984Ink0j" text="Стрела"/>
-    <string id="9aymfBBG" text="Получение Компаньонов"/>
+    <string id="9aymfBBG" text="Получение Спутников"/>
     <string id="9B5kxWb8" text="У других кампаний превышен лимит количества войск.{newline}Они временно будет с отрядом, но после промежутка времени быстро покинут отряд.{newline}Вы уверены?"/>
     <string id="9Bm06EEJ" text="Вы слышите много похвалы в сторону мудрости правителей, которые добились такого процветания."/>
     <string id="9C0J0ZkT" text="Огонь от пехотного прикрытия."/>
@@ -289,10 +289,10 @@
     <string id="aHKwty74" text="Отменить Действие"/>
     <string id="ahpal89z" text="{PARTY_LIST_TAG}({COUNT} + {WEAK_COUNT}w / {MAX_COUNT})"/>
     <string id="AI2Spvw0" text="Выбрать"/>
-    <string id="aieN31uq" text="Компаньоны ({COMPANION_COUNT}/{COMPANION_LIMIT})"/>
+    <string id="aieN31uq" text="Спутники ({COMPANION_COUNT}/{COMPANION_LIMIT})"/>
     <string id="AIh1Ik4A" text="Империя Кальрадия"/>
     <string id="aIkffnN6" text="Персонажи"/>
-    <string id="aiX4b5kS" text="Выполненные Квесты"/>
+    <string id="aiX4b5kS" text="Выполненные Задания"/>
     <string id="AIYWSAyK" text="Получайте прибыль от торговли. Сопровождайте караваны."/>
     <string id="aJoNj6JX" text="Сражаться с коротким двуручным оружием."/>
     <string id="aJQQnshf" text="Налог С Населения:"/>
@@ -439,7 +439,7 @@
     <string id="ckPhG1KV" text="Связанная(ые) деревня(и)"/>
     <string id="CKR7PhRI" text="Враждебные Армии"/>
     <string id="CkwERBcS" text="Стычка позади формирования союзника."/>
-    <string id="cMrROb6w" text="Доступный Квест"/>
+    <string id="cMrROb6w" text="Доступный Задание"/>
     <string id="CODsu5Ok" text="Новая Кампания"/>
     <string id="COhJ2HsU" text="Это автоматически будет решение через {HOUR} часов."/>
     <string id="CoHPb7DL" text="Наш план состоит в том, чтобы раздавить их нашей конницой и снести остальных последующей атакой."/>
@@ -510,7 +510,7 @@
     <string id="E1OwmQFb" text="Назад"/>
     <string id="e1tZ4kEY" text="Все Вещи"/>
     <string id="e4OPfBqt" text="Воздержаться"/>
-    <string id="e54212r1" text="В городах вы можете найти талантливых людей, которые могут помочь вам.{newline}{newline}Этих потенциальных спутников можно найти в тавернах.{newline}{newline}Отправляйся в таверну, чтобы найти потенциального компаньона."/>
+    <string id="e54212r1" text="В городах вы можете найти талантливых людей, которые могут помочь вам.{newline}{newline}Этих потенциальных спутников можно найти в тавернах.{newline}{newline}Отправляйся в таверну, чтобы найти потенциального спутника."/>
     <string id="E9f8YUbO" text="Вы получаете уровень каждый раз, когда общее количество очков навыков достигает целевого значения. Повышение уровня дает фокусные очки, чтобы потратить.{newline}{newline}Если у вас есть свободные точки фокусировки, вы увидите маленький индикатор над кнопкой экрана персонажа. Нажмите на кнопку, чтобы просмотреть различные навыки и выбрать один, чтобы увеличить фокус."/>
     <string id="eAGeVRjI" text="Вы получили {GOLD_AMOUNT}{GOLD_ICON}."/>
     <string id="EAicirVE" text="Бесстрашный"/>
@@ -536,7 +536,7 @@
     <string id="ENzvOHsA" text="{ASKED_LORD.LINK} в странствиях и {?ASKED_LORD.GENDER}она{?}он{\?} находится близко к {SETTLEMENT_NAME} в текущий момент."/>
     <string id="eob9goyW" text=" и "/>
     <string id="eodelMzf" text="Леди"/>
-    <string id="EOhmOITp" text="Отслеживать Объекты, Связанные С Квестом "/>
+    <string id="EOhmOITp" text="Отслеживать Объекты, Связанные С Заданием "/>
     <string id="EPGDe5fG" text="Только волки могут захватывать, перепрыгивая через овец на доступные плитки позади них. Захват также придерживается линии на доске."/>
     <string id="eqAc8AOs" text="{LEFT}:"/>
     <string id="es0Y3Bxc" text="Присоединиться"/>
@@ -685,7 +685,7 @@
     <string id="hMIjbLjt" text="мадам"/>
     <string id="hmlUJaDa" text="Неплохая встреча {PLAYER.LINK}. Мое имя {NPC.LINK} и я навсегда в долгу перед тобой. Если есть что-нить, в чем я могу тебе помочь, просто дай мне знать..."/>
     <string id="HNBAw1uO" text="{PARTY} получила {AMOUNT_TO_ADD} известности. Известность {CLAN} теперь {NEW_RENOWN}."/>
-    <string id="HNqy4Ctc" text="Нельзя исключить компаньона, который отбыл по поручению."/>
+    <string id="HNqy4Ctc" text="Нельзя исключить спутника, который отбыл по поручению."/>
     <string id="ho5EndaV" text="Решение"/>
     <string id="HP9wMk1T" text="Нельзя открыть прямо сейчас окно отряда!"/>
     <string id="HPe7HaZx" text="Выкуп Пленных"/>
@@ -723,7 +723,7 @@
     <string id="Igoid3sR" text="Предлагаю исключить этот клан из королевства"/>
     <string id="ihVHfUFT" text="Формирование"/>
     <string id="iisvVbDI" text="Купить Все"/>
-    <string id="IjMel5eg" text="Вы можете продать всех заключенных сразу. {newline}{newline}Или вы можете переговорить с работорговцем, чтобы отобрать пленников вручную."/>
+    <string id="IjMel5eg" text="Вы можете продать всех пленных сразу. {newline}{newline}Или вы можете переговорить с работорговцем, чтобы отобрать пленников вручную."/>
     <string id="IK2IPJi1" text="Соль"/>
     <string id="iKUXVaFf" text="Стоимость влиятельности: {reg0}"/>
     <string id="iKzyJHiD" text="К сожалению, я не могу дать хороших советов по торговле в данный момент."/>
@@ -773,7 +773,7 @@
     <string id="JbTCDDb0" text="Болт"/>
     <string id="jCbYaCcg" text="Наконец-то мы встретились, {PLAYER.LINK}. Я {NPC.LINK}. Спасибо за помощь, и, я надеюсь, мы встретимся вновь."/>
     <string id="Jd0Kq9lD" text="Щит"/>
-    <string id="jd4ULLGr" text="Активные Квесты"/>
+    <string id="jd4ULLGr" text="Активные Задания"/>
     <string id="JdNTRtpJ" text="Поддерживайте высокий боевой дух вашего отряда. Собирайте и возглавляйте армии."/>
     <string id="Jelvod71" text="Захват"/>
     <string id="jfIbp2Hg" text="Последующий: "/>
@@ -971,7 +971,7 @@
     <string id="N5fmlTza" text="{LEFT}, {RIGHT}"/>
     <string id="N6O2GtTK" text="Переработки"/>
     <string id="n6Q6vv5t" text="You plundered {GOLD} gold."/>
-    <string id="N6QTvjMf" text="Заключенных"/>
+    <string id="N6QTvjMf" text="Пленных"/>
     <string id="N7w6zi0F" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}are{?}is{\?} pulling back."/>
     <string id="N84HlDaV" text="{NUMBER_OF} {ITEM} ({AMOUNT}{GOLD_ICON})"/>
     <string id="NaNMRPv4" text="Асераи"/> <!--Здесь был Cas. Финальная версия!--> 
@@ -1152,11 +1152,11 @@
     <string id="QGaIYQpg" text="Рыба"/>
     <string id="qgHblOq4" text="Вы заметили засаду."/>
     <string id="qgL4P2vO" text="Город процветает. Люди выглядят сытыми и относительно спокойными."/>
-    <string id="QgUej8DP" text="Нет Активного Квеста"/>
+    <string id="QgUej8DP" text="Нет Активного Задания"/>
     <string id="qhhLVJAC" text="&lt;б&gt;препараты&lt;/б&gt;"/>
     <string id="qIvDX0JR" text="Центр"/>
     <string id="Qk6aHGNO" text="Нажмите 'Alt' для получения дополнительной информации."/>
-    <string id="QLM6DWHB" text="Активный квест(ы)"/>
+    <string id="QLM6DWHB" text="Активный Задание(я)"/>
     <string id="qlw2LWgu" text="Двигаться в диапазоне"/>
     <string id="qM8daraD" text="Всего очков умений: {CURRENT_SKILL_POINTS}"/>
     <string id="QmaVRAkx" text="Вы не можете заплатить всю зарплату, ваш отряд теряет {reg1} морали."/>
@@ -1283,7 +1283,7 @@
     <string id="Ti2GeG0U" text="При выборе этой опции будет заблокирован один случайный вариант."/>
     <string id="ti5FwD4t" text="Неизвестная сторона"/>
     <string id="TlP31w8l" text="Бриколь"/>
-    <string id="tMg5AF19" text="Не могу открыть квесты прямо сейчас!"/>
+    <string id="tMg5AF19" text="Не могу открыть Задани прямо сейчас!"/>
     <string id="TmKbTxQy" text="хатун"/>
     <string id="TNLRC4Gf" text="Сражайтесь с одноручным оружием."/>
     <string id="tolOqAaP" text="Лето {DAY}, {YEAR}"/>
@@ -1354,7 +1354,7 @@
     <string id="UxAl9iyi" text="Личный"/>
     <string id="UxD6lPXa" text="Вы получили {INFLUENCE} влияния. Новое влияние - {NEW_INFLUENCE}."/>
     <string id="UxyIkWah" text="Наемники не могут аннексировать поселения."/>
-    <string id="uYFd4meY" text="Квест выдан"/>
+    <string id="uYFd4meY" text="Задание выдано"/>
     <string id="V03gbccF" text="Вы попали в дружественный отряд!"/>
     <string id="V0Kw3O7c" text="Учебник"/>
     <string id="V0OMMQ1F" text="Мастерский перфоманс, {PLAYER.LINK}. Бац! Бах! Вы уложили {OPPONENT_COUNT} из них. Толпе это понравилось. И вы получили в награду {PRIZE} {GOLD_ICON}."/>
@@ -1366,7 +1366,7 @@
     <string id="Vap6ahft" text="Воины! {BEHAVIOUR_NAME_BEGIN}!"/>
     <string id="VbeHEAsa" text="Сдаться"/>
     <string id="VbL6GFmy" text="Масло"/>
-    <string id="Vc9Mx6Jb" text="Квест"/>
+    <string id="Vc9Mx6Jb" text="Задание"/>
     <string id="vdEoBkpr" text="Вы должны поддерживать запасы еды. Если у вас кончится еда, ваш отряд потеряет боевой дух. Ваши войска могут покинуть вас из-за низкой морали.{newline}{newline}Вы можете увидеть свой запас еды на информационной панели. Наведите курсор на него, чтобы увидеть, сколько еды потребляет ваш отряд каждый день. Поскольку ваша армия нуждается в еде, отправляйтесь на рынок и купите продовольствие"/>
     <string id="vdK5SaJN" text="Мм. Жалость.[ib:aggressive][rb:very_negative]"/>
     <string id="vdKLq8T5" text="Стены{newline}Уровень {LEVEL}"/>
@@ -1385,8 +1385,8 @@
     <string id="vmMqs3Ck" text="Благородный"/>
     <string id="vn7A8aXV" text="Вы находитесь снаружи {SETTLEMENT_NAME}. Ваше знамя развевается над воротами замка."/>
     <string id="vnmy8Bjl" text="Общий Расход"/>
-    <string id="vo867CHX" text="Выполненные квесты в прошлом году"/>
-    <string id="vOgACpuD" text="Компаньоны"/>
+    <string id="vo867CHX" text="Выполненные Задания в прошлом году"/>
+    <string id="vOgACpuD" text="спутникы"/>
     <string id="VoZBLWay" text="{RULER.NAME} {?RULER.GENDER}Khatun{?}Khan{\?}"/>
     <string id="VpCa9ATa" text="Правильно. Ты же мертв.[if:idle_furious][ib:aggressive][rb:very_negative]"/>
     <string id="VpKIzJxz" text="Ну вот, путешественник. Мы только что высадились в этих землях, надеясь на удачу с набегами и грабежами, у тебя разве не зоркий глаз?"/>
@@ -1605,7 +1605,7 @@
     <string id="zX4C3332" text="Ты будешь убит. Готовься к смерти."/>
     <string id="ZxcnmaXi" text="Вы прибыли в {SETTLEMENT}, чтобы совершить налет. Вы не встретите никакого сопротивления. Это действитвие вызовет войну с {KINGDOM}."/>
     <string id="ZXXNrvvg" text="Игрок побеждает, если у его противника больше нет свободных пешек в руке или на доске."/>
-    <string id="zyp2VGt4" text="Имеется доступный квест"/>
+    <string id="zyp2VGt4" text="Имеется доступное задание"/>
     <string id="zzUk6ZaA" text="Выход"/>
   </strings>
 </base>
