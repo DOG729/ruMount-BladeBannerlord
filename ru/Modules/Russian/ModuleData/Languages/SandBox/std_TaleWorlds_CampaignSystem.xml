@@ -268,7 +268,7 @@
     <string id="5axKTUpX" text="Леса дают на 10% меньше штрафа к скорости отряда"/>
     <string id="5B6WPxeu" text="{CHAR_NAME}"/>
     <string id="5bSWSaPl" text="Мечники на лошадях"/>
-    <string id="5cH6ssDI" text="компанию наемников "/>
+    <string id="5cH6ssDI" text="компания наемников "/>
     <string id="5CJOMH90" text="{ARMY} был расформирован."/>
     <string id="5CokRxmL" text="{QUEST_GIVER.LINK}, староста {QUEST_SETTLEMENT} просил вас доставить {GRAIN_AMOUNT} единицы зерна до {?QUEST_GIVER.GENDER}her{?}him{\?} чтобы использовать в качестве семян. Иначе крестьяне не смогут засеять свои поля и будут голодать в наступающем сезоне.       Вы согласились привезти {GRAIN_AMOUNT} единицы зерна как можно скорее."/>
     <string id="5E2bIcGb" text="Я не предам своего сеньора. (Убеждение в верности не удалось.)"/>
@@ -316,7 +316,7 @@
     <string id="69cxRmEr" text="Увеличение урона одноручным оружием на 4%."/>
     <string id="6bQIRaIl" text="Смотреть турнир"/>
     <string id="6bvJSIqh" text="Да. Я могу найти нового господина, чтобы взять их на."/>
-    <string id="6d4ZTvGv" text="{LORD.NAME} is {TITLE} of the {FACTION_NAME} and head of the {CLAN_NAME}, a {CLAN_DESCRIPTION} of the realm. {?LORD.GENDER}She{?}He{\?} has the reputation of being{REPUTATION}"/>
+    <string id="6d4ZTvGv" text="{LORD.NAME} is {TITLE} of the {FACTION_NAME} and head of the {CLAN_NAME}, a {CLAN_DESCRIPTION} of the realm. {?LORD.GENDER}Известна{?}Известен{\?} в своих кругах как {REPUTATION}"/>
     <string id="6DQjKwt2" text="Стоимость влияние предложив аннексии поселения уменьшается на 50% для клана правителя "/>
     <string id="6dvryoMH" text="{FIRST_NAME} {LAST_NAME}"/>
     <string id="6ETg3maz" text="Надежный Военачальник"/>
@@ -479,7 +479,7 @@
     <string id="9KQxHbo2" text="Известный Лучник"/>
     <string id="9lHhtVJ5" text="Бастион I"/>
     <string id="9lygvooT" text="Падение Валюты"/>
-    <string id="9Obe3S6L" text="{LORD.NAME} is a member of the {CLAN_NAME}, a {CLAN_DESCRIPTION} based in the lands of the {FACTION_NAME}. {?LORD.GENDER}She{?}He{\?} has the reputation of being{REPUTATION}."/>
+    <string id="9Obe3S6L" text="{LORD.NAME} член клана {CLAN_NAME} - {CLAN_DESCRIPTION} основанной на землях фракции {FACTION_NAME}. {?LORD.GENDER}Известна{?}Известен{\?} в своих кругах как {REPUTATION}."/>
     <string id="9Oum4lmk" text="Увеличивает грузоподъемность вьючных животных на +20."/>
     <string id="9qoLQva5" text="Все, что клятва, которую я даю вам, вы можете быть уверены, что я буду держать его."/>
     <string id="9RiXgPc1" text="Конечно. Что нужно знать?"/>
@@ -1552,7 +1552,7 @@
     <string id="JsUbgfgl" text="Select an heir [temptext]"/>
     <string id="JTfaqKyX" text="Ну, попробуйте привести его в ближайшее время."/>
     <string id="jUkuyVTC" text="Валор Описание"/>
-    <string id="JuPUG5wX" text="{LORD.NAME} is {TITLE} of the {FACTION_NAME} and head of the {CLAN_NAME}, a {CLAN_DESCRIPTION} that is backing {RULER} in the civil war. {?LORD.GENDER}She{?}He{\?} has the reputation of being{REPUTATION}"/>
+    <string id="JuPUG5wX" text="{LORD.NAME} is {TITLE} of the {FACTION_NAME} and head of the {CLAN_NAME}, a {CLAN_DESCRIPTION} that is backing {RULER} in the civil war. {?LORD.GENDER}Известна{?}Известен{\?} в своих кругах как {REPUTATION}"/>
     <string id="JuwBb2Yg" text="Разваливали"/>
     <string id="jvOYgHOe" text="Заказ"/>
     <string id="jwi4dH1f" text="{FIRST_NAME} the Scorpion"/>
@@ -1947,7 +1947,7 @@
     <string id="O4dWdKZd" text="Ах... Я слышал, что {LORD.LINK} получил по заднице от {OTHER_SIDE}. Трудное время, приятель."/>
     <string id="O4flV28Q" text="Здесь нет никаких пленных."/>
     <string id="O4iki0FD" text="Правитель получает налог в размере 5% со всех поселений{newline}Города теряют 1 благосостояние в день{newline}Стоимость влияния объявления войны удваивается для клана правителя"/>
-    <string id="o5AUljbW" text="{LORD.NAME} является членом {CLAN_NAME}, {CLAN_DESCRIPTION} из {FACTION_NAME}. {?LORD.GENDER}Она{?}Он{\?} имеет репутацию {REPUTATION}"/>
+    <string id="o5AUljbW" text="{LORD.NAME} является членом клана {CLAN_NAME}, {CLAN_DESCRIPTION} из {FACTION_NAME}. {?LORD.GENDER}Известна{?}Известен{\?} в своих кругах как {REPUTATION}"/>
     <string id="O5sBO9sQ" text="Многие империи предоставляли своим народам гражданство, которое, обычно, сопровождалось рядом прав. Конечно, гражданство не могло быть немедленно предоставлено в завоеванные провинциях до тех пор, пока население не покажет, что оно готово принять обычаи империи, включая язык, одежду и религию."/>
     <string id="o69PZuce" text="{OLD_LEADER.LINK} больше не является главой {CLAN_NAME}. {NEW_LEADER.LINK} взял на себя роль правителя клана."/>
     <string id="o6BunhbE" text="Ты привел моих воинов?"/>
@@ -2195,7 +2195,7 @@
     <string id="QO0EX2O3" text="Sure. I can order one of my companions and {TROOP_AMOUNT} men to escort your herds to pasture in {TARGET_SETTLEMENT}."/>
     <string id="QOEiYUig" text="+1% к скорости передвижения отряда в течение дня."/>
     <string id="qOhDHFyH" text="Are you another one of {QUEST_GIVER.NAME}'s lackeys? Did {?QUEST_GIVER.GENDER}she{?}he{\?} send you to hunt me like an animal? Well, I think you've found you've caught not a hare but a lion."/>
-    <string id="QOiPDGbf" text="Я никогда не слышал о вашем клане. Я не уверен, если я могу рассчитывать на вас или нет."/>
+    <string id="QOiPDGbf" text="Я никогда не слышал о вашем клане. Я не уверен, могу ли я рассчитывать на вас или нет."/>
     <string id="QojyhVIg" text="Я вижу. Вы можете взять их, потом."/>
     <string id="QoNf1IMa" text="Ваше романтическое прошлое слишком клетчатый"/>
     <string id="qoqbaHCE" text="After days of imprisonment, you are finally set free when your captors exchange you with {PRISONER_LORD.LINK}."/>
@@ -2704,7 +2704,7 @@
     <string id="vtZYmAaR" text="Я чувствую себя хорошо, зная, что вы присматриваете за моим караваном. Счастливого пути, мой друг!"/>
     <string id="VUjaLmIH" text="Расслабтесь. У нас есть разрешение. Не трогайте и дайте нам пройти. "/>
     <string id="VURQ4LQL" text="Лесной Охотник"/>
-    <string id="VuVnXyXD" text="Не обижайся, но я не думаю, что ты можешь мне помочь. {EXPLANATION}[ib:closed][rb:very_negative]"/>
+    <string id="VuVnXyXD" text="Не обижайтесь, но я не думаю, что вы можете мне помочь. {EXPLANATION}[ib:closed][rb:very_negative]"/>
     <string id="VuwaQjUN" text="{TARGET_HERO.LINK} {?TARGET_HERO.GENDER}сумела{?}сумел{\?} сбежать и больше не является пленником."/>
     <string id="Vv81gkWN" text="Знаменосец"/>
     <string id="vvCwVo7i" text="{DAMAGE} {DAMAGE_TYPE}"/>
