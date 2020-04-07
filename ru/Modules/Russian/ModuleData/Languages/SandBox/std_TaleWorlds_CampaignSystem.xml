@@ -422,7 +422,7 @@
     <string id="8agoixxf" text="Борец I"/>
     <string id="8aior6PH" text="Парад бонусный перк "/>
     <string id="8Az4q2wp" text="Join {FACTION}"/>
-    <string id="8bfzW0np" text="Многие пленники все еще принимаются, и их семей будут платить их обратно. Таких мужчин, как я крест-накрест Империи и внешний царства, приобретая заключенных, и связываться с их родственниками на любой выкуп."/>
+    <string id="8bfzW0np" text="Многие пленники все еще принимаются, и их семей будут платить их обратно. Таких мужчин, как я крест-накрест Империи и внешний царства, приобретая пленных, и связываться с их родственниками на любой выкуп."/>
     <string id="8BnWa83o" text="Я просто с честью сражались вместе с товарищами, которые думали, что ничего не пролить свою кровь, чтобы держать меня в живых."/>
     <string id="8eHRth3U" text="моя жена"/>
     <string id="8EroApVD" text="FrankishHair Описание"/>
@@ -1143,7 +1143,7 @@
     <string id="FfubN1NY" text="Вы решили издать указ, разрешающий ремесленники вели себя как торговцы."/>
     <string id="FFx4hSEU" text="{NEWS} {NEWS2}"/>
     <string id="fGFMqlGz" text="Пол"/>
-    <string id="fGHUglLc" text="Уровень мастерства этого товарища в рукопашной не достаточно для этого квеста."/>
+    <string id="fGHUglLc" text="Уровень мастерства этого товарища в рукопашной не достаточно для этого Задания."/>
     <string id="fghweLqW" text="Лидер Перки"/>
     <string id="FHeJ8bsX" text="Мы увидим об этом."/>
     <string id="FhprJ7WR" text="{INITIAL_COURTSHIP_REACTION_TO_PLAYER}"/>
@@ -1368,7 +1368,7 @@
     <string id="hwjzKcUw" text="Ну и что? Это должен быть союз наших домов, а не из наших сердец."/>
     <string id="hwq0RMRN" text="Your criminal rating with {FACTION_NAME} has {?IS_INCREASED}increased{?}decreased{\?} by {CHANGE} to {NEW_RATING}"/>
     <string id="hWwr3mrC" text="You are raiding {VILLAGE_NAME}."/>
-    <string id="HX7E09XJ" text="Вы не смогли выполнить квест вовремя."/>
+    <string id="HX7E09XJ" text="Вы не смогли выполнить Задание вовремя."/>
     <string id="hXGByLG9" text="Разделяя те же Королевства"/>
     <string id="hxnCr8bm" text=" Other parties of your army lost {NUMBER} {?PLURAL}troops{?}troop{\?}."/>
     <string id="HYGKcgh6" text="Каперы вступить в бой. Вы воспользоваться неразберихой и сбежать."/>
@@ -1623,7 +1623,7 @@
     <string id="klQQ6LQR" text="{FIRST_NAME} of the Axe"/>
     <string id="KLWn6yZQ" text="{HIDEOUT_DESCRIPTION} The remains of a fire suggest that it's been recently occupied, but its residents - whoever they are - are well-hidden for now."/>
     <string id="KmfuKH4c" text="Увидимся на поле боя, тогда!"/>
-    <string id="kmsNUfbA" text="Пожертвовать заключенным"/>
+    <string id="kmsNUfbA" text="Пожертвовать пленным"/>
     <string id="knWgaYdk" text="Оточенные Лезвия"/>
     <string id="KnxOUsuu" text="Бастион II"/>
     <string id="koZaxzLN" text="{FIRST_NAME} the Needle"/>
@@ -1794,7 +1794,7 @@
     <string id="mG9jW8Fp" text="Запись запрос на замок."/>
     <string id="mGET75ZZ" text="The vote to expel {CLAN} from {KINGDOM} has failed despite majority support against it."/>
     <string id="mGsnCVKh" text="Увеличивает урон по стенам во время осад."/>
-    <string id="mhAr3dfG" text="Квест Активирован: {QUEST_TITLE}"/>
+    <string id="mhAr3dfG" text="Задание Активировано: {QUEST_TITLE}"/>
     <string id="MharAceZ" text="Семинар, посвященный осад. Содержит инструменты и материалы для ремонта стен, Строительство и ремонт осадные машины."/>
     <string id="MhFAEkW6" text="Ваши навыки снабжения увеличивают количество боеприпасов для войск дальнего боя вначале битвы на 20%."/>
     <string id="MhGbcXJ4" text="Базовая скорость строительства "/>
@@ -1858,7 +1858,7 @@
     <string id="N4p2GCsG" text="I'll assign one of my companions and {NEEDED_MEN_COUNT} of my men to protect your caravan for {RETURN_DAYS} days."/>
     <string id="N4Qa0WsT" text="Присоединяйтесь к армии"/>
     <string id="N5xh13tO" text="Защитник Стаур "/>
-    <string id="N6QTvjMf" text="Заключенных"/>
+    <string id="N6QTvjMf" text="Пленных"/>
     <string id="N70ovtjV" text="You will stay in {SETTLEMENT} for a while."/>
     <string id="N7hncI0e" text="Great {NAME}"/>
     <string id="N8aBOj2R" text="{SETTLEMENT} has been given to {LEADER.NAME} from {CLAN} with majority support."/>
@@ -1900,7 +1900,7 @@
     <string id="nmJe4wN1" text="Быстрая Перегруппировка"/>
     <string id="nmnp9S7k" text="Дворяне имеют право назначать судебные приставы."/>
     <string id="NMNuVESp" text="{FIRST_NAME} из гранта"/>
-    <string id="NMOTyLWQ" text="Ваши мастерские, услышав торговые сплетни, выставляют выставляют среднюю цену на товар"/>
+    <string id="NMOTyLWQ" text="Ваши мастерские, услышав торговые сплетни, выставляют среднюю цену на товар"/>
     <string id="NMWiEOA0" text="Ваш спутник ранен."/>
     <string id="NNalp5mr" text="+1 спутник."/>
     <string id="NNtwTgbP" text="У вас должен быть хотя бы один здорового спутник с тактическим навыком выше {TACTICS_THRESHOLD} и с одним из навыком ближнего боя выше {MELEE_THRESHOLD}"/>
@@ -2073,7 +2073,7 @@
     <string id="PGkFvo77" text="{CURRENT_LIEGE.LINK} is a friend of mine. I cannot imagine betraying him."/>
     <string id="PH7pkve4" text="{ISSUE_NAME}: Your troops are resolving this problem."/>
     <string id="PHe0oco1" text="You fought your way through the attackers to reach the gates. The defenders open them quickly to let you through. When the gates are safely closed behind you, you take a quick tally only to see you have lost the following: {CASUALTIES}.{OTHER_CASUALTIES}"/>
-    <string id="pHrxeTdc" text="Заключенные:"/>
+    <string id="pHrxeTdc" text="Пленные:"/>
     <string id="pI0j13oK" text="Отряд Налетчиков"/>
     <string id="PI6ikMsc" text="Я работаю над этим."/>
     <string id="PIlZuQnW" text="{SETTLEMENT_DESCRIPTION}"/>
@@ -2149,7 +2149,7 @@
     <string id="qaAKXRSV" text="Оруженосцы"/>
     <string id="QaiVxc3f" text="{NAME} the Slow"/>
     <string id="qaKh6vRl" text="Давайте посмотрим, если вы за свои слова. Если вы реально управляете, признаюсь, я буду очень впечатлен. Я с нетерпением жду новой встречи с вами. Пусть небеса очистить ваш путь к вашей цели."/>
-    <string id="qasqX0rn" text="Уровень мастерства этого товарища не хватает для этого квеста."/>
+    <string id="qasqX0rn" text="Уровень мастерства этого товарища не хватает для этого Задание."/>
     <string id="qaZDUknZ" text="Естественный Лидер"/>
     <string id="QazTA60M" text="Управления гарнизона"/>
     <string id="Qb7N6txQ" text="{BRIBE_COST} denars will be enough..."/>
@@ -2655,7 +2655,7 @@
     <string id="Vg7Ftrdl" text="Можно сказать, что... я работаю от зари до поздней ночи, но даже так я с трудом могу положить хлеб на стол. Почему это? Потому что я не могу продать свой продукт по справедливой цене. Закон гласит, что я могу только продать местным торговцам, и в тоже фиксированному курсу, так что даже тогда, когда другие цены высокие, я по-прежнему делает то же самое."/>
     <string id="Vg7glbwp" text=" {WORKSHOP_NAME} at {SETTLEMENT_NAME}"/>
     <string id="vGF5S2hE" text="Таблица лидеров"/>
-    <string id="vgqVf9SA" text="+1 компаньон для каждого города своя."/>
+    <string id="vgqVf9SA" text="+1 спутник для каждого города своя."/>
     <string id="vh4bBfYq" text="You have accepted {TARGET_HERO.LINK}'s offer and freed {?TARGET_HERO.GENDER}her{?}him{\?}. {?TARGET_HERO.GENDER}She{?}He{\?} and {?TARGET_HERO.GENDER}her{?}his{\?} clan would be very happy. On the other hand {ISSUE_OWNER.LINK} will feel {?ISSUE_OWNER.GENDER}she{?}he{\?} is betrayed and be furious."/>
     <string id="VHA7XvKt" text="+50% К производству коней на фермах."/>
     <string id="VHdyQYKI" text="Decrease the sacrificed troop number when trying to get away +{a0} %"/>
@@ -2717,7 +2717,7 @@
     <string id="vWxioznX" text="Вашим городам привязаны селах зерно / оливки / рыба / дата производства увеличивается на 20%"/>
     <string id="vXCg3OYx" text="Итак, вы принесли их?"/>
     <string id="VXKGD0ta" text="Я хочу использовать кузницу."/>
-    <string id="VXkL5Ysd" text="Управлять заключенных"/>
+    <string id="VXkL5Ysd" text="Управлять Пленными"/>
     <string id="vxoaJjhO" text="Инструктор"/>
     <string id="vYasCMEi" text="Выносливость, затрачиваемая на кузнечное дело, уменьшается вдвое."/>
     <string id="vYCY931w" text="В любой новости о мои люди?"/>
@@ -2739,6 +2739,7 @@
     <string id="w3GIUD3u" text="позволив правителю собирать специальные тарифы"/>
     <string id="W3xUQxAa" text="призывая лордов иметь большие частные армии"/>
     <string id="w4BzNJYl" text="Шанс на выживание +{a0}%"/>
+    <string id="w4yxgY3F" text="Привет. Если у вас есть какие-либо пленные, я буду рад купить их у вас."/>
     <string id="w4yxgY3F" text="Привет. Если у вас есть какие-либо заключенные, я буду рад купить их у вас."/>
     <string id="W6ebB306" text="люди"/>
     <string id="W6XMWJ8R" text="Чартеры Замок "/>
@@ -2915,7 +2916,7 @@
     <string id="XvC1eLR1" text="Или, если вы не сможете приобретать товар самостоятельно, вы, возможно, может назначить одну из ваших доверенных товарищей с этой задачей. Несколько хорошее понимание торговли и счетом войска могут сделать это достаточно легко. "/>
     <string id="Xvkyb49p" text="As you wish.[rb:very_positive][ib:demure]"/>
     <string id="xvYDbEUa" text="Хорошо. Перейти на."/>
-    <string id="xw8bWiUu" text="Уровень навыка тактики этого товарища не хватает для этого квеста."/>
+    <string id="xw8bWiUu" text="Уровень навыка тактики этого товарища не хватает для этого Задания."/>
     <string id="xwc9mJdC" text="Все стало в последнее время намного хуже с разбойниками на дорогах вокруг города. Мои караваны не раздербанили, как только они скрылись из виду ворота."/>
     <string id="xWoXL2FG" text="Пустой Мастерской"/>
     <string id="xwS10c1b" text="Да... я думаю, для меня будет честью принять ваше предложение."/>
