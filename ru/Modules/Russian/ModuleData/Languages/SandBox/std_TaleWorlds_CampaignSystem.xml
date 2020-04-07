@@ -285,8 +285,8 @@
     <string id="5LIb6pGm" text="Упрямый {NAME}"/>
     <string id="5lq4HNU5" text="{CURRENT_LIEGE.NAME} он не известен тем, что держит свое слово."/>
     <string id="5MjmCaUx" text="Благополучное Царствование"/>
+    <string id="5NKJiRKU" text="Побег из плена происходит на 30% быстрее."/>
     <string id="5Mu1cdbc" text="Еще раз приветствую вас. Чем мы можем вам помочь?"/>
-    <string id="5NKJiRKU" text="Вы можете вырваться из плена на 30% быстрее."/>
     <string id="5nQJUKHc" text="Отражение Стрел"/>
     <string id="5NYPqKBj" text="Я знаю, что ты занят, но, может быть, ты попросишь кого-нибудь из своих людей найти нам это зерно? Двадцати мужей хватит, чтобы сделать эту работу, и я думаю, что это займет две недели.   Я в отчаянии, {?PLAYER.GENDER}madam{?}sir{\?}... Не позволяйте нашим детям голодать!"/>
     <string id="5o6pSbCx" text="Народный врач"/>
@@ -2778,14 +2778,14 @@
     <string id="WNKkdpN3" text="{CLAN_NAME} покинул королевство {OLD_FACTION_NAME}."/>
     <string id="wNLV7lDO" text="{NAME} Бедняк"/>
     <string id="wO1uNIVB" text="Благодарность"/>
-    <string id="WO3EaqB3" text="Чем я могу вам помочь?"/>
-    <string id="WoAgHDrN" text="Я забираю вас, так или иначе."/>
-    <string id="WOBy5UfY" text="Отдавай свои товары или умри!"/>
-    <string id="wodLHjnh" text="Вы или один из ваших спутников с {ALTERNATIVE_TROOP_AMOUNT} бойцами смогут выполнить эту работу. В любом случае я готов заплатить вам {REWARD}{GOLD_ICON}. Я сомневаюсь, что они долго смогут противостоять настоящим воинам."/>
-    <string id="wOKF17ta" text="Я дал клятву {CURRENT_LIEGE.LINK} - хотя никакая клятва не обязывает меня служить слабому лидеру, который уничтожит нас всех."/>
-    <string id="WOn05IP5" text="{NAME} Безлюбовный"/>
-    <string id="wOVPr6vY" text="{NAME} Известный"/>
-    <string id="wpmsmBHm" text="Удачливый {FIRST_NAME}"/>
+    <string id="WO3EaqB3" text="Как я могу помочь вам?"/>
+    <string id="WoAgHDrN" text="Я забираю вас, одним способом или другой."/>
+    <string id="WOBy5UfY" text="Отдавайте товары или умрите!"/>
+    <string id="wodLHjnh" text="You or one of your companions with some {ALTERNATIVE_TROOP_AMOUNT} men should do the job. Either way I am willing to pay you {REWARD}{GOLD_ICON}. I doubt they'd stand up long to real warriors."/>
+    <string id="wOKF17ta" text="I gave an oath to {CURRENT_LIEGE.LINK} - though no oath binds me to serve a weak leader who'll take us all down."/>
+    <string id="WOn05IP5" text="Loveless {NAME}"/>
+    <string id="wOVPr6vY" text="{NAME} the Famous"/>
+    <string id="wpmsmBHm" text="Lucky {FIRST_NAME}"/>
     <string id="wPtD4CLq" text="Разграбление деревень происходит на 10% быстрее."/>
     <string id="WQ3Ohs2u" text="Отряды членов клана получают на 10% больше влияния от своих действий"/>
     <string id="WQa1R55u" text="Группа Браконьеров "/>
