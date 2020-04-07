@@ -2610,7 +2610,7 @@
     <string id="UwEbBanm" text="Таковы законы нашего города. Ремесленники не жалуйтесь, когда законы требуют от нас, чтобы купить от них."/>
     <string id="uwjjqEob" text="{QUEST_GIVER.LINK}, a gang leader from {QUEST_GIVER_SETTLEMENT}, has offered you to sell {STOLEN_GOOD_AMOUNT} units of stolen {STOLEN_GOOD} for half the normal price. {?QUESTGIVER.GENDER}She{?}He{\?} says once you go to another town, selling them won't be an issue. You agreed to buy."/>
     <string id="UwPs3wmj" text="My liege {NEW_LIEGE.NAME} would welcome your support. Join us!"/>
-    <string id="UWzQsHA2" text=" {SETTLEMENT_LINK} находится под управлением {LORD.LINK}, {FACTION_OFFICIAL} of the {FACTION_TERM}. {PROSPERITY_INFO} {MORALE_INFO}"/>
+    <string id="UWzQsHA2" text=" {SETTLEMENT_LINK} находится под управлением {LORD.LINK}, {FACTION_OFFICIAL} из {FACTION_TERM}. {PROSPERITY_INFO} {MORALE_INFO}"/>
     <string id="UxAl9iyi" text="Личное"/>
     <string id="uXjO1f75" text="{NAME} the Sickly"/>
     <string id="uyvxafSw" text=" {PARTY_NAME} exceed gold"/>
@@ -2925,7 +2925,7 @@
     <string id="XYDhkb6h" text="Королевская Комиссия"/>
     <string id="xYeMbApi" text="{PARTY} сделал вылазку, чтобы напасть на вас!"/>
     <string id="xyNy8bsX" text="PersonaCurt"/>
-    <string id="XZFQ1Jf6" text="Идти в цмтадель"/>
+    <string id="XZFQ1Jf6" text="Идти в крепость"/>
     <string id="xZIBKK0v" text="Продать своих пленников ({RANSOM_AMOUNT}{GOLD_ICON})"/>
     <string id="XzK4niIb" text="Скоро я найду работодателя."/>
     <string id="xzq78nVm" text="Как {?IS_FEMALE}королева{?}король{\?} вы должны решить, кому будет принадлежать {SETTLEMENT_NAME}"/>
