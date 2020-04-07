@@ -263,7 +263,7 @@
     <string id="a8zwLVKj" text="Сила"/>
     <string id="aa5tNRb9" text="Шанс Критического Успеха "/>
     <string id="AagJ9cSL" text="Я не знаю, где {?ASKED_LORD.GENDER}Она{?}он{\?} находится."/>
-    <string id="aaQtzfjL" text="Отлично сработано, {?PLAYER.GENDER}мадам{?}сэр{\?}. Имейте деньги и вино в достатке, и в Кальрадии нет врагов, которых вам нужно бояться.[rb:very_positive]"/>
+    <string id="aaQtzfjL" text="Неплохо сработано, {?PLAYER.GENDER}мадам{?}сэр{\?}. Лишь бы всегда деньги с вином к нам приходили и больше некого вам будет бояться во всей Кальрадии.[rb:very_positive]" />
     <string id="aayrvLOX" text="Продолжайте путь. Безопасного путешествия."/>
     <string id="abbALYlp" text="Баллиста"/>
     <string id="aBgnQ1MO" text="Назначить Правителя"/>
@@ -1542,7 +1542,7 @@
     <string id="YSM0lxns" text="Стоимость"/>
     <string id="ytlsMCCn" text="{DESERTER_COUNT} {?PLURAL}солдатов{?}солдат{\?} дезертировали из {PARTY}."/>
     <string id="ytYPOCZ8" text="{NUMBER}% Завершено"/>
-    <string id="YukbQgHJ" text="Скорость болта: "/>
+    <string id="YukbQgHJ" text="Скорость Полета: "/>
     <string id="yUo269Us" text="Спасибо за помощь, незнакомец. Мы еще не встретились правильно, у нас? Как тебя зовут?"/>
     <string id="YVGtcLHF" text="Конница"/>
     <string id="YvwQL9aa" text="Вес: "/>
