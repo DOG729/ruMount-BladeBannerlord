@@ -99,7 +99,7 @@
     <string id="1r0tDsrR" text="Атака!"/>
     <string id="1rbg3Hz2" text="{HOSTILE_FACTION} and {SETTLEMENT_FACTION} are no longer enemies."/>
     <string id="1REltXXz" text="Я помогу, если смогу."/>
-    <string id="1rKPr3bJ" text="Вы не имеете любые доступные спутники, чтобы назначить на этот квест!"/>
+    <string id="1rKPr3bJ" text="Вы не имеете любые доступные спутники, чтобы назначить на этот Задание!"/>
     <string id="1s54uxsA" text="К сожалению. У меня нет никаких животных на этот раз."/>
     <string id="1V6DRayw" text="You don't have {BRIBE_COST} denars."/>
     <string id="1V9GeKr8" text="Фах...мне не нужны больше мужчины. Спасибо."/>
@@ -670,7 +670,7 @@
     <string id="baUFKAbd" text="One handed weapon damage: +{a0} %"/>
     <string id="bAVZloaC" text="{ARMY} has been disbanded since dismissal is requested."/>
     <string id="Bb3oHQNa" text="Спасибо, это пригодится"/>
-    <string id="BBCgx9OU" text="Объявление войны произошло с вами и дающего квест. Поиски не увенчались успехом."/>
+    <string id="BBCgx9OU" text="Объявление войны произошло с вами и дающего Задание. Поиски не увенчались успехом."/>
     <string id="bbFNVaRY" text="Вдохновляющий Лидер"/>
     <string id="bbGb1YAQ" text="WoodsScoutSkills Описание"/>
     <string id="bBsX13qb" text="Целесообразный Лидер"/>
@@ -1142,7 +1142,7 @@
     <string id="FfubN1NY" text="Вы решили издать указ, разрешающий ремесленники вели себя как торговцы."/>
     <string id="FFx4hSEU" text="{NEWS} {NEWS2}"/>
     <string id="fGFMqlGz" text="Пол"/>
-    <string id="fGHUglLc" text="Уровень мастерства этого товарища в рукопашной не достаточно для этого квеста."/>
+    <string id="fGHUglLc" text="Уровень мастерства этого товарища в рукопашной не достаточно для этого Задания."/>
     <string id="fghweLqW" text="Лидер Перки"/>
     <string id="FHeJ8bsX" text="Мы увидим об этом."/>
     <string id="FhprJ7WR" text="{INITIAL_COURTSHIP_REACTION_TO_PLAYER}"/>
@@ -1367,7 +1367,7 @@
     <string id="hwjzKcUw" text="Ну и что? Это должен быть союз наших домов, а не из наших сердец."/>
     <string id="hwq0RMRN" text="Your criminal rating with {FACTION_NAME} has {?IS_INCREASED}increased{?}decreased{\?} by {CHANGE} to {NEW_RATING}"/>
     <string id="hWwr3mrC" text="You are raiding {VILLAGE_NAME}."/>
-    <string id="HX7E09XJ" text="Вы не смогли выполнить квест вовремя."/>
+    <string id="HX7E09XJ" text="Вы не смогли выполнить Задание вовремя."/>
     <string id="hXGByLG9" text="Разделяя те же Королевства"/>
     <string id="hxnCr8bm" text=" Other parties of your army lost {NUMBER} {?PLURAL}troops{?}troop{\?}."/>
     <string id="HYGKcgh6" text="Каперы вступить в бой. Вы воспользоваться неразберихой и сбежать."/>
@@ -1793,7 +1793,7 @@
     <string id="mG9jW8Fp" text="Запись запрос на замок."/>
     <string id="mGET75ZZ" text="The vote to expel {CLAN} from {KINGDOM} has failed despite majority support against it."/>
     <string id="mGsnCVKh" text="Увеличивает урон по стенам во время осад."/>
-    <string id="mhAr3dfG" text="Квест Активирован: {QUEST_TITLE}"/>
+    <string id="mhAr3dfG" text="Задание Активировано: {QUEST_TITLE}"/>
     <string id="MharAceZ" text="Семинар, посвященный осад. Содержит инструменты и материалы для ремонта стен, Строительство и ремонт осадные машины."/>
     <string id="MhFAEkW6" text="Ваши навыки снабжения увеличивают количество боеприпасов для войск дальнего боя вначале битвы на 20%."/>
     <string id="MhGbcXJ4" text="Базовая скорость строительства "/>
@@ -2148,7 +2148,7 @@
     <string id="qaAKXRSV" text="Оруженосцы"/>
     <string id="QaiVxc3f" text="{NAME} the Slow"/>
     <string id="qaKh6vRl" text="Давайте посмотрим, если вы за свои слова. Если вы реально управляете, признаюсь, я буду очень впечатлен. Я с нетерпением жду новой встречи с вами. Пусть небеса очистить ваш путь к вашей цели."/>
-    <string id="qasqX0rn" text="Уровень мастерства этого товарища не хватает для этого квеста."/>
+    <string id="qasqX0rn" text="Уровень мастерства этого товарища не хватает для этого Задание."/>
     <string id="qaZDUknZ" text="Естественный Лидер"/>
     <string id="QazTA60M" text="Управления гарнизона"/>
     <string id="Qb7N6txQ" text="{BRIBE_COST} denars will be enough..."/>
@@ -2913,7 +2913,7 @@
     <string id="XvC1eLR1" text="Или, если вы не сможете приобретать товар самостоятельно, вы, возможно, может назначить одну из ваших доверенных товарищей с этой задачей. Несколько хорошее понимание торговли и счетом войска могут сделать это достаточно легко. "/>
     <string id="Xvkyb49p" text="As you wish.[rb:very_positive][ib:demure]"/>
     <string id="xvYDbEUa" text="Хорошо. Перейти на."/>
-    <string id="xw8bWiUu" text="Уровень навыка тактики этого товарища не хватает для этого квеста."/>
+    <string id="xw8bWiUu" text="Уровень навыка тактики этого товарища не хватает для этого Задания."/>
     <string id="xwc9mJdC" text="Все стало в последнее время намного хуже с разбойниками на дорогах вокруг города. Мои караваны не раздербанили, как только они скрылись из виду ворота."/>
     <string id="xWoXL2FG" text="Пустой Мастерской"/>
     <string id="xwS10c1b" text="Да... я думаю, для меня будет честью принять ваше предложение."/>

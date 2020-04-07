@@ -292,7 +292,7 @@
     <string id="aieN31uq" text="Спутники ({COMPANION_COUNT}/{COMPANION_LIMIT})"/>
     <string id="AIh1Ik4A" text="Империя Кальрадия"/>
     <string id="aIkffnN6" text="Персонажи"/>
-    <string id="aiX4b5kS" text="Выполненные Квесты"/>
+    <string id="aiX4b5kS" text="Выполненные Задания"/>
     <string id="AIYWSAyK" text="Получайте прибыль от торговли. Сопровождайте караваны."/>
     <string id="aJoNj6JX" text="Сражаться с коротким двуручным оружием."/>
     <string id="aJQQnshf" text="Налог С Населения:"/>
@@ -439,7 +439,7 @@
     <string id="ckPhG1KV" text="Связанная(ые) деревня(и)"/>
     <string id="CKR7PhRI" text="Враждебные Армии"/>
     <string id="CkwERBcS" text="Стычка позади формирования союзника."/>
-    <string id="cMrROb6w" text="Доступный Квест"/>
+    <string id="cMrROb6w" text="Доступный Задание"/>
     <string id="CODsu5Ok" text="Новая Кампания"/>
     <string id="COhJ2HsU" text="Это автоматически будет решение через {HOUR} часов."/>
     <string id="CoHPb7DL" text="Наш план состоит в том, чтобы раздавить их нашей конницой и снести остальных последующей атакой."/>
@@ -536,7 +536,7 @@
     <string id="ENzvOHsA" text="{ASKED_LORD.LINK} в странствиях и {?ASKED_LORD.GENDER}она{?}он{\?} находится близко к {SETTLEMENT_NAME} в текущий момент."/>
     <string id="eob9goyW" text=" и "/>
     <string id="eodelMzf" text="Леди"/>
-    <string id="EOhmOITp" text="Отслеживать Объекты, Связанные С Квестом "/>
+    <string id="EOhmOITp" text="Отслеживать Объекты, Связанные С Заданием "/>
     <string id="EPGDe5fG" text="Только волки могут захватывать, перепрыгивая через овец на доступные плитки позади них. Захват также придерживается линии на доске."/>
     <string id="eqAc8AOs" text="{LEFT}:"/>
     <string id="es0Y3Bxc" text="Присоединиться"/>
@@ -773,7 +773,7 @@
     <string id="JbTCDDb0" text="Болт"/>
     <string id="jCbYaCcg" text="Наконец-то мы встретились, {PLAYER.LINK}. Я {NPC.LINK}. Спасибо за помощь, и, я надеюсь, мы встретимся вновь."/>
     <string id="Jd0Kq9lD" text="Щит"/>
-    <string id="jd4ULLGr" text="Активные Квесты"/>
+    <string id="jd4ULLGr" text="Активные Задания"/>
     <string id="JdNTRtpJ" text="Поддерживайте высокий боевой дух вашего отряда. Собирайте и возглавляйте армии."/>
     <string id="Jelvod71" text="Захват"/>
     <string id="jfIbp2Hg" text="Последующий: "/>
@@ -1152,11 +1152,11 @@
     <string id="QGaIYQpg" text="Рыба"/>
     <string id="qgHblOq4" text="Вы заметили засаду."/>
     <string id="qgL4P2vO" text="Город процветает. Люди выглядят сытыми и относительно спокойными."/>
-    <string id="QgUej8DP" text="Нет Активного Квеста"/>
+    <string id="QgUej8DP" text="Нет Активного Задания"/>
     <string id="qhhLVJAC" text="&lt;б&gt;препараты&lt;/б&gt;"/>
     <string id="qIvDX0JR" text="Центр"/>
     <string id="Qk6aHGNO" text="Нажмите 'Alt' для получения дополнительной информации."/>
-    <string id="QLM6DWHB" text="Активный квест(ы)"/>
+    <string id="QLM6DWHB" text="Активный Задание(я)"/>
     <string id="qlw2LWgu" text="Двигаться в диапазоне"/>
     <string id="qM8daraD" text="Всего очков умений: {CURRENT_SKILL_POINTS}"/>
     <string id="QmaVRAkx" text="Вы не можете заплатить всю зарплату, ваш отряд теряет {reg1} морали."/>
@@ -1283,7 +1283,7 @@
     <string id="Ti2GeG0U" text="При выборе этой опции будет заблокирован один случайный вариант."/>
     <string id="ti5FwD4t" text="Неизвестная сторона"/>
     <string id="TlP31w8l" text="Бриколь"/>
-    <string id="tMg5AF19" text="Не могу открыть квесты прямо сейчас!"/>
+    <string id="tMg5AF19" text="Не могу открыть Задани прямо сейчас!"/>
     <string id="TmKbTxQy" text="хатун"/>
     <string id="TNLRC4Gf" text="Сражайтесь с одноручным оружием."/>
     <string id="tolOqAaP" text="Лето {DAY}, {YEAR}"/>
@@ -1354,7 +1354,7 @@
     <string id="UxAl9iyi" text="Личный"/>
     <string id="UxD6lPXa" text="Вы получили {INFLUENCE} влияния. Новое влияние - {NEW_INFLUENCE}."/>
     <string id="UxyIkWah" text="Наемники не могут аннексировать поселения."/>
-    <string id="uYFd4meY" text="Квест выдан"/>
+    <string id="uYFd4meY" text="Задание выдано"/>
     <string id="V03gbccF" text="Вы попали в дружественный отряд!"/>
     <string id="V0Kw3O7c" text="Учебник"/>
     <string id="V0OMMQ1F" text="Мастерский перфоманс, {PLAYER.LINK}. Бац! Бах! Вы уложили {OPPONENT_COUNT} из них. Толпе это понравилось. И вы получили в награду {PRIZE} {GOLD_ICON}."/>
@@ -1366,7 +1366,7 @@
     <string id="Vap6ahft" text="Воины! {BEHAVIOUR_NAME_BEGIN}!"/>
     <string id="VbeHEAsa" text="Сдаться"/>
     <string id="VbL6GFmy" text="Масло"/>
-    <string id="Vc9Mx6Jb" text="Квест"/>
+    <string id="Vc9Mx6Jb" text="Задание"/>
     <string id="vdEoBkpr" text="Вы должны поддерживать запасы еды. Если у вас кончится еда, ваш отряд потеряет боевой дух. Ваши войска могут покинуть вас из-за низкой морали.{newline}{newline}Вы можете увидеть свой запас еды на информационной панели. Наведите курсор на него, чтобы увидеть, сколько еды потребляет ваш отряд каждый день. Поскольку ваша армия нуждается в еде, отправляйтесь на рынок и купите продовольствие"/>
     <string id="vdK5SaJN" text="Мм. Жалость.[ib:aggressive][rb:very_negative]"/>
     <string id="vdKLq8T5" text="Стены{newline}Уровень {LEVEL}"/>
@@ -1385,7 +1385,7 @@
     <string id="vmMqs3Ck" text="Благородный"/>
     <string id="vn7A8aXV" text="Вы находитесь снаружи {SETTLEMENT_NAME}. Ваше знамя развевается над воротами замка."/>
     <string id="vnmy8Bjl" text="Общий Расход"/>
-    <string id="vo867CHX" text="Выполненные квесты в прошлом году"/>
+    <string id="vo867CHX" text="Выполненные Задания в прошлом году"/>
     <string id="vOgACpuD" text="спутникы"/>
     <string id="VoZBLWay" text="{RULER.NAME} {?RULER.GENDER}Khatun{?}Khan{\?}"/>
     <string id="VpCa9ATa" text="Правильно. Ты же мертв.[if:idle_furious][ib:aggressive][rb:very_negative]"/>
@@ -1605,7 +1605,7 @@
     <string id="zX4C3332" text="Ты будешь убит. Готовься к смерти."/>
     <string id="ZxcnmaXi" text="Вы прибыли в {SETTLEMENT}, чтобы совершить налет. Вы не встретите никакого сопротивления. Это действитвие вызовет войну с {KINGDOM}."/>
     <string id="ZXXNrvvg" text="Игрок побеждает, если у его противника больше нет свободных пешек в руке или на доске."/>
-    <string id="zyp2VGt4" text="Имеется доступный квест"/>
+    <string id="zyp2VGt4" text="Имеется доступное задание"/>
     <string id="zzUk6ZaA" text="Выход"/>
   </strings>
 </base>
