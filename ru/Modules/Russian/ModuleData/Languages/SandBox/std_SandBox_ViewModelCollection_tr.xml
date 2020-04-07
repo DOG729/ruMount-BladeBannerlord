@@ -15,7 +15,7 @@
     <string id="azJulvrp" text="{?IS_BETTING}Вы потеряете {BET_AMOUNT}{GOLD_ICON} если вы сдадитесь.{newline}{?}{\?}Вы действительно хотите сдаться?" />
     <string id="bV75iwKa" text="Сохранить" />
     <string id="CiIWjF3f" text="+{PRISONERAMOUNT}p" />
-    <string id="eiWQoW9j" text="Вы получили {A0} известности." />
+    <string id="eiWQoW9j" text="Вы получили {A0} к известности." />
     <string id="eL8nhkhQ" text="Создать новый слот для сохранения" />
     <string id="eTw2aNV5" text="+" />
     <string id="GAWxyVgq" text="Удалить" />
@@ -31,9 +31,9 @@
     <string id="LBNzsqyb" text="Владений" />
     <string id="lh0so0uX" text="Хотите загрузить сохраненную игру другими модулями?" />
     <string id="lPMYSSAa" text="Необходимы инструменты" />
-    <string id="mDFhzEMC" text="Max. Очки здоровья" />
+    <string id="mDFhzEMC" text="Макс. Очки здоровья" />
     <string id="nvemmBZz" text="Вы заработали %{AMOUNT} добычи и пленных" />
-    <string id="O9nwLrYp" text="+{WOUNDEDAMOUNT}w" />
+    <string id="O9nwLrYp" text="+{WOUNDEDAMOUNT}р" />
     <string id="oBbiVeKE" text="Очки здоровья" />
     <string id="oHaWR73d" text="Ок" />
     <string id="Q1HIlJxe" text="Переписать" />
@@ -45,7 +45,7 @@
     <string id="RVPidk5a" text="Влияние" />
     <string id="UwuYCgIU" text="Внимание" />
     <string id="V4iU0wRv" text="Золото" />
-    <string id="WAKz9xX8" text="Вы получили {A0} морали." />
+    <string id="WAKz9xX8" text="Вы получили {A0} к морали." />
     <string id="WDlVhNuq" text="Назовите свой файл сохранения" />
     <string id="WiNRdfsm" text="Готово" />
     <string id="xu5NA6AW" text="Вы заработали {A0}% добычи." />
