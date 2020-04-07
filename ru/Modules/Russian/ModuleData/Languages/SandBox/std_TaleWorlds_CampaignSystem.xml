@@ -410,7 +410,7 @@
     <string id="81qgJ7fW" text="Каждый прибыльный магазин, которым вы владеете, дает вам 1 известности в день."/>
     <string id="83iwPPVH" text="Сильный кузнец"/>
     <string id="84vpd3LI" text="Армию Разогнали"/>
-    <string id="85kgOyBj" text="После мучительных дня в заточении в подземелье, вы обнаружите, есть шанс вырваться и сбежать из поселения!"/>
+    <string id="85kgOyBj" text="После мучительных дня в заточении в темнице, вы обнаружите, есть шанс вырваться и сбежать из поселения!"/>
     <string id="86YeKa2s" text="При первой встрече с лордами есть 10% шанс получить +2 отношения с ними."/>
     <string id="870ZCp1J" text="Pay {FINE}{GOLD_ICON}"/>
     <string id="87c7IhkZ" text="Указывает, член банды, специализировавшейся на контрабанде"/>
@@ -1075,11 +1075,11 @@
     <string id="ES6AN5pO" text="Боевая Готовность"/>
     <string id="ESM0NhLy" text="{ARMY} has been disbanded since cohesion has been depleted."/>
     <string id="eSpRuda1" text="You have decided to keep the borrowed troops {QUEST_GIVER.LINK} gave you to train. When {?QUEST_GIVER.GENDER}She{?}He{\?} hears about this {?QUEST_GIVER.GENDER}she{?}he{\?} sends you the following letter.     “{?PLAYER.GENDER}Madam{?}Sir{\?}, I made it clear that I expected my men to be returned to me. I consider this a betrayal of my trust.”"/>
-    <string id="esSm5V6t" text="Идите в подземелье"/>
+    <string id="esSm5V6t" text="Идти в темницу"/>
     <string id="EsX026Y0" text="The proposal to change the owner of {SETTLEMENT} has been declined despite majority support against it."/>
     <string id="Eth2Z6qK" text="Проскользнуть в Тени"/>
     <string id="EtiZuOVI" text="Ваши пешие войска получают на 2% больше очков здоровья."/>
-    <string id="etjMHPjQ" text="Отправляйтесь в подземелье"/>
+    <string id="etjMHPjQ" text="Отправиться в темницу"/>
     <string id="ETKyjOkJ" text="У тебя не хватит динаров, чтобы заплатить штраф."/>
     <string id="eTr0XHas" text="{FACTION_LEADER} will decide if {CLAN_NAME} will be expelled from {KINGDOM_NAME}. You can pick your stance regarding this decision."/>
     <string id="ETye0JMY" text="Последствия процветания поселения."/>
@@ -1591,7 +1591,7 @@
     <string id="kbKmlMbu" text="Наемники короля "/>
     <string id="KbQQV5rI" text="Моя клятва-моя клятва. Я не могу разорвать его. (Клятва уговорами не удалось.)"/>
     <string id="kbsoMi3J" text="{FIRST_NAME} of the Seal"/>
-    <string id="KBxajw4c" text="Входа в подземелье (чит)"/>
+    <string id="KBxajw4c" text="Входа в темницу (чит)"/>
     <string id="kc3RfwFb" text="I'll try to be useful to you {?PLAYER.GENDER}lady{?}sir{\?}."/>
     <string id="KCBeYCvU" text="Формализованное рейтинге аристократы могли повысить авторитет тех, кто на самом верху."/>
     <string id="KCLtaaD4" text="Этот товарищ ранен."/>
@@ -2037,7 +2037,7 @@
     <string id="p8vl2ic5" text="Осадные машины получают на 20% больше прочности."/>
     <string id="p9F90bc0" text="New Smithing Part Unlocked: {PARTNAME}."/>
     <string id="Pa1ZtapI" text="Ладно. Ладно. Мы едем."/>
-    <string id="pa7oiQb1" text="Идем в подземелье (чит)"/>
+    <string id="pa7oiQb1" text="Идем в темницу (чит)"/>
     <string id="paelEWj1" text="Форум"/>
     <string id="PaG0Blui" text="Become a mercenary for {TARGET_FACTION}"/>
     <string id="pAGyhASB" text="HeavyBuild"/>
@@ -2579,7 +2579,7 @@
     <string id="UMn2QMIk" text="Did you hear {ENEMY_NAME} took {FORTRESS_NAME} by storm? Do you think they'll come here next?"/>
     <string id="UnjmmLFm" text="{CLAN_NAME} Noble Clan"/>
     <string id="uNls3bOP" text="Track information level: {a0}"/>
-    <string id="UnQFawna" text="Войти в подземелье"/>
+    <string id="UnQFawna" text="Войти в темницу"/>
     <string id="UNVAkOY4" text="Урон наносимый рубящими ударами созданными вами оружия вырастает на 2%."/>
     <string id="UojHRjdG" text="Доступ к чистой питьевой воде обеспечивает место для роста здоровых граждан и чистой инфраструктуры. Увеличивается ежедневная смена процветания."/>
     <string id="Uoy2tTZJ" text="Очень хорошо. Но, возможно, ты пересмотришь позже."/>
@@ -2821,7 +2821,7 @@
     <string id="WZbrxhYm" text="Бутыль кефира"/>
     <string id="WZFqhmLw" text="Вам не хватает солдат выше класса 1."/>
     <string id="WzLatbvD" text="+6 дополнительных стрел в колчан."/>
-    <string id="x04UGQDn" text="Подземелье"/>
+    <string id="x04UGQDn" text="Темница"/>
     <string id="X0B6tbR7" text="MuscularBuild Описание"/>
     <string id="X0B8J3rk" text="Точность для луков увеличена на 10%."/>
     <string id="X1B18UeP" text="Бездушный {NAME}"/>
