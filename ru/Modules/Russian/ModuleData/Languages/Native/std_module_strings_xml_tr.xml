@@ -186,7 +186,7 @@
     <string id="7chepLLh" text="Разрушьте осданые орудия{?IS_GENERAL_SIDE}{?} на {SIDE_STRING} стороне{\?}"/>
     <string id="7cMUohRm" text="Проводите автоматические бои. Выигрывайте битвы с малыми шансами на победу. Избегайте столкновений, жертвуя войсками, если это необходимо."/>
     <string id="7cnb2iEb" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} и {?}{\?}{TROOP_NAMES_END} воюют."/>
-    <string id="7EnFh9e5" text="Location: {LOCATION}"/>
+    <string id="7EnFh9e5" text="Расположение : {LOCATION}"/>
     <string id="7EVjgrFW" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} и {?}{\?}{TROOP_NAMES_END} вооют ожесточенно."/>
     <string id="7h6cXdW7" text="Инженер"/>
     <string id="7hj7Kaoz" text="Общий Доход"/>
@@ -643,7 +643,7 @@
     <string id="gPAkLi7l" text="({STR})"/>
     <string id="GPESFoWD" text="Онагр"/>
     <string id="GPW3ku2Y" text="{?RULER.GENDER}Принцесса{?}Принц{\?} {RULER.NAME}"/>
-    <string id="Gre2v55i" text="Сила: {POWER}"/>
+    <string id="Gre2v55i" text="Репутация: {POWER}"/>
     <string id="GRX8NjWI" text="Размер"/>
     <string id="gSVaitFE" text="Разграбляет {SETTLEMENT_NAME}"/>
     <string id="gsVtO9A7" text="Ополчение"/>
@@ -664,7 +664,7 @@
     <string id="H9y9dLao" text="Вы можете сделать ставку, чтобы увеличить призовые. Каждый раунд шансы будут разные, и вы можете ставить {MAX_AMOUNT}&lt;img src=&quot;Icons\Coin@2x&quot;&gt; каждый раз."/>
     <string id="haax8kMa" text="Древковое"/>
     <string id="hAgZBZP8" text="Сдаться"/>
-    <string id="haLX0kbG" text="Нажмите для продолжения"/>
+    <string id="haLX0kbG" text="Нажмите чтобы продолжить"/>
     <string id="hbeUbpEA" text="Вы уверены, что хотите отменить?"/>
     <string id="HcAV8x7p" text="Член Партии"/>
     <string id="HCZ5XSEL" text="{?IS_POSITIVE}+{?}-{\?} {NUMBER}"/>
@@ -697,7 +697,7 @@
     <string id="HWSKCne0" text="Ускорение проекта Х2 скорость на 1 день стоит 500&lt;ИМГ СРЦ=&quot;значки\медали@2х&quot;&gt;"/>
     <string id="Hx47TGrA" text="Тяжелый"/>
     <string id="hYgmzZJX" text="Динаров"/>
-    <string id="HYVQKIhh" text="Армия защитника"/>
+    <string id="HYVQKIhh" text="Защищающиеся"/>
     <string id="HZ8ws4qX" text="Услуга Наемника"/>
     <string id="hZ9eNwFZ" text="Навыки обычно становятся доступны парами.{newline}{newline}Каждый из них предоставляет особые бонусы, поэтому выбирайте мудро (с)."/>
     <string id="hzflo2kJ" text="Вы опять спасли наши шеи, {PLAYER.LINK}! Действительно, вы лучших из друзей."/>
@@ -708,7 +708,7 @@
     <string id="I4BbOX46" text="Вы в армии {ARMY_LEADER}."/>
     <string id="i4g81l3E" text="Отношение: {NUM}"/>
     <string id="I8xMpWxO" text="Смелый"/>
-    <string id="IagYTD5O" text="Процветания"/>
+    <string id="IagYTD5O" text="Процветание"/>
     <string id="IBEJPlEj" text="Дом"/>
     <string id="IbGNaL0H" text="{HERO.LINK}   Уровень: {LEVEL}"/>
     <string id="IbkODMHV" text="Находите следы и укрытия. Путешествуйте по труднопроходимой местности."/>
@@ -922,7 +922,7 @@
     <string id="M9p0vPad" text="Я знаю, как тебя зовут... {COMMENT_STRING_MAIN}"/>
     <string id="m9vD3VlN" text="Эта партия не будет расти или уменьшаться в размерах. Он будет пытаться удержать его размер, как это."/>
     <string id="MaBSSg7I" text="Таран"/>
-    <string id="MacceKIX" text="{RELATION_TEXT} of {NAME}"/>
+    <string id="MacceKIX" text="{RELATION_TEXT} из {NAME}"/>
     <string id="mAxXKaXp" text="Сброс"/>
     <string id="mbS0DkUo" text="Рейд"/>
     <string id="mbT1uNPa" text="Кинжал"/>
@@ -971,7 +971,7 @@
     <string id="N5fmlTza" text="{LEFT}, {RIGHT}"/>
     <string id="N6O2GtTK" text="Переработки"/>
     <string id="n6Q6vv5t" text="You plundered {GOLD} gold."/>
-    <string id="N6QTvjMf" text="Пленных"/>
+    <string id="N6QTvjMf" text="Пленные "/>
     <string id="N7w6zi0F" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}are{?}is{\?} pulling back."/>
     <string id="N84HlDaV" text="{NUMBER_OF} {ITEM} ({AMOUNT}{GOLD_ICON})"/>
     <string id="NaNMRPv4" text="Асераи"/> <!--Здесь был Cas. Финальная версия!--> 
@@ -1194,7 +1194,7 @@
     <string id="REdb7vbQ" text="{?RULER.GENDER}Султанша{?}Султан{\?} {RULER.NAME}"/>
     <string id="redwEIlW" text="Сотрудник по снабжению"/>
     <string id="rFvEZJu7" text="{ITEM_NAME} был добавлен в инвентарь {PLAYER.LINK}"/>
-    <string id="RGqPxabq" text="Мощность"/>
+    <string id="RGqPxabq" text="Репутация"/>
     <string id="RiXlbtfl" text="к"/>
     <string id="RiZ9lNAe" text="Уровень стены"/>
     <string id="rjf2HVhf" text="&lt;b&gt;Бриколь&lt;/b&gt;{newline}TODO BRICOLE DESC."/>
@@ -1366,7 +1366,7 @@
     <string id="Vap6ahft" text="Воины! {BEHAVIOUR_NAME_BEGIN}!"/>
     <string id="VbeHEAsa" text="Сдаться"/>
     <string id="VbL6GFmy" text="Масло"/>
-    <string id="Vc9Mx6Jb" text="Задание"/>
+    <string id="Vc9Mx6Jb" text="Задания"/>
     <string id="vdEoBkpr" text="Вы должны поддерживать запасы еды. Если у вас кончится еда, ваш отряд потеряет боевой дух. Ваши войска могут покинуть вас из-за низкой морали.{newline}{newline}Вы можете увидеть свой запас еды на информационной панели. Наведите курсор на него, чтобы увидеть, сколько еды потребляет ваш отряд каждый день. Поскольку ваша армия нуждается в еде, отправляйтесь на рынок и купите продовольствие"/>
     <string id="vdK5SaJN" text="Мм. Жалость.[ib:aggressive][rb:very_negative]"/>
     <string id="vdKLq8T5" text="Стены{newline}Уровень {LEVEL}"/>
@@ -1446,7 +1446,7 @@
     <string id="WVqaRKUm" text="Шерсть"/>
     <string id="wWwoTzpG" text="Брат"/>
     <string id="wx6DZJ0W" text="+{BONUS_AMOUNT} бонус к очкам жизни стены"/>
-    <string id="wXNYoJqw" text="Выход из меню"/>
+    <string id="wXNYoJqw" text="Меню"/>
     <string id="wXQUXa1P" text="Вы больше не можете добавлять очки фокуса в это умение."/>
     <string id="wXwZ778J" text="солдаты"/>
     <string id="WYfjyuHj" text="Ну, тогда... Это было долгое путешествие, так что посмотрите на ваш кошель."/>

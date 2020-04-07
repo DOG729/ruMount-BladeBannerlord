@@ -20,7 +20,7 @@
     <string id="0aXG8dvJ" text="Голосование за заключение мира с {KINGDOM_NAME}"/>
     <string id="0aYjbmOO" text="У вас нету каких-либо спутников с навыками {ONE_HANDED_SKILL}, {TWO_HANDED_SKILL} или {POLEARM_SKILL} выше {REQUIRED_SKILL_LEVEL} и навыком {TACTIC_SKILL} выше, чем {REQUIRED_SKILL_LEVEL}, чтобы начать это задание!"/>
     <string id="0B91pZ2R" text="Место постоянного сбора жителей, где все танцуют и социализируются, что повышает ежедневную мораль поселения."/>
-    <string id="0bPb5btR" text="{LORD.NAME} член клана {CLAN_NAME}, {CLAN_DESCRIPTION} фракции {FACTION_NAME}, которая поддерживает {RULER} в гражданской войне. {?LORD.GENDER}Она{?}Он{\?} имеет репутацию {REPUTATION}"/>
+    <string id="0bPb5btR" text="{LORD.NAME} член клана {CLAN_NAME}, {CLAN_DESCRIPTION} фракции {FACTION_NAME}, которая поддерживает {RULER} в гражданской войне. {?LORD.GENDER}Известна{?}Известен{\?} в своих кругах как {REPUTATION}"/>
     <string id="0cMibkQO" text="Вы можете знать меня как человека чести."/>
     <string id="0dY1xyyK" text="Это рискованный шаг и я ставлю под угрозу жизнь себя и моих людей. Мне нужна какая-нибудь поддержка от вас перед тем, как начну доверять вам."/>
     <string id="0eAtiZbL" text="У меня нет ответа на это."/>
@@ -316,7 +316,7 @@
     <string id="69cxRmEr" text="Увеличение урона одноручным оружием на 4%."/>
     <string id="6bQIRaIl" text="Смотреть турнир"/>
     <string id="6bvJSIqh" text="Да. Я могу найти нового господина, чтобы взять их на."/>
-    <string id="6d4ZTvGv" text="{LORD.NAME} is {TITLE} of the {FACTION_NAME} and head of the {CLAN_NAME}, a {CLAN_DESCRIPTION} of the realm. {?LORD.GENDER}Известна{?}Известен{\?} в своих кругах как {REPUTATION}"/>
+    <string id="6d4ZTvGv" text="{LORD.NAME} - {TITLE} из фракции {FACTION_NAME} и глава клана {CLAN_NAME}, {CLAN_DESCRIPTION} королевства. {?LORD.GENDER}Известна{?}Известен{\?} в своих кругах как {REPUTATION}"/>
     <string id="6DQjKwt2" text="Стоимость влияние предложив аннексии поселения уменьшается на 50% для клана правителя "/>
     <string id="6dvryoMH" text="{FIRST_NAME} {LAST_NAME}"/>
     <string id="6ETg3maz" text="Надежный Военачальник"/>
@@ -403,7 +403,7 @@
     <string id="7ve3bQxg" text="Оружие От Рынка"/>
     <string id="7VFalbbu" text="Лучшие профессиональные войска за эту цену. Не позволяйте этому возможность передать вам!"/>
     <string id="7Vw6iYNI" text="{?CHARACTER.GENDER}She{?}He{\?} died in childbirth in {YEAR} at the age of {CHARACTER.AGE}. {?CHARACTER.GENDER}She{?}He{\?} was reputed to be {REPUTATION}"/>
-    <string id="7WlQ0Twr" text="{WEAPON} of {SETTLEMENT} hit some soldiers of {BESIEGER}!"/>
+    <string id="7WlQ0Twr" text="{WEAPON} {SETTLEMENT} hit some soldiers of {BESIEGER}!"/>
     <string id="7X2vXMWw" text="Вы сделали свое дело хорошо. Я чувствую, что я обязан поддерживать тебя, как бы это ни закончилось."/>
     <string id="7ZqusnEa" text="Персонаж может производить необработанное железо более эффективно, получая 3 единицы необработанного железа из 1 единицы железной руды."/>
     <string id="7ZUggDRD" text="Мастер Меча II"/>
@@ -453,7 +453,7 @@
     <string id="8uBbbwY9" text="Max mount difficulty: {a0}"/>
     <string id="8UUV94Lq" text="Тренировка в дальнем бою"/>
     <string id="8Wa6OxG8" text="Это секрет. Вы должны быть новыми в вашем посте, если вы не знаете, кто я и что я делаю."/>
-    <string id="8Wy1OCsr" text="{WEAPON} of {BESIEGER} hit wall of {SETTLEMENT}!"/>
+    <string id="8Wy1OCsr" text="{WEAPON} {BESIEGER} пробило стены {SETTLEMENT}!"/>
     <string id="8Yb3IVvb" text="{SETTLEMENT_NAME} Buildings"/>
     <string id="8ym6UvxE" text="Я собираюсь отправить новый караван, но я боюсь, что это будет разворовано, прежде чем он сможет получить прибыль. Поэтому я ищу некоторые хорошие бойцы, которые могут сопровождать его, пока он не находит свою опору и посетит несколько населенных пунктов."/>
     <string id="8Z4vlcib" text="Your clan is now at war with the {ISSUE_GIVER.LINK}’s lord. Your agreement with {ISSUE_GIVER.LINK} was canceled."/>
@@ -1862,7 +1862,7 @@
     <string id="N4p2GCsG" text="I'll assign one of my companions and {NEEDED_MEN_COUNT} of my men to protect your caravan for {RETURN_DAYS} days."/>
     <string id="N4Qa0WsT" text="Присоединяйтесь к армии"/>
     <string id="N5xh13tO" text="Защитник Стаур "/>
-    <string id="N6QTvjMf" text="Пленных"/>
+    <string id="N6QTvjMf" text="Пленные "/>
     <string id="N70ovtjV" text="You will stay in {SETTLEMENT} for a while."/>
     <string id="N7hncI0e" text="Great {NAME}"/>
     <string id="N8aBOj2R" text="{SETTLEMENT} has been given to {LEADER.NAME} from {CLAN} with majority support."/>
@@ -2149,7 +2149,7 @@
     <string id="q7FLuZQi" text="Штраф при перегрузки меньше."/>
     <string id="Q8BZ9gvY" text="осуществляется купец перк"/>
     <string id="Q8pdbhEn" text="This companion's {ROGUERY_SKILL} skill level is not enough for this quest."/>
-    <string id="Q8VN9UCq" text="Выберите пленных для получения выкупа"/>
+    <string id="Q8VN9UCq" text="Выберите пленников для продажи"/>
     <string id="qaAKXRSV" text="Оруженосцы"/>
     <string id="QaiVxc3f" text="{NAME} the Slow"/>
     <string id="qaKh6vRl" text="Давайте посмотрим, если вы за свои слова. Если вы реально управляете, признаюсь, я буду очень впечатлен. Я с нетерпением жду новой встречи с вами. Пусть небеса очистить ваш путь к вашей цели."/>
@@ -2845,7 +2845,7 @@
     <string id="xaaUbbxE" text="До 5-ти воинов в радиусе 10м получают +40% опыта, когда вы побеждаете противника."/>
     <string id="XaCbpDUv" text="Мы должны патрулировать этот район."/>
     <string id="XaPMUJV0" text="Все, что у вас есть, я забираю. Сдавайся или умри!"/>
-    <string id="XAvwP3Ce" text="Ворвитесь внутрь, чтобы помочь защитникам"/>
+    <string id="XAvwP3Ce" text="Ворватсья внутрь, чтобы помочь защитникам"/>
     <string id="xAWvm25T" text="Влияет на верность поселения."/>
     <string id="XaZyU3Cn" text="Голосование по объявлению войны {KINGDOM} провалилось, несмотря на поддержку большинства против него."/>
     <string id="XB1HSxLX" text="Для решения королевства, Уровень 4+ выбора клана имеют двойной эффект влияния правителя, превосходящего результат народного решения"/>
@@ -3008,7 +3008,7 @@
     <string id="Ysjh2GF2" text="Hold on to that horse, then. I will bring {?TARGET_HERO.GENDER}her{?}him{\?} alive."/>
     <string id="ySmxkiKH" text="Поехали!"/>
     <string id="yT6XN4Mr" text="Сады"/>
-    <string id="YTAdoNHW" text="{FIRST_NAME} of {VILLAGE_NAME}"/>
+    <string id="YTAdoNHW" text="{FIRST_NAME} из деревни {VILLAGE_NAME}"/>
     <string id="YtC0993C" text="+1 влияния в день за каждый отряд союзных лордов, которые не находятся в том же городе или армии, что и вы."/>
     <string id="ytdZutjw" text="Я буду готова щедро платить за каждый день Караван на дороге. Это будет больше, чем я обычно платить за охранники каравана, но вы похожи на человека, кому отправить сообщение, чтобы эти абреки, что мои караваны не связываться."/>
     <string id="yTOVeqYe" text="Декларация о мире"/>
@@ -3090,7 +3090,7 @@
     <string id="znWLpQva" text="{FIRST_NAME} Сандалов"/>
     <string id="Zpc1dti3" text="У напарника не хватает {TRADE_SKILL} для этого задания."/>
     <string id="ZphBf7vf" text="Выносливость, затрачиваемая на плавку, уменьшается вдвое."/>
-    <string id="ZPj0ZAO7" text="Да? Что ты хочешь с нами?"/>
+    <string id="ZPj0ZAO7" text="Да? Что вам от нас нужно?"/>
     <string id="zpoqexPC" text="Продолжить то, что ты делаешь. Прощание."/>
     <string id="ZPv3uCOb" text="{FACTION_LEADER} proposes disavowing the policy of {POLICY_NAME}. You can pick your stance regarding this decision."/>
     <string id="ZQa7tXdK" text="Вы несколько меньше по численности. Даже если я соглашусь с вами, было бы мудро переждать."/>
