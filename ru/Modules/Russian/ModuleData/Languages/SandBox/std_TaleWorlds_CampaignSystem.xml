@@ -2963,40 +2963,40 @@
     <string id="yjAHh66a" text="Вам удалось отправить больше половины войск, которые вам выда{?QUEST_GIVER.GENDER}ла{?}л{\?} для обучения {QUEST_GIVER}. {?QUEST_GIVER.GENDER}Она{?}Он{\?} посылает вам следующее письмо. {newline}{newline}&quot; {?PLAYER.GENDER}Мадам{?}Сэр{\?}, Спасибо, что вернули мне моих людей. Потери, которые они понесли, несколько выше, чем я дума{?QUEST_GIVER.GENDER}ла{?}л{\?}. Я могу только надеяться, что вы сделали все возможное, чтобы выполнить наше соглашение и попытаться сохранить им жизнь.&quot;"/>
     <string id="YJJwR5PB" text="части доспехов"/>
     <string id="YjsRb88D" text="Это ваше право мо{?PLAYER.GENDER}я леди{?}й лорд{\?}. Но если вы не можете получить поддержку здешних торговцев, когда она вам понадобится в следующий раз, что ж, не говорите, что никто ничего не говорил."/>
-    <string id="YjxCkglX" text="You've failed to complete this quest in time. Your agreement with {QUEST_GIVER.LINK} was canceled."/>
-    <string id="YJyeb0yt" text="You must send at least {TROOP_COUNT} cavalries to this quest!"/>
-    <string id="YKdQmNyx" text="Инженерно Бонусного Навыка "/>
+    <string id="YjxCkglX" text="Вы не смогли завершить это задание вовремя. Ваше соглашение с {QUEST_GIVER.LINK} было отменено."/>
+    <string id="YJyeb0yt" text="Вы должны послать хотя бы {TROOP_COUNT} кавалеристов на это задание!"/>
+    <string id="YKdQmNyx" text="Бонус к Инженернму Навыку"/>
     <string id="ykivrik2" text="Продолжительность жизни клана увеличивается на 10%."/>
     <string id="yKNyuLDj" text="Потребление продуктов питания сократилось на 20%."/>
-    <string id="yKz5e5H4" text="Yes. I have the goods right here. I brought {REQUESTED_AMOUNT} units of {RAW_MATERIALS} as we agreed."/>
-    <string id="YkZKXsIn" text="Заработная плата"/>
-    <string id="YlfLA9N9" text="{NAME} the Scoundrel"/>
-    <string id="YLjksPbk" text="You're a kind {?PLAYER.GENDER}woman, madam{?}man, sir{\?}. You understand what poor folk like us are up against."/>
+    <string id="yKz5e5H4" text="Да. У меня есть товар . Я принес {REQUESTED_AMOUNT} единиц {RAW_MATERIALS}, как мы и договаривались."/>
+    <string id="YkZKXsIn" text="Жалование"/>
+    <string id="YlfLA9N9" text="{NAME} Негодяй"/>
+    <string id="YLjksPbk" text="Вы же{?PLAYER.GENDER}добрая женщина, мадам{?}добрый человек, сэр{\?}. Вы же понимаете, с чем сталкиваются такие бедняги, как мы."/>
     <string id="yLpeXXaR" text="+2 урона к рубящим ударам древкового оружия."/>
     <string id="yLseJ9a4" text="WandererEquipment Описание"/>
     <string id="yNAzCfxc" text="Суд присяжных"/>
-    <string id="YNBm3LkC" text="I feel lucky to live in an age when a valiant warrior can a name for {?PLAYER.GENDER}himself{?}herself{\?}."/>
-    <string id="YnvU7tWg" text=" {PARTY_NAME} taxes"/>
-    <string id="YNxGcaJI" text="Я хочу поговорить с вами о диковинных цен вы просите за товар вы продаете ремесленников."/>
-    <string id="YNXK352h" text="{CHARACTER.NAME} was a prominent {PROFESSION} from {HOMETOWN}. {FURTHER_DETAILS}"/>
-    <string id="yNyQ3RFa" text="{HERO.NAME} has died in childbirth."/>
-    <string id="yo0I8D0r" text="Потребление пищи уменьшается на половину и +5% к более быстрому передвижение в пустынях."/>
-    <string id="YO0x7ZAo" text="Лояльность"/>
-    <string id="YOBeOFxY" text="Город налоги заплатили, чтобы правитель снижены на 5%\лояльности nTown увеличивается на 1 в день"/>
+    <string id="YNBm3LkC" text="Я чувствую себя счастливым, живя в эпоху, когда доблестный воин может сделать себе имя сам."/>
+    <string id="YnvU7tWg" text=" {PARTY_NAME} налоги"/>
+    <string id="YNxGcaJI" text="Я хочу поговорить с вами о диковинных ценах, которые вы просите за товары, которые продаете ремесленникам."/>
+    <string id="YNXK352h" text="{CHARACTER.NAME} был выдающимся {PROFESSION} из {HOMETOWN}. {FURTHER_DETAILS}"/>
+    <string id="yNyQ3RFa" text="{HERO.NAME} умерла при родах."/>
+    <string id="yo0I8D0r" text="Потребление пищи уменьшается на половину и +5% к скорости перемещения в пустынях."/>
+    <string id="YO0x7ZAo" text="Верность"/>
+    <string id="YOBeOFxY" text="Городские налоги выплачиваемые правителю уменьшаются на 5%{newline}Верность города увеличивается на 1 в день"/>
     <string id="yOfrb9Lu" text="Не ждите слишком долго. Это очень опасные люди. Будьте осторожны."/>
-    <string id="yoiOIuI9" text="You refused to hand over the items. {QUEST_GIVER.LINK} must be furious."/>
-    <string id="YOub8FqT" text="{CHILD.NAME} and a stillborn baby"/>
+    <string id="yoiOIuI9" text="Вы отказались передать предметы. {QUEST_GIVER.LINK} должно быть в ярости."/>
+    <string id="YOub8FqT" text="{CHILD.NAME} и мертворожденный ребенок"/>
     <string id="ypAPaO1J" text="Вот жаль."/>
     <string id="yPI9N9ws" text="Было приятно иметь с вами дело."/>
-    <string id="YpT77np2" text="{NAME} the Arab"/>
-    <string id="YPTZ2et7" text="Успокойся. Вы правы. Никто не имеет права продавать свои исконные земли. Эти пастухи могут сдавать свою скотину в другом месте."/>
-    <string id="YQ3vm6er" text="Войти в арену"/>
+    <string id="YpT77np2" text="{NAME} Араб"/>
+    <string id="YPTZ2et7" text="Успокойся. Вы правы. Никто не имеет права продавать ваши родовые земли. Эти пастухи могут увести свой скот в другое место."/>
+    <string id="YQ3vm6er" text="Войти на арену"/>
     <string id="yqPNKKGb" text="Дальнозоркость"/>
     <string id="yQtzabbe" text="Рядом"/>
-    <string id="yRlINUML" text="Хах! Я увижу тебя молить о пощаде."/>
-    <string id="YRN4RBeI" text="Очень хорошо, мадам, но я хотел, чтобы вы знали.... Я намерен жениться на ком-то из моих собственных рейтингов."/>
-    <string id="yrPEqZEa" text="Любым другим способом?"/>
-    <string id="YRrx8bAK" text="Обеспечивает учебный бой для граждан и привлекать их в милицию, каждый уровень увеличивает ежедневный подбор милиции."/>
+    <string id="yRlINUML" text="Ха! Я увижу, как ты будешь молить о пощаде."/>
+    <string id="YRN4RBeI" text="Очень хорошо, мадам, но я хотел бы, чтобы вы знали.... Я намерен жениться на ком-то своего уровня."/>
+    <string id="yrPEqZEa" text="Другой способ?"/>
+    <string id="YRrx8bAK" text="Обеспечивает боевую подготовку жителей и вербовку их в ополчение, каждый уровень увеличивает ежедневный набор ополченцев."/>
     <string id="yS7PvrTD" text="ОК"/>
     <string id="YsASaPKq" text="Я уверен, что они скоро будут здесь. Пожалуйста, не покидайте деревню, или мы будем стоять никаких шансов..."/>
     <string id="Ysjh2GF2" text="Hold on to that horse, then. I will bring {?TARGET_HERO.GENDER}her{?}him{\?} alive."/>
