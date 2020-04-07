@@ -263,7 +263,7 @@
     <string id="a8zwLVKj" text="Сила"/>
     <string id="aa5tNRb9" text="Шанс Критического Успеха "/>
     <string id="AagJ9cSL" text="Я не знаю, где {?ASKED_LORD.GENDER}Она{?}он{\?} находится."/>
-    <string id="aaQtzfjL" text="Отлично сработано, {?PLAYER.GENDER}мадам{?}сэр{\?}. Имейте деньги и вино в достатке, и в Кальрадии нет врагов, которых вам нужно бояться.[rb:very_positive]"/>
+    <string id="aaQtzfjL" text="Неплохо сработано, {?PLAYER.GENDER}мадам{?}сэр{\?}. Лишь бы всегда деньги с вином к нам приходили и больше некого вам будет бояться во всей Кальрадии.[rb:very_positive]" />
     <string id="aayrvLOX" text="Продолжайте путь. Безопасного путешествия."/>
     <string id="abbALYlp" text="Баллиста"/>
     <string id="aBgnQ1MO" text="Назначить Правителя"/>
@@ -527,7 +527,7 @@
     <string id="ejhFyhyx" text="&lt;b&gt;Осадная башня&lt;/b&gt;&lt;br&gt;{NEWLINE}Поднимает атакующих на одну высоту со стенами и уравнивает шансы с защитниками."/>
     <string id="eKwhGmbI" text="После этого воин получит {XP_AMOUNT} xp, еще воин отряд будет доступен для апгрейда"/>
     <string id="elhSbQfW" text="мой родич {REFERING_HERO.LINK}"/>
-    <string id="ELsDFwAD" text="Вина"/>
+    <string id="ELsDFwAD" text="Вино"/>
     <string id="EMCISbYJ" text="Боевой Костюм"/>
     <string id="eMsA4Vk0" text="Отряд будет расти в размере. Текущий целевой размер {TARGET_SIZE}"/>
     <string id="eMwbzp49" text="Битва проиграна..."/>
@@ -904,7 +904,7 @@
     <string id="lvc1Xgf8" text="Таверны"/>
     <string id="LvM8vCxX" text="Фиксаж Турнир "/>
     <string id="LwfILaRH" text="Лошадь"/>
-    <string id="lxLTCX5j" text="Специальности:"/>
+    <string id="lxLTCX5j" text="Специальность:"/>
     <string id="lXRzWrGo" text="Дворянин"/>
     <string id="LymKjMLk" text=" Ваши люди просто присоединиться к вашей партии"/>
     <string id="lZ1IDnpP" text="Дать Все"/>
@@ -955,7 +955,7 @@
     <string id="mSPDO0Fe" text="Вы оказались в ловушке врагов. Вы не в состоянии сражаться. Ваш единственный вариант-это сдаться."/>
     <string id="MT4b8H9h" text="Неизвестно"/>
     <string id="mTTWkewD" text="Дать"/>
-    <string id="MUCmJaXQ" text="Ruler of {FACTION}"/>
+    <string id="MUCmJaXQ" text="Правитель {FACTION}"/>
     <string id="MW8rlyfL" text="Метательное"/>
     <string id="mwegfVKr" text="Головного мозга"/>
     <string id="MWGATOoz" text="Турнир будет групповой рукопашный бой."/>
@@ -1287,7 +1287,7 @@
     <string id="TmKbTxQy" text="хатун"/>
     <string id="TNLRC4Gf" text="Сражайтесь с одноручным оружием."/>
     <string id="tolOqAaP" text="Лето {DAY}, {YEAR}"/>
-    <string id="toQLHG6x" text="Доблестный"/>
+    <string id="toQLHG6x" text="Доблесть"/>
     <string id="tpjGRDHP" text="Дуэль закончилась. Удерживайте {leave_key}, чтобы уйти"/>
     <string id="Tqa0r78j" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} и {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}ударяют{?}ударяет{\?} и отступает."/>
     <string id="tQDbRfMs" text="Мы были разлучены в пылу сражения"/>
@@ -1488,7 +1488,7 @@
     <string id="xv8T0Il8" text="Первый ход и количество плиток, которые вы можете перемещать каждый ход, определяются броском четырех двухцветных палочек."/>
     <string id="xwWUDia6" text="Ставка"/>
     <string id="Xx9EbSwG" text="Ботинок"/>
-    <string id="XxLCJb0W" text="Честно"/>
+    <string id="XxLCJb0W" text="Честный"/>
     <string id="xycMiCIq" text="Я не нашел в последнее время прибыльных сделок."/>
     <string id="xZxbFuDI" text="Тогда у шакалов будет хороший ужин сегодня вечером"/>
     <string id="Y0GDVFiN" text="Разграбленные деревни"/>
@@ -1542,7 +1542,7 @@
     <string id="YSM0lxns" text="Стоимость"/>
     <string id="ytlsMCCn" text="{DESERTER_COUNT} {?PLURAL}солдатов{?}солдат{\?} дезертировали из {PARTY}."/>
     <string id="ytYPOCZ8" text="{NUMBER}% Завершено"/>
-    <string id="YukbQgHJ" text="Скорость болта: "/>
+    <string id="YukbQgHJ" text="Скорость Полета: "/>
     <string id="yUo269Us" text="Спасибо за помощь, незнакомец. Мы еще не встретились правильно, у нас? Как тебя зовут?"/>
     <string id="YVGtcLHF" text="Конница"/>
     <string id="YvwQL9aa" text="Вес: "/>
