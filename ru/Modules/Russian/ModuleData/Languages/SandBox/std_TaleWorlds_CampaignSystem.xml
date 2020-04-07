@@ -818,7 +818,7 @@
     <string id="CCMuzqUW" text="{FIRST_NAME} Кулак" />
     <string id="CcNVobQU" text="Гарнизон поселения, в котором вы находитесь, решил вывести войска. Вы решаете ..." />
     <string id="Cd405TC7" text="Очистить прошлые попытки убеждения (CHEAT)" />
-    <string id="cdEkgX4S" text="На 15% ниже зарплата для войск 1-2-3-4 уровня." />
+    <string id="cdEkgX4S" text="На 15% ниже содержание войск 1-2-3-4 уровня." />
     <string id="CEIibFYn" text="&quot;Уходи, дождь, уходи,&quot;" />
     <string id="Celvao0J" text="{QUEST_GIVER.LINK} {?QUEST_GIVER.GENDER} Леди {?} Лорд {\?} из клана {CLAN} попросил вас взять молодого члена клана под свои крылья и обучать его в течение {DURATION} дней. Вы согласились обучить его лично." />
     <string id="ceq6ZMIx" text="Военные достижения приветствуются, и лорды могут голосовать, чтобы наградить друг друга наградами и отличиями (например, Римская корона)." />
@@ -2272,7 +2272,7 @@
     <string id="RH8mgLEk" text="{AGGRESSOR_KINGDOM} объявил войну {KINGDOM} с одинаковым количеством голосов с обеих сторон."/>
     <string id="rHcVKSbA" text="Железный рудник"/>
     <string id="RhkT5ylu" text="RogueSkills"/>
-    <string id="rhKxsdtz" text="зарплата {PARTY_NAME}"/>
+    <string id="rhKxsdtz" text="содержание {PARTY_NAME}"/>
     <string id="rhqAfYSc" text="SteppeScoutSkills"/>
     <string id="rHrIM4PI" text="Связи с сельчанами"/>
     <string id="RIiVDdi0" text="Усилие Ради Народа"/>
@@ -2555,7 +2555,7 @@
     <string id="UclBLMbx" text="{FIRST_NAME} the {?FEMALE}Widow{?}Widow-maker{\?}"/>
     <string id="UCpyo9hw" text="Мощный"/>
     <string id="uct3JyqT" text="Very well. I believe in doing things according to the old ways. Before our men meet, let our champions duel in honorable single combat. {HOSTILE_CHAMPION_NAME} shall fight for me. Who fights for you?"/>
-    <string id="uCXGZ2YP" text="Военные достижения грант на 30% больше влияние\зарплата nTroop увеличиваются на 10%"/>
+    <string id="uCXGZ2YP" text="Военные достижения дают на 30% больше влияния \nСодержание солдат увеличивается на 10%"/>
     <string id="UEn466Y6" text="You have successfully brought the troops {QUEST_GIVER.LINK} requested. You received {REWARD} gold in return for your service."/>
     <string id="ueUsg9OL" text="I can take your goods to {TARGET_HERO.LINK} in {TARGET_SETTLEMENT} myself."/>
     <string id="uG2Alcat" text="Сложность Игры "/>
