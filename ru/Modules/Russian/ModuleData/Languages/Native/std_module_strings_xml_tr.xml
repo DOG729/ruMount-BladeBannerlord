@@ -697,7 +697,7 @@
     <string id="HWSKCne0" text="Ускорение проекта Х2 скорость на 1 день стоит 500&lt;ИМГ СРЦ=&quot;значки\медали@2х&quot;&gt;"/>
     <string id="Hx47TGrA" text="Тяжелый"/>
     <string id="hYgmzZJX" text="Динаров"/>
-    <string id="HYVQKIhh" text="Армия защитника"/>
+    <string id="HYVQKIhh" text="Защищающиеся"/>
     <string id="HZ8ws4qX" text="Услуга Наемника"/>
     <string id="hZ9eNwFZ" text="Навыки обычно становятся доступны парами.{newline}{newline}Каждый из них предоставляет особые бонусы, поэтому выбирайте мудро (с)."/>
     <string id="hzflo2kJ" text="Вы опять спасли наши шеи, {PLAYER.LINK}! Действительно, вы лучших из друзей."/>
@@ -708,7 +708,7 @@
     <string id="I4BbOX46" text="Вы в армии {ARMY_LEADER}."/>
     <string id="i4g81l3E" text="Отношение: {NUM}"/>
     <string id="I8xMpWxO" text="Смелый"/>
-    <string id="IagYTD5O" text="Процветания"/>
+    <string id="IagYTD5O" text="Процветание"/>
     <string id="IBEJPlEj" text="Дом"/>
     <string id="IbGNaL0H" text="{HERO.LINK}   Уровень: {LEVEL}"/>
     <string id="IbkODMHV" text="Находите следы и укрытия. Путешествуйте по труднопроходимой местности."/>
@@ -971,7 +971,7 @@
     <string id="N5fmlTza" text="{LEFT}, {RIGHT}"/>
     <string id="N6O2GtTK" text="Переработки"/>
     <string id="n6Q6vv5t" text="You plundered {GOLD} gold."/>
-    <string id="N6QTvjMf" text="Пленных"/>
+    <string id="N6QTvjMf" text="Пленные "/>
     <string id="N7w6zi0F" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}are{?}is{\?} pulling back."/>
     <string id="N84HlDaV" text="{NUMBER_OF} {ITEM} ({AMOUNT}{GOLD_ICON})"/>
     <string id="NaNMRPv4" text="Асераи"/> <!--Здесь был Cas. Финальная версия!--> 
@@ -1366,7 +1366,7 @@
     <string id="Vap6ahft" text="Воины! {BEHAVIOUR_NAME_BEGIN}!"/>
     <string id="VbeHEAsa" text="Сдаться"/>
     <string id="VbL6GFmy" text="Масло"/>
-    <string id="Vc9Mx6Jb" text="Задание"/>
+    <string id="Vc9Mx6Jb" text="Задания"/>
     <string id="vdEoBkpr" text="Вы должны поддерживать запасы еды. Если у вас кончится еда, ваш отряд потеряет боевой дух. Ваши войска могут покинуть вас из-за низкой морали.{newline}{newline}Вы можете увидеть свой запас еды на информационной панели. Наведите курсор на него, чтобы увидеть, сколько еды потребляет ваш отряд каждый день. Поскольку ваша армия нуждается в еде, отправляйтесь на рынок и купите продовольствие"/>
     <string id="vdK5SaJN" text="Мм. Жалость.[ib:aggressive][rb:very_negative]"/>
     <string id="vdKLq8T5" text="Стены{newline}Уровень {LEVEL}"/>
@@ -1446,7 +1446,7 @@
     <string id="WVqaRKUm" text="Шерсть"/>
     <string id="wWwoTzpG" text="Брат"/>
     <string id="wx6DZJ0W" text="+{BONUS_AMOUNT} бонус к очкам жизни стены"/>
-    <string id="wXNYoJqw" text="Выход из меню"/>
+    <string id="wXNYoJqw" text="Меню"/>
     <string id="wXQUXa1P" text="Вы больше не можете добавлять очки фокуса в это умение."/>
     <string id="wXwZ778J" text="солдаты"/>
     <string id="WYfjyuHj" text="Ну, тогда... Это было долгое путешествие, так что посмотрите на ваш кошель."/>
