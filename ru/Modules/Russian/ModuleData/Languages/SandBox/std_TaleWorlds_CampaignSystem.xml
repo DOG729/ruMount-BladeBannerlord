@@ -20,7 +20,7 @@
     <string id="0aXG8dvJ" text="Голосование за заключение мира с {KINGDOM_NAME}"/>
     <string id="0aYjbmOO" text="У вас нету каких-либо спутников с навыками {ONE_HANDED_SKILL}, {TWO_HANDED_SKILL} или {POLEARM_SKILL} выше {REQUIRED_SKILL_LEVEL} и навыком {TACTIC_SKILL} выше, чем {REQUIRED_SKILL_LEVEL}, чтобы начать это задание!"/>
     <string id="0B91pZ2R" text="Место постоянного сбора жителей, где все танцуют и социализируются, что повышает ежедневную мораль поселения."/>
-    <string id="0bPb5btR" text="{LORD.NAME} член клана {CLAN_NAME}, {CLAN_DESCRIPTION} фракции {FACTION_NAME}, которая поддерживает {RULER} в гражданской войне. {?LORD.GENDER}Известна{?}Известен{\?} в своих кругах как {REPUTATION}"/>
+    <string id="0bPb5btR" text="{LORD.NAME} член клана {CLAN_NAME}, {CLAN_DESCRIPTION} фракции {FACTION_NAME}, которая поддерживает {RULER} в гражданской войне. {?LORD.GENDER}Известна{?}Известен{\?} в своих кругах {REPUTATION}"/>
     <string id="0cMibkQO" text="Вы можете знать меня как человека чести."/>
     <string id="0dY1xyyK" text="Это рискованный шаг и я ставлю под угрозу жизнь себя и моих людей. Мне нужна какая-нибудь поддержка от вас перед тем, как начну доверять вам."/>
     <string id="0eAtiZbL" text="У меня нет ответа на это."/>
@@ -316,7 +316,7 @@
     <string id="69cxRmEr" text="Увеличение урона одноручным оружием на 4%."/>
     <string id="6bQIRaIl" text="Смотреть турнир"/>
     <string id="6bvJSIqh" text="Да. Я могу найти нового господина, чтобы взять их на."/>
-    <string id="6d4ZTvGv" text="{LORD.NAME} - {TITLE} из фракции {FACTION_NAME} и глава клана {CLAN_NAME}, {CLAN_DESCRIPTION} королевства. {?LORD.GENDER}Известна{?}Известен{\?} в своих кругах как {REPUTATION}"/>
+    <string id="6d4ZTvGv" text="{LORD.NAME} - {TITLE} из фракции {FACTION_NAME} и глава клана {CLAN_NAME}, {CLAN_DESCRIPTION} королевства. {?LORD.GENDER}Известна{?}Известен{\?} в своих кругах {REPUTATION}"/>
     <string id="6DQjKwt2" text="Стоимость влияние предложив аннексии поселения уменьшается на 50% для клана правителя "/>
     <string id="6dvryoMH" text="{FIRST_NAME} {LAST_NAME}"/>
     <string id="6ETg3maz" text="Надежный Военачальник"/>
@@ -479,7 +479,7 @@
     <string id="9KQxHbo2" text="Известный Лучник"/>
     <string id="9lHhtVJ5" text="Бастион I"/>
     <string id="9lygvooT" text="Падение Валюты"/>
-    <string id="9Obe3S6L" text="{LORD.NAME} член клана {CLAN_NAME} - {CLAN_DESCRIPTION} основанной на землях фракции {FACTION_NAME}. {?LORD.GENDER}Известна{?}Известен{\?} в своих кругах как {REPUTATION}."/>
+    <string id="9Obe3S6L" text="{LORD.NAME} член клана {CLAN_NAME} - {CLAN_DESCRIPTION} основанной на землях фракции {FACTION_NAME}. {?LORD.GENDER}Известна{?}Известен{\?} в своих кругах {REPUTATION}."/>
     <string id="9Oum4lmk" text="Увеличивает грузоподъемность вьючных животных на +20."/>
     <string id="9qoLQva5" text="Все, что клятва, которую я даю вам, вы можете быть уверены, что я буду держать его."/>
     <string id="9RiXgPc1" text="Конечно. Что нужно знать?"/>
@@ -1556,7 +1556,7 @@
     <string id="JsUbgfgl" text="Select an heir [temptext]"/>
     <string id="JTfaqKyX" text="Ну, попробуйте привести его в ближайшее время."/>
     <string id="jUkuyVTC" text="Валор Описание"/>
-    <string id="JuPUG5wX" text="{LORD.NAME} is {TITLE} of the {FACTION_NAME} and head of the {CLAN_NAME}, a {CLAN_DESCRIPTION} that is backing {RULER} in the civil war. {?LORD.GENDER}Известна{?}Известен{\?} в своих кругах как {REPUTATION}"/>
+    <string id="JuPUG5wX" text="{LORD.NAME} is {TITLE} of the {FACTION_NAME} and head of the {CLAN_NAME}, a {CLAN_DESCRIPTION} that is backing {RULER} in the civil war. {?LORD.GENDER}Известна{?}Известен{\?} в своих кругах {REPUTATION}"/>
     <string id="JuwBb2Yg" text="Разваливали"/>
     <string id="jvOYgHOe" text="Заказ"/>
     <string id="jwi4dH1f" text="{FIRST_NAME} the Scorpion"/>
@@ -1951,7 +1951,7 @@
     <string id="O4dWdKZd" text="Ах... Я слышал, что {LORD.LINK} получил по заднице от {OTHER_SIDE}. Трудное время, приятель."/>
     <string id="O4flV28Q" text="Здесь нет никаких пленных."/>
     <string id="O4iki0FD" text="Правитель получает налог в размере 5% со всех поселений{newline}Города теряют 1 благосостояние в день{newline}Стоимость влияния объявления войны удваивается для клана правителя"/>
-    <string id="o5AUljbW" text="{LORD.NAME} является членом клана {CLAN_NAME}, {CLAN_DESCRIPTION} из {FACTION_NAME}. {?LORD.GENDER}Известна{?}Известен{\?} в своих кругах как {REPUTATION}"/>
+    <string id="o5AUljbW" text="{LORD.NAME} является членом клана {CLAN_NAME}, {CLAN_DESCRIPTION} из {FACTION_NAME}. {?LORD.GENDER}Известна{?}Известен{\?} в своих кругах {REPUTATION}"/>
     <string id="O5sBO9sQ" text="Многие империи предоставляли своим народам гражданство, которое, обычно, сопровождалось рядом прав. Конечно, гражданство не могло быть немедленно предоставлено в завоеванные провинциях до тех пор, пока население не покажет, что оно готово принять обычаи империи, включая язык, одежду и религию."/>
     <string id="o69PZuce" text="{OLD_LEADER.LINK} больше не является главой {CLAN_NAME}. {NEW_LEADER.LINK} взял на себя роль правителя клана."/>
     <string id="o6BunhbE" text="Ты привел моих воинов?"/>
