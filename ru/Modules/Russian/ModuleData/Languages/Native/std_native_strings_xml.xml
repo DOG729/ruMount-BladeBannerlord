@@ -18,7 +18,7 @@
     <string id="1gU5rDws" text="Разрешить голосование за бан игроков"/>
     <string id="1Ndyb5I1" text="Время снятия флага (в секундах)"/>
     <string id="1siBGYlP" text="Ширина скул"/>
-    <string id="1zveWQFg" text="Перейдите на вкладку сватовства и выберите регион, чтобы встать в очередь на битву"/>
+    <string id="1zveWQFg" text="Перейдите на вкладку поиска матча и выберите регион, чтобы встать в очередь на битву"/>
     <string id="22MOa4Fc" text="Внешняя высота глаз"/>
     <string id="23INS6nf" text="Требуется пароль"/>
     <string id="26SJhCRD" text="Заменить с"/>
@@ -59,15 +59,15 @@
     <string id="7lvexPjZ" text="Равнина"/>
     <string id="7MkoLtWC" text="Топор"/>
     <string id="7qySRF2T" text="Пинг"/>
-    <string id="7snGCl6z" text="Лицевые осадные отряды"/>
+    <string id="7snGCl6z" text="Передовые осадные отряды"/>
     <string id="880uOrte" text="Местность"/>
     <string id="8o1lZcjR" text="Высота бровей"/>
-    <string id="8sG5bTtK" text="Период респауна"/>
+    <string id="8sG5bTtK" text="Период возрождения"/>
     <string id="9aboazgu" text="Линия"/>
     <string id="9TGLirQf" text="Круг"/>
     <string id="9Ts5zKIj" text="Глаза"/>
     <string id="a2xfNmqa" text="В лобби"/>
-    <string id="a8nb5HVc" text="высота уголка бровей"/>
+    <string id="a8nb5HVc" text="Высота уголка бровей"/>
     <string id="aAD1iOuH" text="Размер верхней части рта"/>
     <string id="AbEh2y8o" text="Сохранить и выйти"/>
     <string id="aDA9PWFT" text="Наступать"/>
@@ -79,7 +79,7 @@
     <string id="aM3TlRIy" text="{SHORTCUT} Перемещение"/>
     <string id="AmbKQ7LT" text="Перемещение"/>
     <string id="auDOtbza" text="Культура команды 1"/>
-    <string id="Ayrvf5yp" text="Убить"/>
+    <string id="Ayrvf5yp" text="Убил"/>
     <string id="aZVxHbwH" text="Убит {TROOP_NAME}"/>
     <string id="b0L0jbIa" text="Положение глаз"/>
     <string id="b74zosgq" text="Размер носа"/>
@@ -107,7 +107,7 @@
     <string id="cBZ6OlKW" text="Джавелин"/>
     <string id="ccROnOY3" text="Получил выдержано рыцарский удар!"/>
     <string id="CFI2aDtg" text="Броня лошади"/>
-    <string id="cJ5emwNF" text="Помочь"/>
+    <string id="cJ5emwNF" text="Помог"/>
     <string id="CjPiabbn" text="Огонь"/>
     <string id="CJr1T7jh" text="Пароль администратора"/>
     <string id="cK5DE88I" text="Н/Д"/>
@@ -131,7 +131,7 @@
     <string id="eEf7hE4r" text="Вразброс"/>
     <string id="EmVbbIUc" text="Вернуться"/>
     <string id="EUHaR98k" text="Отчет"/>
-    <string id="EX4bKRbV" text="Счетчик смертей"/>
+    <string id="EX4bKRbV" text="Смертей"/>
     <string id="F09emT1k" text="Показать дальнобойные осадные единицы"/>
     <string id="f4ZeGAJi" text="Относительная скорость: {SPEED} m/s"/>
     <string id="f5y9qyDb" text="Рука"/>
@@ -152,7 +152,7 @@
     <string id="GaF4CvmX" text="Резкость лица"/>
     <string id="gFmkNiTo" text="Занять позицию"/>
     <string id="GnKCsV44" text="Длина подбородка "/>
-    <string id="GoEo27il" text="Переод респауна атакуюших"/>
+    <string id="GoEo27il" text="Период возрождения атакующих"/>
     <string id="Gr994CTR" text="Запретить оружие дальнего боя"/>
     <string id="GY4NaieE" text="Чисто"/>
     <string id="h5OsTOFM" text="Губы вогнутый/выпуклый"/>
@@ -164,15 +164,14 @@
     <string id="hwC3OiIJ" text="Лицо Войск"/>
     <string id="hY9cfdZy" text="Широкий"/>
     <string id="HyG3eUFN" text="Включить звук"/>
-    <string id="i0gOiCvG" text="Новая битва"/>
     <string id="I4wnvBGd" text="Испытайте жестокость средневековых осад с защищающейся или атакующей стороны в этом крупном PvP-режиме. Используйте множество осадных орудий, чтобы отразить вражеские силы или закрепиться в пределах замка, когда вы пытаетесь защитить или захватить крепость."/>
     <string id="IaaVNwwb" text="Включить BattlEye"/>
     <string id="iDMBz55E" text="В многопользовательской игре"/>
-    <string id="ig0lsiwY" text="Солдаты"/>
+    <string id="ig0lsiwY" text="Отряд"/>
     <string id="iJXH3841" text="Свободный"/>
     <string id="IKn1YxU2" text="Процент прироста золота атакующих"/>
-    <string id="imTtoHqW" text="Зарегистрироваться Coop"/>
-    <string id="ImWyFyld" text="Положение рта "/>
+    <string id="imTtoHqW" text="Зарегистрироваться вместе"/>
+    <string id="ImWyFyld" text="Положение рта"/>
     <string id="irGCyJaY" text="Убийств"/>
     <string id="iTau5cxh" text="Средняя"/>
     <string id="jaaQijQs" text="Возраст"/>
@@ -185,7 +184,7 @@
     <string id="jsqyGWGu" text="Процент прироста золота защитников"/>
     <string id="jUsEkEBt" text="Челюсти, асимметрия"/>
     <string id="jvOYgHOe" text="Заказ"/>
-    <string id="JW2nEe4X" text="Дружественный урон в ближнем бою"/>
+    <string id="JW2nEe4X" text="Урон по своим в ближнем бою"/>
     <string id="JwnoxhKI" text="Глубина лица"/>
     <string id="k4cMrbVf" text="Первое убийство в ближнем бою"/>
     <string id="kCMGJl1W" text="Мост"/>
@@ -194,7 +193,7 @@
     <string id="kVwwG63i" text="Разрешить голосование за смену карты"/>
     <string id="kW4c2liv" text="Использовать зависимую от прогресса анимацию"/>
     <string id="L0lGQWt5" text="Количество ботов в команде 2"/>
-    <string id="L3tY2kTE" text="Дружественный огонь!"/>
+    <string id="L3tY2kTE" text="Урон по своим!"/>
     <string id="L9xEQ5b2" text="Выберете предмет для замены"/>
     <string id="LaaA8U4W" text="Наклон носа"/>
     <string id="laIfauZH" text="Уголок глаза"/>
@@ -205,7 +204,7 @@
     <string id="LkiQDpi5" text="Размер ушей"/>
     <string id="LmkYgWnF" text="Размер глаз"/>
     <string id="M1RCJ9DM" text="Третья помощь"/>
-    <string id="m3zVR2UH" text="Показать мышь: [{KEY_NAME}]"/>
+    <string id="m3zVR2UH" text="Показать курсор: [{KEY_NAME}]"/>
     <string id="m5UdbzHr" text="Регион не выбран"/>
     <string id="MciIqod6" text="Рыцарский удар"/>
     <string id="MH9Pi3ao" text="Смотреть в направлении"/>
@@ -215,7 +214,6 @@
     <string id="MS795wWa" text="Первая помощь"/>
     <string id="MW8rlyfL" text="Метательное"/>
     <string id="NE7PmH7n" text="Условия"/>
-    <string id="nl1pL0hy" text="Совместная кампания"/>
     <string id="NqarFr4P" text="Настройки"/>
     <string id="nt5MOuwo" text="Дюна"/>
     <string id="nXE6eV8W" text="Озеро"/>
@@ -223,17 +221,17 @@
     <string id="o5Ead68n" text="Выход без сохранения"/>
     <string id="O9F9q1zx" text="Глубина скул"/>
     <string id="obB483C5" text="Часть тела: {BODY_PART}"/>
-    <string id="oBbiVeKE" text="Очки"/>
+    <string id="oBbiVeKE" text="Очки здоровья"/>
     <string id="Oud3W58w" text="Удерживайте ({KEY}) {ACTION}"/>
     <string id="OVcoYxj1" text="Название сервера "/>
     <string id="ox8XcxfR" text="Форма ушей"/>
     <string id="OZHFucP5" text="Хмуриться/улыбаться"/>
     <string id="pa4yXyDa" text="{PLAYER_COUNT} против {PLAYER_COUNT}"/>
-    <string id="pagmdsCK" text="Высота века"/>
+    <string id="pagmdsCK" text="Высота век"/>
     <string id="PbLuHcJg" text="Поглощенный урон: {ABSORBED_DAMAGE}"/>
     <string id="pbp0GQdO" text="Бан игрока"/>
     <string id="pCRwBpzd" text="Нос"/>
-    <string id="PDdh1sBj" text="Название"/>
+    <string id="PDdh1sBj" text="Имя"/>
     <string id="Ph6PhUwX" text="Дистанция: {DISTANCE} м"/>
     <string id="pHaRIFa8" text="Первое убийство в дальнем бою"/>
     <string id="PiHpR4QL" text="Одноручное"/>
@@ -246,19 +244,17 @@
     <string id="Q2EmU0TA" text="Лимит команды"/>
     <string id="Q2yjFlC9" text="Не стрелять"/>
     <string id="q8lsn0U6" text="Возглавь свой отряд войска в этом командном режиме PvP-игры. Контролируй поле битвы, чтобы деморализовать вражескую команду или уничтожить их силы для победы."/>
-    <string id="QbkHvWgU" text="Классический бой"/>
     <string id="QDU03vOW" text="Нанесено {DAMAGE} {DAMAGE_TYPE} урона объекту."/>
     <string id="qeSbaPWi" text="Количество ботов команды 1"/>
     <string id="qF5pJt7e" text="Асимметрия глаз "/>
     <string id="Qhl77Oki" text="Помог убить {TROOP_NAME}"/>
     <string id="qKPSlF9L" text="{SHORTCUT} Командование"/>
-    <string id="qNga6uPw" text="Урона нанесено"/>
+    <string id="qNga6uPw" text="урона нанесено"/>
     <string id="qNRc3pXu" text="Заполнить"/>
     <string id="qnxJYAs7" text="Участник"/>
     <string id="QTr6UDAa" text="Остановиться"/>
     <string id="R3BwLVmT" text="Нанесено {DAMAGE} {DAMAGE_TYPE} урона."/>
     <string id="R4Gqskgq" text="Победа"/>
-    <string id="R9DiQfax" text="Битва"/>
     <string id="rbYITcao" text="Рот"/>
     <string id="rbz1Bwbv" text="Инвентарь"/>
     <string id="RlDVtPpB" text="Глубина глаз"/>
@@ -268,10 +264,10 @@
     <string id="Sbna6UGb" text="Направление взгляда"/>
     <string id="sBU9vyF1" text="Выстрел в голову!"/>
     <string id="SdxEH6b1" text="Нижняя форма губ"/>
-    <string id="SfJgnzdq" text="Мут"/>
+    <string id="SfJgnzdq" text="Заглушить"/>
     <string id="SN2ojCFr" text="Полная Кожа"/>
-    <string id="SNLShTzq" text="Результат"/>
-    <string id="SVAmzGRM" text="Бан игрока"/>
+    <string id="SNLShTzq" text="Счет"/>
+    <string id="SVAmzGRM" text="Забанить игрока"/>
     <string id="SVeIOaab" text="Минимальное количество очков, чтобы выиграть матч"/>
     <string id="SVnbZdJq" text="Скрыть уши"/>
     <string id="Svtb9MQv" text="Дуэль"/>
@@ -291,7 +287,7 @@
     <string id="TTWL7RLe" text="Арбалет"/>
     <string id="TuAP5xXV" text="Высота ноздрей"/>
     <string id="tUETZiIp" text="Шлем"/>
-    <string id="tvDuF1vU" text="Осада башни скорость (процент)"/>
+    <string id="tvDuF1vU" text="Скорость осадной башни (процент)"/>
     <string id="tvHQcaC1" text="Высота скул"/>
     <string id="Twdbmure" text="{SHORTCUT} Направление взгляда"/>
     <string id="tYuSNFuD" text="Значки"/>
@@ -326,7 +322,7 @@
     <string id="VwyBNTs3" text="Лицо"/>
     <string id="W1nzgCTY" text="Выпуклость рта"/>
     <string id="W3OXv9Tx" text="Минимальная сила брони"/>
-    <string id="W73My5KO" text="Смерть"/>
+    <string id="W73My5KO" text="Умер"/>
     <string id="w9m11T1y" text="Карта"/>
     <string id="wBn6eVGS" text="Неглубокая река"/>
     <string id="WfwkVjTA" text="Работайте вместе со своими товарищами по команде в этом быстро развивающемся тактическом режиме PvP-игры. Распоряжайтесь своим золотом с умом, чтобы покупать классы и возрождаться, пытаясь сломить боевой дух вражеской команды или полностью уничтожить их силы."/>
@@ -343,11 +339,11 @@
     <string id="Wxlhg1f1" text="Сапоги"/>
     <string id="wxzhtvZR" text="Период респауна обороняющихся"/>
     <string id="x1QEJna0" text="Шире"/>
-    <string id="xILeUbY3" text="Панель администратора "/>
+    <string id="xILeUbY3" text="Панель администратора"/>
     <string id="Xj2FCkQl" text="Список пользовательских{newline}серверов"/>
     <string id="XpVARRTW" text="Глубокий"/>
     <string id="xq9Vxpyc" text="&lt;a style=&quot;HeadshotTitle.Text&quot; &gt;&lt;b&gt;{TITLE}&lt;/b&gt;&lt;/a&gt;"/>
-    <string id="XQndveFG" text="Дружественный урон в ближнем бою"/>
+    <string id="XQndveFG" text="Урон по своим в ближнем бою"/>
     <string id="XUKRrgOr" text="Нанесено {DAMAGE} {DAMAGE_TYPE} урона по лошади."/>
     <string id="xXQN7Go6" text="Открытость глаз"/>
     <string id="XZU9SyQW" text="Быстрая игра"/>
