@@ -160,7 +160,7 @@
     <string id="7bETSEg5" text="Я {?PLAYER.GENDER}готова{?}готов{\?}, {LORD.LINK}."/>
     <string id="7DPa7U1F" text="Расскажи подробнее о своей переулке."/>
     <string id="7EoBCTX0" text="Что ты хочешь, чтобы я сделал?[rb:unsure]"/>
-    <string id="7IxFrati" text="Приветствую Вас {?PLAYER.GENDER}моя леди{?}мой лорд{\?}, чем я могу Вам помочь?"/>
+    <string id="7IxFrati" text="Приветствую вас, {?PLAYER.GENDER}миледи{?}милорд{\?}, чем я могу вам помочь?"/>
     <string id="7kn4Jmdl" text="Ах, да! У нас были такие стишки во времена моей молодости."/>
     <string id="7pH9MzS1" text="Так ты платишь нам за драку? А тебе-то что?"/>
     <string id="7qPda0SA" text="Один из моих родственников разгневался во время ссоры и убил человека из {TARGET_VILLAGE}. Мы предложили заплатить за кровь, но семья покойного упрямо отказалась. Как оказалось, покойный - родственник  {TARGET_NOTABLE}, старейшины региона, а теперь люди  {TARGET_VILLAGE} поклялись убить моего родственника."/>
@@ -1207,7 +1207,7 @@
     <string id="YdZtydK4" text="Так уж получилось, {PLAYER.NAME}, что я обещал {FACTION_LEADER} что я найму компанию наемников для предстоящего похода."/>
     <string id="yFbJ8srH" text="Да?"/>
     <string id="yFH4Wxun" text="Ребята! Вы меня слышите? Убейте их!"/>
-    <string id="Yh0danUf" text="Спасибо и доброго дня, {?PLAYER.GENDER}миледи{?}мой лорд{\?}."/>
+    <string id="Yh0danUf" text="Спасибо и доброго дня, {?PLAYER.GENDER}миледи{?}милорд{\?}."/>
     <string id="YHTTPKMb" text="500{GOLD_ICON}."/>
     <string id="YIxpNP4k" text="Вы получили письмо от {QUEST_GIVER.LINK}. "/>
     <string id="ykYcBdHK" text="Сколько вы хотите поставить?"/>
