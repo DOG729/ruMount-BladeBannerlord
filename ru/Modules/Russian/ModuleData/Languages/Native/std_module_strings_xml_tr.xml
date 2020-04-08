@@ -294,7 +294,7 @@
     <string id="aIkffnN6" text="Персонажи"/>
     <string id="aiX4b5kS" text="Выполненные Задания"/>
     <string id="AIYWSAyK" text="Получайте прибыль от торговли. Сопровождайте караваны."/>
-    <string id="aJoNj6JX" text="Сражаться с коротким двуручным оружием."/>
+    <string id="aJoNj6JX" text="Сражайтесь с коротким двуручным оружием."/>
     <string id="aJQQnshf" text="Налог с населения:"/>
     <string id="aJXhsjmT" text="Привет, путешественник. Если ты не хочешь, чтобы твои кости остались в песке для корма шакалов, отдай нам то, чего мы потребуем."/>
     <string id="ajZTZoXQ" text="Двуручная Булава"/>
@@ -514,7 +514,7 @@
     <string id="E9f8YUbO" text="Вы получаете уровень каждый раз, когда общее количество очков навыков достигает целевого значения. Повышение уровня дает фокусные очки, чтобы потратить.{newline}{newline}Если у вас есть свободные точки фокусировки, вы увидите маленький индикатор над кнопкой экрана персонажа. Нажмите на кнопку, чтобы просмотреть различные навыки и выбрать один, чтобы увеличить фокус."/>
     <string id="eAGeVRjI" text="Вы получили {GOLD_AMOUNT}{GOLD_ICON}."/>
     <string id="EAicirVE" text="Бесстрашный"/>
-    <string id="eaIQXj6O" text="Свободные очки аттрибутов: {NUMBER}"/>
+    <string id="eaIQXj6O" text="Свободных очков аттрибутов: {NUMBER}"/>
     <string id="ealIwlQH" text="Защищает поселение {SETTLEMENT_NAME}"/>
     <string id="eavr4x8n" text="Ежедневная продукция:"/>
     <string id="eb0nLx5E" text="Асерайский Султанат"/>
@@ -596,7 +596,7 @@
     <string id="fRu5Y4OT" text="Я был ранен и оставлен умирать"/>
     <string id="FRuzuVyO" text="Ни Один Клан Не Выбраны"/>
     <string id="FRZfpryn" text="Выдвинуть предложение предполагающее передачу поселка кому-нить другому"/>
-    <string id="FS78CuPs" text="Навыки привязанные к {ATTRIBUTE_NAME} аттрибуту следующие:"/>
+    <string id="FS78CuPs" text="Навыки привязанные к аттрибуту {ATTRIBUTE_NAME}:"/>
     <string id="FUNm7dHv" text="Знать {FACTION}"/>
     <string id="FVEvjlis" text="Размер отряда превышен"/>
     <string id="FvlyWloX" text="Деревня процветает. Полные мешки с зерном и телеги, груженые дарама полей, указывают на это."/>
@@ -919,7 +919,7 @@
     <string id="m6A7RLby" text="Коварный"/>
     <string id="M6tfHhq7" text="Вы проголосовали и правитель решил исход. Темп"/>
     <string id="m6uSOtE4" text="Вам не хватает денег."/>
-    <string id="M9p0vPad" text="Я знаю, как тебя зовут... {COMMENT_STRING_MAIN}"/>
+    <string id="M9p0vPad" text="Я знаю, как вас зовут... {COMMENT_STRING_MAIN}"/>
     <string id="m9vD3VlN" text="Эта партия не будет расти или уменьшаться в размерах. Он будет пытаться удержать его размер, как это."/>
     <string id="MaBSSg7I" text="Таран"/>
     <string id="MacceKIX" text="{RELATION_TEXT} из {NAME}"/>
@@ -984,7 +984,7 @@
     <string id="nfQhamAF" text="Скорость Поворота: "/>
     <string id="NgHSyQem" text="В Армии"/>
     <string id="nHGm1wYg" text="Battle finished. Press {leave_key} to view results"/>
-    <string id="nHkQbLDc" text="Не может использоваться с креплениями"/>
+    <string id="nHkQbLDc" text="Не может использоваться верхом"/>
     <string id="nHSVy0ns" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}are{?}is{\?} flanking from {#IS_LEFT}{#}left{#}multiple sides{\#}{?IS_MIDDLE}middle{?}{\?}{?IS_RIGHT}right{?}{\?}."/>
     <string id="NiyNgXMe" text="Эта партия уже расформировании"/>
     <string id="njnMk5P1" text="Дезавуировать политику"/>
@@ -1059,7 +1059,7 @@
     <string id="OWCoBElc" text="Вас взяли в плен {PARTY_NAME}."/>
     <string id="owg6SqHF" text="Эмир"/>
     <string id="OxiaKT0G" text="Стургия"/>
-    <string id="ozYRUrum" text="Помогать раненым бойцам восстановиться в поселениях."/>
+    <string id="ozYRUrum" text="Помогайте раненым бойцам восстановиться в поселениях."/>
     <string id="P2CRzfV7" text="Магазины в поселении"/>
     <string id="p2WBSIa7" text="Сплоченность:"/>
     <string id="P3SJla9F" text="Ограбленные Деревни"/>
