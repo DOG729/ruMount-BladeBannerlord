@@ -219,7 +219,7 @@
     <string id="42T5q8FF" text="Дополнительный урон +10%, если оснащён одноручный меч."/>
     <string id="44tA6fNa" text="Я постараюсь заслужить доверие вашей семьи, то."/>
     <string id="45V8TzwK" text="Двуручное оружие со скоростью более 100 ед. увеличивает скорость на 1%, и урон на 2%."/>
-    <string id="47jbW6rG" text="{FIRST_NAME} малая фракция."/>
+    <string id="47jbW6rG" text="{FIRST_NAME} Ящерка"/>
     <string id="49IwOe5E" text="Как вы хотите..."/>
     <string id="4ADQ7YZj" text="{PERSON.LINK} выиграл турнир в {TOWN}."/>
     <string id="4bkLDxIU" text="То, что мы сделали там, в той деревне... Но я этого не делал. Я не хотел в этом участвовать."/>
@@ -1772,7 +1772,7 @@
     <string id="m57WOW3I" text="Противник получает -1 к боевому духу вначале."/>
     <string id="M5eUjgQl" text="Вылечить"/>
     <string id="M5iR1e5h" text="You have arrived at your fief of {SETTLEMENT_LINK}. {PROSPERITY_INFO}"/>
-    <string id="M6yluBb3" text="{FIRST_NAME} the {?FEMALE}Widow{?}Orphan{\?}"/>
+    <string id="M6yluBb3" text="{FIRST_NAME} {?FEMALE}Вдова{?}Сирота{\?}"/>
     <string id="m72wpzG2" text="Продолжай, Я слушаю"/>
     <string id="m9goGUzg" text="Легендарный воин с двуручным оружием"/>
     <string id="MacG8ikN" text="Я буду думать об этом."/>
@@ -2165,12 +2165,12 @@
     <string id="qcl3YTPh" text="Посетить таверну"/>
     <string id="qCUFllVM" text="Соль на рану"/>
     <string id="QCuxL92I" text="День добрый, {?PLAYER.GENDER}мадам{?}сэр{\?}. Чем я могу помочь??"/>
-    <string id="qdinkZqk" text="{FIRST_NAME} the Cooper"/>
+    <string id="qdinkZqk" text="{FIRST_NAME} Бондарь"/>
     <string id="QDMbaUYv" text="My {?PLAYER.GENDER}lady{?}lord{\?}! please tell me you have decided to release me."/>
     <string id="qDq1ias2" text="Нет никаких сторон, чтобы встретиться."/>
     <string id="qeiVFn9s" text="{CLAN_NAME} joined kingdom {NEW_FACTION_NAME}"/>
     <string id="qEOXka0Q" text="+0.5 лояльность за день до населенных пунктов, которые имеют ту же культуру, как их владелец клана  Settlement производства ополчения увеличивается на 1\н-0.5 лояльности в день на расчеты с другой культурой, чем его владелец клана"/>
-    <string id="qfClYYjK" text="Artisans can't sell their products in {ISSUE_GIVER_SETTLEMENT}"/>
+    <string id="qfClYYjK" text="Ремесленники не могут продавать свою продукцию в {ISSUE_GIVER_SETTLEMENT}"/>
     <string id="QfMeoKOm" text="Отправить войска."/>
     <string id="QGIFHde7" text="+2 к урону с древковым оружием на коне."/>
     <string id="QGj8zQIc" text="The hand of {MARRIAGE_CANDIDATE.LINK}"/>
@@ -2556,7 +2556,7 @@
     <string id="UbxBYp60" text="Сборщик Налогов"/>
     <string id="uc4M4bhG" text="Well, there is something I want. There is one {?TARGET_HERO.GENDER}lady{?}lord{\?} of the {TARGET_FACTION} with whom I have a long, long relationship. And not a friendly one. Even though we are not now at war, as long as {?TARGET_HERO.GENDER}she{?}he{\?} is free, I know my life and lands are not safe. As I say, it won't be easy at all. But whoever manages to do that, bring {?TARGET_HERO.GENDER}her{?}him{\?} back alive to me, having my gratitude aside, will be a very rich man indeed."/>
     <string id="UCjFAPnk" text="I am flattered, {?PLAYER.GENDER}my lady{?}sir{\?}."/>
-    <string id="UclBLMbx" text="{FIRST_NAME} the {?FEMALE}Widow{?}Widow-maker{\?}"/>
+    <string id="UclBLMbx" text="{FIRST_NAME} {?FEMALE}Вдова{?}Widow-maker{\?}"/>
     <string id="UCpyo9hw" text="Мощный"/>
     <string id="uct3JyqT" text="Very well. I believe in doing things according to the old ways. Before our men meet, let our champions duel in honorable single combat. {HOSTILE_CHAMPION_NAME} shall fight for me. Who fights for you?"/>
     <string id="uCXGZ2YP" text="Военные достижения дают на 30% больше влияния \nСодержание солдат увеличивается на 10%"/>
