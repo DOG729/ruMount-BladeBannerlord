@@ -607,7 +607,7 @@
     <string id="arpa1LzL" text="У ваших войск есть 1 патрон для метательного оружия." />
     <string id="ASOW1MuQ" text="Ваше поселение {SETTLEMENT} подвергается атаке {PARTY} из {FACTION}!" />
     <string id="AT6v10NK" text="Атрибут" />
-    <string id="aTeuX4L0" text="Регулярное" />
+    <string id="aTeuX4L0" text="Обычный" />
     <string id="AtFv5RMW" text="Дань королевства" />
     <string id="atk3PTae" text="Дезертиры вымогают {SETTLEMENT}." />
     <string id="aTPc7AkY" text="Отлично. Но я могу нанять только {MERCENARY_COUNT} из вас. Вот {GOLD_AMOUNT} {GOLD_ICON}" />
@@ -1396,7 +1396,7 @@
     <string id="I8ZZagQU" text="Мастер Осад "/>
     <string id="IaA8sbY2" text="Присоединяйтесь к Салли из."/>
     <string id="IagYTD5O" text="Процветания"/>
-    <string id="IaSXbvdN" text="{FIRST_NAME} the Brewer"/>
+    <string id="IaSXbvdN" text="{FIRST_NAME} Пивовар"/>
     <string id="iazij7fO" text="Хранит запасы пищи, так что поселок имеет больше продуктов питания. Увеличивает продовольственное снабжение."/>
     <string id="ib2SMG9b" text="Обезболивающие"/>
     <string id="ib5vlNvd" text="{CLAN} has been expelled from {KINGDOM} with equal support on both sides."/>
@@ -1637,7 +1637,7 @@
     <string id="kqJipMqc" text="Track detection radius +{a0} %"/>
     <string id="Kr5gINql" text="+50% Урона в наскоке."/>
     <string id="krOebKaD" text="ArabianHair"/>
-    <string id="krTrNonp" text="{PRISONER_LORD.LINK_AND_FACTION} has escaped from captivity."/>
+    <string id="krTrNonp" text="{PRISONER_LORD.LINK_AND_FACTION} сбегает из плена."/>
     <string id="kS7vR6LK" text="SergeantCommandSkills"/>
     <string id="KSeIOHDh" text="(Одного из торговцев в городе приходится говорить, как вы готовитесь к отъезду.)"/>
     <string id="KsjlCKsF" text="10% больше эффектов форумам/Рынкам/Аренам/Храмам/Фестивалям."/>
@@ -1818,7 +1818,7 @@
     <string id="mMU3H6HZ" text="Арена"/>
     <string id="MMv0U5Yr" text="Призыв к Оружию"/>
     <string id="Mn4bI9Jg" text="What are you doing? Are you another one of {QUEST_GIVER.NAME}'s lackeys? Do you think you can hunt me like an animal.[ib:closed][rf:angry]"/>
-    <string id="mNWwGT9C" text="{FIRST_NAME} Knucklebones"/>
+    <string id="mNWwGT9C" text="{FIRST_NAME} Костяной"/>
     <string id="MOFjpmVj" text="Вам не хватает здорового войск."/>
     <string id="MpBF1aea" text="Шрамы"/>
     <string id="MqCH7R4A" text="Безопасности"/>
@@ -2285,7 +2285,7 @@
     <string id="rjNunOyE" text="Мощный удар"/>
     <string id="rJwExPKb" text="Вам не нужны бойцы, {?PLAYER.GENDER}мадам{?}сэр{\?}? Я ищу хозяина, к которому могу присоединиться за {GOLD_AMOUNT}{GOLD_ICON}"/>
     <string id="Rl1AHKSp" text="Королевскую Привилегию"/>
-    <string id="RL8z99Dt" text="Знатные силы, чтобы дать вам новобранцев"/>
+    <string id="RL8z99Dt" text="Заставить крестьян отдать вам новобранцев"/>
     <string id="RLHjUDeb" text="Описание Кузнеца"/>
     <string id="RliyRJKl" text="Обеспечивает боевые тренировки для граждан, чтобы в последующем набрать их в ополчение. Увеличивает ежедневный ополченцев."/>
     <string id="rLlIVqmY" text="Итак, после битвы вы схватили пару пленных и вам нужно куда-то их деть, чтобы не мешались. Тут то я и мои коллеги будем рады заплатить вам за них."/>
