@@ -207,7 +207,7 @@
     <string id="3UprB5ID" text="{NAME} замечательный"/>
     <string id="3W3eEIIZ" text="Ничего, вы можете идти."/>
     <string id="3W67kdtc" text="Это решение было поддержано Советом."/>
-    <string id="3wb2dCfz" text="Это будет прямо тогда, {?PLAYER.GENDER}ma'am{?}sir{\?}.[rf:happy][rb:very_positive]"/>
+    <string id="3wb2dCfz" text="Сию минуту, {?PLAYER.GENDER}мэм{?}сэр{\?}.[rf:happy][rb:very_positive]"/>
     <string id="3WFgPigk" text="{ISSUE_GIVER.NAME} хочет продать вам украденный товар. Цена низкая из-за дополнительного риска."/>
     <string id="3wljKQl6" text="+2% к скорости передвижения ночью."/>
     <string id="3wzCrzEq" text="{HERO.LINK} повысил уровень."/>
@@ -620,7 +620,7 @@
     <string id="AvBNKK5y" text="Хорошо, я позову одного из моих спутников и спасу твоих партнеров." />
     <string id="avFXbBLV" text="Знаю я как все устроено. Просто принеси мне оружие." />
     <string id="avMQKUoJ" text="Вы защитили оспариваемое пастбище для землевладельца, {QUEST_GIVER.LINK}. {?QUEST_GIVER.GENDER} Она {?} он {\?} благодарит вас и посылает {REWARD} {GOLD_ICON} с {?QUEST_GIVER.GENDER} ее {?} его {\?} наилучшими пожеланиями." />
-    <string id="aVTva3aO" text="Что я вам могу принести? Хотите попробовать наше местное {DRINK} и блюдо {FOOD}?" />
+    <string id="aVTva3aO" text="Что я вам могу принести? Хотите попробовать {DRINK} и {FOOD}?" />
     <string id="avVasbX1" text="Скорость перезарядки войск дальнего боя увеличена на 10%" />
     <string id="awaFsZ5l" text="Я всегда был рядом с {CURRENT_LIEGE.LINK}. Готов ли вот {CURRENT_LIEGE.LINK} быть рядом со мной, уже вопрос так вопрос..." />
     <string id="aWdBJqzs" text="{PERK_NAME} из {PARTY_NAME}" />
@@ -1006,7 +1006,7 @@
     <string id="E31IJyqs" text="Набирать войска"/>
     <string id="E3b8iKjc" text="позволяя правителю назначать судей"/>
     <string id="e3e79n9B" text="Это все, что я ожидал, и даже больше, капитан. Я рад, что вы взял меня с собой."/>
-    <string id="E57VFXqU" text="У меня будет это."/>
+    <string id="E57VFXqU" text="Могу попробовать."/>
 	<string id="E7qFYRjE" text="Ваши удары руками и пинки сбивают врагов" />
     <string id="E8wdxbui" text="Хорошо, я согласен, я отпускаю тебя сейчас. Теперь заплати мне."/>
     <string id="E9s2bjqw" text="Я могу только надеяться, что когда-нибудь вы поменяете свое мнение."/>
@@ -1400,7 +1400,7 @@
     <string id="iazij7fO" text="Хранит запасы пищи, так что поселок имеет больше продуктов питания. Увеличивает продовольственное снабжение."/>
     <string id="ib2SMG9b" text="Обезболивающие"/>
     <string id="ib5vlNvd" text="{CLAN} has been expelled from {KINGDOM} with equal support on both sides."/>
-    <string id="IBhZGxxm" text="тарелка оливки"/>
+    <string id="IBhZGxxm" text="тарелку оливок"/>
     <string id="IBlJ42MN" text="Военные Coronae"/>
     <string id="Ibm1A68t" text="Охранники передали свое оружие обратно."/>
     <string id="IBXfCLMp" text="I certainly hope too {?PLAYER.GENDER}lady{?}lord{\?}! Again, I want to thank you for everything, before I go, please accept this gift as a humble gratitude."/>
@@ -2162,7 +2162,7 @@
     <string id="QbKbGu2h" text="Овцеводческих Ферм"/>
     <string id="QBPrRdQJ" text="Хирург"/>
     <string id="qcaaJLhx" text="Контракт Наемника "/>
-    <string id="qcl3YTPh" text="Посетить Таверну"/>
+    <string id="qcl3YTPh" text="Посетить таверну"/>
     <string id="qCUFllVM" text="Соль на рану"/>
     <string id="QCuxL92I" text="День добрый, {?PLAYER.GENDER}мадам{?}сэр{\?}. Чем я могу помочь??"/>
     <string id="qdinkZqk" text="{FIRST_NAME} the Cooper"/>
@@ -3033,7 +3033,7 @@
     <string id="YYl1W2jU" text="Лесник"/>
     <string id="yYTotiqW" text="Поговорить..."/>
     <string id="yyz111nn" text="Стражники говорят, что они не могут кого-либо впускать."/>
-    <string id="yZbQQGog" text="Наслаждаетесь пойлом?"/>
+    <string id="yZbQQGog" text="Устраивают местные напитки?"/>
     <string id="yZWBDAG0" text="Вы известны как человек чести. Можете называть меня таким же."/>
     <string id="Z0CoeojG" text="Thrown weapon speed: +{a0} %"/>
     <string id="z0WacPaW" text="Нет, справедливость требует от вас заплатить за все ваши преступления."/>
