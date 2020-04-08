@@ -15,7 +15,7 @@
     <string id="aheVbtmm" text="{ITEM} у {FACTION}"/>
     <string id="aowJMil0" text="{KINGDOM} - это королевство было уничтоженно."/>
     <string id="AQK4ADS5" text="{HERO_1.LINK} убивает {HERO_2.LINK}"/>
-    <string id="AxMrFoea" text="{TOWN_NAME} был осажден армией во главе с {LORD.LINK} из {FACTION_NAME}!"/>
+    <string id="AxMrFoea" text="{TOWN_NAME} был осажден армией во главе с {LORD.LINK} из фракции {FACTION_NAME}!"/>
     <string id="bNAxWneP" text="{INSULTER.LINK} говорит,что {INSULTEE.LINK} вымогает деньги у предприятий."/>
     <string id="bNDUtygL" text="{INSULTER.LINK} говорит,что {INSULTEE.LINK} удерживает товар, чтобы поднять цены."/>
     <string id="Bovy7D7s" text="{MOTHER.LINK} родила,но ребенок не выжил."/>
@@ -25,7 +25,7 @@
     <string id="dfAE3liA" text="{CLAN_NAME} присоединяется к {FACTION}."/>
     <string id="dmqy8OyY" text="{INSULTER.LINK} говорит,что {INSULTEE.LINK} ведёт дела нечестно."/>
     <string id="dzJOruIi" text="{COMMON_AREA} в {SETTLEMENT} потерян для {HERO.LINK}."/>
-    <string id="EHFibjkM" text="{TOWN_NAME} был осажден армией во главе с {LORD.LINK} из {FACTION_NAME}!"/>
+    <string id="EHFibjkM" text="{TOWN_NAME} был осажден армией во главе с {LORD.LINK} из фракции {FACTION_NAME}!"/>
     <string id="ELFgdGJZ" text="{MOTHER.LINK} забеременнела."/>
     <string id="eMRMptST" text="{MOTHER.LINK} родила."/>
     <string id="ExbVzTZA" text="{CLAN} теперь сражается на стороне {KINGDOM}."/>
@@ -36,13 +36,13 @@
     <string id="h78oPYTs" text="{INSULTER.LINK} говорит,что {INSULTEE.LINK} является еретиком."/>
     <string id="hJFCi1zu" text="{FACTION1} и {FACTION2} заключили мир."/>
     <string id="hopvV6Ch" text="{FACTION1_NAME} объявляет войну {FACTION2_NAME}"/>
-    <string id="hP57Caab" text="{VICTOR_PARTY} из {VICTOR_FACTION} одерживает победу над {DEFEATED_PARTY} из {DEFEATED_FACTION}"/>
+    <string id="hP57Caab" text="{VICTOR_PARTY} из фракции {VICTOR_FACTION} одерживает победу над {DEFEATED_PARTY} из фракции {DEFEATED_FACTION}"/>
     <string id="Jo3Lux3w" text="{HERO_1.LINK} несет ответственность за смерть {HERO_2.LINK}"/>
     <string id="jZcV4gI7" text="{INSULTER.LINK} говрит,что {INSULTEE.LINK} проиграл битву,действуя трусливо."/>
     <string id="KbakhGqB" text="{HERO_1.LINK} побеждает армию {HERO_2.LINK}."/>
     <string id="kcqSzPSL" text="{SETTLEMENT}"/>
     <string id="kMwv4QJK" text="{INSULTER.LINK} ссорится с  {INSULTEE.LINK} из-за ухаживания."/>
-    <string id="kqwNCCbZ" text="{TOWN_NAME} берет в осаду {LORD.LINK} из {FACTION_NAME}!"/>
+    <string id="kqwNCCbZ" text="{TOWN_NAME} берет в осаду {LORD.LINK} из фракции {FACTION_NAME}!"/>
     <string id="ksr1bSTC" text="{SETTLEMENT} подвергается нападению со стороны {PARTY}"/>
     <string id="MoYYusXJ" text="{INSULTER.LINK} говорит,что {INSULTEE.LINK} проиграл битву,игнорируя приказы."/>
     <string id="nPF738Cb" text="{INSULTER.LINK} обвиняет {INSULTEE.LINK} в возбуждении смуты в народе."/>
