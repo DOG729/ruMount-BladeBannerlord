@@ -1048,7 +1048,7 @@
     <string id="Ekqj9IFR" text="Знаток пастбищ"/>
     <string id="elJCacQO" text="Я работаю над этим."/>
     <string id="eM1qFKNs" text="Меткий стрелок"/>
-    <string id="emH1yQAs" text="Средний бонус XP за день для войск уровня 1-2-3."/>
+    <string id="emH1yQAs" text="Средний бонус опыта каждый день для войск ранга 1-2-3."/>
     <string id="emLBsWj6" text="Мне ужасно жаль. Нам практически невозможно пожениться."/>
     <string id="EMri2uIu" text="{NAME} Вор"/>
     <string id="EMVLtu5L" text="{HERO.LINK} получил {?PLURAL}{GAINED_POINTS} очки навыка{?} очко навыка {\?} в {SKILL_NAME} и теперь {UPDATED_SKILL_LEVEL}."/>
@@ -2243,7 +2243,7 @@
     <string id="r2y3n7dR" text="Посещенные Поселения"/>
     <string id="r46NWboa" text="Я тоже иду на рынок. Какие продукты у вас есть?"/>
     <string id="r58brs0T" text="Получение боевого духа за разграбление деревень повышается на 10%."/>
-    <string id="R5ObSaUN" text="Прогуляться вокруг центра города"/>
+    <string id="R5ObSaUN" text="Направиться к центру города"/>
     <string id="R60kenU3" text="Улучшенная Кладка"/>
     <string id="R6V2Jv3a" text="You have delivered the weapons to the {QUEST_GIVER.LINK} as promised."/>
     <string id="r77ZrSUJ" text="Вы прямолинеен. Мне это нравится."/>
@@ -2454,7 +2454,7 @@
     <string id="T4fREm7U" text="Эксперт по арбалетам"/>
     <string id="t4vWAlbr" text="У губернатора города есть 10% шанс получить 1 отношение со случайным знатным человеком в день, пока активны проекты."/>
     <string id="T5H3L9Kw" text="Лихорадка прошла. Вы слабы, но вы чувствуете, что вам будет восстановить. Вы поднимаетесь с постели с первого раза в Дней, щурясь в солнечном свете."/>
-    <string id="t5UiDoaW" text="Очки здоровья персонажа, восстанавливаются на 10% быстрее."/>
+    <string id="t5UiDoaW" text="Здоровье персонажа, восстанавливается на 10% быстрее."/>
     <string id="t5Y0gTGv" text="{ARMY} has been disbanded since the leader couldn't arrived to the point on time."/>
     <string id="T6d7wtJX" text="Очень хорошо. Я скажу им, чтобы присоединиться к вашей партии. Удачи."/>
     <string id="t6FNeiOC" text="{ARMY} has been disbanded since the army leader is dead."/>
