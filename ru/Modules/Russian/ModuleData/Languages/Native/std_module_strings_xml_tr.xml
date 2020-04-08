@@ -252,7 +252,7 @@
     <string id="A0sT86A3" text="Война Не Выбрана"/>
     <string id="a0YMy8E5" text="{REQUIRED_ITEM} необходимо для улучшения."/>
     <string id="a10WGnBr" text="Правила нарушены! Никаких боев вне турнира. Вы были дисквалифицированы!"/>
-    <string id="a15eUf3B" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} воюют с врагами внутри стен."/>
+    <string id="a15eUf3B" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} и {?}{\?}{TROOP_NAMES_END} воюют с врагами внутри стен."/>
     <string id="a3hmB91k" text="Стройте и управляйте осадными машинами. Успешно используйте осадные машины при нападении или при обороне."/>
     <string id="A3T5z4Mv" text="Оборонительный"/>
     <string id="a3uKkLez" text="{LORD.LINK} находится около {SETTLEMENT_NAME}"/>
@@ -972,7 +972,7 @@
     <string id="N6O2GtTK" text="Переработки"/>
     <string id="n6Q6vv5t" text="Вы получили {GOLD} gold."/>
     <string id="N6QTvjMf" text="Пленные "/>
-    <string id="N7w6zi0F" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}are{?}is{\?} pulling back."/>
+    <string id="N7w6zi0F" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} и {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}are{?}is{\?} pulling back."/>
     <string id="N84HlDaV" text="{NUMBER_OF} {ITEM} ({AMOUNT}{GOLD_ICON})"/>
     <string id="NaNMRPv4" text="Асераи"/> <!--Здесь был Cas. Финальная версия!--> 
     <string id="NaorUInI" text="Understrength Сторон"/>
@@ -985,7 +985,7 @@
     <string id="NgHSyQem" text="В Армии"/>
     <string id="nHGm1wYg" text="Battle finished. Press {leave_key} to view results"/>
     <string id="nHkQbLDc" text="Не может использоваться верхом"/>
-    <string id="nHSVy0ns" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}are{?}is{\?} flanking from {#IS_LEFT}{#}left{#}multiple sides{\#}{?IS_MIDDLE}middle{?}{\?}{?IS_RIGHT}right{?}{\?}."/>
+    <string id="nHSVy0ns" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} и {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}are{?}is{\?} flanking from {#IS_LEFT}{#}left{#}multiple sides{\#}{?IS_MIDDLE}middle{?}{\?}{?IS_RIGHT}right{?}{\?}."/>
     <string id="NiyNgXMe" text="Эта партия уже расформировании"/>
     <string id="njnMk5P1" text="Дезавуировать политику"/>
     <string id="nk0bADtq" text="Вы отклонили вызов на дуэль. Ваша армия уныние это проявление трусости. Ваша партия теряет боевой дух."/>
