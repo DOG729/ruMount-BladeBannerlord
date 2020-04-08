@@ -156,7 +156,7 @@
     <string id="7a3cGmFg" text="Я приложу все усилия, чтобы обслужить вас как можно лучше."/>
     <string id="7AiP4BwY" text="Что там говорить? Этот ублюдок убил моего родича, и это наше право, чтобы отомстить ему!"/>
     <string id="7B7BhVhV" text="Давайте посмотрим, что вы придумали..."/>
-    <string id="7bBfNRVS" text="Ну что ж. В чем дело?"/>
+    <string id="7bBfNRVS" text="Итак. В чём дело?"/>
     <string id="7bETSEg5" text="Я {?PLAYER.GENDER}готова{?}готов{\?}, {LORD.LINK}."/>
     <string id="7DPa7U1F" text="Расскажи подробнее о своей переулке."/>
     <string id="7EoBCTX0" text="Что ты хочешь, чтобы я сделал?[rb:unsure]"/>
@@ -218,7 +218,7 @@
     <string id="9y0zpKUF" text="Вы должны быть владельцем этого поселения!"/>
     <string id="9yDGkbqw" text="{HERO.NAME}"/>
     <string id="9ZngZ6W7" text="Я выделю одного из моих спутников и {REQUIRED_TROOP_AMOUNT} моих человек, чтобы защитить твоих родственников{RETURN_DAYS} дней. "/>
-    <string id="a1FeLSbH" text="Можешь отвезти меня к {?HERO.GENDER}ней{?}нему{\?}?"/>
+    <string id="a1FeLSbH" text="Можете отвести меня к {?HERO.GENDER}ней{?}нему{\?}?"/>
     <string id="A2oos2Uo" text="Послушай меня. Я на задании от {QUEST_GIVER.NAME}. Здесь бывали незнакомцы, которые задавали странные вопросы о гарнизоне?"/>
     <string id="a2qPdYbu" text="Конечно, {PLAYER.NAME}. Прощай.[rb:positive]"/>
     <string id="a3AFjfsU" text="Увидим."/>
@@ -330,7 +330,7 @@
     <string id="bQ8CxZIy" text="Ну, это будет стоить вам {COST}{GOLD_ICON}. Вы будете платить?"/>
     <string id="bSo9hKwr" text="{PERSUASION_OPTION_LINE} {SUCCESS_CHANCE}"/>
     <string id="bsUVDLXa" text="Я {CONVERSATION_HERO.FIRSTNAME}, торговец из {LOCATION_STRING}. {BUSINESS_STRING}"/>
-    <string id="BsXNJHCu" text="До следующего раза.[rb:positive]"/>
+    <string id="BsXNJHCu" text="До встречи.[rb:positive]"/>
     <string id="btJkBTSF" text="Я уверен, что ты сможешь это решить."/>
     <string id="bTnmpqU4" text="Боюсь, у меня нет времени на еще одну игру."/>
     <string id="bTUPJjfk" text="Можете рассчитывать на меня, {?NPC.GENDER}мадам{?}сир{\?}."/>
@@ -1072,7 +1072,7 @@
     <string id="UqBk5fVw" text="Отряд шпиона"/>
     <string id="UqDNAZqM" text="Перестать ждать"/>
     <string id="UQyCoQCY" text="Придержи коней! Этот парень сейчас находится под моей защитой. Мы пришли поговорить спокойно."/>
-    <string id="urieibC4" text="Я ищу кого-то."/>
+    <string id="urieibC4" text="Я ищу кое-кого."/>
     <string id="US9tbgLG" text="{WANDERER_GENERIC_BACKSTORY}"/>
     <string id="usMQ64pf" text="Надеюсь, что там достаточно рук для сбора урожая."/>
     <string id="UTgsRaLJ" text="Выпас скота очень ценен для тех, кто владеет животными"/>
