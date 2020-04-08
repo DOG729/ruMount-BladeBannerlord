@@ -1429,7 +1429,7 @@
     <string id="iKYSgoZx" text="Ты красивый дьявол, я отдам тебе это."/>
     <string id="il2khBNl" text="Вы просто разграбили этой партии."/>
     <string id="IL3QWZ93" text="{QUEST_GIVER.LINK}, an artisan from {SETTLEMENT}, has told you about merchant {COUNTER_OFFER.LINK} asking ridiculous amounts of money for the raw materials that {?QUEST_GIVER.GENDER}she{?}he{\?} needs to continue {?QUEST_GIVER.GENDER}her{?}his{\?} work. You said that you can bring {?QUEST_GIVER.GENDER}her{?}him{\?} {REQUESTED_AMOUNT} units of {REQUESTED_GOOD}."/>
-    <string id="ilfezZHl" text="{SETTLEMENT} has been given to {LEADER.NAME} from {CLAN} with equal support on all sides."/>
+    <string id="ilfezZHl" text="{SETTLEMENT} была отдана {LEADER.NAME} из клана {CLAN} с равной поддержкой всех сторон."/>
     <string id="Ilh6hVTu" text="Организация"/>
     <string id="IlRC9Drl" text="религиозная секта"/>
     <string id="iLtWeyLI" text="Идеальная Точность"/>
@@ -1720,7 +1720,7 @@
     <string id="LIjN3rYD" text="Ступень 4+ кланов получаете 1 влияния за день и размер партии их лидеры увеличивается на 50"/>
     <string id="Lj5Lghww" text="Что? Нет..."/>
     <string id="LjiYq9cH" text="Мне очень жаль. Я не уверен, что я мог когда-либо люблю тебя.)"/>
-    <string id="LjUhEJxz" text="Караван из {OWNER}"/>
+    <string id="LjUhEJxz" text="Караван {OWNER}"/>
     <string id="lKb4chmL" text="RomanHair Описание"/>
     <string id="Lkf3sB9I" text="Может быть..."/>
     <string id="lKoaSWLf" text="{DUEL_RESULT}"/>
@@ -1865,7 +1865,7 @@
     <string id="N6QTvjMf" text="Пленные "/>
     <string id="N70ovtjV" text="You will stay in {SETTLEMENT} for a while."/>
     <string id="N7hncI0e" text="Great {NAME}"/>
-    <string id="N8aBOj2R" text="{SETTLEMENT} has been given to {LEADER.NAME} from {CLAN} with majority support."/>
+    <string id="N8aBOj2R" text="{SETTLEMENT} был отдан {LEADER.NAME} из клана {CLAN} с большинством поддержки."/>
     <string id="n96TJTa7" text="Запугивание лучников"/>
     <string id="n99VA8KP" text="Вы никогда не возьмете нас живыми![if:idle_angry][rb:very_negative]"/>
     <string id="N9r8azlb" text="{POACHERS_PERSUADE_ATTEMPT_2}"/>
@@ -1931,7 +1931,7 @@
     <string id="NuYzgBZB" text="Вы идете слишком далеко. {KINGDOM} не терпит уничтожения своих караванов"/>
     <string id="nV1xbbM6" text="До меня дошли слухи, что {ENEMY_NAME} сожгли и разграбили {VILLAGE_NAME}. Ублюдки..."/>
     <string id="NVnuAwuU" text="Каждый прибыльный караван, которым вы владеете, дает вам 1 известность в день"/>
-    <string id="NwbpaETQ" text="Художник {FIRST_NAME}"/>
+    <string id="NwbpaETQ" text="{FIRST_NAME} Художник"/>
     <string id="nwJPPIvn" text="Сможете ли вы выкупить меня, если я попаду в плен?"/>
     <string id="NWLH02KL" text="Вам нужены неутомимый воины? Вы должны их увидеть в марше."/>
     <string id="NxcvQlAk" text="Советы по здоровью"/>
