@@ -148,7 +148,7 @@
     <string id="6Q4cPOSG" text="Да, мы будем."/>
     <string id="6SppoTum" text="Да? Чего ты хочешь?[rb:positive]"/>
     <string id="6xZ8U3Yz" text="Хирург {CURRENTLY_HELD_SURGEON}"/>
-    <string id="6ykZ0Agl" text="Так что мы сражаемся.[if:idle_angry][ib:warrior]"/>
+    <string id="6ykZ0Agl" text="Значит сражаемся.[if:idle_angry][ib:warrior]"/>
     <string id="70s1eahS" text="Хм. Меня это забавляет. Так забавно, что после битвы мне, возможно, придется вырезать тебе язык и оставить его, чтобы напомнить мне о твоем остроумии.[if:idle_angry][ib:warrior] "/>
     <string id="73MYdXby" text="Я хочу выдвинуть претензии на {SETTLEMENT}."/>
     <string id="7963YdDt" text="У меня не хватает денег."/>
@@ -742,7 +742,7 @@
     <string id="lord_conversations_227" text="Я хочу присоединиться к вашей армии."/>
     <string id="lord_conversations_343" text="Я кое-что хочу обсудить."/>
     <string id="lord_conversations_344" text="У меня есть предложение, которое может избавить нас обоих от ненужного кровопролития."/>
-    <string id="lord_conversations_345" text="Держи свой меч в ножнах! Возможно, нам не предстоит сразиться сегодня."/>
+    <string id="lord_conversations_345" text="Держите свой меч в ножнах! Возможно, нам не предстоит сразиться сегодня."/>
     <string id="LPtWLajd" text="Можете перестать следовать за мной. Спасибо."/>
     <string id="LqkxF5Op" text="Во время игр все лучшие бойцы из этого района формируют команды и бьют друг друга. Конечно, это не так весело, как смотреть на гладиаторов вываливающих свои кишки, но зато полезнее для участников."/>
     <string id="LrbyNgAa" text="{AGREE_TO_LEAVE}[rb:unsure]"/>
