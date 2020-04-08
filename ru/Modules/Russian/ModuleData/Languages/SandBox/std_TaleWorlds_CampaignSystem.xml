@@ -227,7 +227,7 @@
     <string id="4Bub0GY6" text="Убежище было очищено кем-то другим. Ваше соглашение с {QUEST_GIVER.LINK} отменено."/>
     <string id="4CkX002P" text="Описание Щедрости."/>
     <string id="4ewbcU1u" text="Штраф за скорость передвижения раненых членов отряда снижен на 50%."/>
-    <string id="4fG9AmfL" text="Здравия желаю, {?PLAYER.GENDER}madam{?}sir{\?}. У тебя осанка настоящего воина. У вас найдется минутка? У нас могут быть общие интересы."/>
+    <string id="4fG9AmfL" text="Здравия желаю, {?PLAYER.GENDER}мадам{?}сир{\?}. У вас осанка настоящего воина. У вас найдется минутка? У нас могут быть общие интересы."/>
     <string id="4fS3WPyr" text="Каждое очко навыка после 200 дает вам +0.2% к скорости и +0.5% урона."/>
     <string id="4G3Aeqna" text="{KING.NAME}"/>
     <string id="4GgfFDWG" text="Заключить мир с {KINGDOM_NAME}"/>
@@ -1196,7 +1196,7 @@
     <string id="FwIgakj8" text="Помочь {DEFENDER}."/>
     <string id="fwQtClVo" text="Я разберусь с {?TARGET_HERO.GENDER}ней{?}ним{\?} немедленно! "/>
     <string id="FwtsStzu" text="{DEFECTION_PERSUADE_ATTEMPT_1}"/>
-    <string id="fxEka7Bm" text="Заплатить взятку в {AMOUNT}{GOLD_ICON}, чтобы войти в замок"/>
+    <string id="fxEka7Bm" text="Заплатить {AMOUNT}{GOLD_ICON}, чтобы войти в замок"/>
     <string id="fxGlBFPk" text="Головорез"/>
     <string id="FXPvGTEa" text="Армия, в которой вы находились, распущена"/>
     <string id="FyZwRit2" text="Весенняя {FIRST_NAME}"/>
@@ -1793,7 +1793,7 @@
     <string id="MF40cm9k" text="Земельные гранты считаются временные офисы, а не законное наследство лордов. На практике наследники, как правило, берут за свои семейства Леновых, но проще под показания для их удаления."/>
     <string id="mfAP8Wlq" text="Оставить поселение."/>
     <string id="mfBggr9y" text="Да, {STR_SALUTATION}."/>
-    <string id="MFDb5duu" text="Великолепно! Я подозреваю, что вы, возможно, в вашей работе, иногда приобретают несколько пленников. Я могу взять их с ваших рук. Я заплачу тебе, конечно."/>
+    <string id="MFDb5duu" text="Великолепно! Я подозреваю, что по роду своей работы вы можете иногда обзавестись несколькими пленниками. Возможно, я могу забрать их у вас. Я вам, конечно же, заплачу."/>
     <string id="mfYzCeGR" text="{CHARACTER.NAME} был {TITLE} в {CHARACTER.FACTION_SHORT}. {FURTHER_DETAILS}."/>
     <string id="mG9jW8Fp" text="Попросить вход в замок."/>
     <string id="mGET75ZZ" text="The vote to expel {CLAN} from {KINGDOM} has failed despite majority support against it."/>
@@ -2082,7 +2082,7 @@
     <string id="PI6ikMsc" text="Я работаю над этим."/>
     <string id="PIlZuQnW" text="{SETTLEMENT_DESCRIPTION}"/>
     <string id="pinSMuMe" text="Well, there's one starting up at {CLOSEST_TOURNAMENT}, then another at {NEXT_CLOSEST_TOURNAMENT}. You should probably be able to get to either of those, if you move quickly.[ib:hip][rb:very_positive]"/>
-    <string id="Piq3oYmG" text="Я в порядке, спасибо."/>
+    <string id="Piq3oYmG" text="Нет, не нужно, спасибо."/>
     <string id="PIukmFYA" text="You decided not to get involved in all of this and left village. You have failed to help {QUEST_GIVER.LINK} as promised."/>
     <string id="pj3frf8g" text="This companion's {LEADERSHIP_SKILL} skill level is not enough for this quest."/>
     <string id="pJBz7hhl" text="Собери своих людей, у нас есть другая работа!"/>
@@ -2361,7 +2361,7 @@
     <string id="S60sDU3j" text="Очень хорошо! Вот ваши деньги. Спасибо."/>
     <string id="s7idfhBO" text="Мне очень жаль. Мы не очень совместимы друг с другом."/>
     <string id="s8z5Ugvm" text="Клан должен быть исключен"/>
-    <string id="s9hhKnMa" text="Crushfinger {FIRST_NAME}"/>
+    <string id="s9hhKnMa" text="{FIRST_NAME} Костолом"/>
     <string id="sA2OrT6l" text="Разгрузка"/>
     <string id="sA5vwZ1O" text="{FIRST_NAME} Золотого Кубка"/>
     <string id="salErUKE" text="Дробилка Черепов"/>
@@ -2947,7 +2947,7 @@
     <string id="yBeBSAWi" text="У меня есть тайник с товарами. Я не скажу, откуда они у меня, но я не могу ппродать их местным торговцам здесь. Мне нужно, чтобы кто-то купил их у меня, и я готов дать хорошую скидку."/>
     <string id="ybXgaKEv" text="бокал местного вина"/>
     <string id="ybzBF59f" text="Вырвался из {SETTLEMENT}."/>
-    <string id="YCC0hPuC" text="А, нет. В наши дни работорговцы большая редкость. Раньше, когда Империя и ее соседи воевали друг с другом, побежденных обычно брали в рабство. Это помогало нам расплатиться за войну! Но сегодня, к лучшему или к худшему, это непрактично. Когда границы нарушены и рейдеры пересекают их то здесь, то там, у пленников слишком много возможностей сбежать. Но это не значит, что война не может быть прибыльной! В действительности, она все еще может!"/>
+    <string id="YCC0hPuC" text="В наши дни работорговцы большая редкость. Раньше, когда Империя и ее соседи воевали друг с другом, побежденных обычно брали в рабство. Это помогало нам расплатиться за войну! Но сегодня, к лучшему или к худшему, это непрактично. Когда границы нарушены и рейдеры пересекают их то здесь, то там, у пленников слишком много возможностей сбежать. Но это не значит, что война не может быть прибыльной! В действительности, все еще может!"/>
     <string id="yccVH4KD" text="Благодарю вас за то, что вы прислушались к голосу разума."/>
     <string id="YcdQ1MWq" text="Что ж.. Похоже, у нас много общего."/>
     <string id="ydbVysqv" text="Вы ждете в {CURRENT_SETTLEMENT}."/>
