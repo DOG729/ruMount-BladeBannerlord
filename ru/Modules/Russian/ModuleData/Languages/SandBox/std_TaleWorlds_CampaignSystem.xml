@@ -1023,7 +1023,7 @@
     <string id="EBCV0LcU" text="Законотворец"/>
     <string id="eBea9Ext" text="{VALUABLE_ITEM_COUNT} {VALUABLE_ITEM_NAME}{?IS_THERE_OTHER_ITEMS} и {?PLURAL}{OTHER_ITEMS_COUNT}другие {OTHER_ITEMS_CATEGORY_PLURAL}{?} другие {OTHER_ITEMS_CATEGORY_SINGULAR}{\?}{?}{\?}"/>
     <string id="ebiXdm5W" text="Сельское хозяйство"/>
-    <string id="ebUwP3Q3" text="Не вмешиваться."/>
+    <string id="ebUwP3Q3" text="Не вмешиваться"/>
     <string id="eC4laxrj" text="Вы все еще можете меня нанять."/>
     <string id="eceQYPPK" text="Железный конь"/>
     <string id="eCryPe6X" text="Правитель получает удвоенное влияние от наемников\nКланы без правителя получают на 10% меньше влияния от сражений"/>
@@ -1193,7 +1193,7 @@
     <string id="FViaQrbV" text="{QUEST_GIVER.LINK} {?QUEST_GIVER.GENDER}леди{?}лорд{\?} {QUEST_SETTLEMENT} рассказал вам, что {?QUEST_GIVER.GENDER}ей{?}ему{\?} нужно больше солдат в  {?QUEST_GIVER.GENDER}ее{?}его{\?} гарнизоне. {?QUEST_GIVER.GENDER}Она{?}Он{\?} просит вас развернуть  {NUMBER_OF_TROOP_TO_BE_RECRUITED} {TROOP_TYPE} солдат в гарнизоне {QUEST_SETTLEMENT}."/>
     <string id="fW0XS9JC" text="{ELEMENT_NUMBER} {ELEMENT_CHAR_NAME}"/>
     <string id="FwBUKVrK" text="Персонаж может переработать 2 единицы стали в 1 единицу хорошей стали и 1 единицу необработанного железа в качестве побочного продукта."/>
-    <string id="FwIgakj8" text="Помощь {DEFENDER}."/>
+    <string id="FwIgakj8" text="Помочь {DEFENDER}."/>
     <string id="fwQtClVo" text="Я разберусь с {?TARGET_HERO.GENDER}ней{?}ним{\?} немедленно! "/>
     <string id="FwtsStzu" text="{DEFECTION_PERSUADE_ATTEMPT_1}"/>
     <string id="fxEka7Bm" text="Заплатить взятку в {AMOUNT}{GOLD_ICON}, чтобы войти в замок"/>
@@ -1540,7 +1540,7 @@
     <string id="JNGUIIQ1" text="Деревня спасена армией вы следуете."/>
     <string id="JnSh4Fmz" text="Плата за Вход"/>
     <string id="jnYwiCAz" text="The {KINGDOM} will continue {POLICY_DESCRIPTION} ({POLICY}). {POLICY_SUPPORT}"/>
-    <string id="jo3UHKMD" text="Оставь это другим."/>
+    <string id="jo3UHKMD" text="Оставить это другим."/>
     <string id="JOaD2BlP" text="В свое время. Давайте не будем слишком поспешны."/>
     <string id="jodKeyb1" text="Известный Стрелок"/>
     <string id="joFaAgvc" text="{GUARDS_PERSUADE_ATTEMPT_1}"/>
