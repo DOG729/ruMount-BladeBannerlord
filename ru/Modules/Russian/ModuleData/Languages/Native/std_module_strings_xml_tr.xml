@@ -44,7 +44,7 @@
     <string id="1oeak0OC" text="Кузница"/>
     <string id="1PwQxaOu" text="Похоже, идет подготовка к турниру. Награда {ITEM}."/>
     <string id="1pxLpZ4r" text="Вычисления:"/>
-    <string id="1sJcKkVP" text="Охранник"/>
+    <string id="1sJcKkVP" text="Стражник"/>
     <string id="1wkANMRC" text="Наш план состоит в том, чтобы попытаться удержать этот узкий проход."/>
     <string id="1XVvU23F" text="Нет возможности использовать текст в буфере обмена в качестве ключевых свойств тела!"/>
     <string id="1Zq8mzzJ" text="Хорошо. Давайте посмотрим, какая муха попалась в нашу паутину."/>
@@ -372,7 +372,7 @@
     <string id="bjzVPXtf" text="Предложить"/>
     <string id="BkB9aOhw" text="Не могу открыть окно баннера прямо сейчас!"/>
     <string id="bkysJj7F" text="Осадное Орудие"/>
-    <string id="BlidMNGT" text="Отношение"/>
+    <string id="BlidMNGT" text="Отношение: "/>
     <string id="bLWyjOdS" text="Броня Тела: "/>
     <string id="Bm4yZBWb" text="Вы в тюрьме в поселении {SETTLEMENT_NAME}."/>
     <string id="bMjtFIba" text="Вы прибыли как раз вовремя! {PLAYER.LINK}. Мои глубочайшие благодарности!"/>
@@ -916,7 +916,7 @@
     <string id="M03MNN3T" text="Мерлон"/>
     <string id="M2b5mtAE" text="Спутник"/>
     <string id="m2YKBbdI" text="Привет, Маленькая потерянная овца. Мы волки в горах, и мы хотели бы на минутку..."/>
-    <string id="m6A7RLby" text="Окольными"/>
+    <string id="m6A7RLby" text="Коварный"/>
     <string id="M6tfHhq7" text="Вы проголосовали и правитель решил исход. Темп"/>
     <string id="m6uSOtE4" text="Вам не хватает денег."/>
     <string id="M9p0vPad" text="Я знаю, как тебя зовут... {COMMENT_STRING_MAIN}"/>
@@ -965,7 +965,7 @@
     <string id="mXxVf2rb" text="Книга"/>
     <string id="mz8PnI3s" text="Задета кость: {BONE}."/>
     <string id="mZR7eYHa" text="Щит Я"/>
-    <string id="N0MCVBXb" text="Забудь"/>
+    <string id="N0MCVBXb" text="Забудьте"/>
     <string id="n3cjEB0X" text="Инструменты"/>
     <string id="n3e3g6Rq" text="Ставка"/>
     <string id="N5fmlTza" text="{LEFT}, {RIGHT}"/>
@@ -1578,7 +1578,7 @@
     <string id="ZhiB1EOM" text="Пленный в {SETTLEMENT_NAME}"/>
     <string id="ZlJIpfWg" text="Бонус скорости: {SPEED_BONUS}%."/>
     <string id="ZMdOAbTd" text="Атакующие"/>
-    <string id="zMMqgxb1" text="Тип"/>
+    <string id="zMMqgxb1" text="Тип: "/>
     <string id="ZMmuaC7a" text="&lt;b&gt;Катапульта&lt;/b&gt;{NEWLINE}TODO CATAPULT DESC."/>
     <string id="zN9iNaIW" text="Ограбить деревню"/>
     <string id="zNekjGmR" text="Набираем В Плен"/>
