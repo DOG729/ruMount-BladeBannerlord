@@ -662,7 +662,7 @@
     <string id="b7W48wVD" text="Имперский Эксперт по Строительству" />
     <string id="b9gnSzrG" text="Верблюжье Ранчо" />
     <string id="b9ty57rJ" text="Лидер фракции" />
-    <string id="baeO5Zkk" text="{TITLE} ... {GRIEVANCE_SHORT_DESCRIPTION}" />
+    <string id="baeO5Zkk" text="{TITLE}... {GRIEVANCE_SHORT_DESCRIPTION}" />
     <string id="BAGQhsQA" text="Бонус 10% увеличения скорости исцеления для группы, когда она находится на главной карте." />
     <string id="bAHNQGAw" text="Наши союзники нуждаются в помощи. Захватите нашу осаду!" />
     <string id="BaifRgT5" text="Это полезно знать, когда приходит время обсуждать обмен приданым." />
@@ -827,7 +827,7 @@
     <string id="CGOG31aq" text="Для каждого выполненного проекта увеличьте заметные отношения с владельцем на 1" />
     <string id="cGuPMx4p" text="Идеальное Здоровье" />
     <string id="ch6zCk2w" text="Вы знаете меня как человека, который стремится избежать кровопролития." />
-    <string id="ChsBdNW8" text="Вы должны знать кое-что о темной стороне этого региона. Бандиты и тому подобное ..." />
+    <string id="ChsBdNW8" text="Вы должны знать кое-что о темной стороне этого региона. Бандиты и тому подобное..." />
     <string id="Ci8NCwgW" text="{ISSUE_GIVER.LINK} помещик Джентри в {SETTLEMENT}, попросил вас обучить новобранцев для {?QUEST_GIVER.GENDER} еее {?} него {\?}. {?QUEST_GIVER.GENDER} Она {?} Он {\?} дал вам 10 человек, надеясь забрать их обратно, когда они станут ветеранами. {newline} {newline}Вы отправили их с одним из ваших спутников {COMPANION.LINK}, чтобы выследить несколько легких целей. Вы договорились встретить их в течении {RETURN_DAYS} дней." />
     <string id="CJSLzYpw" text="Вооруженные гентские" />
     <string id="cjZqTaHm" text="У вас недостаточно влияния." />
@@ -1381,7 +1381,7 @@
     <string id="hzCTbbLP" text="You think you've caught a hare but instead you've caught a lion.[ib:closed][rb:negative]"/>
     <string id="I09hI0cP" text="HopliteFightingSkills"/>
     <string id="i0ehHB2a" text="30% шанс отменить штраф, отрицательного отношения за королевские решения."/>
-    <string id="I0StkXlK" text="Do you have a need for fighters, {?PLAYER.GENDER}madam{?}sir{\?}? Me and {?PLURAL}{MERCENARY_COUNT} of my mates{?}one of my mates{\?} looking for a master. You might call us mercenaries, like. We'll join you for {GOLD_AMOUNT}{GOLD_ICON}"/>
+    <string id="I0StkXlK" text="{?PLAYER.GENDER}Мадам{?}Сэр{\?}, вам случайно не нужны бойцы? Я и {?PLURAL}{MERCENARY_COUNT} мой человек{?} моих людей{\?} ищут хозяина. Можете называть нас типа наемниками. Мы присоединимся к вам за {GOLD_AMOUNT}{GOLD_ICON}"/>
     <string id="I0ZG4tIj" text="{TOWN_NAME} has fallen to your troops. You may station a garrison here to defend it against enemies who may try to recapture it."/>
     <string id="I1CMeL9R" text="Конные Лучники"/>
     <string id="i2FwKPmC" text="Да, я хотел поговорить о другом.."/>
@@ -2289,7 +2289,7 @@
     <string id="RLHjUDeb" text="Описание Кузнеца"/>
     <string id="RliyRJKl" text="Обеспечивает боевые тренировки для граждан, чтобы в последующем набрать их в ополчение. Увеличивает ежедневный ополченцев."/>
     <string id="rLlIVqmY" text="Итак, после битвы вы схватили пару пленных и вам нужно куда-то их деть, чтобы не мешались. Тут то я и мои коллеги будем рады заплатить вам за них."/>
-    <string id="RlP8aYVJ" text="Никто не ищет помощи прямо сейчас."/>
+    <string id="RlP8aYVJ" text="Никто сейчас не ищет помощи."/>
     <string id="RLPWmTT7" text="+4 К размеру отряда."/>
     <string id="rMagXCrI" text="Вам не хватает влияния, чтобы снять обвинения."/>
     <string id="RmE4mLT4" text="Плотный Захват"/>
@@ -2449,7 +2449,7 @@
     <string id="t0UGXPV4" text="Я заинтересован в торговле. Какие продукты у вас есть?"/>
     <string id="T1A78Zzk" text="Установить Лимит"/>
     <string id="t1ZoEx3b" text="Описание Менеджер "/>
-    <string id="T2bjt5B4" text="{FIRST_NAME} the Jackal"/>
+    <string id="T2bjt5B4" text="{FIRST_NAME} Шакал"/>
     <string id="T44e39IV" text="Описание Милосердие "/>
     <string id="T4fREm7U" text="Эксперт по арбалетам"/>
     <string id="t4vWAlbr" text="У губернатора города есть 10% шанс получить 1 отношение со случайным знатным человеком в день, пока активны проекты."/>
