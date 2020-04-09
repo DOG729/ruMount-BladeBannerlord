@@ -750,7 +750,7 @@
     <string id="bPpdw81a" text="Суточное производство ополченцев увеличивается на 1 {newline}Рекруты пополняются на 30% быстрее {newline}Налоговые доходы в населенных пунктах снижаются на 10%" />
     <string id="BPPG2XF7" text="Пшеничная ферма" />
     <string id="bPqwLopK" text="Хм. Вы работорговец?" />
-    <string id="bpXgcBCp" text="Что мы сделали с этой деревней ... Мне это не нравится. Те фермеры, они очень похожи на моих людей. Я хочу, чтобы это больше не повторилось." />
+    <string id="bpXgcBCp" text="Что мы сделали с этой деревней ... Мне это не нравится. Те фермеры, они очень похожи на моих людей. Я хочу, чтобы это больше не повторилось." />	
 	  <string id="bQAkn9dN" text="Mighty Blow" />
     <string id="bqEO389P" text="Это решение вызвало раскол в совете." />
     <string id="BqkD4YWr" text="Вам удается собрать некоторых мужчин из деревни, которые выглядят так, как будто они могут сделать достойных новобранцев." />
@@ -824,13 +824,8 @@
     <string id="CGOG31aq" text="Для каждого выполненного проекта увеличьте заметные отношения с владельцем на 1" />
     <string id="cGuPMx4p" text="Идеальное Здоровье" />
     <string id="ch6zCk2w" text="Вы знаете меня как человека, который стремится избежать кровопролития." />
-<<<<<<< .mine
     <string id="ChsBdNW8" text="Вы должны знать кое-что о темной стороне этого региона. Бандиты и тому подобное ..." />
     <string id="Ci8NCwgW" text="{ISSUE_GIVER.LINK} помещик Джентри в {SETTLEMENT}, попросил вас обучить новобранцев для {?QUEST_GIVER.GENDER} еее {?} него {\?}. {?QUEST_GIVER.GENDER} Она {?} Он {\?} дал вам 10 человек, надеясь забрать их обратно, когда они станут ветеранами. {newline} {newline}Вы отправили их с одним из ваших спутников {COMPANION.LINK}, чтобы выследить несколько легких целей. Вы договорились встретить их в течении {RETURN_DAYS} дней." />
-=======
-    <string id="ChsBdNW8" text="Вы должны знать кое-что о темной стороне этого региона. Бандиты и тому подобное..." />
-    <string id="Ci8NCwgW" text="{ISSUE_GIVER.LINK} помещик Джентри в {SETTLEMENT}, попросил вас обучить новобранцев для {?QUEST_GIVER.GENDER} еее {?} него {\?}. {?QUEST_GIVER.GENDER} Она {?} Он {\?} дал вам 10 человек, надеясь забрать их обратно, когда они станут ветеранами. {newline} {newline}Вы отправили их с одним из ваших спутников {COMPANION.LINK}, чтобы выследить несколько легких целей. Вы договорились встретить их в течении {RETURN_DAYS} дней." />
->>>>>>> .theirs
     <string id="CJSLzYpw" text="Вооруженные гентские" />
     <string id="cjZqTaHm" text="У вас недостаточно влияния." />
     <string id="cKTeea27" text="Эксперт по лукам" />
@@ -999,8 +994,8 @@
     <string id="DxVKumDj" text="Два дополнительных метательных оружия в упаковке" />
     <string id="dY2PzpIV" text="Я не уверен, сколько у нас общего .." />
     <string id="dYa9oVSP" text="Судьба жестока. Итак, я ваш пленник. Но вам не нужно делать для {QUEST_GIVER.NAME} грязную работу. Ради вашей чести, {?PLAYER.GENDER} миледи {?}, сэр {\?}, послушайте меня!" />
-    <string id="Dysq3pw5" text="Но я не думаю, что у нас есть что-то общее." />    
-	<string id="dzAk1HTK" text="Описание навыков боевой кавалерии"/>
+    <string id="Dysq3pw5" text="Но я не думаю, что у нас есть что-то общее." />
+	  <string id="dzAk1HTK" text="Описание навыков боевой кавалерии"/>
     <string id="DzhaleC7" text="У этого компаньона недостаточный уровень навыка {TWO_HANDED_SKILL} для этого задания."/>
     <string id="dZJCsR7A" text="{FIRST_NAME} {?FEMALE}служанка{?}слуга{\?}"/>
     <string id="E1CoZti4" text="Приоритет устанавливается, чтобы сохранить преимущество, когда враги начинают нападать."/>
@@ -1009,7 +1004,7 @@
     <string id="E3b8iKjc" text="позволяя правителю назначать судей"/>
     <string id="e3e79n9B" text="Это все, что я ожидал, и даже больше, капитан. Я рад, что вы взял меня с собой."/>
     <string id="E57VFXqU" text="Могу попробовать."/>
-	<string id="E7qFYRjE" text="Ваши удары руками и пинки сбивают врагов" />
+	  <string id="E7qFYRjE" text="Ваши удары руками и пинки сбивают врагов" />
     <string id="E8wdxbui" text="Хорошо, я согласен, я отпускаю тебя сейчас. Теперь заплати мне."/>
     <string id="E9s2bjqw" text="Я могу только надеяться, что когда-нибудь вы поменяете свое мнение."/>
     <string id="EA9YX6BQ" text="Ваша фракция теперь в состоянии войны с {ISSUEGIVER.LINK}ой фракцией. Ваши соглашения с {ISSUEGIVER.LINK} более недействительны."/>
@@ -1694,13 +1689,8 @@
     <string id="lay7hKUK" text="Я настаиваю на том что {?PLAYER.GENDER}моя жена{?}мой муж{\?} будет вести {?PLAYER.GENDER}себя{?}себя{\?} согласно высочайшим стандартам."/>
     <string id="Lb9yaPNJ" text="PersonaIronic Description"/>
     <string id="lbGarlra" text="Потребление пищи уменьшается на половину и +5% к более быстрому передвижению в лесах."/>
-<<<<<<< .mine
     <string id="lbrOAvKj" text="Дальность обнаружения +{a0} %"/>
     <string id="Lbs2bNlg" text="{KINGDOM} начинает {POLICY_DESCRIPTION} ({POLICY}). {POLICY_SUPPORT}"/>
-=======
-    <string id="lbrOAvKj" text="Spotting distance +{a0} %"/>
-    <string id="Lbs2bNlg" text="Политики {KINGDOM} начнут {POLICY_DESCRIPTION} ({POLICY}). {POLICY_SUPPORT}"/>
->>>>>>> .theirs
     <string id="LbTETjZu" text="Я хочу, что бы вы их сокрушили. Отправляйтесь в {VILLAGE} и убейте их всех."/> <!--Здесь был Cas. Фикс недочётов!-->
     <string id="LBxJky9p" text="Содержание"/>
     <string id="LcppL68A" text="признавая права, которыми пользуются все свободные мужчины и женщины королевства"/>
@@ -1743,7 +1733,6 @@
     <string id="LoSanDMU" text="CelticHair"/>
     <string id="lOwjyUi5" text="Разграбление этой деревне приведет к войне с {KINGDOM}."/>
     <string id="LPBVTiV6" text="полоску бекона"/>
-<<<<<<< .mine
     <string id="LpdAa1NY" text="Кланы Ранга 5+ получают 1 влияния в день"/>
     <string id="LpfQYLQo" text="Что? Это неприкрытое воровство. Я гарантирую вам что {QUEST_GIVER.LINK} услишит об этом!"/>
     <string id="LR0d1LTR" text="Приоритет в нападении на стены."/>
@@ -1754,18 +1743,6 @@
     <string id="LsDRCPp0" text="{MOTHER.NAME} из вашего клана родила {DELIVERED_CHILDREN}."/>
     <string id="ltbShEAu" text="{FIRST_NAME} Фактор"/>
     <string id="LtDqAAk4" text="Я рассматриваю {CURRENT_LIEGE.LINK} как полноправного правителя. Но не {NEW_LIEGE.LINK}."/>
-=======
-    <string id="LpdAa1NY" text="Ступень 5+ кланов получаете 1 влияния за день"/>
-    <string id="LpfQYLQo" text="What? That's straight-up theft. I guarantee you {QUEST_GIVER.LINK} will hear about this!"/>
-    <string id="LR0d1LTR" text="Приоритет устанавливается в нападении на стенах."/>
-    <string id="LR6Y57Rq" text="Злоумышленники отказались от осады."/>
-    <string id="LRPKlRM6" text="{FIRST_NAME} the Carpenter"/>
-    <string id="LsBCQtVX" text="{?CHARACTER.GENDER}She{?}He{\?} died of war-wounds in {YEAR} at the age of {CHARACTER.AGE}. {?CHARACTER.GENDER}She{?}He{\?} was reputed to be {REPUTATION}"/>
-    <string id="lsBuV9W7" text="Вы ожидаете в деревне."/>
-    <string id="LsDRCPp0" text="Your clan member {MOTHER.NAME} has given birth to {DELIVERED_CHILDREN}."/>
-    <string id="ltbShEAu" text="{FIRST_NAME} the Factor"/>
-    <string id="LtDqAAk4" text="I consider {CURRENT_LIEGE.LINK} to be an upright ruler. {NEW_LIEGE.LINK} is not."/>
->>>>>>> .theirs
     <string id="lTNpxGoh" text="Хороший Торговец"/>
     <string id="lTTWrL1Q" text="Время на выполнение задания вышло: {QUEST_TITLE}"/>
     <string id="LTUEFTaF" text="Я надеюсь, что я известен как тот, кто понимает ценность верности."/>
