@@ -195,7 +195,7 @@
     <string id="8XM8CHIm" text="шурин"/>
     <string id="90ROmHcV" text="Очень хорошо. Следуйте за нами."/>
     <string id="90YOVmcG" text="Всего хорошего."/>
-    <string id="92sbq1YY" text="Я не ребенок, {?PLAYER.GENDER}леди{?}сир{\?}! Берите оружие! Я вызываю Вас на дуэль!"/>
+    <string id="92sbq1YY" text="Я не ребенок, {?PLAYER.GENDER}леди{?}сир{\?}! Берите оружие! Я вызываю вас на дуэль!"/>
     <string id="94WRYoQp" text="{?QUEST_GIVER.GENDER}Леди{?}Лорд{\?} {QUEST_GIVER.LINK} из {QUEST_SETTLEMENT} {?QUEST_GIVER.GENDER}рассказала{?}рассказал{\?} вам о слухах о шпионе, замаскированном среди участников турнира. Вы согласились разобраться с ситуацией самостоятельно. {QUEST_GIVER.LINK} считает, что шпион выдает себя за участника турнира в городе {QUEST_SETTLEMENT}."/>
     <string id="96HnpbF8" text="Приятного вам дня, сир."/>
     <string id="99OsuHGa" text="Я найду то, что вы ищете."/>
@@ -277,7 +277,7 @@
     <string id="arena_master_37" text="Я буду готов."/>
     <string id="arena_master_38" text="На самом деле, неважно."/>
     <string id="aRPLW15x" text="Спасибо. Я знал, что ты {?PLAYER.GENDER}разумная женщина{?}разумный мужчина{\?}."/>
-    <string id="asVE53ac" text="Дочь вернулась к {QUEST_GIVER.LINK}. {?QUEST_GIVER.GENDER}Она счастила{?}Он счастлив{\?}.{?QUEST_GIVER.GENDER}Она вручила{?}Он вручил{\?} Вам большей кошель с{BASE_REWARD}{GOLD_ICON}."/>
+    <string id="asVE53ac" text="Дочь вернулась к {QUEST_GIVER.LINK}. {?QUEST_GIVER.GENDER}Она счастила{?}Он счастлив{\?}.{?QUEST_GIVER.GENDER}Она вручила{?}Он вручил{\?} вам большей кошель с{BASE_REWARD}{GOLD_ICON}."/>
     <string id="aSZvZRYC" text="Преступник убил родственника {TARGET_NOTABLE.NAME}. {QUEST_GIVER.NAME} предлагает вам большую сумму денег, но {TARGET_NOTABLE.NAME} жаждет возмездия."/>
     <string id="Au9UbFEa" text="Поставить на {FIGHTER_NAME_1}"/>
     <string id="AuMLELpp" text="Хорошо, давайте наберем больше людей, я могу заплатить {AMOUNT}{GOLD_ICON}, чтобы создать караван с {NUMBER_OF_MEN} охранниками."/>
@@ -398,7 +398,7 @@
     <string id="DGKgQycl" text="Приветствую. Как я могу помочь вам?"/>
     <string id="dgNCuuUL" text="Привет, {PLAYER.NAME}. Приятно видеть тебя снова."/>
     <string id="DgxVa0OP" text="{?NOTABLE.GENDER}Леди{?}Лорд{\?} {NOTABLE.LINK}..."/>
-    <string id="dhi3ggBC" text="Да будет Вам известно, что вы теперь один из баттанийцев. Вы можете обрабатывать нашу землю и заседать в наших советах. Каждый, кто ссорится с вами, ссорится со всеми нами."/>
+    <string id="dhi3ggBC" text="Да будет вам известно, что вы теперь один из баттанийцев. Вы можете обрабатывать нашу землю и заседать в наших советах. Каждый, кто ссорится с вами, ссорится со всеми нами."/>
     <string id="dlBFVkDj" text="О задании, которое вы дали мне..."/>
     <string id="DlcWqdrY" text="STUB: Мы ждем осады {BESIEGED_TOWN}. "/>
     <string id="DlJt6YLY" text="Это будет честью для меня. Увидимся снаружи[DEBUG]"/>
@@ -586,7 +586,7 @@
     <string id="Hv6LNfIg" text="Да, приятель. Мы знаем, что у тебя проблемы. Нам сказали присматривать за тобой..."/>
     <string id="HVdZI3C1" text="Сейчас я работаю на {EMPLOYER}."/>
     <string id="HzabMi4t" text="Это была веселая игра. Спасибо."/>
-    <string id="HZb0PSyD" text="Может быть, вы потеряли что-то ценное. Приходите, и мы поможем Вам найти пропажу за скромное вознаграждение."/>
+    <string id="HZb0PSyD" text="Может быть, вы потеряли что-то ценное. Приходите, и мы поможем вам найти пропажу за скромное вознаграждение."/>
     <string id="hzjmvPcB" text="А насчет моих обязанностей в качестве наемника?"/>
     <string id="I0IO7akT" text="Хорошо.[rb:positive]"/>
     <string id="i1sth9Ls" text="Жулик победил вас. Он и {TARGET_HERO.LINK} сбежали, пока вы были без сознания. Вы нарушили обещание, данное {QUEST_GIVER.LINK}, и не смогли вернуть дочь {?QUEST_GIVER.GENDER}матери{?}отцу{\?}. {?QUEST_GIVER.GENDER}Она{?}Он{\?} в гневе."/>
@@ -610,7 +610,7 @@
     <string id="iLuezAbk" text="Даже если нет турнира, то все равно стоит зайти на работу. Бойцы готовятся к следующему турниру, и мы проводим небольшие представления, участие в которых, разумеется, вознаграждается."/>
     <string id="IMSCdhyy" text="Я объявляю вас гражданином Империи, в звании сенатора. Ваша жизнь и имущество будут защищены законами Империи, и могут быть только согласно букве закона. Вы можете служить магистратом городов и деревень и генералом армии, в том случае, если это нужно Империи"/>
     <string id="IqhGJ8Dy" text="Привет друг. Вы приехали на турнир?"/>
-    <string id="ISMRH0dM" text="На это задание Вам нужно послать спутника с навыком {SKILL_NAME} выше, чем {REQUIRED_SKILL_LEVEL} for this quest!"/>
+    <string id="ISMRH0dM" text="На это задание вам нужно послать спутника с навыком {SKILL_NAME} выше, чем {REQUIRED_SKILL_LEVEL} for this quest!"/>
     <string id="iSNrQKEN" text="Я хочу вернуться к тому, о чем вы упоминали ранее..."/>
     <string id="iVSiBIDb" text="Нормально."/>
     <string id="Iw9g0kds" text="{GANG_ACTIVITY_STRING}."/>
@@ -681,7 +681,7 @@
     <string id="KcW0bI3n" text="{RULING_PHILOSOPHY_2}"/>
     <string id="kDItfaaN" text="Я просто возьму еще, чтобы согреться по дороге домой."/>
     <string id="ke0IvBXb" text="Могу я еще что-то объяснить?"/>
-    <string id="Ke3xvl55" text="Вы убили жулика, и {DAUGHTER.LINK} присоединилась к вам. Чтобы закончить задание, Вам нужно вернуть её {QUEST_GIVER.LINK}"/>
+    <string id="Ke3xvl55" text="Вы убили жулика, и {DAUGHTER.LINK} присоединилась к вам. Чтобы закончить задание, вам нужно вернуть её {QUEST_GIVER.LINK}"/>
     <string id="KeIGtpxb" text="Я счастлив. В этом году, у меня дома нет голодных ртов, впервые за долгое время. "/>
     <string id="Kfbqriuh" text="Я слышал, вам может понадобиться помощь?"/>
     <string id="kG92fjCY" text="Вы потеряли сознание, защищая {CULPRIT.LINK}. {TARGET_NOTABLE.LINK} отомстил. Вы не сдержали свое обещание, данное {QUEST_GIVER.LINK} и не защитили {CULPRIT.LINK}. {?QUEST_GIVER.GENDER}Она{?}Он{\?} в гневе."/>
