@@ -97,7 +97,7 @@
     <string id="kG0xuyfE" text="Арсенал"/>
     <string id="koX9okuG" text="Нет"/>
     <string id="l2CNxPXG" text="Тип зубов"/>
-    <string id="LlrlE199" text="Вы всё ещё можете развернуть осадные машины\nВсё равно начать?"/>
+    <string id="LlrlE199" text="Вы всё ещё можете развернуть осадные машины{newline}Всё равно начать?"/>
     <string id="LrE2cUnG" text="В настоящее время отключен"/>
     <string id="lugGPVOb" text="Логин"/>
     <string id="lWDq0Uss" text="Войти"/>
@@ -168,7 +168,7 @@
     <string id="wuKqRvc3" text="Игра: {GAME_TYPES}  |  Регион: {REGIONS}"/>
     <string id="wwr4V1jm" text="Выберите игрока для бана"/>
     <string id="xebFLnH2" text="Аудио"/>
-    <string id="XJTX8w8M" text="Фаза разогрева - {GAME_MODE}\nОжидание подключения игроков"/>
+    <string id="XJTX8w8M" text="Фаза разогрева - {GAME_MODE}{newline}Ожидание подключения игроков"/>
     <string id="XLHkPwbb" text="Выберите игровую карту"/>
     <string id="xTv4tCbZ" text="Все!! Слушать меня"/>
     <string id="Y94H6XnK" text="Принять"/>
