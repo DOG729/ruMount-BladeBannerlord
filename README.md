@@ -1,5 +1,5 @@
 # ru Mount & Blade Bannerlord
-Русификатор Mount&amp;Blade Bannerlord
+Самый первый русификатор Mount&amp;Blade Bannerlord
 # Установка
 * Загрузить Modules в корне игры;
 * Запуск только через лаунчер;
