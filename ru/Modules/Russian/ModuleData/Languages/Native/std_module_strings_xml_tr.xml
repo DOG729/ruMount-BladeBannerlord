@@ -41,7 +41,7 @@
     <string id="1MStGeRa" text="Побежденных противников: {BEATEN_OPPONENT_COUNT}"/>
     <string id="1NbY2O5q" text="Замок"/>
     <string id="1o1TyPib" text="Дополнительные Ограничения Спутника"/>
-    <string id="1oeak0OC" text="Кузница"/>
+    <string id="1oeak0OC" text="Ковка"/>
     <string id="1PwQxaOu" text="Похоже, идет подготовка к турниру. Награда {ITEM}."/>
     <string id="1pxLpZ4r" text="Вычисления:"/>
     <string id="1sJcKkVP" text="Стражник"/>
@@ -321,13 +321,13 @@
     <string id="AVQUGwTg" text="Город имеет средний достаток."/>
     <string id="awQrcrt2" text="Керамика"/>
     <string id="AWW0T6xR" text="Пешка может перемещаться ортогонально, на одну клетку за ход.{newline}Пешка не может вернуться на то место, с которого она пришла в предыдущем ходу.{newline}Если игрок не может походить, то у него имеется возможность убрать одну из пешек врага и все еще сделать ход."/>
-    <string id="Ayrvf5yp" text="Убить"/>
+    <string id="Ayrvf5yp" text="Убито"/>
     <string id="b0Mv6mZy" text="Верните положение замка!"/>
     <string id="b0yJ9JsW" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} и {?}{\?}{TROOP_NAMES_END} штурмуют стены."/>
     <string id="b1BiRmgI" text="Вы устанавливаете свой осадный лагерь. Вам придется ждать, пока подготовка не закончится."/>
     <string id="B1j4F6i7" text="{?DAY_IS_PLURAL}Дней{?}День{\?}"/>
     <string id="b1Ra7gHa" text="Дальнобойное оружие II"/>
-    <string id="b1vtY2yU" text="Ожидалось"/>
+    <string id="b1vtY2yU" text="Ожидается"/>
     <string id="b4lDDcli" text="Семья"/>
     <string id="B5J6DbpG" text="Осталось дней с едой: {REMAINING_DAYS}{newline}{newline}Всего еды: {TOTAL_FOOD_AMOUNT}{newline}Ежедневное потребление: {DAILY_FOOD_CONSUMPTION}"/>
     <string id="b5t34yLX" text="Конская Упряжь"/>
@@ -558,7 +558,7 @@
     <string id="ewUtdIQh" text="с"/>
     <string id="ExjMoUiT" text="Дерево"/>
     <string id="ey5OcaGI" text="Нельзя использовать со щитами"/>
-    <string id="eyMU7X0e" text="Ты вассал и имеешь права голоса. Правитель проголосуют в конце и решит исход."/>
+    <string id="eyMU7X0e" text="Вы вассал и имеете право голоса. Правитель проголосует в конце и решит исход."/>
     <string id="EZLs7hLL" text="Ты! Стоять! Отдавай нам серебро. Мы не шутим."/>
     <string id="EzrK2tnA" text="Вы не можете управлять армией в бою"/>
     <string id="F4RMyaR5" text="Вы столкнулись с {PARTY}."/>
@@ -676,7 +676,7 @@
     <string id="hfSW9FTN" text="Дальнобойное Оружие V"/>
     <string id="HGBuP0wy" text="После этого пленных получит {CONFORMITY_AMOUNT} согласованности, еще один пленных будет доступен для вербовки. Пленыые получают {CONFORMITY_PER_HOUR} согласности за час."/>
     <string id="HiSzYWeh" text="Пиво"/>
-    <string id="hJypvWMR" text="Улучшать"/>
+    <string id="hJypvWMR" text="Улучшить"/>
     <string id="HkfY3Ds5" text="Броня"/>
     <string id="HkZ4E94O" text="Кузаитская конфедерация степных племен вела кочевой образ жизни, но недавно поселилась на восточной границе Империи и постепенно переходит в аграрное общество с постоянными городскими центрами. Несмотря на это, они все еще сохраняют многие аспекты своей кочевой жизни, в том числе свою близость с лошадьми. Они мастера стрельбы из лука, стреляют, а затем скачут за пределы досягаемости."/> <!--Здесь был Cas. Финальная версия!--> 
     <string id="hL3JIQbd" text="Привести это формирование в бой."/>
@@ -926,7 +926,7 @@
     <string id="mAxXKaXp" text="Сброс"/>
     <string id="mbS0DkUo" text="Рейд"/>
     <string id="mbT1uNPa" text="Кинжал"/>
-    <string id="Mc8ojOGn" text="Очаги"/>
+    <string id="Mc8ojOGn" text="Процветание"/>
     <string id="MciIqod6" text="Диван Лэнс"/>
     <string id="mDbaNQay" text="Ездить вперед и пытаться ударить противника!"/>
     <string id="MeQmoYb4" text="You don't have a high enough relation to acquire this troop. {newline} You have {REL1}. You need {REL2}."/>
@@ -948,7 +948,7 @@
     <string id="mPaQzgS0" text="Good to see you here, {PLAYER.LINK}."/>
     <string id="MpDMaBE9" text="Поносит нас? Мы будем пить из твоего черепа!"/>
     <string id="MPZ40lEk" text="Называя Новорожденного"/>
-    <string id="MqCH7R4A" text="Безопасности"/>
+    <string id="MqCH7R4A" text="Безопасность"/>
     <string id="MqsWixDp" text="Отступить!"/>
     <string id="MRktqZwu" text="Искусство Фокуса "/>
     <string id="MrtzlaYt" text="Во время боя, удерживая нажатой клавишу Alt, показывает метки на вражеских и союзных образований."/>

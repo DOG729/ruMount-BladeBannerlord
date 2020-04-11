@@ -883,7 +883,7 @@
     <string id="D0xDRqvm" text="{PERSUASION_REACTION}" />
     <string id="d18Ul2Zl" text="тарелка сардин" />
     <string id="D1biQObM" text="Я заплачу вдвое больше, чем {ISSUE_OWNER.NAME} платит вам! Пожалуйста, рассмотрите мое предложение!" />
-    <string id="d2qGHXyx" text="следопыт" />
+    <string id="d2qGHXyx" text="Следопыт" />
     <string id="D33fIGQe" text="Неважно." />
     <string id="D3W9Qi0Z" text="Все лорды играют официальную роль в совете." />
     <string id="d4QExzzV" text="Отлично. Мы многое пережили вместе. Я буду рядом с вами, во благо или во зло" />
@@ -2027,7 +2027,7 @@
     <string id="p1buAbOQ" text="Урожай был плохой, и крысы съели многих из наших магазинов. Мы можем съесть и подтянуть несколько ремней, но если у нас нет семенного зерна на завод, мы будем голодать в следующем году."/>
     <string id="p1Y3EU5O" text="Тренировка Ополчения"/>
     <string id="p2rTaKo8" text="У вас нет прав на престол. Даже в маловероятном случае, что другие последуют за вами, другой узурпатор будет просто подняться, чтобы победить вас."/>
-    <string id="P2VNGJDa" text="Extortion by Deserters at {SETTLEMENT}"/>
+    <string id="P2VNGJDa" text="Вымогательство дезертиров в {SETTLEMENT}"/>
     <string id="p2WPU1CU" text="Очень хорошо. Теперь я знаю, кого я убью."/>
     <string id="P407baEa" text="Я думаю, что вы должны существенно вырастет в мире, прежде чем я мог рассматривать такое дело..."/>
     <string id="P5zS7OmD" text="GentryEquipment Описание"/>
@@ -2277,7 +2277,7 @@
     <string id="rhqAfYSc" text="SteppeScoutSkills"/>
     <string id="rHrIM4PI" text="Связи с сельчанами"/>
     <string id="RIiVDdi0" text="Усилие Ради Народа"/>
-    <string id="riYecgOn" text="Прошел слушок, что вы купили пару вещей у  {QUEST_GIVER.NAME}. Что ж. Наши законы гласят, что только ремесленники из нашего города могут купить довары напрямую у ремесленника"/>
+    <string id="riYecgOn" text="Прошел слушок, что вы купили пару вещей у  {QUEST_GIVER.NAME}. Что ж. Наши законы гласят, что только ремесленники из нашего города могут купить товары напрямую у ремесленника"/>
     <string id="rJIY7OiR" text="Вам нужно отпправить {NEEDED_TROOP_COUNT} солдать с хотя бы tier 2 для этого задания."/>
     <string id="rjNunOyE" text="Мощный удар"/>
     <string id="rJwExPKb" text="Вам не нужны бойцы, {?PLAYER.GENDER}мадам{?}сэр{\?}? Я ищу хозяина, к которому могу присоединиться за {GOLD_AMOUNT}{GOLD_ICON}"/>
@@ -2418,7 +2418,7 @@
     <string id="spj8bYVo" text="Хорошо! Я буду отмечать укрытием для вас на карте."/>
     <string id="sPmQz21k" text="Враг"/>
     <string id="sptm68bK" text="PersonaIronic"/>
-    <string id="sQBBOKDD" text="{ISSUE_SETTLEMENT} needs grain seeds"/>
+    <string id="sQBBOKDD" text="{ISSUE_SETTLEMENT} требуются семена"/>
     <string id="sQCS90Wq" text="Bow Accuracy: +{a0} %"/>
     <string id="sqMUtasn" text="Дешевые, одноразовые и эффективным. Что вы говорите?"/>
     <string id="srbMyPXl" text="You can have one of my companions and {REQUIRED_TROOP_AMOUNT} of my men to take your goods to {TARGET_TOWN}"/>
@@ -3126,5 +3126,6 @@
     <string id="zZ3GqbzC" text="Управление города (чит)"/>
     <string id="ZzR9VTU0" text="Не сказал бы, что {CURRENT_LIEGE.NAME} известен за его лояльность. Так почему же вы так за него переживаете?"/>
     <string id="VbU8Ue0O" text="Выждав некоторое время, вы находите хорошую возможность незаметно приблизиться под покровом ночи.{newline}Но вы должны быть осторожны при нападении! Вы будете захвачены в плен и ваш отряд рассеется если вы потерпите поражение!"
+    <string id="VXHePMnL" text="Отлично. Я попрошу пастухов быть готовыми сопровождать ваш отряд прямо сейчас. Пожалуйста, будьте осторожны, направляя стадо. Мы можем понести некоторые потери. Но я ожидаю, что по крайней мере половина стада будет доставлена."
   </strings>
 </base>
