@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
   <tags>
     <tag language="Русский"/>
@@ -45,43 +45,43 @@
     <string id="wip6jLEM" text="Коэффициент получаемого урона своими войсками."/>
     <string id="ZcyJePFm" text="Получаемый урон дружественными отрядами"/>
     <string id="ZWiFWA2W" text="Пропустить Обучение Главного Сюжета "/>
-    <string id="1bq1oFJP" text="DefaultNote"/>
+    
     <string id="3TQTClro" text="AgainstGreatOdds"/>
-    <string id="8m9AH69a" text="CompetingGangLeaderQuarrel"/>
+    
     <string id="9GjxRWET" text="HereticQuarrel"/>
-    <string id="aEdsdIPn" text="MadePeace"/>
+    
     <string id="AJcTPuPN" text="NPCFreed"/>
-    <string id="apQoUXb8" text="VillageRaid"/>
+    
     <string id="bZusb8s6" text="SacrificedTroops"/>
-    <string id="cScWgdo7" text="Предательски"/>
+    
     <string id="DxJ9OS7c" text="RuthlessBusinessQuarrel"/>
-    <string id="esJ5tkzf" text="ExploitativeMerchantQuarrel"/>
+    
     <string id="fatCKnBU" text="PartyHungry"/>
-    <string id="FyrsOj8x" text="EasyPlayerПобеда"/>
+    
     <string id="hgDMPXaT" text="VengeanceQuarrel"/>
-    <string id="iaeVwUKW" text="HostileAction"/>
+    
     <string id="j9cE7oic" text="BattleValor"/>
-    <string id="JTfahwzM" text="ResponsibilityStrategyQuarrel"/>
+    
     <string id="kwVELZN1" text=""/>
-    <string id="og4waI70" text="LandCheatingQuarrel"/>
+    
     <string id="prj0jVxk" text="QuestBetrayal"/>
-    <string id="Q5ttMDEu" text="CourtshipQuarrel"/>
+    
     <string id="R2XhM9yO" text="QuestSuccess"/>
-    <string id="rmwE1qtb" text="GrantedDux"/>
+    
     <string id="SFAawqR1" text="DishonestBusinessQuarrel"/>
-    <string id="TEd5n7xo" text="ValorStrategyQuarrel"/>
+    
     <string id="U1zsHey1" text="ExtortingQuarrel"/>
-    <string id="UyFTIvc2" text="GrantedFief"/>
+    
     <string id="v3hXzd35" text="QuestFailed"/>
-    <string id="vH6Apmfr" text="PersuadedToDefect"/>
+    
     <string id="Vn6n7KCO" text="PlayerLastStand"/>
-    <string id="WgooVSUL" text="PartyTakenCareOf"/>
+    
     <string id="X7g4Kz7F" text="IgnoredPeace"/>
-    <string id="xwzyZghT" text="TroublemakerQuarrel"/>
+    
     <string id="xyn4YBvp" text="CalculatingStrategyQuarrel"/>
-    <string id="zcAsRVZW" text="ByRebellion"/>
+    
     <string id="zmCwsjEw" text="FiefQuarrel"/>
-    <string id="ZpjdNabw" text="MadeWar"/>
+    
     <string id="zwV2tyb4" text="NoQuarrel"/>
   </strings>
 </base>

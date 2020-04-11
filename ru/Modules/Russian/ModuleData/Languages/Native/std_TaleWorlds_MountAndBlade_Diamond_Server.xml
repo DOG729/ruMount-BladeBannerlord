@@ -1,47 +1,47 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
   <tags>
     <tag language="Русский"/>
   </tags>
 <strings>
-    <string id="0W4dgUho" text="Заблокирован игрой до {BANNEDUNTIL}, по причине: {BANREASON}" />
-    <string id="2xOyWxIo" text="Игрок не состоит в отряде." />
-    <string id="4XDu4Qcd" text="Только лидер отряда может исключать игроков." />
-    <string id="5kgkZo2o" text="Игрок которого вы пытаетесь исключить, не состоит в отряде!" />
-    <string id="91cJB1tP" text="Игрок {INVITEDPLAYER} уже состоит в отряде." />
-    <string id="aFQa3pQt" text="Вы должны находиться в лобби, чтобы назначать игроков." />
-    <string id="ah4Pm8wU" text="Вы должны находиться в лобби, чтобы распустить отряд![Временно]" />
-    <string id="bcdU2DHW" text="Игрок {INVITEE} получил приглашение в отряд от {INVITER}." />
-    <string id="bivF3RXY" text="Нельзя назначать самого себя!" />
-    <string id="BwBR7TJB" text="В вашем отряде никого не осталось и он был распущен!" />
-    <string id="caMylVF7" text="Чтобы вступить в сражение, вам нужно выбрать режим." />
-    <string id="E2ILp86t" text="Вы не можете начать сражение, потому что ваш регион недоступен." />
-    <string id="efpifbtd" text="Вы должны находиться в лобби, чтобы приглашать игроков в свой отряд!" />
-    <string id="emx7txM9" text="Назначать игроков может только лидер отряда." />
-    <string id="fD2SyeA7" text="Вы не можете приглашать себя." />
-    <string id="GZXVxl3E" text="{PLAYERNAME} отключился. Инвайт в отряд отменен." />
-    <string id="i5ZTTTZw" text="Игрок {INVITEDPLAYER} не в лобби." />
-    <string id="jP2hUg7H" text="Вы не состоите в отряде!" />
-    <string id="kY2oXMng" text="Не удалось войти." />
-    <string id="l6a9vI9z" text="Приглашать игроков может только лидер." />
-    <string id="mcAG0eHJ" text="Вы должны находиться в лобби, чтобы выгнать кого-то из вашего отряда![Временно]" />
-    <string id="MepGBJMQ" text="Не удалось найти игрока, которого вы пытались повысить" />
-    <string id="mvQKpHXH" text="Ваш отряд полон." />
-    <string id="nJ7aEkRt" text="{PLAYERNAME} Пригласил вас в отряд." />
-    <string id="nw7r2S5z" text="Отключенные игровые режимы: {GAMETYPES}." />
-    <string id="OByu0fjQ" text="Невозможно начать сражение, пока все игроки не будут готовы." />
-    <string id="olLwOWf8" text="Невозможно начать сражение, потому что не все игроки используют античит." />
-    <string id="p5K0ATtZ" text="Не удалось завершить старую сессию." />
-    <string id="pehfmZvM" text="Игрок {PLAYERNAME} назначен лидером отряда." />
-    <string id="Pn13ZKwI" text="Отряд расформирован!" />
-    <string id="Rj8RhD7F" text="Ошибка!" />
-    <string id="Tauk2JzA" text="Несовпадение версий игры, Версия сервера: {SERVERVERSION} - Ваша версия: {CLIENTVERSION}." />
-    <string id="TpBDiSBp" text="{PLAYERNAME} назначен лидером отряда." />
-    <string id="VDDm5bqb" text="Вы можете приглашать только игроков, использующих античит." />
-    <string id="w8WiqZT3" text="Чтобы вступить в отряд или начать игру, античит должен быть запущен!" />
-    <string id="wNubP2BF" text="Только лидер отряда может начать сражение." />
-    <string id="xMa4QqvL" text="Сейчас в отряде состоят следующие игроки: {PLAYERS}" />
-    <string id="ysfEQO6c" text="Не получилось найти игрока" />
-    <string id="zyDyPr4I" text="Игрок, которого вы пытаетесь повысить, не состоит в вашем отряде." />
+    <string id="0W4dgUho" text="Заблокирован игрой до {BANNEDUNTIL}, по причине: {BANREASON}"/>
+    <string id="2xOyWxIo" text="Игрок не состоит в отряде."/>
+    <string id="4XDu4Qcd" text="Только лидер отряда может исключать игроков."/>
+    <string id="5kgkZo2o" text="Игрок которого вы пытаетесь исключить, не состоит в отряде!"/>
+    <string id="91cJB1tP" text="Игрок {INVITEDPLAYER} уже состоит в отряде."/>
+    <string id="aFQa3pQt" text="Вы должны находиться в лобби, чтобы назначать игроков."/>
+    <string id="ah4Pm8wU" text="Вы должны находиться в лобби, чтобы распустить отряд![Временно]"/>
+    <string id="bcdU2DHW" text="Игрок {INVITEE} получил приглашение в отряд от {INVITER}."/>
+    <string id="bivF3RXY" text="Нельзя назначать самого себя!"/>
+    <string id="BwBR7TJB" text="В вашем отряде никого не осталось и он был распущен!"/>
+    <string id="caMylVF7" text="Чтобы вступить в сражение, вам нужно выбрать режим."/>
+    <string id="E2ILp86t" text="Вы не можете начать сражение, потому что ваш регион недоступен."/>
+    <string id="efpifbtd" text="Вы должны находиться в лобби, чтобы приглашать игроков в свой отряд!"/>
+    <string id="emx7txM9" text="Назначать игроков может только лидер отряда."/>
+    <string id="fD2SyeA7" text="Вы не можете приглашать себя."/>
+    <string id="GZXVxl3E" text="{PLAYERNAME} отключился. Инвайт в отряд отменен."/>
+    <string id="i5ZTTTZw" text="Игрок {INVITEDPLAYER} не в лобби."/>
+    <string id="jP2hUg7H" text="Вы не состоите в отряде!"/>
+    <string id="kY2oXMng" text="Не удалось войти."/>
+    <string id="l6a9vI9z" text="Приглашать игроков может только лидер."/>
+    <string id="mcAG0eHJ" text="Вы должны находиться в лобби, чтобы выгнать кого-то из вашего отряда![Временно]"/>
+    <string id="MepGBJMQ" text="Не удалось найти игрока, которого вы пытались повысить"/>
+    <string id="mvQKpHXH" text="Ваш отряд полон."/>
+    <string id="nJ7aEkRt" text="{PLAYERNAME} Пригласил вас в отряд."/>
+    <string id="nw7r2S5z" text="Отключенные игровые режимы: {GAMETYPES}."/>
+    <string id="OByu0fjQ" text="Невозможно начать сражение, пока все игроки не будут готовы."/>
+    <string id="olLwOWf8" text="Невозможно начать сражение, потому что не все игроки используют античит."/>
+    <string id="p5K0ATtZ" text="Не удалось завершить старую сессию."/>
+    <string id="pehfmZvM" text="Игрок {PLAYERNAME} назначен лидером отряда."/>
+    <string id="Pn13ZKwI" text="Отряд расформирован!"/>
+    <string id="Rj8RhD7F" text="Ошибка!"/>
+    <string id="Tauk2JzA" text="Несовпадение версий игры, Версия сервера: {SERVERVERSION} - Ваша версия: {CLIENTVERSION}."/>
+    <string id="TpBDiSBp" text="{PLAYERNAME} назначен лидером отряда."/>
+    <string id="VDDm5bqb" text="Вы можете приглашать только игроков, использующих античит."/>
+    <string id="w8WiqZT3" text="Чтобы вступить в отряд или начать игру, античит должен быть запущен!"/>
+    <string id="wNubP2BF" text="Только лидер отряда может начать сражение."/>
+    <string id="xMa4QqvL" text="Сейчас в отряде состоят следующие игроки: {PLAYERS}"/>
+    <string id="ysfEQO6c" text="Не получилось найти игрока"/>
+    <string id="zyDyPr4I" text="Игрок, которого вы пытаетесь повысить, не состоит в вашем отряде."/>
   </strings>
 </base>

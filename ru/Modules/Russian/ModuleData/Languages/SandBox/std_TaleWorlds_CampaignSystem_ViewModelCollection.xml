@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
   <tags>
     <tag language="Русский"/>
@@ -282,12 +282,12 @@
     <string id="zWaCtOJU" text="{SETTLEMENTS}"/>
     <string id="zWaVxD6T" text="Скорость отряда"/>
     <string id="zZlWRZjO" text="Войны"/>
-    <string id="bnrRzeiF" text="Не активно" />
-    <string id="CaRbMaZY" text="Ежедневная Плата: " />
-    <string id="DzviXC3W" text="Уровень: " />
-    <string id="eikN2SUN" text="Вы были здесь {DAYS} дней назад." />
-    <string id="ipLqVv1f" text="Вы не можете призвать королевский отряд в свою армию." />
-    <string id="nMcvafHY" text="Активно" />
-    <string id="Ra17aK4e" text="Столица: " />
+    <string id="bnrRzeiF" text="Не активно"/>
+    <string id="CaRbMaZY" text="Ежедневная Плата: "/>
+    <string id="DzviXC3W" text="Уровень: "/>
+    <string id="eikN2SUN" text="Вы были здесь {DAYS} дней назад."/>
+    <string id="ipLqVv1f" text="Вы не можете призвать королевский отряд в свою армию."/>
+    <string id="nMcvafHY" text="Активно"/>
+    <string id="Ra17aK4e" text="Столица: "/>
   </strings>
 </base>

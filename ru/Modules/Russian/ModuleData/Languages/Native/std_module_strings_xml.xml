@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
   <tags>
     <tag language="Русский"/>
@@ -263,7 +263,7 @@
     <string id="a8zwLVKj" text="Сила"/>
     <string id="aa5tNRb9" text="Шанс Критического Успеха "/>
     <string id="AagJ9cSL" text="Я не знаю, где {?ASKED_LORD.GENDER}Она{?}он{\?} находится."/>
-    <string id="aaQtzfjL" text="Неплохо сработано, {?PLAYER.GENDER}мадам{?}сэр{\?}. Лишь бы всегда деньги с вином к нам приходили и больше некого вам будет бояться во всей Кальрадии.[rb:very_positive]" />
+    <string id="aaQtzfjL" text="Неплохо сработано, {?PLAYER.GENDER}мадам{?}сэр{\?}. Лишь бы всегда деньги с вином к нам приходили и больше некого вам будет бояться во всей Кальрадии.[rb:very_positive]"/>
     <string id="aayrvLOX" text="Продолжайте путь. Безопасного путешествия."/>
     <string id="abbALYlp" text="Баллиста"/>
     <string id="aBgnQ1MO" text="Назначить правителя"/>
@@ -506,7 +506,7 @@
     <string id="dyY3hkH1" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} и {?}{\?}{TROOP_NAMES_END} атакуют {?IS_PLURAL}несколько вражеских формаций{?}вражескую формацию{\?}."/>
     <string id="Dzntsudy" text="Вы нанесли {AMOUNT} {DAMAGE_TYPE} урона по {VICTIM_NAME} ({LOST_HP_PERCENTAGE}% HP)."/>
     <string id="E05lmb5n" text="Ваши отношения {HERO_NAME} &lt;a style=&quot;DecreaseStyle&quot; &gt;&lt;b&gt;ухудшатся&lt;/b&gt;&lt;/a&gt;"/>
-    <string id="E1HbgxyM" text="Вы можете зарабатывать очки атрибутов на ЧЕМ_ТО. Тодо:"/>
+    
     <string id="E1OwmQFb" text="Назад"/>
     <string id="e1tZ4kEY" text="Все Вещи"/>
     <string id="e4OPfBqt" text="Воздержаться"/>
@@ -694,7 +694,7 @@
     <string id="hSsS5xAa" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} и {?}{\?}{TROOP_NAMES_END} ждут прибытия остальных осадных машин."/>
     <string id="HuCClZqT" text="Плата"/>
     <string id="hVmamTJX" text="Повышайте боевой дух отряда разнообразием провизии (Квартирмейстер). Улучшайте благосостояние поселения и создавайте проекты (Губернатор). Проводите время в своих поселениях (Лидер клана)."/>
-    <string id="HWSKCne0" text="Ускорение проекта x2 на 1 день стоит 500&lt;img src=&quot;Icons\Coin@2x&quot;&gt;" />
+    <string id="HWSKCne0" text="Ускорение проекта x2 на 1 день стоит 500&lt;img src=&quot;Icons\Coin@2x&quot;&gt;"/>
     <string id="Hx47TGrA" text="Тяжелый"/>
     <string id="hYgmzZJX" text="Динаров"/>
     <string id="HYVQKIhh" text="Защищающиеся"/>
@@ -1592,8 +1592,8 @@
     <string id="zqihwKAs" text="&lt;b&gt;Баллиста&lt;/b&gt;{NEWLINE}Стреляет болтами со смертельным эффектом. Эффективна против солдат."/>
     <string id="ZqWOb1jM" text="Вы находитесь за пределами города {SETTLEMENT_NAME}. Вы не можете войти, потому что вас разыскивает {FACTION_TERM}."/>
     <string id="ZR2bAa1p" text="Легкая Кавалерия"/>
-    <string id="ZuLa12aT" text="Вот это настрой... Мы банда ублюдков с которыми бы ты точно не захотел связываться" />
-    <string id="Zuq5mO5e" text="Поговорить с лидером отряда" />
+    <string id="ZuLa12aT" text="Вот это настрой... Мы банда ублюдков с которыми бы ты точно не захотел связываться"/>
+    <string id="Zuq5mO5e" text="Поговорить с лидером отряда"/>
     <string id="ZuRzP6kF" text="Вы не можете собрать армию в бою"/>
     <string id="ZV7bt7Il" text="{newline}{PARTY_NAME} : {PARTY_MORALE}"/>
     <string id="ZvoyX6DX" text="Баттанец"/>
@@ -1607,5 +1607,5 @@
     <string id="ZXXNrvvg" text="Игрок побеждает, если у его противника больше нет свободных пешек в руке или на доске."/>
     <string id="zyp2VGt4" text="Имеется доступное задание"/>
     <string id="zzUk6ZaA" text="Выход"/>
-  </strings>
+  <string id="D9WJXQ9Z" text="Reject"/><string id="kA5tlKTz" text="Free Attribute Points: You can use these points to increase attributes. You'll gain one free attribute for every three levels you gain. "/></strings>
 </base>

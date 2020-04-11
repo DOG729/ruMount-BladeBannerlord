@@ -1,44 +1,44 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
   <tags>
     <tag language="Русский"/>
   </tags>
 <strings>
-    <string id="0xC75dN6" text="Вражеский отряд" />
-    <string id="1cnJtNTt" text="({KEY}) Вытащить" />
-    <string id="1CPdu9K0" text="Камень" />
-    <string id="3PP01vFv" text="Держаться подальше от этого оружия." />
-    <string id="4FVIuqsl" text="{ALIVE}/{TOTAL}" />
-    <string id="4Skg9QhO" text="Требушет" />
-    <string id="5oozsaIb" text="({KEY}) Открыть" />
-    <string id="5wx4BF5h" text="({KEY}) Повернуть" />
-    <string id="5zGsfiMM" text="{TRAINING_TYPE}" />
-    <string id="6wZUG0ev" text="Ворота" />
-    <string id="abbALYlp" text="Баллиста" />
-    <string id="aXjlMBiE" text="Осадная башня" />
-    <string id="bNYm3K6b" text="({KEY}) Подобрать" />
-    <string id="bWi4aMO9" text="Бочка со стрелами" />
-    <string id="F9AQxCax" text="Вилы" />
-    <string id="fEQAPJ2e" text="({KEY}) Использовать" />
-    <string id="G0AWk1rX" text="Лестница" /> 
-    <string id="gqQPSAQZ" text="({KEY}) Покинуть арену" />
-    <string id="hOSafKZ9" text="Новая игра в режиме {GAME_TYPE} начнётся на {SCENE_NAME}" />
-    <string id="hvQSOi79" text="Бот" />
-    <string id="ibC4xPoo" text="({KEY}) Перезарядить" />
-    <string id="jfcceEoE" text="{PILE_TYPE} Куча" />
-    <string id="kbNcm68J" text="({KEY}) Поднять" />
-    <string id="L91XKoMD" text="{TEAM_LEADER}: {PLAYER_NAME}, {BEHAVIOR}" />
-    <string id="lVfmVHbz" text="Авторизация не удалась" />
-    <string id="MaBSSg7I" text="Таран" />
-    <string id="MdQJxiGz" text="({KEY}) Толкнуть" />
-    <string id="Na81xuXn" text="({KEY}) Перевооружиться" />
-    <string id="NbpcDXtJ" text="Мангонель" />
-    <string id="pgw7LMRo" text="Сервер переполнен." />
-    <string id="PNg2Rb4p" text="{PEER_NAME} будет выгнан{IS_BANNED}" />
-    <string id="pzfbPbWW" text="Валун" />
-    <string id="rwZAZSvX" text="({KEY}) Сдвинуть" />
-    <string id="sSJSTe5p" text="Отряд игрока" />
-    <string id="TJj71hPO" text="({KEY}) Закрыть" />
-    <string id="wY1qP2qj" text="({KEY}) Выбрать" />
+    <string id="0xC75dN6" text="Вражеский отряд"/>
+    <string id="1cnJtNTt" text="({KEY}) Вытащить"/>
+    <string id="1CPdu9K0" text="Камень"/>
+    <string id="3PP01vFv" text="Держаться подальше от этого оружия."/>
+    <string id="4FVIuqsl" text="{ALIVE}/{TOTAL}"/>
+    <string id="4Skg9QhO" text="Требушет"/>
+    <string id="5oozsaIb" text="({KEY}) Открыть"/>
+    <string id="5wx4BF5h" text="({KEY}) Повернуть"/>
+    <string id="5zGsfiMM" text="{TRAINING_TYPE}"/>
+    <string id="6wZUG0ev" text="Ворота"/>
+    <string id="abbALYlp" text="Баллиста"/>
+    <string id="aXjlMBiE" text="Осадная башня"/>
+    <string id="bNYm3K6b" text="({KEY}) Подобрать"/>
+    <string id="bWi4aMO9" text="Бочка со стрелами"/>
+    <string id="F9AQxCax" text="Вилы"/>
+    <string id="fEQAPJ2e" text="({KEY}) Использовать"/>
+    <string id="G0AWk1rX" text="Лестница"/> 
+    <string id="gqQPSAQZ" text="({KEY}) Покинуть арену"/>
+    <string id="hOSafKZ9" text="Новая игра в режиме {GAME_TYPE} начнётся на {SCENE_NAME}"/>
+    <string id="hvQSOi79" text="Бот"/>
+    <string id="ibC4xPoo" text="({KEY}) Перезарядить"/>
+    <string id="jfcceEoE" text="{PILE_TYPE} Куча"/>
+    <string id="kbNcm68J" text="({KEY}) Поднять"/>
+    <string id="L91XKoMD" text="{TEAM_LEADER}: {PLAYER_NAME}, {BEHAVIOR}"/>
+    <string id="lVfmVHbz" text="Авторизация не удалась"/>
+    <string id="MaBSSg7I" text="Таран"/>
+    <string id="MdQJxiGz" text="({KEY}) Толкнуть"/>
+    <string id="Na81xuXn" text="({KEY}) Перевооружиться"/>
+    <string id="NbpcDXtJ" text="Мангонель"/>
+    <string id="pgw7LMRo" text="Сервер переполнен."/>
+    <string id="PNg2Rb4p" text="{PEER_NAME} будет выгнан{IS_BANNED}"/>
+    <string id="pzfbPbWW" text="Валун"/>
+    <string id="rwZAZSvX" text="({KEY}) Сдвинуть"/>
+    <string id="sSJSTe5p" text="Отряд игрока"/>
+    <string id="TJj71hPO" text="({KEY}) Закрыть"/>
+    <string id="wY1qP2qj" text="({KEY}) Выбрать"/>
   </strings>
 </base>

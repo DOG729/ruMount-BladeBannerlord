@@ -1,208 +1,208 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
   <tags>
     <tag language="Русский"/>
   </tags>
   <strings>
-    <string id="Settlements.Settlement.name.castle_A1" text="Крепость Тубилис" />
-    <string id="Settlements.Settlement.name.castle_A2" text="Крепость Сахел" />
-    <string id="Settlements.Settlement.name.castle_A3" text="Крепость Айн Балик" />
-    <string id="Settlements.Settlement.name.castle_A4" text="Крепость Медени" />
-    <string id="Settlements.Settlement.name.castle_A5" text="Крепость Джамайя" />
-    <string id="Settlements.Settlement.name.castle_A6" text="Крепость Шибал Зумр" />
-    <string id="Settlements.Settlement.name.castle_A7" text="Крепость Укба" />
-    <string id="Settlements.Settlement.name.castle_A8" text="Крепость Тамну" />
-    <string id="Settlements.Settlement.name.castle_A9" text="Крепость Берихал" />
-    <string id="Settlements.Settlement.name.castle_B1" text="Крепость Аб Комер" />
-    <string id="Settlements.Settlement.name.castle_B2" text="Крепость Лланок Хен" />
-    <string id="Settlements.Settlement.name.castle_B3" text="Крепость Друиммор" />
-    <string id="Settlements.Settlement.name.castle_B4" text="Крепость Пендраик" />
-    <string id="Settlements.Settlement.name.castle_B5" text="Крепость Ремтойл" />
-    <string id="Settlements.Settlement.name.castle_B6" text="Крепость Флинтольг" />
-    <string id="Settlements.Settlement.name.castle_B7" text="Крепость Астер" />
-    <string id="Settlements.Settlement.name.castle_B8" text="Крепость Утелайм" />
-    <string id="Settlements.Settlement.name.castle_EN1" text="Крепость Варагос" />
-    <string id="Settlements.Settlement.name.castle_EN2" text="Крепость Локана" />
-    <string id="Settlements.Settlement.name.castle_EN3" text="Крепость Ресос" />
-    <string id="Settlements.Settlement.name.castle_EN4" text="Крепость Гаос" />
-    <string id="Settlements.Settlement.name.castle_EN5" text="Крепость Атрион" />
-    <string id="Settlements.Settlement.name.castle_EN6" text="Крепость Атакония" />
-    <string id="Settlements.Settlement.name.castle_EN7" text="Крепость Эпиноса" />
-    <string id="Settlements.Settlement.name.castle_EN8" text="Крепость Сиратос" />
-    <string id="Settlements.Settlement.name.castle_EN9" text="Крепость Мекаловеа" />
-    <string id="Settlements.Settlement.name.castle_ES1" text="Крепость Одриса" />
-    <string id="Settlements.Settlement.name.castle_ES2" text="Крепость Корения" />
-    <string id="Settlements.Settlement.name.castle_ES3" text="Крепость Мелион" />
-    <string id="Settlements.Settlement.name.castle_ES4" text="Крепость Лавения" />
-    <string id="Settlements.Settlement.name.castle_ES5" text="Крепость Морения" />
-    <string id="Settlements.Settlement.name.castle_ES6" text="Крепость Сестадейм" />
-    <string id="Settlements.Settlement.name.castle_ES7" text="Крепость Джогурис" />
-    <string id="Settlements.Settlement.name.castle_ES8" text="Крепость Ханопсис" />
-    <string id="Settlements.Settlement.name.castle_EW1" text="Крепость Гаронтор" />
-    <string id="Settlements.Settlement.name.castle_EW2" text="Крепость Ториос" />
-    <string id="Settlements.Settlement.name.castle_EW3" text="Крепость Ониса" />
-    <string id="Settlements.Settlement.name.castle_EW4" text="Крепость Фракторе" />
-    <string id="Settlements.Settlement.name.castle_EW5" text="Крепость Верон" />
-    <string id="Settlements.Settlement.name.castle_EW6" text="Крепость Хертогеа" />
-    <string id="Settlements.Settlement.name.castle_EW7" text="Крепость Ористокорис" />
-    <string id="Settlements.Settlement.name.castle_EW8" text="Крепость Герсегос" />
-    <string id="Settlements.Settlement.name.castle_K1" text="Крепость Усек" />
-    <string id="Settlements.Settlement.name.castle_K2" text="Крепость Акисер" />
-    <string id="Settlements.Settlement.name.castle_K3" text="Крепость Хаккун" />
-    <string id="Settlements.Settlement.name.castle_K4" text="Крепость Теппес" />
-    <string id="Settlements.Settlement.name.castle_K5" text="Крепость Химли" />
-    <string id="Settlements.Settlement.name.castle_K6" text="Крепость Динар" />
-    <string id="Settlements.Settlement.name.castle_K7" text="Крепость Симира" />
-    <string id="Settlements.Settlement.name.castle_K8" text="Крепость Эрзенур" />
-    <string id="Settlements.Settlement.name.castle_K9" text="Крепость Кайсар" />
-    <string id="Settlements.Settlement.name.castle_S1" text="Крепость Устокол" />
-    <string id="Settlements.Settlement.name.castle_S2" text="Крепость Мажадан" />
-    <string id="Settlements.Settlement.name.castle_S3" text="Крепость Невянск" />
-    <string id="Settlements.Settlement.name.castle_S4" text="Крепость Кранирог" />
-    <string id="Settlements.Settlement.name.castle_S5" text="Крепость Ов" />
-    <string id="Settlements.Settlement.name.castle_S6" text="Крепость Такор" />
-    <string id="Settlements.Settlement.name.castle_S7" text="Крепость Урикскала" />
-    <string id="Settlements.Settlement.name.castle_S8" text="Крепость Владив" />
-    <string id="Settlements.Settlement.name.castle_V1" text="Крепость Усанц" />
-    <string id="Settlements.Settlement.name.castle_V2" text="Крепость Хонгард" />
-    <string id="Settlements.Settlement.name.castle_V3" text="Крепость Драпанд" />
-    <string id="Settlements.Settlement.name.castle_V4" text="Крепость Орманпард" />
-    <string id="Settlements.Settlement.name.castle_V5" text="Крепость Тирби" />
-    <string id="Settlements.Settlement.name.castle_V6" text="Крепость Цалеус" />
-    <string id="Settlements.Settlement.name.castle_V7" text="Крепость Таливель" />
-    <string id="Settlements.Settlement.name.castle_V8" text="Крепость Верецсанд" />
-    <string id="Settlements.Settlement.name.castle_village_A1_1" text="Тубилис" />
-    <string id="Settlements.Settlement.name.castle_village_A1_2" text="Фанаб" />
-    <string id="Settlements.Settlement.name.castle_village_A2_1" text="Сахел" />
-    <string id="Settlements.Settlement.name.castle_village_A2_2" text="Асмаит" />
-    <string id="Settlements.Settlement.name.castle_village_A3_1" text="Айн Балик" />
-    <string id="Settlements.Settlement.name.castle_village_A3_2" text="Аивалитас" />
-    <string id="Settlements.Settlement.name.castle_village_A4_1" text="Медени" />
-    <string id="Settlements.Settlement.name.castle_village_A4_2" text="Кеднар" />
-    <string id="Settlements.Settlement.name.castle_village_A5_1" text="Джамайя" />
-    <string id="Settlements.Settlement.name.castle_village_A5_2" text="Хунаб" />
-    <string id="Settlements.Settlement.name.castle_village_A6_1" text="Шибал Зумр" />
-    <string id="Settlements.Settlement.name.castle_village_A6_2" text="Ламеса" />
-    <string id="Settlements.Settlement.name.castle_village_A7_1" text="Укба" />
-    <string id="Settlements.Settlement.name.castle_village_A7_2" text="Бунказ" />
-    <string id="Settlements.Settlement.name.castle_village_A8_1" text="Тамну" />
-    <string id="Settlements.Settlement.name.castle_village_A8_2" text="Кука" />
-    <string id="Settlements.Settlement.name.castle_village_A9_1" text="Берихал" />
-    <string id="Settlements.Settlement.name.castle_village_A9_2" text="Вадар" />
-    <string id="Settlements.Settlement.name.castle_village_B1_1" text="Аб Комер" />
-    <string id="Settlements.Settlement.name.castle_village_B1_2" text="Инвет" />
-    <string id="Settlements.Settlement.name.castle_village_B2_1" text="Лланок Хем" />
-    <string id="Settlements.Settlement.name.castle_village_B2_2" text="Кантрек" />
-    <string id="Settlements.Settlement.name.castle_village_B3_1" text="Друиммор" />
-    <string id="Settlements.Settlement.name.castle_village_B3_2" text="Тор Мелина" />
-    <string id="Settlements.Settlement.name.castle_village_B4_1" text="Пендраик" />
-    <string id="Settlements.Settlement.name.castle_village_B4_2" text="Линдорн" />
-    <string id="Settlements.Settlement.name.castle_village_B5_1" text="Ремтойл" />
-    <string id="Settlements.Settlement.name.castle_village_B5_2" text="Клайг Бан" />
-    <string id="Settlements.Settlement.name.castle_village_B6_1" text="Флинтольг" />
-    <string id="Settlements.Settlement.name.castle_village_B6_2" text="Глинтор" />
-    <string id="Settlements.Settlement.name.castle_village_B7_1" text="Астер" />
-    <string id="Settlements.Settlement.name.castle_village_B7_2" text="Имлаг" />
-    <string id="Settlements.Settlement.name.castle_village_B8_1" text="Утелайм" />
-    <string id="Settlements.Settlement.name.castle_village_B8_2" text="Сеордас" />
-    <string id="Settlements.Settlement.name.castle_village_EN1_1" text="Варагос" />
-    <string id="Settlements.Settlement.name.castle_village_EN1_2" text="Аэория" />
-    <string id="Settlements.Settlement.name.castle_village_EN2_1" text="Локана" />
-    <string id="Settlements.Settlement.name.castle_village_EN2_2" text="Нортаниса" />
-    <string id="Settlements.Settlement.name.castle_village_EN3_1" text="Ресос" />
-    <string id="Settlements.Settlement.name.castle_village_EN3_2" text="Диопалис" />
-    <string id="Settlements.Settlement.name.castle_village_EN4_1" text="Гаос" />
-    <string id="Settlements.Settlement.name.castle_village_EN4_2" text="Темис" />
-    <string id="Settlements.Settlement.name.castle_village_EN5_1" text="Атрион" />
-    <string id="Settlements.Settlement.name.castle_village_EN5_2" text="Масангара" />
-    <string id="Settlements.Settlement.name.castle_village_EN6_1" text="Атакония" />
-    <string id="Settlements.Settlement.name.castle_village_EN6_2" text="Потамис" />
-    <string id="Settlements.Settlement.name.castle_village_EN7_1" text="Эпиноса" />
-    <string id="Settlements.Settlement.name.castle_village_EN7_2" text="Понс" />
-    <string id="Settlements.Settlement.name.castle_village_EN8_1" text="Сиратос" />
-    <string id="Settlements.Settlement.name.castle_village_EN8_2" text="Темхем" />
-    <string id="Settlements.Settlement.name.castle_village_EN9_1" text="Мекаловеа" />
-    <string id="Settlements.Settlement.name.castle_village_EN9_2" text="Агальмон" />
-    <string id="Settlements.Settlement.name.castle_village_ES1_1" text="Одриса" />
-    <string id="Settlements.Settlement.name.castle_village_ES1_2" text="Каира" />
-    <string id="Settlements.Settlement.name.castle_village_ES2_1" text="Корения" />
-    <string id="Settlements.Settlement.name.castle_village_ES2_2" text="Метакия" />
-    <string id="Settlements.Settlement.name.castle_village_ES3_1" text="Мелион" />
-    <string id="Settlements.Settlement.name.castle_village_ES3_2" text="Саголина" />
-    <string id="Settlements.Settlement.name.castle_village_ES4_1" text="Лавения" />
-    <string id="Settlements.Settlement.name.castle_village_ES4_2" text="Этемиса" />
-    <string id="Settlements.Settlement.name.castle_village_ES5_1" text="Морения" />
-    <string id="Settlements.Settlement.name.castle_village_ES5_2" text="Атфиния" />
-    <string id="Settlements.Settlement.name.castle_village_ES6_1" text="Сестадейм" />
-    <string id="Settlements.Settlement.name.castle_village_ES6_2" text="Амикон" />
-    <string id="Settlements.Settlement.name.castle_village_ES7_1" text="Джогурис" />
-    <string id="Settlements.Settlement.name.castle_village_ES7_2" text="Эуналика" />
-    <string id="Settlements.Settlement.name.castle_village_ES8_1" text="Ханопсис" />
-    <string id="Settlements.Settlement.name.castle_village_ES8_2" text="Попсия" />
-    <string id="Settlements.Settlement.name.castle_village_EW1_1" text="Гаронтор" />
-    <string id="Settlements.Settlement.name.castle_village_EW1_2" text="Лисия" />
-    <string id="Settlements.Settlement.name.castle_village_EW2_1" text="Ториос" />
-    <string id="Settlements.Settlement.name.castle_village_EW2_2" text="Бергум" />
-    <string id="Settlements.Settlement.name.castle_village_EW3_1" text="Ониса" />
-    <string id="Settlements.Settlement.name.castle_village_EW3_2" text="Таркутис" />
-    <string id="Settlements.Settlement.name.castle_village_EW4_1" text="Фракторе" />
-    <string id="Settlements.Settlement.name.castle_village_EW4_2" text="Гамардан" />
-    <string id="Settlements.Settlement.name.castle_village_EW5_1" text="Верон" />
-    <string id="Settlements.Settlement.name.castle_village_EW5_2" text="Голерин" />
-    <string id="Settlements.Settlement.name.castle_village_EW6_1" text="Хертогеа" />
-    <string id="Settlements.Settlement.name.castle_village_EW6_2" text="Нидеон" />
-    <string id="Settlements.Settlement.name.castle_village_EW7_1" text="Ористокорис" />
-    <string id="Settlements.Settlement.name.castle_village_EW7_2" text="Эльвания" />
-    <string id="Settlements.Settlement.name.castle_village_EW8_1" text="Герсегос" />
-    <string id="Settlements.Settlement.name.castle_village_EW8_2" text="Ватеа" />
-    <string id="Settlements.Settlement.name.castle_village_K1_1" text="Усек" />
-    <string id="Settlements.Settlement.name.castle_village_K1_2" text="Эсме" />
-    <string id="Settlements.Settlement.name.castle_village_K2_1" text="Акисер" />
-    <string id="Settlements.Settlement.name.castle_village_K2_2" text="Камсхар" />
-    <string id="Settlements.Settlement.name.castle_village_K3_1" text="Хаккун" />
-    <string id="Settlements.Settlement.name.castle_village_K3_2" text="Кираз" />
-    <string id="Settlements.Settlement.name.castle_village_K4_1" text="Тепес" />
-    <string id="Settlements.Settlement.name.castle_village_K4_2" text="Курулук" />
-    <string id="Settlements.Settlement.name.castle_village_K5_1" text="Кхимли" />
-    <string id="Settlements.Settlement.name.castle_village_K5_2" text="Омроток" />
-    <string id="Settlements.Settlement.name.castle_village_K6_1" text="Динар" />
-    <string id="Settlements.Settlement.name.castle_village_K6_2" text="Карахалли" />
-    <string id="Settlements.Settlement.name.castle_village_K7_1" text="Симира" />
-    <string id="Settlements.Settlement.name.castle_village_K7_2" text="Кохи Аджик" />
-    <string id="Settlements.Settlement.name.castle_village_K8_1" text="Эрзенур" />
-    <string id="Settlements.Settlement.name.castle_village_K8_2" text="Гереден" />
-    <string id="Settlements.Settlement.name.castle_village_K9_1" text="Кайсар" />
-    <string id="Settlements.Settlement.name.castle_village_K9_2" text="Пайам" />
-    <string id="Settlements.Settlement.name.castle_village_S1_1" text="Устокол" />
-    <string id="Settlements.Settlement.name.castle_village_S1_2" text="Жемьян" />
-    <string id="Settlements.Settlement.name.castle_village_S2_1" text="Мажадан" />
-    <string id="Settlements.Settlement.name.castle_village_S2_2" text="Форин" />
-    <string id="Settlements.Settlement.name.castle_village_S3_1" text="Невянск" />
-    <string id="Settlements.Settlement.name.castle_village_S3_2" text="Днин" />
-    <string id="Settlements.Settlement.name.castle_village_S4_1" text="Кранирог" />
-    <string id="Settlements.Settlement.name.castle_village_S4_2" text="Исмилкорг" />
-    <string id="Settlements.Settlement.name.castle_village_S5_1" text="Ов" />
-    <string id="Settlements.Settlement.name.castle_village_S5_2" text="Ферт" />
-    <string id="Settlements.Settlement.name.castle_village_S6_1" text="Такор" />
-    <string id="Settlements.Settlement.name.castle_village_S6_2" text="Дворуста" />
-    <string id="Settlements.Settlement.name.castle_village_S7_1" text="Урикскала" />
-    <string id="Settlements.Settlement.name.castle_village_S7_2" text="Алов" />
-    <string id="Settlements.Settlement.name.castle_village_S8_1" text="Владив" />
-    <string id="Settlements.Settlement.name.castle_village_S8_2" text="Главсторм" />
-    <string id="Settlements.Settlement.name.castle_village_V1_1" text="Усанц" />
-    <string id="Settlements.Settlement.name.castle_village_V2_1" text="Хонгард" />
-    <string id="Settlements.Settlement.name.castle_village_V2_2" text="Фертон" />
-    <string id="Settlements.Settlement.name.castle_village_V3_1" text="Драпанд" />
-    <string id="Settlements.Settlement.name.castle_village_V3_2" text="Валанби" />
-    <string id="Settlements.Settlement.name.castle_village_V4_1" text="Орманфард" />
-    <string id="Settlements.Settlement.name.castle_village_V5_1" text="Тирби" />
-    <string id="Settlements.Settlement.name.castle_village_V5_2" text="Сириндац" />
-    <string id="Settlements.Settlement.name.castle_village_V6_1" text="Калеус" />
-    <string id="Settlements.Settlement.name.castle_village_V6_2" text="Дерият" />
-    <string id="Settlements.Settlement.name.castle_village_V7_1" text="Таливель" />
-    <string id="Settlements.Settlement.name.castle_village_V7_2" text="Родетан" />
-    <string id="Settlements.Settlement.name.castle_village_V8_1" text="Верецсанд" />
-    <string id="Settlements.Settlement.name.castle_village_V8_2" text="Марин" />
+    <string id="Settlements.Settlement.name.castle_A1" text="Крепость Тубилис"/>
+    <string id="Settlements.Settlement.name.castle_A2" text="Крепость Сахел"/>
+    <string id="Settlements.Settlement.name.castle_A3" text="Крепость Айн Балик"/>
+    <string id="Settlements.Settlement.name.castle_A4" text="Крепость Медени"/>
+    <string id="Settlements.Settlement.name.castle_A5" text="Крепость Джамайя"/>
+    <string id="Settlements.Settlement.name.castle_A6" text="Крепость Шибал Зумр"/>
+    <string id="Settlements.Settlement.name.castle_A7" text="Крепость Укба"/>
+    <string id="Settlements.Settlement.name.castle_A8" text="Крепость Тамну"/>
+    <string id="Settlements.Settlement.name.castle_A9" text="Крепость Берихал"/>
+    <string id="Settlements.Settlement.name.castle_B1" text="Крепость Аб Комер"/>
+    <string id="Settlements.Settlement.name.castle_B2" text="Крепость Лланок Хен"/>
+    <string id="Settlements.Settlement.name.castle_B3" text="Крепость Друиммор"/>
+    <string id="Settlements.Settlement.name.castle_B4" text="Крепость Пендраик"/>
+    <string id="Settlements.Settlement.name.castle_B5" text="Крепость Ремтойл"/>
+    <string id="Settlements.Settlement.name.castle_B6" text="Крепость Флинтольг"/>
+    <string id="Settlements.Settlement.name.castle_B7" text="Крепость Астер"/>
+    <string id="Settlements.Settlement.name.castle_B8" text="Крепость Утелайм"/>
+    <string id="Settlements.Settlement.name.castle_EN1" text="Крепость Варагос"/>
+    <string id="Settlements.Settlement.name.castle_EN2" text="Крепость Локана"/>
+    <string id="Settlements.Settlement.name.castle_EN3" text="Крепость Ресос"/>
+    <string id="Settlements.Settlement.name.castle_EN4" text="Крепость Гаос"/>
+    <string id="Settlements.Settlement.name.castle_EN5" text="Крепость Атрион"/>
+    <string id="Settlements.Settlement.name.castle_EN6" text="Крепость Атакония"/>
+    <string id="Settlements.Settlement.name.castle_EN7" text="Крепость Эпиноса"/>
+    <string id="Settlements.Settlement.name.castle_EN8" text="Крепость Сиратос"/>
+    <string id="Settlements.Settlement.name.castle_EN9" text="Крепость Мекаловеа"/>
+    <string id="Settlements.Settlement.name.castle_ES1" text="Крепость Одриса"/>
+    <string id="Settlements.Settlement.name.castle_ES2" text="Крепость Корения"/>
+    <string id="Settlements.Settlement.name.castle_ES3" text="Крепость Мелион"/>
+    <string id="Settlements.Settlement.name.castle_ES4" text="Крепость Лавения"/>
+    <string id="Settlements.Settlement.name.castle_ES5" text="Крепость Морения"/>
+    <string id="Settlements.Settlement.name.castle_ES6" text="Крепость Сестадейм"/>
+    <string id="Settlements.Settlement.name.castle_ES7" text="Крепость Джогурис"/>
+    <string id="Settlements.Settlement.name.castle_ES8" text="Крепость Ханопсис"/>
+    <string id="Settlements.Settlement.name.castle_EW1" text="Крепость Гаронтор"/>
+    <string id="Settlements.Settlement.name.castle_EW2" text="Крепость Ториос"/>
+    <string id="Settlements.Settlement.name.castle_EW3" text="Крепость Ониса"/>
+    <string id="Settlements.Settlement.name.castle_EW4" text="Крепость Фракторе"/>
+    <string id="Settlements.Settlement.name.castle_EW5" text="Крепость Верон"/>
+    <string id="Settlements.Settlement.name.castle_EW6" text="Крепость Хертогеа"/>
+    <string id="Settlements.Settlement.name.castle_EW7" text="Крепость Ористокорис"/>
+    <string id="Settlements.Settlement.name.castle_EW8" text="Крепость Герсегос"/>
+    <string id="Settlements.Settlement.name.castle_K1" text="Крепость Усек"/>
+    <string id="Settlements.Settlement.name.castle_K2" text="Крепость Акисер"/>
+    <string id="Settlements.Settlement.name.castle_K3" text="Крепость Хаккун"/>
+    <string id="Settlements.Settlement.name.castle_K4" text="Крепость Теппес"/>
+    <string id="Settlements.Settlement.name.castle_K5" text="Крепость Химли"/>
+    <string id="Settlements.Settlement.name.castle_K6" text="Крепость Динар"/>
+    <string id="Settlements.Settlement.name.castle_K7" text="Крепость Симира"/>
+    <string id="Settlements.Settlement.name.castle_K8" text="Крепость Эрзенур"/>
+    <string id="Settlements.Settlement.name.castle_K9" text="Крепость Кайсар"/>
+    <string id="Settlements.Settlement.name.castle_S1" text="Крепость Устокол"/>
+    <string id="Settlements.Settlement.name.castle_S2" text="Крепость Мажадан"/>
+    <string id="Settlements.Settlement.name.castle_S3" text="Крепость Невянск"/>
+    <string id="Settlements.Settlement.name.castle_S4" text="Крепость Кранирог"/>
+    <string id="Settlements.Settlement.name.castle_S5" text="Крепость Ов"/>
+    <string id="Settlements.Settlement.name.castle_S6" text="Крепость Такор"/>
+    <string id="Settlements.Settlement.name.castle_S7" text="Крепость Урикскала"/>
+    <string id="Settlements.Settlement.name.castle_S8" text="Крепость Владив"/>
+    <string id="Settlements.Settlement.name.castle_V1" text="Крепость Усанц"/>
+    <string id="Settlements.Settlement.name.castle_V2" text="Крепость Хонгард"/>
+    <string id="Settlements.Settlement.name.castle_V3" text="Крепость Драпанд"/>
+    <string id="Settlements.Settlement.name.castle_V4" text="Крепость Орманпард"/>
+    <string id="Settlements.Settlement.name.castle_V5" text="Крепость Тирби"/>
+    <string id="Settlements.Settlement.name.castle_V6" text="Крепость Цалеус"/>
+    <string id="Settlements.Settlement.name.castle_V7" text="Крепость Таливель"/>
+    <string id="Settlements.Settlement.name.castle_V8" text="Крепость Верецсанд"/>
+    <string id="Settlements.Settlement.name.castle_village_A1_1" text="Тубилис"/>
+    <string id="Settlements.Settlement.name.castle_village_A1_2" text="Фанаб"/>
+    <string id="Settlements.Settlement.name.castle_village_A2_1" text="Сахел"/>
+    <string id="Settlements.Settlement.name.castle_village_A2_2" text="Асмаит"/>
+    <string id="Settlements.Settlement.name.castle_village_A3_1" text="Айн Балик"/>
+    <string id="Settlements.Settlement.name.castle_village_A3_2" text="Аивалитас"/>
+    <string id="Settlements.Settlement.name.castle_village_A4_1" text="Медени"/>
+    <string id="Settlements.Settlement.name.castle_village_A4_2" text="Кеднар"/>
+    <string id="Settlements.Settlement.name.castle_village_A5_1" text="Джамайя"/>
+    <string id="Settlements.Settlement.name.castle_village_A5_2" text="Хунаб"/>
+    <string id="Settlements.Settlement.name.castle_village_A6_1" text="Шибал Зумр"/>
+    <string id="Settlements.Settlement.name.castle_village_A6_2" text="Ламеса"/>
+    <string id="Settlements.Settlement.name.castle_village_A7_1" text="Укба"/>
+    <string id="Settlements.Settlement.name.castle_village_A7_2" text="Бунказ"/>
+    <string id="Settlements.Settlement.name.castle_village_A8_1" text="Тамну"/>
+    <string id="Settlements.Settlement.name.castle_village_A8_2" text="Кука"/>
+    <string id="Settlements.Settlement.name.castle_village_A9_1" text="Берихал"/>
+    <string id="Settlements.Settlement.name.castle_village_A9_2" text="Вадар"/>
+    <string id="Settlements.Settlement.name.castle_village_B1_1" text="Аб Комер"/>
+    <string id="Settlements.Settlement.name.castle_village_B1_2" text="Инвет"/>
+    <string id="Settlements.Settlement.name.castle_village_B2_1" text="Лланок Хем"/>
+    <string id="Settlements.Settlement.name.castle_village_B2_2" text="Кантрек"/>
+    <string id="Settlements.Settlement.name.castle_village_B3_1" text="Друиммор"/>
+    <string id="Settlements.Settlement.name.castle_village_B3_2" text="Тор Мелина"/>
+    <string id="Settlements.Settlement.name.castle_village_B4_1" text="Пендраик"/>
+    <string id="Settlements.Settlement.name.castle_village_B4_2" text="Линдорн"/>
+    <string id="Settlements.Settlement.name.castle_village_B5_1" text="Ремтойл"/>
+    <string id="Settlements.Settlement.name.castle_village_B5_2" text="Клайг Бан"/>
+    <string id="Settlements.Settlement.name.castle_village_B6_1" text="Флинтольг"/>
+    <string id="Settlements.Settlement.name.castle_village_B6_2" text="Глинтор"/>
+    <string id="Settlements.Settlement.name.castle_village_B7_1" text="Астер"/>
+    <string id="Settlements.Settlement.name.castle_village_B7_2" text="Имлаг"/>
+    <string id="Settlements.Settlement.name.castle_village_B8_1" text="Утелайм"/>
+    <string id="Settlements.Settlement.name.castle_village_B8_2" text="Сеордас"/>
+    <string id="Settlements.Settlement.name.castle_village_EN1_1" text="Варагос"/>
+    <string id="Settlements.Settlement.name.castle_village_EN1_2" text="Аэория"/>
+    <string id="Settlements.Settlement.name.castle_village_EN2_1" text="Локана"/>
+    <string id="Settlements.Settlement.name.castle_village_EN2_2" text="Нортаниса"/>
+    <string id="Settlements.Settlement.name.castle_village_EN3_1" text="Ресос"/>
+    <string id="Settlements.Settlement.name.castle_village_EN3_2" text="Диопалис"/>
+    <string id="Settlements.Settlement.name.castle_village_EN4_1" text="Гаос"/>
+    <string id="Settlements.Settlement.name.castle_village_EN4_2" text="Темис"/>
+    <string id="Settlements.Settlement.name.castle_village_EN5_1" text="Атрион"/>
+    <string id="Settlements.Settlement.name.castle_village_EN5_2" text="Масангара"/>
+    <string id="Settlements.Settlement.name.castle_village_EN6_1" text="Атакония"/>
+    <string id="Settlements.Settlement.name.castle_village_EN6_2" text="Потамис"/>
+    <string id="Settlements.Settlement.name.castle_village_EN7_1" text="Эпиноса"/>
+    <string id="Settlements.Settlement.name.castle_village_EN7_2" text="Понс"/>
+    <string id="Settlements.Settlement.name.castle_village_EN8_1" text="Сиратос"/>
+    <string id="Settlements.Settlement.name.castle_village_EN8_2" text="Темхем"/>
+    <string id="Settlements.Settlement.name.castle_village_EN9_1" text="Мекаловеа"/>
+    <string id="Settlements.Settlement.name.castle_village_EN9_2" text="Агальмон"/>
+    <string id="Settlements.Settlement.name.castle_village_ES1_1" text="Одриса"/>
+    <string id="Settlements.Settlement.name.castle_village_ES1_2" text="Каира"/>
+    <string id="Settlements.Settlement.name.castle_village_ES2_1" text="Корения"/>
+    <string id="Settlements.Settlement.name.castle_village_ES2_2" text="Метакия"/>
+    <string id="Settlements.Settlement.name.castle_village_ES3_1" text="Мелион"/>
+    <string id="Settlements.Settlement.name.castle_village_ES3_2" text="Саголина"/>
+    <string id="Settlements.Settlement.name.castle_village_ES4_1" text="Лавения"/>
+    <string id="Settlements.Settlement.name.castle_village_ES4_2" text="Этемиса"/>
+    <string id="Settlements.Settlement.name.castle_village_ES5_1" text="Морения"/>
+    <string id="Settlements.Settlement.name.castle_village_ES5_2" text="Атфиния"/>
+    <string id="Settlements.Settlement.name.castle_village_ES6_1" text="Сестадейм"/>
+    <string id="Settlements.Settlement.name.castle_village_ES6_2" text="Амикон"/>
+    <string id="Settlements.Settlement.name.castle_village_ES7_1" text="Джогурис"/>
+    <string id="Settlements.Settlement.name.castle_village_ES7_2" text="Эуналика"/>
+    <string id="Settlements.Settlement.name.castle_village_ES8_1" text="Ханопсис"/>
+    <string id="Settlements.Settlement.name.castle_village_ES8_2" text="Попсия"/>
+    <string id="Settlements.Settlement.name.castle_village_EW1_1" text="Гаронтор"/>
+    <string id="Settlements.Settlement.name.castle_village_EW1_2" text="Лисия"/>
+    <string id="Settlements.Settlement.name.castle_village_EW2_1" text="Ториос"/>
+    <string id="Settlements.Settlement.name.castle_village_EW2_2" text="Бергум"/>
+    <string id="Settlements.Settlement.name.castle_village_EW3_1" text="Ониса"/>
+    <string id="Settlements.Settlement.name.castle_village_EW3_2" text="Таркутис"/>
+    <string id="Settlements.Settlement.name.castle_village_EW4_1" text="Фракторе"/>
+    <string id="Settlements.Settlement.name.castle_village_EW4_2" text="Гамардан"/>
+    <string id="Settlements.Settlement.name.castle_village_EW5_1" text="Верон"/>
+    <string id="Settlements.Settlement.name.castle_village_EW5_2" text="Голерин"/>
+    <string id="Settlements.Settlement.name.castle_village_EW6_1" text="Хертогеа"/>
+    <string id="Settlements.Settlement.name.castle_village_EW6_2" text="Нидеон"/>
+    <string id="Settlements.Settlement.name.castle_village_EW7_1" text="Ористокорис"/>
+    <string id="Settlements.Settlement.name.castle_village_EW7_2" text="Эльвания"/>
+    <string id="Settlements.Settlement.name.castle_village_EW8_1" text="Герсегос"/>
+    <string id="Settlements.Settlement.name.castle_village_EW8_2" text="Ватеа"/>
+    <string id="Settlements.Settlement.name.castle_village_K1_1" text="Усек"/>
+    <string id="Settlements.Settlement.name.castle_village_K1_2" text="Эсме"/>
+    <string id="Settlements.Settlement.name.castle_village_K2_1" text="Акисер"/>
+    <string id="Settlements.Settlement.name.castle_village_K2_2" text="Камсхар"/>
+    <string id="Settlements.Settlement.name.castle_village_K3_1" text="Хаккун"/>
+    <string id="Settlements.Settlement.name.castle_village_K3_2" text="Кираз"/>
+    <string id="Settlements.Settlement.name.castle_village_K4_1" text="Тепес"/>
+    <string id="Settlements.Settlement.name.castle_village_K4_2" text="Курулук"/>
+    <string id="Settlements.Settlement.name.castle_village_K5_1" text="Кхимли"/>
+    <string id="Settlements.Settlement.name.castle_village_K5_2" text="Омроток"/>
+    <string id="Settlements.Settlement.name.castle_village_K6_1" text="Динар"/>
+    <string id="Settlements.Settlement.name.castle_village_K6_2" text="Карахалли"/>
+    <string id="Settlements.Settlement.name.castle_village_K7_1" text="Симира"/>
+    <string id="Settlements.Settlement.name.castle_village_K7_2" text="Кохи Аджик"/>
+    <string id="Settlements.Settlement.name.castle_village_K8_1" text="Эрзенур"/>
+    <string id="Settlements.Settlement.name.castle_village_K8_2" text="Гереден"/>
+    <string id="Settlements.Settlement.name.castle_village_K9_1" text="Кайсар"/>
+    <string id="Settlements.Settlement.name.castle_village_K9_2" text="Пайам"/>
+    <string id="Settlements.Settlement.name.castle_village_S1_1" text="Устокол"/>
+    <string id="Settlements.Settlement.name.castle_village_S1_2" text="Жемьян"/>
+    <string id="Settlements.Settlement.name.castle_village_S2_1" text="Мажадан"/>
+    <string id="Settlements.Settlement.name.castle_village_S2_2" text="Форин"/>
+    <string id="Settlements.Settlement.name.castle_village_S3_1" text="Невянск"/>
+    <string id="Settlements.Settlement.name.castle_village_S3_2" text="Днин"/>
+    <string id="Settlements.Settlement.name.castle_village_S4_1" text="Кранирог"/>
+    <string id="Settlements.Settlement.name.castle_village_S4_2" text="Исмилкорг"/>
+    <string id="Settlements.Settlement.name.castle_village_S5_1" text="Ов"/>
+    <string id="Settlements.Settlement.name.castle_village_S5_2" text="Ферт"/>
+    <string id="Settlements.Settlement.name.castle_village_S6_1" text="Такор"/>
+    <string id="Settlements.Settlement.name.castle_village_S6_2" text="Дворуста"/>
+    <string id="Settlements.Settlement.name.castle_village_S7_1" text="Урикскала"/>
+    <string id="Settlements.Settlement.name.castle_village_S7_2" text="Алов"/>
+    <string id="Settlements.Settlement.name.castle_village_S8_1" text="Владив"/>
+    <string id="Settlements.Settlement.name.castle_village_S8_2" text="Главсторм"/>
+    <string id="Settlements.Settlement.name.castle_village_V1_1" text="Усанц"/>
+    <string id="Settlements.Settlement.name.castle_village_V2_1" text="Хонгард"/>
+    <string id="Settlements.Settlement.name.castle_village_V2_2" text="Фертон"/>
+    <string id="Settlements.Settlement.name.castle_village_V3_1" text="Драпанд"/>
+    <string id="Settlements.Settlement.name.castle_village_V3_2" text="Валанби"/>
+    <string id="Settlements.Settlement.name.castle_village_V4_1" text="Орманфард"/>
+    <string id="Settlements.Settlement.name.castle_village_V5_1" text="Тирби"/>
+    <string id="Settlements.Settlement.name.castle_village_V5_2" text="Сириндац"/>
+    <string id="Settlements.Settlement.name.castle_village_V6_1" text="Калеус"/>
+    <string id="Settlements.Settlement.name.castle_village_V6_2" text="Дерият"/>
+    <string id="Settlements.Settlement.name.castle_village_V7_1" text="Таливель"/>
+    <string id="Settlements.Settlement.name.castle_village_V7_2" text="Родетан"/>
+    <string id="Settlements.Settlement.name.castle_village_V8_1" text="Верецсанд"/>
+    <string id="Settlements.Settlement.name.castle_village_V8_2" text="Марин"/>
     <string id="Settlements.Settlement.name.hideout_desert_1" text="Убежище"/>
     <string id="Settlements.Settlement.name.hideout_desert_10" text="Убежище"/>
     <string id="Settlements.Settlement.name.hideout_desert_11" text="Убежище"/>
@@ -302,200 +302,200 @@
     <string id="Settlements.Settlement.name.hideout_steppe_7" text="Убежище"/>
     <string id="Settlements.Settlement.name.hideout_steppe_8" text="Убежище"/>
     <string id="Settlements.Settlement.name.hideout_steppe_9" text="Убежище"/>
-    <string id="Settlements.Settlement.name.town_A1" text="Куяз" />
-    <string id="Settlements.Settlement.name.town_A2" text="Хусн Фулк" />
-    <string id="Settlements.Settlement.name.town_A3" text="Иякис" />
-    <string id="Settlements.Settlement.name.town_A4" text="Разих" />
-    <string id="Settlements.Settlement.name.town_A5" text="Хубьяр" />
-    <string id="Settlements.Settlement.name.town_A6" text="Санала" />
-    <string id="Settlements.Settlement.name.town_A7" text="Аскар" />
-    <string id="Settlements.Settlement.name.town_A8" text="Касира" />
-    <string id="Settlements.Settlement.name.town_B1" text="Марунат" />
-    <string id="Settlements.Settlement.name.town_B2" text="Дунгалис" />
-    <string id="Settlements.Settlement.name.town_B3" text="Кар Бансет" />
-    <string id="Settlements.Settlement.name.town_B4" text="Сеонон" />
-    <string id="Settlements.Settlement.name.town_B5" text="Пен Каннок" />
-    <string id="Settlements.Settlement.name.town_EN1" text="Эпикротея" />
-    <string id="Settlements.Settlement.name.town_EN2" text="Диатма" />
-    <string id="Settlements.Settlement.name.town_EN3" text="Санеопа" />
-    <string id="Settlements.Settlement.name.town_EN4" text="Аргорон" />
-    <string id="Settlements.Settlement.name.town_EN5" text="Мизея" />
-    <string id="Settlements.Settlement.name.town_EN6" text="Ампрела" />
-    <string id="Settlements.Settlement.name.town_ES1" text="Данустика" />
-    <string id="Settlements.Settlement.name.town_ES2" text="Вострум" />
-    <string id="Settlements.Settlement.name.town_ES3" text="Порос" />
-    <string id="Settlements.Settlement.name.town_ES4" text="Ликарон" />
-    <string id="Settlements.Settlement.name.town_ES5" text="Онира" />
-    <string id="Settlements.Settlement.name.town_ES6" text="Фикаон" />
-    <string id="Settlements.Settlement.name.town_ES7" text="Сиронея" />
-    <string id="Settlements.Settlement.name.town_EW1" text="Лагета" />
-    <string id="Settlements.Settlement.name.town_EW2" text="Зеоника" />
-    <string id="Settlements.Settlement.name.town_EW3" text="Джалмарис" />
-    <string id="Settlements.Settlement.name.town_EW4" text="Ортизия" />
-    <string id="Settlements.Settlement.name.town_EW5" text="Амитатсис" />
-    <string id="Settlements.Settlement.name.town_EW6" text="Ротае" />
-    <string id="Settlements.Settlement.name.town_K1" text="Балтаханд" />
-    <string id="Settlements.Settlement.name.town_K2" text="Аккалат" />
-    <string id="Settlements.Settlement.name.town_K3" text="Макеб" />
-    <string id="Settlements.Settlement.name.town_K4" text="Ортонгард" />
-    <string id="Settlements.Settlement.name.town_K5" text="Чайканд" />
-    <string id="Settlements.Settlement.name.town_K6" text="Одок" />
-    <string id="Settlements.Settlement.name.town_S1" text="Верчег" />
-    <string id="Settlements.Settlement.name.town_S2" text="Балгард" />
-    <string id="Settlements.Settlement.name.town_S3" text="Омор" />
-    <string id="Settlements.Settlement.name.town_S4" text="Варноваполь" />
-    <string id="Settlements.Settlement.name.town_S5" text="Тйал" />
-    <string id="Settlements.Settlement.name.town_S6" text="Сибирь" />
-    <string id="Settlements.Settlement.name.town_S7" text="Ревил" />
-    <string id="Settlements.Settlement.name.town_V1" text="Саргот" />
-    <string id="Settlements.Settlement.name.town_V2" text="Окс Халл" />
-    <string id="Settlements.Settlement.name.town_V3" text="Правен" />
-    <string id="Settlements.Settlement.name.town_V5" text="Галенд" />
-    <string id="Settlements.Settlement.name.town_V6" text="Джакулас" />
-    <string id="Settlements.Settlement.name.town_V7" text="Карас" />
-    <string id="Settlements.Settlement.name.town_V8" text="Остикан" />
-    <string id="Settlements.Settlement.name.town_V9" text="Ровальт" />
+    <string id="Settlements.Settlement.name.town_A1" text="Куяз"/>
+    <string id="Settlements.Settlement.name.town_A2" text="Хусн Фулк"/>
+    <string id="Settlements.Settlement.name.town_A3" text="Иякис"/>
+    <string id="Settlements.Settlement.name.town_A4" text="Разих"/>
+    <string id="Settlements.Settlement.name.town_A5" text="Хубьяр"/>
+    <string id="Settlements.Settlement.name.town_A6" text="Санала"/>
+    <string id="Settlements.Settlement.name.town_A7" text="Аскар"/>
+    <string id="Settlements.Settlement.name.town_A8" text="Касира"/>
+    <string id="Settlements.Settlement.name.town_B1" text="Марунат"/>
+    <string id="Settlements.Settlement.name.town_B2" text="Дунгалис"/>
+    <string id="Settlements.Settlement.name.town_B3" text="Кар Бансет"/>
+    <string id="Settlements.Settlement.name.town_B4" text="Сеонон"/>
+    <string id="Settlements.Settlement.name.town_B5" text="Пен Каннок"/>
+    <string id="Settlements.Settlement.name.town_EN1" text="Эпикротея"/>
+    <string id="Settlements.Settlement.name.town_EN2" text="Диатма"/>
+    <string id="Settlements.Settlement.name.town_EN3" text="Санеопа"/>
+    <string id="Settlements.Settlement.name.town_EN4" text="Аргорон"/>
+    <string id="Settlements.Settlement.name.town_EN5" text="Мизея"/>
+    <string id="Settlements.Settlement.name.town_EN6" text="Ампрела"/>
+    <string id="Settlements.Settlement.name.town_ES1" text="Данустика"/>
+    <string id="Settlements.Settlement.name.town_ES2" text="Вострум"/>
+    <string id="Settlements.Settlement.name.town_ES3" text="Порос"/>
+    <string id="Settlements.Settlement.name.town_ES4" text="Ликарон"/>
+    <string id="Settlements.Settlement.name.town_ES5" text="Онира"/>
+    <string id="Settlements.Settlement.name.town_ES6" text="Фикаон"/>
+    <string id="Settlements.Settlement.name.town_ES7" text="Сиронея"/>
+    <string id="Settlements.Settlement.name.town_EW1" text="Лагета"/>
+    <string id="Settlements.Settlement.name.town_EW2" text="Зеоника"/>
+    <string id="Settlements.Settlement.name.town_EW3" text="Джалмарис"/>
+    <string id="Settlements.Settlement.name.town_EW4" text="Ортизия"/>
+    <string id="Settlements.Settlement.name.town_EW5" text="Амитатсис"/>
+    <string id="Settlements.Settlement.name.town_EW6" text="Ротае"/>
+    <string id="Settlements.Settlement.name.town_K1" text="Балтаханд"/>
+    <string id="Settlements.Settlement.name.town_K2" text="Аккалат"/>
+    <string id="Settlements.Settlement.name.town_K3" text="Макеб"/>
+    <string id="Settlements.Settlement.name.town_K4" text="Ортонгард"/>
+    <string id="Settlements.Settlement.name.town_K5" text="Чайканд"/>
+    <string id="Settlements.Settlement.name.town_K6" text="Одок"/>
+    <string id="Settlements.Settlement.name.town_S1" text="Верчег"/>
+    <string id="Settlements.Settlement.name.town_S2" text="Балгард"/>
+    <string id="Settlements.Settlement.name.town_S3" text="Омор"/>
+    <string id="Settlements.Settlement.name.town_S4" text="Варноваполь"/>
+    <string id="Settlements.Settlement.name.town_S5" text="Тйал"/>
+    <string id="Settlements.Settlement.name.town_S6" text="Сибирь"/>
+    <string id="Settlements.Settlement.name.town_S7" text="Ревил"/>
+    <string id="Settlements.Settlement.name.town_V1" text="Саргот"/>
+    <string id="Settlements.Settlement.name.town_V2" text="Окс Халл"/>
+    <string id="Settlements.Settlement.name.town_V3" text="Правен"/>
+    <string id="Settlements.Settlement.name.town_V5" text="Галенд"/>
+    <string id="Settlements.Settlement.name.town_V6" text="Джакулас"/>
+    <string id="Settlements.Settlement.name.town_V7" text="Карас"/>
+    <string id="Settlements.Settlement.name.town_V8" text="Остикан"/>
+    <string id="Settlements.Settlement.name.town_V9" text="Ровальт"/>
     <string id="Settlements.Settlement.name.village_A1_1" text="Ташебе"/>
     <string id="Settlements.Settlement.name.village_A1_2" text="Бақ"/>
-    <string id="Settlements.Settlement.name.village_A1_4" text="Хиблет" />
-    <string id="Settlements.Settlement.name.village_A2_2" text="Абу Хин" />
-    <string id="Settlements.Settlement.name.village_A2_3" text="Хокка" />
-    <string id="Settlements.Settlement.name.village_A3_1" text="Абба" />
-    <string id="Settlements.Settlement.name.village_A3_3" text="Бир Сеиф" />
-    <string id="Settlements.Settlement.name.village_A4_1" text="Каблаб" />
-    <string id="Settlements.Settlement.name.village_A4_2" text="Моссом" />
-    <string id="Settlements.Settlement.name.village_A4_4" text="Дока" />
-    <string id="Settlements.Settlement.name.village_A5_1" text="Махлул" />
-    <string id="Settlements.Settlement.name.village_A5_2" text="Айвалитас" />
-    <string id="Settlements.Settlement.name.village_A5_3" text="Деир Хава" />
-    <string id="Settlements.Settlement.name.village_A6_1" text="Миджаит" />
-    <string id="Settlements.Settlement.name.village_A6_2" text="Хамошават" />
-    <string id="Settlements.Settlement.name.village_A6_3" text="Джахасим" />
-    <string id="Settlements.Settlement.name.village_A6_4" text="Нахлан" />
-    <string id="Settlements.Settlement.name.village_A7_2" text="Кафр Хатиф" />
-    <string id="Settlements.Settlement.name.village_A7_3" text="Мабваз" />
-    <string id="Settlements.Settlement.name.village_A7_4" text="Залм" />
-    <string id="Settlements.Settlement.name.village_A8_1" text="Эзбет Нахул" />
-    <string id="Settlements.Settlement.name.village_A8_2" text="Абган" />
-    <string id="Settlements.Settlement.name.village_B1_1" text="Далменгус" />
-    <string id="Settlements.Settlement.name.village_B1_2" text="Эберет" />
-    <string id="Settlements.Settlement.name.village_B1_3" text="Бегломуар" />
-    <string id="Settlements.Settlement.name.village_B1_4" text="Ат Кафал" />
-    <string id="Settlements.Settlement.name.village_B2_1" text="Диантогмайл" />
-    <string id="Settlements.Settlement.name.village_B2_2" text="Гленлитриг" />
-    <string id="Settlements.Settlement.name.village_B2_3" text="Морихиг" />
-    <string id="Settlements.Settlement.name.village_B3_1" text="Бог Бет" />
-    <string id="Settlements.Settlement.name.village_B3_2" text="Геунат Нал" />
-    <string id="Settlements.Settlement.name.village_B3_3" text="Тор Лейяд" />
-    <string id="Settlements.Settlement.name.village_B4_1" text="Брин Глас" />
-    <string id="Settlements.Settlement.name.village_B4_2" text="Андурн" />
-    <string id="Settlements.Settlement.name.village_B4_3" text="Фенон Трин" />
-    <string id="Settlements.Settlement.name.village_B4_4" text="Свенрин" />
-    <string id="Settlements.Settlement.name.village_B5_1" text="Дурн" />
-    <string id="Settlements.Settlement.name.village_B5_2" text="Гайнсет" />
-    <string id="Settlements.Settlement.name.village_B5_3" text="Маг Арба" />
-    <string id="Settlements.Settlement.name.village_EN1_1" text="Маратея" />
-    <string id="Settlements.Settlement.name.village_EN1_2" text="Статимос" />
-    <string id="Settlements.Settlement.name.village_EN1_3" text="Гимос" />
-    <string id="Settlements.Settlement.name.village_EN2_1" text="Алосея" />
-    <string id="Settlements.Settlement.name.village_EN2_2" text="Джеракос" />
-    <string id="Settlements.Settlement.name.village_EN3_1" text="Эониса" />
-    <string id="Settlements.Settlement.name.village_EN3_3" text="Криос" />
-    <string id="Settlements.Settlement.name.village_EN4_2" text="Алатис" />
-    <string id="Settlements.Settlement.name.village_EN4_4" text="Хетания" />
-    <string id="Settlements.Settlement.name.village_EN5_1" text="Веалос" />
-    <string id="Settlements.Settlement.name.village_EN5_2" text="Ортра" />
-    <string id="Settlements.Settlement.name.village_EN5_4" text="Самата" />
-    <string id="Settlements.Settlement.name.village_EN6_1" text="Авасинтон" />
-    <string id="Settlements.Settlement.name.village_EN6_2" text="Акрагора" />
-    <string id="Settlements.Settlement.name.village_ES1_2" text="Полизия" />
-    <string id="Settlements.Settlement.name.village_ES1_3" text="Тегресос" />
-    <string id="Settlements.Settlement.name.village_ES1_4" text="Эребулос" />
-    <string id="Settlements.Settlement.name.village_ES2_2" text="Горкорис" />
-    <string id="Settlements.Settlement.name.village_ES2_3" text="Авалипс" />
-    <string id="Settlements.Settlement.name.village_ES2_4" text="Ализион" />
-    <string id="Settlements.Settlement.name.village_ES3_1" text="Канорос" />
-    <string id="Settlements.Settlement.name.village_ES3_2" text="Тевея" />
-    <string id="Settlements.Settlement.name.village_ES3_3" text="Застея" />
-    <string id="Settlements.Settlement.name.village_ES4_1" text="Сагора" />
-    <string id="Settlements.Settlement.name.village_ES4_3" text="Кантерион" />
-    <string id="Settlements.Settlement.name.village_ES5_1" text="Лантас" />
-    <string id="Settlements.Settlement.name.village_ES5_2" text="Лартусис" />
-    <string id="Settlements.Settlement.name.village_ES5_3" text="Парасемнос" />
-    <string id="Settlements.Settlement.name.village_ES6_1" text="Сальданнис" />
-    <string id="Settlements.Settlement.name.village_ES6_2" text="Спотия" />
-    <string id="Settlements.Settlement.name.village_ES7_1" text="Псотаи" />
-    <string id="Settlements.Settlement.name.village_ES7_2" text="Варгорнис" />
-    <string id="Settlements.Settlement.name.village_EW1_1" text="Примессос" />
-    <string id="Settlements.Settlement.name.village_EW1_2" text="Монтос" />
-    <string id="Settlements.Settlement.name.village_EW2_2" text="Неокорис" />
-    <string id="Settlements.Settlement.name.village_EW2_3" text="Альсасос" />
-    <string id="Settlements.Settlement.name.village_EW2_4" text="Зеокорис" />
-    <string id="Settlements.Settlement.name.village_EW3_2" text="Аэгосца" />
-    <string id="Settlements.Settlement.name.village_EW3_3" text="Драдиос" />
-    <string id="Settlements.Settlement.name.village_EW4_1" text="Арпотис" />
-    <string id="Settlements.Settlement.name.village_EW4_3" text="Винела" />
-    <string id="Settlements.Settlement.name.village_EW4_4" text="Гаренголия" />
-    <string id="Settlements.Settlement.name.village_EW5_1" text="Элипа" />
-    <string id="Settlements.Settlement.name.village_EW5_2" text="Фазос" />
-    <string id="Settlements.Settlement.name.village_EW6_1" text="Карфенион" />
-    <string id="Settlements.Settlement.name.village_EW6_3" text="Терсенион" />
-    <string id="Settlements.Settlement.name.village_EW6_4" text="Лебленион" />
-    <string id="Settlements.Settlement.name.village_K1_1" text="Фиснар" />
-    <string id="Settlements.Settlement.name.village_K1_2" text="Улаан" />
-    <string id="Settlements.Settlement.name.village_K1_4" text="Асалиг" />
-    <string id="Settlements.Settlement.name.village_K2_1" text="Каракалат" />
-    <string id="Settlements.Settlement.name.village_K2_2" text="Тисмил" />
-    <string id="Settlements.Settlement.name.village_K3_1" text="Шапеште" />
-    <string id="Settlements.Settlement.name.village_K3_2" text="Хатеки" />
-    <string id="Settlements.Settlement.name.village_K3_3" text="Мазен" />
-    <string id="Settlements.Settlement.name.village_K4_2" text="Рансам" />
-    <string id="Settlements.Settlement.name.village_K4_3" text="Миванджан" />
-    <string id="Settlements.Settlement.name.village_K4_4" text="Урунджан" />
-    <string id="Settlements.Settlement.name.village_K5_2" text="Окхутан" />
-    <string id="Settlements.Settlement.name.village_K5_3" text="Испантар" />
-    <string id="Settlements.Settlement.name.village_K5_4" text="Пабастан" />
-    <string id="Settlements.Settlement.name.village_K6_1" text="Карахан" />
-    <string id="Settlements.Settlement.name.village_K6_2" text="Нутюк" />
-    <string id="Settlements.Settlement.name.village_K6_3" text="Данара" />
-    <string id="Settlements.Settlement.name.village_S1_1" text="Родобас" />
-    <string id="Settlements.Settlement.name.village_S1_3" text="Каргрев" />
-    <string id="Settlements.Settlement.name.village_S2_1" text="Сафна" />
-    <string id="Settlements.Settlement.name.village_S2_2" text="Мараброт" />
-    <string id="Settlements.Settlement.name.village_S3_1" text="Хронобас" />
-    <string id="Settlements.Settlement.name.village_S3_2" text="Скорин" />
-    <string id="Settlements.Settlement.name.village_S4_1" text="Борчовагорка" />
-    <string id="Settlements.Settlement.name.village_S4_3" text="Омкани" />
-    <string id="Settlements.Settlement.name.village_S4_4" text="Янгутун" />
-    <string id="Settlements.Settlement.name.village_S5_1" text="Визиброт" />
-    <string id="Settlements.Settlement.name.village_S5_2" text="Букитс" />
-    <string id="Settlements.Settlement.name.village_S6_1" text="Квол" />
-    <string id="Settlements.Settlement.name.village_S6_2" text="Радакмед" />
-    <string id="Settlements.Settlement.name.village_S6_3" text="Алебат" />
-    <string id="Settlements.Settlement.name.village_S7_1" text="Корсьяс" />
-    <string id="Settlements.Settlement.name.village_S7_2" text="Карбур" />
-    <string id="Settlements.Settlement.name.village_V1_1" text="Калиок" />
-    <string id="Settlements.Settlement.name.village_V1_2" text="Этирбург" />
-    <string id="Settlements.Settlement.name.village_V2_1" text="Марейвен" />
-    <string id="Settlements.Settlement.name.village_V2_2" text="Оритан" />
-    <string id="Settlements.Settlement.name.village_V2_3" text="Фрегиан" />
-    <string id="Settlements.Settlement.name.village_V3_2" text="Рулунд" />
-    <string id="Settlements.Settlement.name.village_V3_3" text="Ларнак" />
-    <string id="Settlements.Settlement.name.village_V3_4" text="Палисона" />
-    <string id="Settlements.Settlement.name.village_V5_1" text="Фурбек" />
-    <string id="Settlements.Settlement.name.village_V5_2" text="Мерок" />
-    <string id="Settlements.Settlement.name.village_V5_3" text="Ногрент" />
-    <string id="Settlements.Settlement.name.village_V6_1" text="Арроманк" />
-    <string id="Settlements.Settlement.name.village_V6_2" text="Мот" />
-    <string id="Settlements.Settlement.name.village_V6_3" text="Алорстан" />
-    <string id="Settlements.Settlement.name.village_V6_4" text="Чорнад" />
-    <string id="Settlements.Settlement.name.village_V7_1" text="Савинт" />
-    <string id="Settlements.Settlement.name.village_V7_2" text="Весин" />
-    <string id="Settlements.Settlement.name.village_V8_1" text="Хорсгер" />
-    <string id="Settlements.Settlement.name.village_V8_2" text="Кананк" />
-    <string id="Settlements.Settlement.name.village_V8_3" text="Рементал" />
-    <string id="Settlements.Settlement.name.village_V9_1" text="Алантас" />
-    <string id="Settlements.Settlement.name.village_V9_2" text="Халисвуст" />
+    <string id="Settlements.Settlement.name.village_A1_4" text="Хиблет"/>
+    <string id="Settlements.Settlement.name.village_A2_2" text="Абу Хин"/>
+    <string id="Settlements.Settlement.name.village_A2_3" text="Хокка"/>
+    <string id="Settlements.Settlement.name.village_A3_1" text="Абба"/>
+    <string id="Settlements.Settlement.name.village_A3_3" text="Бир Сеиф"/>
+    <string id="Settlements.Settlement.name.village_A4_1" text="Каблаб"/>
+    <string id="Settlements.Settlement.name.village_A4_2" text="Моссом"/>
+    <string id="Settlements.Settlement.name.village_A4_4" text="Дока"/>
+    <string id="Settlements.Settlement.name.village_A5_1" text="Махлул"/>
+    <string id="Settlements.Settlement.name.village_A5_2" text="Айвалитас"/>
+    <string id="Settlements.Settlement.name.village_A5_3" text="Деир Хава"/>
+    <string id="Settlements.Settlement.name.village_A6_1" text="Миджаит"/>
+    <string id="Settlements.Settlement.name.village_A6_2" text="Хамошават"/>
+    <string id="Settlements.Settlement.name.village_A6_3" text="Джахасим"/>
+    <string id="Settlements.Settlement.name.village_A6_4" text="Нахлан"/>
+    <string id="Settlements.Settlement.name.village_A7_2" text="Кафр Хатиф"/>
+    <string id="Settlements.Settlement.name.village_A7_3" text="Мабваз"/>
+    <string id="Settlements.Settlement.name.village_A7_4" text="Залм"/>
+    <string id="Settlements.Settlement.name.village_A8_1" text="Эзбет Нахул"/>
+    <string id="Settlements.Settlement.name.village_A8_2" text="Абган"/>
+    <string id="Settlements.Settlement.name.village_B1_1" text="Далменгус"/>
+    <string id="Settlements.Settlement.name.village_B1_2" text="Эберет"/>
+    <string id="Settlements.Settlement.name.village_B1_3" text="Бегломуар"/>
+    <string id="Settlements.Settlement.name.village_B1_4" text="Ат Кафал"/>
+    <string id="Settlements.Settlement.name.village_B2_1" text="Диантогмайл"/>
+    <string id="Settlements.Settlement.name.village_B2_2" text="Гленлитриг"/>
+    <string id="Settlements.Settlement.name.village_B2_3" text="Морихиг"/>
+    <string id="Settlements.Settlement.name.village_B3_1" text="Бог Бет"/>
+    <string id="Settlements.Settlement.name.village_B3_2" text="Геунат Нал"/>
+    <string id="Settlements.Settlement.name.village_B3_3" text="Тор Лейяд"/>
+    <string id="Settlements.Settlement.name.village_B4_1" text="Брин Глас"/>
+    <string id="Settlements.Settlement.name.village_B4_2" text="Андурн"/>
+    <string id="Settlements.Settlement.name.village_B4_3" text="Фенон Трин"/>
+    <string id="Settlements.Settlement.name.village_B4_4" text="Свенрин"/>
+    <string id="Settlements.Settlement.name.village_B5_1" text="Дурн"/>
+    <string id="Settlements.Settlement.name.village_B5_2" text="Гайнсет"/>
+    <string id="Settlements.Settlement.name.village_B5_3" text="Маг Арба"/>
+    <string id="Settlements.Settlement.name.village_EN1_1" text="Маратея"/>
+    <string id="Settlements.Settlement.name.village_EN1_2" text="Статимос"/>
+    <string id="Settlements.Settlement.name.village_EN1_3" text="Гимос"/>
+    <string id="Settlements.Settlement.name.village_EN2_1" text="Алосея"/>
+    <string id="Settlements.Settlement.name.village_EN2_2" text="Джеракос"/>
+    <string id="Settlements.Settlement.name.village_EN3_1" text="Эониса"/>
+    <string id="Settlements.Settlement.name.village_EN3_3" text="Криос"/>
+    <string id="Settlements.Settlement.name.village_EN4_2" text="Алатис"/>
+    <string id="Settlements.Settlement.name.village_EN4_4" text="Хетания"/>
+    <string id="Settlements.Settlement.name.village_EN5_1" text="Веалос"/>
+    <string id="Settlements.Settlement.name.village_EN5_2" text="Ортра"/>
+    <string id="Settlements.Settlement.name.village_EN5_4" text="Самата"/>
+    <string id="Settlements.Settlement.name.village_EN6_1" text="Авасинтон"/>
+    <string id="Settlements.Settlement.name.village_EN6_2" text="Акрагора"/>
+    <string id="Settlements.Settlement.name.village_ES1_2" text="Полизия"/>
+    <string id="Settlements.Settlement.name.village_ES1_3" text="Тегресос"/>
+    <string id="Settlements.Settlement.name.village_ES1_4" text="Эребулос"/>
+    <string id="Settlements.Settlement.name.village_ES2_2" text="Горкорис"/>
+    <string id="Settlements.Settlement.name.village_ES2_3" text="Авалипс"/>
+    <string id="Settlements.Settlement.name.village_ES2_4" text="Ализион"/>
+    <string id="Settlements.Settlement.name.village_ES3_1" text="Канорос"/>
+    <string id="Settlements.Settlement.name.village_ES3_2" text="Тевея"/>
+    <string id="Settlements.Settlement.name.village_ES3_3" text="Застея"/>
+    <string id="Settlements.Settlement.name.village_ES4_1" text="Сагора"/>
+    <string id="Settlements.Settlement.name.village_ES4_3" text="Кантерион"/>
+    <string id="Settlements.Settlement.name.village_ES5_1" text="Лантас"/>
+    <string id="Settlements.Settlement.name.village_ES5_2" text="Лартусис"/>
+    <string id="Settlements.Settlement.name.village_ES5_3" text="Парасемнос"/>
+    <string id="Settlements.Settlement.name.village_ES6_1" text="Сальданнис"/>
+    <string id="Settlements.Settlement.name.village_ES6_2" text="Спотия"/>
+    <string id="Settlements.Settlement.name.village_ES7_1" text="Псотаи"/>
+    <string id="Settlements.Settlement.name.village_ES7_2" text="Варгорнис"/>
+    <string id="Settlements.Settlement.name.village_EW1_1" text="Примессос"/>
+    <string id="Settlements.Settlement.name.village_EW1_2" text="Монтос"/>
+    <string id="Settlements.Settlement.name.village_EW2_2" text="Неокорис"/>
+    <string id="Settlements.Settlement.name.village_EW2_3" text="Альсасос"/>
+    <string id="Settlements.Settlement.name.village_EW2_4" text="Зеокорис"/>
+    <string id="Settlements.Settlement.name.village_EW3_2" text="Аэгосца"/>
+    <string id="Settlements.Settlement.name.village_EW3_3" text="Драдиос"/>
+    <string id="Settlements.Settlement.name.village_EW4_1" text="Арпотис"/>
+    <string id="Settlements.Settlement.name.village_EW4_3" text="Винела"/>
+    <string id="Settlements.Settlement.name.village_EW4_4" text="Гаренголия"/>
+    <string id="Settlements.Settlement.name.village_EW5_1" text="Элипа"/>
+    <string id="Settlements.Settlement.name.village_EW5_2" text="Фазос"/>
+    <string id="Settlements.Settlement.name.village_EW6_1" text="Карфенион"/>
+    <string id="Settlements.Settlement.name.village_EW6_3" text="Терсенион"/>
+    <string id="Settlements.Settlement.name.village_EW6_4" text="Лебленион"/>
+    <string id="Settlements.Settlement.name.village_K1_1" text="Фиснар"/>
+    <string id="Settlements.Settlement.name.village_K1_2" text="Улаан"/>
+    <string id="Settlements.Settlement.name.village_K1_4" text="Асалиг"/>
+    <string id="Settlements.Settlement.name.village_K2_1" text="Каракалат"/>
+    <string id="Settlements.Settlement.name.village_K2_2" text="Тисмил"/>
+    <string id="Settlements.Settlement.name.village_K3_1" text="Шапеште"/>
+    <string id="Settlements.Settlement.name.village_K3_2" text="Хатеки"/>
+    <string id="Settlements.Settlement.name.village_K3_3" text="Мазен"/>
+    <string id="Settlements.Settlement.name.village_K4_2" text="Рансам"/>
+    <string id="Settlements.Settlement.name.village_K4_3" text="Миванджан"/>
+    <string id="Settlements.Settlement.name.village_K4_4" text="Урунджан"/>
+    <string id="Settlements.Settlement.name.village_K5_2" text="Окхутан"/>
+    <string id="Settlements.Settlement.name.village_K5_3" text="Испантар"/>
+    <string id="Settlements.Settlement.name.village_K5_4" text="Пабастан"/>
+    <string id="Settlements.Settlement.name.village_K6_1" text="Карахан"/>
+    <string id="Settlements.Settlement.name.village_K6_2" text="Нутюк"/>
+    <string id="Settlements.Settlement.name.village_K6_3" text="Данара"/>
+    <string id="Settlements.Settlement.name.village_S1_1" text="Родобас"/>
+    <string id="Settlements.Settlement.name.village_S1_3" text="Каргрев"/>
+    <string id="Settlements.Settlement.name.village_S2_1" text="Сафна"/>
+    <string id="Settlements.Settlement.name.village_S2_2" text="Мараброт"/>
+    <string id="Settlements.Settlement.name.village_S3_1" text="Хронобас"/>
+    <string id="Settlements.Settlement.name.village_S3_2" text="Скорин"/>
+    <string id="Settlements.Settlement.name.village_S4_1" text="Борчовагорка"/>
+    <string id="Settlements.Settlement.name.village_S4_3" text="Омкани"/>
+    <string id="Settlements.Settlement.name.village_S4_4" text="Янгутун"/>
+    <string id="Settlements.Settlement.name.village_S5_1" text="Визиброт"/>
+    <string id="Settlements.Settlement.name.village_S5_2" text="Букитс"/>
+    <string id="Settlements.Settlement.name.village_S6_1" text="Квол"/>
+    <string id="Settlements.Settlement.name.village_S6_2" text="Радакмед"/>
+    <string id="Settlements.Settlement.name.village_S6_3" text="Алебат"/>
+    <string id="Settlements.Settlement.name.village_S7_1" text="Корсьяс"/>
+    <string id="Settlements.Settlement.name.village_S7_2" text="Карбур"/>
+    <string id="Settlements.Settlement.name.village_V1_1" text="Калиок"/>
+    <string id="Settlements.Settlement.name.village_V1_2" text="Этирбург"/>
+    <string id="Settlements.Settlement.name.village_V2_1" text="Марейвен"/>
+    <string id="Settlements.Settlement.name.village_V2_2" text="Оритан"/>
+    <string id="Settlements.Settlement.name.village_V2_3" text="Фрегиан"/>
+    <string id="Settlements.Settlement.name.village_V3_2" text="Рулунд"/>
+    <string id="Settlements.Settlement.name.village_V3_3" text="Ларнак"/>
+    <string id="Settlements.Settlement.name.village_V3_4" text="Палисона"/>
+    <string id="Settlements.Settlement.name.village_V5_1" text="Фурбек"/>
+    <string id="Settlements.Settlement.name.village_V5_2" text="Мерок"/>
+    <string id="Settlements.Settlement.name.village_V5_3" text="Ногрент"/>
+    <string id="Settlements.Settlement.name.village_V6_1" text="Арроманк"/>
+    <string id="Settlements.Settlement.name.village_V6_2" text="Мот"/>
+    <string id="Settlements.Settlement.name.village_V6_3" text="Алорстан"/>
+    <string id="Settlements.Settlement.name.village_V6_4" text="Чорнад"/>
+    <string id="Settlements.Settlement.name.village_V7_1" text="Савинт"/>
+    <string id="Settlements.Settlement.name.village_V7_2" text="Весин"/>
+    <string id="Settlements.Settlement.name.village_V8_1" text="Хорсгер"/>
+    <string id="Settlements.Settlement.name.village_V8_2" text="Кананк"/>
+    <string id="Settlements.Settlement.name.village_V8_3" text="Рементал"/>
+    <string id="Settlements.Settlement.name.village_V9_1" text="Алантас"/>
+    <string id="Settlements.Settlement.name.village_V9_2" text="Халисвуст"/>
     <string id="Settlements.Settlement.text.castle_village_A1_1" text="Tubilis это рыбацкая деревня, где река, что Aserai назвать Gabsa достигает моря. Жители плыть в спокойных водах залива искать тунец, сардины и акулы."/>
     <string id="Settlements.Settlement.text.castle_village_A2_1" text="Сахель  сидит в глубине, в сухую землю между прибрежной полосе Ретана и пустыни Nahhas. Здесь крестьяне выращивают разнообразные кустарники, чьи ароматные ягоды и смолы сушат и измельчают, чтобы сделать спайс."/>
     <string id="Settlements.Settlement.text.castle_village_A2_2" text="Asmait лежит где Джебал Тамар холмы, повернуть на юг и бегите вдоль побережья. Земля здесь, хоть уже и не пустыня, - по-прежнему сухо и достаточно тепло, чтобы позволить финиковых пальм процветать."/>
@@ -765,5 +765,5 @@
     <string id="Settlements.Settlement.text.village_V8_3" text="Remental видом на залив Ostican, в тени горы Эбор. Возвышающиеся пихты и ели вырастают в туманных предгорьях, поддержание процветающего леспромхоза."/>
     <string id="Settlements.Settlement.text.village_V9_1" text="Алантас сидит в центре гористого полуострова Эбор. Почвы здесь тонок, и погода здесь холодная, но богатые месторождения железной поддерживать местную экономику."/>
     <string id="Settlements.Settlement.text.village_V9_2" text="Halisvust сидит с видом на небольшой залив на полуострове Эбор. Жители опустошили местные прибрежные болота, посадка бывшей водно-болотных угодий с льна и других равнинных культур."/>
-  </strings>
+  <string id="66Mzk0NZ" text="Thicket"/><string id="a0MVffcN" text="Backstreet"/><string id="fOUsLdZR" text="Pasture"/><string id="iXA5SttU" text="Bog"/><string id="LWHIVshb" text="Clearing"/><string id="Rr1cy5Sk" text="Waterfront"/></strings>
 </base>
