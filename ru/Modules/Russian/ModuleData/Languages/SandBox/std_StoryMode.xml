@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
   <tags>
     <tag language="Русский"/>
@@ -266,7 +266,7 @@
     <string id="GsPC2MgU" text="Ваш отец был одним из рабов-телохранителей, под управлением эмира Асераи. Он сражался на стороне своего господина с бронированной кавалерией племени, и был освобожден - возможно, за акт доблести, или, возможно, он заплатил за свободу своей долей военных трофеев. Затем он женился на твоей матери."/> <!--Здесь был Cas. Финальная версия!--> 
     <string id="GVMGXfxS" text="Ты можешь использовать нашу фамилию, если хочешь, или придумать новую. У тебя будет больше шансов на получение аудиенции у вельмож, и мне будет проще найти тебя, расспрашивая о тебе."/>
     
-    <string id="GsPC2MgU" text="Ваш отец был одним из рабов-телохранителей, под управлением эмира Асераи. Он сражался на стороне своего господина с бронированной кавалерией племени, и был освобожден - возможно, за акт доблести, или, возможно, он заплатил за свободу своей долей военных трофеев. Затем он женился на твоей матери."/>
+    
     
     <string id="GxlPj4GC" text="Найдите убежище, о котором вам говорила Истиана, и заберите следующую часть знамени."/>
     <string id="gYYGGflb" text="На это нет времени. Давай разделимся, может у нас получится сделать больше. (Пропустить обучение)"/>
@@ -644,5 +644,5 @@
     <string id="zxMOqlhs" text="Атака"/>
     <string id="Zyn5FrTR" text="Мы будем иметь это в виду."/>
     <string id="Zz6IvIH9" text="Империя ненадолго оставила нас в покое, а Нерецес предлагал людям серебро, поэтому я подумал: «Почему бы и нет? Пусть они помогут Империи. Ах, я должен был знать. Лучший путь в войнах - это иметь с ними как можно меньше общего."/>
-  <string id="DyE3luNM" text="You need to have at least {NUMBER} member in your party to deal with the raider party. Go back to village to recruit more troops."/><string id="Fgta5mF6" text="Before I answer, you and I need to know more about each other. I don't know what you know about me.  I was a citizen of the Empire. I was a commander in the imperial armies. But I am not imperial."/><string id="GxlPj4GC" text="Find the hideout that Istiana told you about and get the next banner piece."/><string id="jq5TnHEN" text="If you can find the missing pieces, I am sure I can help you put it to good use.[sp:/Sounds/VO/mainquest/mntemp_q01_05.ogg]"/><string id="QLgkR3qN" text="You've successfully finished the track in ({TIME_SCORE}) seconds. You've received ({PENALTY_SECONDS}) seconds penalty from ({MISSED_TARGETS}) missed targets."/><string id="veHe94Ec" text="You've successfully finished the track in ({TIME_SCORE}) seconds without missing any targets!"/></strings>
+  <string id="DyE3luNM" text="You need to have at least {NUMBER} member in your party to deal with the raider party. Go back to village to recruit more troops."/><string id="Fgta5mF6" text="Before I answer, you and I need to know more about each other. I don't know what you know about me.  I was a citizen of the Empire. I was a commander in the imperial armies. But I am not imperial."/><string id="GxlPj4GC" text="Find the hideout that Istiana told you about and get the next banner piece."/><string id="jq5TnHEN" text="If you can find the missing pieces, I am sure I can help you put it to good use.[sp:/Sounds/VO/mainquest/mntemp_q01_05.ogg]"/><string id="QLgkR3qN" text="You've successfully finished the track in ({TIME_SCORE}) seconds. You've received ({PENALTY_SECONDS}) seconds penalty from ({MISSED_TARGETS}) missed targets."/><string id="veHe94Ec" text="You've successfully finished the track in ({TIME_SCORE}) seconds without missing any targets!"/><string id="4cw169Kb" text="third and the final"/><string id="9ZyXl25X" text="second"/><string id="HskL8pEa" text="{KINGDOM_NAME} is now defeated. You've failed!"/><string id="IL4FcHXv" text="You've pledged your allegiance to the {KINGDOM_NAME}!"/><string id="oAoTaAWg" text="first"/><string id="Pus87ZW2" text="You've found the {BANNER_PIECE_COUNT} banner piece!"/></strings>
 </base>

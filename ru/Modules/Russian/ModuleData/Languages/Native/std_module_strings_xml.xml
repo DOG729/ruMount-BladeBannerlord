@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
   <tags>
     <tag language="Русский"/>
@@ -736,7 +736,7 @@
     <string id="InGwtrWt" text="Выйти"/>
     <string id="inKr3PbA" text="Армии"/>
     <string id="iNriAkLl" text="Используется для увеличения скорости"/>
-    <string id="ioBKEA6x" text="Вы можете заработать очки персонажа, повышая его уровень. Вы получите {POINT_PER_LEVEL} очков за каждый полученный уровень."/>
+    
     <string id="ioKVFDcQ" text="{?AND} {?}и {\?}{SENTENCE_3} "/>
     <string id="iOLa5rjZ" text="Обычно, зерно - самая дешевая еда, которую можно купить.{newline}{newline}Другие виды пищи могут гарантировать бонусы при ее потреблении.{newline}{newline}Теперь купите немного еды."/>
     <string id="IoLK7Lec" text="Базовый Размер"/>
@@ -1607,5 +1607,5 @@
     <string id="ZXXNrvvg" text="Игрок побеждает, если у его противника больше нет свободных пешек в руке или на доске."/>
     <string id="zyp2VGt4" text="Имеется доступное задание"/>
     <string id="zzUk6ZaA" text="Выход"/>
-  <string id="D9WJXQ9Z" text="Reject"/><string id="kA5tlKTz" text="Free Attribute Points: You can use these points to increase attributes. You'll gain one free attribute for every three levels you gain. "/></strings>
+  <string id="D9WJXQ9Z" text="Reject"/><string id="1wHTYnxh" text="You've supported the conspiracy against the Empire!"/><string id="A1tkQyBb" text="{KINGDOM_NAME} is now defeated. You've failed!"/><string id="AONnsaao" text="You are the leader of the Empire!"/><string id="Aph8CcKO" text="Free Attribute Points: You can use these points to increase attributes. You'll gain one free attribute for every {ATTRIBUTE_EVERY_LEVEL} levels you gain. "/><string id="DKnL0IcO" text="You've destroyed the Empire!"/><string id="Dw3CViwY" text="You've defeated the Empire!"/><string id="jEaglTuQ" text="You've united the Empire!"/><string id="kUh3nsAF" text="You've found the third and final banner piece!"/><string id="mtndRgOg" text="You've started the conspiracy against the Empire!"/><string id="OikiOJgf" text="You've found the second banner piece!"/><string id="oqEV14Lm" text="You've supported the conspiracy against the enemies of the Empire!"/><string id="pERXhX7A" text="You've found the first banner piece!"/><string id="SBp4Ja1u" text="You can use free focus points for increasing your learning limit in individual skills. Characters earn {FOCUS_PER_LEVEL} focus point every time they level up."/><string id="v8gFAT88" text="You've started the conspiracy against the enemies of the Empire!"/><string id="wTEYR4kc" text="You've chosen to pledge your alliance to the {KINGDOM_NAME}!"/></strings>
 </base>
