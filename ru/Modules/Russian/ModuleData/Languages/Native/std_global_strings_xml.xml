@@ -193,7 +193,6 @@
     <string id="E5xbXlLB" text="Включает солнечные лучи."/>
     <string id="ea8kNj32" text="Предпочтительные устройства вывода звука."/>
     <string id="EaOcWkH3" text="Откройте энциклопедию."/>
-    
     <string id="EkzORIiZ" text="Открыть весь чат."/>
     <string id="evc8yBIy" text="M"/>
     <string id="EvOLbiqM" text="Выбрать группу 3"/>
@@ -298,7 +297,6 @@
     <string id="Js1lhJkk" text="Язык"/>
     <string id="Ju6btXsv" text="Показывать направление атаки"/>
     <string id="jvOYgHOe" text="Свое"/>
-    
     <string id="JXdwIX8Q" text="Установить толщину следов от снарядов оружия дальнего боя."/>
     <string id="jZs8I1Uq" text="Включает зернистость пленки."/>
     <string id="JZYQGUF3" text="Двойное нажатие назад: быстрая остановка"/>
@@ -364,7 +362,6 @@
     <string id="nNBb8a9A" text="UI Enter DESC"/>
     <string id="NPBaJKwW" text="Движение вперед DESC"/>
     <string id="nsM4izfn" text="Присесть DESC"/>
-    
     <string id="o0QPZODk" text="Перемещать отряд влево"/>
     <string id="o8WjGqS4" text="Z"/>
     <string id="ocNVbyPJ" text="Оконный без рамки"/>
@@ -470,7 +467,6 @@
     <string id="tbGol5PT" text="F4"/>
     <string id="tbwhjsqS" text="Правая Кнопка Мыши"/>
     <string id="Tdf5AbRp" text="Открыть Экран Клана."/>
-    
     <string id="TEuOMadV" text="Tab"/>
     <string id="tewykKdc" text="Показывать Направление Блока"/>
     <string id="TgIAHPHs" text="Выбрать Приказ 4"/>
@@ -522,7 +518,6 @@
     <string id="Vb2KV9q1" text="Правый стик влевый"/>
     <string id="Ve99pCSo" text="Симуляция тканей"/>
     <string id="VE9TavSl" text="Устанавливает качество декалей."/>
-    
     <string id="Vn4uzMUH" text="Группа 6 слушай DESC"/>
     <string id="Vo5lBwQA" text="Экипировать оружие 3 DESC"/>
     <string id="Vpy2qEcN" text="С помощью клавиш движения"/>
@@ -555,7 +550,6 @@
     <string id="XdCZzFrV" text="Остановить время на карте DESC"/>
     <string id="xEquRfRF" text="10"/>
     <string id="xhdIdzWK" text="Окно персонажа DESC"/>
-    
     <string id="xnGGas4h" text="Инвертировать ось Y для управления камерой."/>
     <string id="XnhBdHnS" text="Объемный"/>
     <string id="XnoL375p" text="Прыжок DESC"/>
@@ -606,5 +600,22 @@
     <string id="ZvtKqPt3" text="Двойное нажатие влево : Резко влево"/>
     <string id="zwL5NFAr" text="Insert"/>
     <string id="zxMOqlhs" text="Атака"/>
-  <string id="16EUzfcH" text="Adjust the exposure level according to your preference using the slider."/><string id="4Q9pzbqM" text="Enable the controller vibration effect."/><string id="6HJxnF3G" text="Save Failed!"/><string id="7pBx0s07" text="Enable Controller Vibration"/><string id="AJFpx99v" text="Exposure Adjustment"/><string id="aombIn07" text="Set the exposure amount."/><string id="Bl8cKwhL" text="Display Calibration"/><string id="c49AY7yF" text="Low (128)"/><string id="d5a3QdBR" text="Cannot access save folder."/><string id="iPx4jep6" text="Exposure"/><string id="iUFgqwkA" text="Medium (256)"/><string id="KUGomrhD" text="Don't Show Again"/><string id="MfunBOxF" text="Calibrate contrast levels."/><string id="rs0wImmD" text="Cannot create save data."/><string id="TybJcG0A" text="Very Low (64) "/><string id="urbLiiQJ" text="Configure Exposure"/><string id="zzonsjpL" text="High (512)"/></strings>
+    <string id="16EUzfcH" text="Отрегулируйте уровень экспозиции в соответствии с вашими предпочтениями с помощью ползунка."/>
+    <string id="4Q9pzbqM" text="Enable the controller vibration effect."/>
+    <string id="6HJxnF3G" text="Не удалось сохранить игру!"/>
+    <string id="7pBx0s07" text="Включить вибрацию контроллера"/>
+    <string id="AJFpx99v" text="Регулировка экспозиции"/>
+    <string id="aombIn07" text="Установите величину экспозиции."/>
+    <string id="Bl8cKwhL" text="Калибровка дисплея"/>
+    <string id="c49AY7yF" text="Низкий (128)"/>
+    <string id="d5a3QdBR" text="Не удается получить доступ, к папке сохранений."/>
+    <string id="iPx4jep6" text="Exposure"/>
+    <string id="iUFgqwkA" text="Средний (256)"/>
+    <string id="KUGomrhD" text="Больше не показывать"/>
+    <string id="MfunBOxF" text="Откалибруйте уровни контрастности."/>
+    <string id="rs0wImmD" text="Не удается сохранить данные."/>
+    <string id="TybJcG0A" text="Очень низкий (64) "/>
+    <string id="urbLiiQJ" text="Настройка экспозиции"/>
+    <string id="zzonsjpL" text="Высокий (512)"/>
+  </strings>
 </base>
