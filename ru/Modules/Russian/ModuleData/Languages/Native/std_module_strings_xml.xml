@@ -506,7 +506,6 @@
     <string id="dyY3hkH1" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} и {?}{\?}{TROOP_NAMES_END} атакуют {?IS_PLURAL}несколько вражеских формаций{?}вражескую формацию{\?}."/>
     <string id="Dzntsudy" text="Вы нанесли {AMOUNT} {DAMAGE_TYPE} урона по {VICTIM_NAME} ({LOST_HP_PERCENTAGE}% HP)."/>
     <string id="E05lmb5n" text="Ваши отношения {HERO_NAME} &lt;a style=&quot;DecreaseStyle&quot; &gt;&lt;b&gt;ухудшатся&lt;/b&gt;&lt;/a&gt;"/>
-    
     <string id="E1OwmQFb" text="Назад"/>
     <string id="e1tZ4kEY" text="Все Вещи"/>
     <string id="e4OPfBqt" text="Воздержаться"/>
@@ -1607,5 +1606,21 @@
     <string id="ZXXNrvvg" text="Игрок побеждает, если у его противника больше нет свободных пешек в руке или на доске."/>
     <string id="zyp2VGt4" text="Имеется доступное задание"/>
     <string id="zzUk6ZaA" text="Выход"/>
-  <string id="D9WJXQ9Z" text="Reject"/><string id="1wHTYnxh" text="You've supported the conspiracy against the Empire!"/><string id="A1tkQyBb" text="{KINGDOM_NAME} is now defeated. You've failed!"/><string id="AONnsaao" text="You are the leader of the Empire!"/><string id="Aph8CcKO" text="Free Attribute Points: You can use these points to increase attributes. You'll gain one free attribute for every {ATTRIBUTE_EVERY_LEVEL} levels you gain. "/><string id="DKnL0IcO" text="You've destroyed the Empire!"/><string id="Dw3CViwY" text="You've defeated the Empire!"/><string id="jEaglTuQ" text="You've united the Empire!"/><string id="kUh3nsAF" text="You've found the third and final banner piece!"/><string id="mtndRgOg" text="You've started the conspiracy against the Empire!"/><string id="OikiOJgf" text="You've found the second banner piece!"/><string id="oqEV14Lm" text="You've supported the conspiracy against the enemies of the Empire!"/><string id="pERXhX7A" text="You've found the first banner piece!"/><string id="SBp4Ja1u" text="You can use free focus points for increasing your learning limit in individual skills. Characters earn {FOCUS_PER_LEVEL} focus point every time they level up."/><string id="v8gFAT88" text="You've started the conspiracy against the enemies of the Empire!"/><string id="wTEYR4kc" text="You've chosen to pledge your alliance to the {KINGDOM_NAME}!"/></strings>
+    <string id="D9WJXQ9Z" text="Отклонять"/>
+    <string id="1wHTYnxh" text="Вы поддерживали заговор против Империи!"/>
+    <string id="A1tkQyBb" text="{KINGDOM_NAME} теперь побежден. Вы потерпели неудачу!"/>
+    <string id="AONnsaao" text="Вы лидер Империи!"/>
+    <string id="Aph8CcKO" text="Свободные точки атрибутов: Эти точки можно использовать для увеличения атрибутов. Вы получите один бесплатный атрибут за каждый {ATTRIBUTE_EVERY_LEVEL} уровень, который вы получите. "/>
+    <string id="DKnL0IcO" text="Вы уничтожили Империю!"/>
+    <string id="Dw3CViwY" text="Вы победили Империю!"/>
+    <string id="jEaglTuQ" text="Вы объединили Империю!"/>
+    <string id="mtndRgOg" text="Вы начали заговор против Империи!"/>
+    <string id="oqEV14Lm" text="Вы поддерживали заговор против врагов Империи!"/>
+    <string id="kUh3nsAF" text="Вы нашли третью и последнюю часть знамени!"/>
+    <string id="pERXhX7A" text="Вы нашли первый кусок Знамени!"/>
+    <string id="OikiOJgf" text="Вы нашли второй кусок Знамени!"/>
+    <string id="SBp4Ja1u" text="Вы можете использовать очки фокусировки для увеличения лимита обучения для навыков. Персонажи зарабатывают {FOCUS_PER_LEVEL} очко(в) фокусировки каждый раз, когда повышают свой уровень."/>
+    <string id="v8gFAT88" text="Вы начали заговор против врагов Империи!"/>
+    <string id="wTEYR4kc" text="You've chosen to pledge your alliance to the {KINGDOM_NAME}!"/>
+    </strings>
 </base>
