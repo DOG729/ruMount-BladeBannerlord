@@ -638,7 +638,7 @@
     <string id="GnWy8WAW" text="Лояльность:"/>
     <string id="gNzXoCrq" text="Можешь идти, букашка."/>
     <string id="GopVkA1q" text="Бандит"/>
-    <string id="gOSpzTrt" text="Стой на месте. Это ограбление.[if:idle_furious]"/>
+    <string id="gOSpzTrt" text="Стой на месте. Это ограбление.[sp:/Modules/Russian/Sounds/bandit_caught3.ogg][if:idle_furious]"/>
     <string id="gPAkLi7l" text="({STR})"/>
     <string id="GPESFoWD" text="Онагр"/>
     <string id="GPW3ku2Y" text="{?RULER.GENDER}Принцесса{?}Принц{\?} {RULER.NAME}"/>
@@ -821,9 +821,9 @@
     <string id="k9QvIYaR" text="Очки фокуса используются для увеличения скорости обучения навыка."/>
     <string id="ka7vAxgo" text="Атаковать противника {TARGET_FORMATION}"/>
     <string id="KawqKhwh" text="Тяжелая Броня"/>
-    <string id="KC5AZohd" text="Приветствую, путник. Добро пожаловать в наш лес. Нам нужно собрать небольшую пошлину."/>
+    <string id="KC5AZohd" text="Приветствую, путник. Добро пожаловать в наш лес. Нам нужно собрать небольшую пошлину. [sp:/Modules/Russian/Sounds/bandit_caught_l0.ogg]"/>
     <string id="KcQiDE6b" text="Можно продать в {SETTLEMENT_NAME} за: {SELL_PRICE}"/>
-    <string id="kdV0tx9K" text="Приветствую, путник. Надеюсь ты принёс кошель. Видишь ли, нас называют здесь головорезами, и боюсь мы не можем пропустить тебя без небольшого количества монеток.[if:convo_delighted]"/>
+    <string id="kdV0tx9K" text="Приветствую, путник. Надеюсь ты принёс кошель. Видишь ли, нас называют здесь головорезами, и боюсь мы не можем пропустить тебя без небольшого количества монеток.[sp:/Modules/Russian/Sounds/bandit_caught_g1_test.ogg][if:convo_delighted]"/>
     <string id="kDV7wCtI" text="Будет выполнено через: {PREPARATION_TIME}"/>
     <string id="KFGfTXqE" text="Вьючная Лошадь"/>
     <string id="kftE5nvv" text="Бронированная Лошадь"/>
