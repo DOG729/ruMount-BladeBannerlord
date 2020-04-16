@@ -750,7 +750,7 @@
     <string id="bPbzwMat" text="Я мог доставить только {AMOUNT_TO_DELIVER} единиц {REQUESTED_GOOD}."/>
     <string id="bPcO3Km2" text="Да, всё складывается, но мое соглашение с {QUEST_GIVER.LINK} заключалось в фиксированном количестве товаров. Не хочу создавать новую сделку. Пожалуйста, возвращайтесь, когда получите нужное количество."/>
     <string id="BPfuSkCl" text="Ну, когда как. Как думаете, сколько нужно людей для этой работы?"/>
-    <string id="bPpdw81a" text="Суточная вербовка ополченцев увеличивается на 1 {newline}Рекруты пополняются на 30% быстрее {newline}Доходы от налогов поселений снижаются на 10%"/>
+    <string id="bPpdw81a" text="Суточная вербовка ополченцев увеличивается на 1 Рекруты пополняются на 30% быстрее Доходы от налогов поселений снижаются на 10%"/>
     <string id="BPPG2XF7" text="Пшеничная ферма"/>
     <string id="bPqwLopK" text="Хм. Вы работорговец?"/>
     <string id="bpXgcBCp" text="Что мы сделали с этой деревней... ни разу не по душе. Те фермеры были мне как свои. Я хочу знать, что это больше не повторится."/>
@@ -2690,7 +2690,7 @@
     <string id="vPjlkNeP" text="{NAME} the Romancer"/>
     <string id="vpkAoGTv" text="{FIRST_NAME} the Angel"/>
     <string id="VpLzd69e" text="Сопровождение Торгового Каравана"/>
-    <string id="VqAEqhr2" text="Качество милиции увеличивается на 10% Village налоговые доходы сократились на 5%"/>
+    <string id="VqAEqhr2" text="Качество милиции увеличивается на 10%, в деревне налоговые доходы сократились на 5%"/>
     <string id="VqFd0aeL" text="Пользовательские стратегии, которые могут быть полностью управляемыми."/>
     <string id="VqhhabWa" text="Описание CrossbowmanStyle "/>
     <string id="vqSHB7mJ" text="Ферма Свиней "/>
@@ -2876,7 +2876,7 @@
     <string id="Xi1wpR2L" text="Примите телесные наказания и заплатите {FINE}{GOLD_ICON}"/>
     <string id="xIL6vOgI" text="Асессор"/>
     <string id="xiVwe7g3" text="Повышен шанс сбить противника с ног при удачной атаке."/>
-    <string id="xJ2uDcob" text="Лояльность поселения увеличивается на 2 в день{newline}Производство поселения уменьшается на 5%"/>
+    <string id="xJ2uDcob" text="Лояльность поселения увеличивается на 2 в день. Производство поселения уменьшается на 5%"/>
     <string id="Xj74AAWq" text="BossFightingSkills"/>
     <string id="XjcmW8ql" text="{FIRST_NAME} Гниль"/>
     <string id="xKVBAL3m" text=" Вопрос Кампании"/>
@@ -2920,7 +2920,7 @@
     <string id="xWoXL2FG" text="Пустая Мастерская"/>
     <string id="xwS10c1b" text="Да... Я думаю, что для меня будет честью принять ваше предложение."/>
     <string id="xWydBJyS" text="Мятежники в {SETTLEMENT} восстали против своего лорда, {RULER}."/>
-    <string id="XXac5fMa" text="A landowner needs your help in a dispute with villagers from nearby {TARGET_SETTLEMENT}. They won’t let {?ISSUE_GIVER.GENDER}her{?}his{\?} herders use pastures {?ISSUE_GIVER.GENDER}she{?}he{\?} bought."/>
+    <string id="XXac5fMa" text="Землевладелец нуждается в вашей помощи в споре с соседними сельскими жителями {TARGET_SETTLEMENT}. They won’t let {?ISSUE_GIVER.GENDER}her{?}his{\?} herders use pastures {?ISSUE_GIVER.GENDER}she{?}he{\?} bought."/>
     <string id="xxD6WAnM" text="Добавить 3 единицы здоровья."/>
     <string id="XYDhkb6h" text="Королевская Комиссия"/>
     <string id="xYeMbApi" text="{PARTY} сделал вылазку, чтобы напасть на вас!"/>
