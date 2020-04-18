@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
   <tags>
     <tag language="Русский"/>
@@ -1621,5 +1621,5 @@
     <string id="SBp4Ja1u" text="Вы можете использовать очки фокусировки для увеличения лимита обучения для навыков. Персонажи зарабатывают {FOCUS_PER_LEVEL} очко(в) фокусировки каждый раз, когда повышают свой уровень."/>
     <string id="v8gFAT88" text="Вы начали заговор против врагов Империи!"/>
     <string id="wTEYR4kc" text="You've chosen to pledge your alliance to the {KINGDOM_NAME}!"/>
-    </strings>
+    <string id="FdTd3yIx" text="Changes you made cannot be applied. Do you want to reset and change the screen?"/><string id="o5ho2Txg" text="Army Cohesion"/><string id="Txbga7jx" text="Defenders make sally out to siege camp you are inside"/></strings>
 </base>

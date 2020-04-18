@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
   <tags>
     <tag language="Русский"/>
@@ -592,7 +592,7 @@
     <string id="i1sth9Ls" text="Жулик победил вас. Он и {TARGET_HERO.LINK} сбежали, пока вы были без сознания. Вы нарушили обещание, данное {QUEST_GIVER.LINK}, и не смогли вернуть дочь {?QUEST_GIVER.GENDER}матери{?}отцу{\?}. {?QUEST_GIVER.GENDER}Она{?}Он{\?} в гневе."/>
     <string id="i4xzuOJE" text="Конечно, я буду играть на самом сложном уровне."/>
     <string id="i5fNZrhh" text="Пожалуста, {?PLAYER.GENDER}леди{?}сир{\?}. Я искренне люблю его и хочу провести с ним остаток жизни. Я умоляю вас, пожалуйста, оставьте нас в покое."/>
-    <string id="i7KSsz4z" text="Правда, шпион? Да, {?PLAYER.GENDER}мадам{?}сир{\?}, ходят слухи о вашем расследовании. Думаю, шпион уже знает и планирует залечь на дно."/>
+    
     <string id="I80qeGOG" text="Конечно нет, {LORD_SALUTATION}. Я всегда буду вашим верным вассалом."/>
     <string id="i8HysulS" text="Я буду играть черными."/>
     <string id="I8raOMRH" text="К сожалению, прогресса пока нет."/>
@@ -1069,7 +1069,7 @@
     <string id="ukRZd2AA" text="Я не дерусь на дуэлях с бандитами."/>
     <string id="Ukv1FQa2" text="Я передумал. Идите своей дорогой."/>
     <string id="uotflvH2" text="Я хотел бы задать несколько вопросов."/>
-    <string id="UqBk5fVw" text="Отряд шпиона"/>
+    
     <string id="UqDNAZqM" text="Перестать ждать"/>
     <string id="UQyCoQCY" text="Придержи коней! Этот парень сейчас находится под моей защитой. Мы пришли поговорить спокойно."/>
     <string id="urieibC4" text="Я ищу кое-кого."/>
@@ -1114,7 +1114,7 @@
     <string id="VTA5DoBc" text="Ладно..."/>
     <string id="vuEyisBW" text="Я подтверждаю, что вы являетесь исполнителем воли Сената и народа..."/>
     <string id="VvRKwXpk" text="Банда {GANG_LEADER} избила тебя до полусмерти, но каким-то образом тебе удалось уцепиться за жизнь."/>
-    <string id="vXp3WI8G" text="Вы не смогли защитить {CULPRIT}, как обещали {QUEST_GIVER.LINK}. {QUEST_GIVER.LINK} в гневе."/>
+    
     <string id="vyaIbCRj" text="Хмм... Возможно, мне нужно будет сделать больше."/>
     <string id="w0HPC53e" text="Кто вы? Чего вы от меня хотите?"/>
     <string id="w0KseYav" text="Конечно, конечно. Ну, увидимся."/>
@@ -1266,5 +1266,5 @@
     <string id="zWoj91XY" text="Баг-Чал"/>
     <string id="zXpNnn60" text="Мы ещё встретимся."/>
     
-  <string id="ADzzaxFz" text="You are passing through our lands without our permission."/><string id="Yx9epCeA" text="As far as I know, we have no contract to fight you."/></strings>
+  <string id="ADzzaxFz" text="You are passing through our lands without our permission."/><string id="Yx9epCeA" text="As far as I know, we have no contract to fight you."/><string id="04gFKwY1" text="Well, if you see anyone like that, let me know."/><string id="3sfjBnaJ" text="It's quiet. Too quiet. Things never stay quiet around here for long."/><string id="3UX334MB" text="Hmm.. Very well. Sorry for interrupting."/><string id="56ynu2bW" text="Yes, {?PLAYER.GENDER}milady{?}sir{\?}"/><string id="6eHl9Tz4" text="I would like you to serve {FACTION_NAME} as mercenary."/><string id="6JL4GyKC" text="Can't talk right now. Got to keep my eye on things around here."/><string id="9DDWjL9Y" text="Hmm… Maybe, but I can't remember who. I didn't think it suspicious."/><string id="a2GQ3VKM" text="I cannot afford this."/><string id="AHg5k9q2" text="Welcome to {SETTLEMENT_NAME}. I think you'll find these are good, law-abiding folk, for the most part."/><string id="ArseaKsm" text="Very well. Thanks for your time."/><string id="c452Kevh" text="Well I'm anxious, but I am in your hands now. I trust you will protect me {?PLAYER.GENDER}milady{?}sir{\?}."/><string id="C6EOT3yY" text="No, sorry. Haven't seen anything like that."/><string id="ff5XEKPB" text="Afraid I can't recall anyone like that, {?PLAYER.GENDER}madam{?}sir{\?}."/><string id="fJxnOIHS" text="Clans that own a settlement are not considered as mercenaries."/><string id="jjkOBPkY" text="Can't let down your guard around here. Too many bastards up to no good."/><string id="Jt0HGGlR" text="Ok, this is fair. Join us"/><string id="p1ETQbzg" text="Just checking on you."/><string id="QbzsgawM" text="Okay, just keep your eyes open."/><string id="sIfL5Vnx" text="Nothing to report, your ladyship."/><string id="SJHtVaNa" text="The Spy Among Us"/><string id="TtLzpduL" text="We can be your mercenary for {GOLD_AMOUNT} denars of payment per influence."/><string id="VWaNqkqJ" text="Can't say I've seen anyone around here like that, {?PLAYER.GENDER}madam{?}sir{\?}."/><string id="x3f1w3Gc" text="You have kicked {CULPRIT.LINK} from your party. Your agreement with {QUEST_GIVER.LINK} was terminated."/><string id="xizHRti3" text="Nothing to report, your lordship."/></strings>
 </base>

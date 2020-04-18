@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
   <tags>
     <tag language="Русский"/>
@@ -571,7 +571,7 @@
     <string id="mRGIxvYh" text="Цервельер с Наносником и Имперским Койфом"/>
     <string id="MRIdGqhA" text="Заострённый Палаш"/>
     <string id="MTDaLQOV" text="Имперская длинная Накидка"/>
-    <string id="mTHZCZ2D" text="Копьё Рыцаря"/>
+    
     <string id="mtVcMgWO" text="Бронзовый Каркасный Шлем  с Кольчугой"/>
     <string id="mTWvG1xz" text="Лук Егеря"/>
     <string id="mVAaWp5U" text="Имперский Быстрый Боевой Конь"/>
@@ -967,5 +967,5 @@
     <string id="zZ2G7uIO" text="Котелок с Кольчугой"/>
     <string id="FZ6VCoKI" text="empire_crown"/>
     <string id="yy7RvQKN" text="Сотрудники Bo"/>
-  </strings>
+  <string id="28KBiS2H" text="Northern Lamellar Shoulders"/><string id="607BAdXw" text="Western Long Spear"/><string id="9j9fb5pR" text="Plated Helmet with Sideguards"/></strings>
 </base>

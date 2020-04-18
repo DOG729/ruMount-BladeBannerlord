@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
   <tags>
     <tag language="Русский"/>
@@ -48,40 +48,40 @@
     
     
     
-    <string id="9GjxRWET" text="HereticQuarrel"/>
     
     
     
-    <string id="bZusb8s6" text="SacrificedTroops"/>
     
     
     
-    <string id="fatCKnBU" text="PartyHungry"/>
     
     
     
-    <string id="j9cE7oic" text="BattleValor"/>
     
     
     
-    <string id="prj0jVxk" text="QuestBetrayal"/>
     
     
     
-    <string id="SFAawqR1" text="DishonestBusinessQuarrel"/>
     
     
     
-    <string id="v3hXzd35" text="QuestFailed"/>
     
     
     
-    <string id="X7g4Kz7F" text="IgnoredPeace"/>
     
     
     
-    <string id="zmCwsjEw" text="FiefQuarrel"/>
     
     
-  </strings>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <string id="8UBfIenN" text="Normal"/><string id="JMhKt2W1" text="Challenging"/><string id="LfpteADn" text="Determine the difficulty of the combat AI"/><string id="RjjIbn4V" text="Veteran"/><string id="sYVFg9ai" text="Combat AI Difficulty"/></strings>
 </base>

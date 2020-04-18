@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
   <tags>
     <tag language="Русский"/>
@@ -42,7 +42,7 @@
     <string id="4Dd2xgPm" text="Вес"/>
     <string id="4PrfimcK" text="Знак"/>
     <string id="4wLU6s4S" text="Живот"/>
-    <string id="5anoN5EJ" text="Отточить свои боевые навыки в этом хаотичном и классическим командном режиме игры против других игроков."/>
+    
     <string id="5LpufKs7" text="За мной"/>
     <string id="5mSKBidd" text="Форма носа"/>
     <string id="5odwu8qB" text="Место"/>
@@ -111,7 +111,7 @@
     <string id="CjPiabbn" text="Огонь"/>
     <string id="CJr1T7jh" text="Пароль администратора"/>
     <string id="cK5DE88I" text="Н/Д"/>
-    <string id="CKtZ7bES" text="Достигните предела командных очков или наберите больше очков, чем команда противника, до окончания игры."/>
+    
     <string id="Cl3TziQE" text="Лошади нанесено {DAMAGE} урона при падении."/>
     <string id="CoxEyDa8" text="Перчатка"/>
     <string id="cPbHqGrI" text="Кикнуть игрока"/>
@@ -367,5 +367,5 @@
     <string id="zpNSyauI" text="Спаун с лучшими войсками, используя золото в зависимости от ваших убийств на поле битвы."/>
     <string id="ZYChhMrO" text="Ничья"/>
     <string id="ZZMbAjSU" text="Пробитие насквозь!"/>
-  </strings>
+  <string id="GcosVDAt" text="Assist Count"/><string id="jukzZmBb" text="Earn gold and points by killing enemies and assisting your teammates as you race against the opposing team to victory."/><string id="nUR7rs6y" text="Jump straight into the action in this medieval take on a classic PvP game mode. "/></strings>
 </base>

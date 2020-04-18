@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
   <tags>
     <tag language="Русский"/>
@@ -35,7 +35,7 @@
     <string id="nvemmBZz" text="Вы заработали %{AMOUNT} добычи и пленных"/>
     <string id="O9nwLrYp" text="+{WOUNDEDAMOUNT}р"/>
     <string id="oBbiVeKE" text="Здоровье"/>
-    <string id="oHaWR73d" text="Ок"/>
+    
     <string id="Q1HIlJxe" text="Переписать"/>
     <string id="QHV8aeEg" text="Удалить сохранение"/>
     <string id="qIeDZoSx" text="Куплен"/>
@@ -43,7 +43,7 @@
     <string id="R2AaCaPJ" text="Ожидаемое изменение"/>
     <string id="raD9MK3O" text="Сложность"/>
     <string id="RVPidk5a" text="Влияние"/>
-    <string id="UwuYCgIU" text="Внимание"/>
+    
     <string id="V4iU0wRv" text="Золото"/>
     <string id="WAKz9xX8" text="Вы получили {A0} к морали."/>
     <string id="WDlVhNuq" text="Назовите свой файл сохранения"/>
@@ -52,5 +52,5 @@
     <string id="xzzSaN4b" text="Ожидаемо: {OVERALL_EXPECTED_DENARS}"/>
     <string id="yF5fpwNE" text="Всего: {TOTAL}"/>
     <string id="YgyHVu8S" text="Продан"/>
-  <string id="YXgNatqF" text="This save's version doesn't correspond to current game's version. Proceed with caution."/></strings>
+  </strings>
 </base>

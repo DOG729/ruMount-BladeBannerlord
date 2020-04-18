@@ -1,328 +1,328 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
   <tags>
     <tag language="Русский"/>
   </tags>
   <strings>
     
-    <string id="0BxE0BsX" text="50 ярдов."/>
     
-    <string id="0TtOy5mm" text="Вы входите в Цитадель Dhorak"/>
     
-    <string id="1m7Udicr" text="Вернуться на рынок."/>
     
-    <string id="2C3Dhnbu" text="Узнать цены"/>
     
-    <string id="2g2FhKb5" text="Прощайте"/>
     
-    <string id="2Mu1d2ZQ" text="Вернуться."/>
+    
+    
+    
+    
+    
+    
     
     <string id="2YYRyrOO" text="Покинуть..."/>
     
-    <string id="3h9FB2k5" text="{!}быстрая батальная сцена 2"/>
+    
     
     <string id="3nT5wWzb" text="Сдаться."/>
     
-    <string id="3sRdGQou" text="Покинуть"/>
     
-    <string id="3YNVPMzV" text="{!}Инициализировать экономическую статистику."/>
     
-    <string id="40fBLI2g" text="Продолжить путешествие."/>
+    
+    
+    
     <string id="49qjBLr4" text="Вы хотите продолжить разграбление этой деревни?"/>
     
-    <string id="4QL21HiU" text="Просмотреть список известных лордов по отношениям."/>
     
-    <string id="55UbdXeU" text="A page at a nobleman's court."/>
     
-    <string id="5CdXHpbf" text="Вы вошли на тестовую сцену."/>
     
-    <string id="5LiYg4tG" text="Вы хотите погрузиться?"/>
     
-    <string id="63BblDLk" text="Выберите оппонента #{reg1}:"/>
     
-    <string id="6ZaCPvWP" text="Довести стадо до остановки."/>
     
-    <string id="7N0IliZB" text="{!}быстрая батальная сцена 4"/>
     
-    <string id="7VXbwTTw" text="Отдать приказ о начале атаки."/>
     
-    <string id="8jXXrQU0" text="Войти."/>
+    
+    
+    
+    
+    
+    
+    
+    
+    
     <string id="8k6AXNW8" text="Вы успешно сбежали."/>
     
-    <string id="90Lr6obc" text="Выберите действие:"/>
     
-    <string id="9eRQJ6sa" text="{!}CHEAT! - повысить честь"/>
     
-    <string id="9jnQy7OY" text="Атаковать противника."/>
+    
+    
+    
     
     <string id="9OaaK18j" text="База Малых Фракций"/>
     
-    <string id="a67bJTfc" text="Студент университета."/>
     
-    <string id="abgZKbqF" text="Ваши войска готовятся к атаке противника."/>
     
-    <string id="afFGi7fF" text="В битве достойной песни, Вы и ваши люди прогнали бандитов из деревни, сделав ее снова безопасой.У жителей села почти ничего не осталось после всех злоключений, но они предложат вам все, что смогут найти."/>
+    
+    
+    
     <string id="AFJ3BvTH" text="Вас быстро окружили охранники и забрали ваше оружие. С проклятиями и оскорблениями, они бросили Вас в подземелье, где вы будете коротать жалкие дни своего плена."/>
     
-    <string id="AhPUGsGD" text="Оставить приключения."/>
     
-    <string id="Aj9fzfHJ" text="Продолжить путешествие."/>
     
-    <string id="AnQprbjP" text="С каким оружием вы хотите тренироваться?"/>
     
-    <string id="aOPmkVJo" text="{!}CHEAT! - отключить альтернативный ии"/>
     
-    <string id="aTMyvtBl" text="Сколько животных вы хотите забить?"/>
     
-    <string id="aWDAHf77" text="Защитники устроили вылазку и начинают контратаку."/>
     
-    <string id="b0JJCYNC" text="Введите 2."/>
     
-    <string id="b88WoLBl" text="Внезапно все вокруг потемнело. Некоторое время спустя, к вам возвращается сознание и вы находите себя на месте в котором упали. Ваши враги, должно быть, приняли вас за мертвого. Однако, похоже, что ни одна из вашех ран не были смертельными, и хотя вы чувствуете себя ужасно, вы обнаруживаете, что все еще можете ходить. Вы встаете и пытайтесь найти других выживших из вашего отряда."/>
     
-    <string id="bDTahEHG" text="{s13}"/>
     
-    <string id="bgiowuXu" text="{!}Increase last offensive time by 24 hours."/>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     
     <string id="bLNocKd1" text="Продолжить.."/>
     
-    <string id="BNVi52PU" text="Взять их."/>
     
-    <string id="bOzdqafw" text="Request that {TOWN_NAME} be awarded to your {?PLAYER.GENDER}husband{?}wife{\?}."/>
     
-    <string id="buKXELE3" text="Принять предложение."/>
     
-    <string id="bZmbrrvX" text="Отказаться от своей клятвы и отдать свои владения."/>
     
-    <string id="c5hBaWn2" text="{!}{s11}"/>
     
-    <string id="cmSvwyeA" text="Завербовать нескольких пленников в свой отряд."/>
     
-    <string id="CRukOyi9" text="Отклонить. У вас нет интереса в удержании {TOWN_NAME}."/>
     
-    <string id="czt21qqg" text="Метательные Ножи."/>
     
-    <string id="D9WJXQ9Z" text="Отклонить"/>
     
-    <string id="def7LZeh" text="{TOWN_NAME} пал под натиском ваших воинов, и теперь вы полностью контролируете его. Пришло время, чтобы {KING.LINK} узнал о вашей победе. {s5}"/>
     
-    <string id="DiaGRBai" text="Торговля с продавцом товаров."/>
     
-    <string id="DOsjwiLG" text="Посмотреть доклад о задании спутника."/>
     
-    <string id="DvcmnLFs" text="{!}Force defend."/>
     
-    <string id="E05uLqqx" text="30 ярдов."/>
     
-    <string id="e2aJDBxU" text="{s0}"/>
     
-    <string id="Ee3uXAox" text="{s1}."/>
     
-    <string id="Ekkd0wZ5" text="Произвести {4}."/>
     
-    <string id="emlCtX0B" text="Освободиться от обязательств."/>
     
-    <string id="eOOrzq4Y" text="{s4}^^Ваши потери:{s8}^^Потери противника: {s9}"/>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     
     <string id="F3Bi3R6J" text="Борясь с мужеством и решимостью, жители умудряются держаться вместе и отогнать ваши силы."/>
     
-    <string id="FDuNN0jy" text="Разносчика товаров."/>
     
-    <string id="fktjXAhN" text="У вас был заключен контракт с {FACTION_OWNER} о службе на определенный срок. Срок действия вашего контракта истек. Что вы собираетесь сделать?"/>
     
-    <string id="FSkWAHxV" text="Забить нескольких животных."/>
     
-    <string id="Fw9c0oTK" text="Отказать им."/>
     
-    <string id="g2LSSzth" text="Вернуться"/>
+    
+    
+    
+    
+    
     <string id="G8ybKBKr" text="{SETTLEMENT_TAKEN_TEXT}"/>
     
-    <string id="GfUvDcUl" text="Просмотреть отчет характера."/>
     
-    <string id="GgVTuoYz" text="{s10}"/>
     
-    <string id="GmcgoiGy" text="Торговля"/>
     
-    <string id="GT2FAj5O" text="Отказавшись от своей клятвы - это серьезный поступок. Ваш лорд может осудить и конфисковать ваши земли и владения. Однако, если вы вернете их по собственной воле, он может оставить предательство без особого внимания."/>
     
-    <string id="gyGbu5ev" text="{!}CHEAT! - увеличить убеждение"/>
     
-    <string id="HbBdQLKZ" text="{s2} У вас есть {reg10} бойцов подходящих к бою с их {reg11}."/>
     
-    <string id="hIjkJtll" text="Переименуйте свое королевство."/>
+    
+    
+    
+    
+    
+    
+    
     
     <string id="hm4FQCE1" text="Поговорить с лидером."/>
     
-    <string id="hskGr3v2" text="Известность Персонажа: {reg5}^Честь: {reg6}^Party ДействительнаяМораль Отряда: {reg8}^Предел Размера Отряда: {reg7}^"/>
     
-    <string id="i1zayKeW" text="{s7}{s1}"/>
     
-    <string id="iC8Cme9U" text="40 ярдов."/>
     
-    <string id="IhiFTkuW" text="{!}быстрая батальная сцена 5"/>
     
-    <string id="ioGm79B9" text="{!}CHEAT! - включить альтернативный ии"/>
     
-    <string id="irZRiNKV" text="Заглушка: меню Королевства "/>
     
-    <string id="IvlOdk6X" text="{ARMY_LEADER} сообщает вам что хочет чтобы вы присоединились к {?LEADER_GENDER}её{?}его{\?} военной кампании. У вас должно быть жотя бы {TROOP_COUNT} бойцов в отряде, and are instructed to raise more men with all due haste if you do not have enough."/>
     
-    <string id="jDnXpaQv" text="Бандиты падают перед вами, как пшеница под косой! И вот вы стоите один посреди улицы, в то время как большинство нападавших лежат без сознания, умерли или умирают. Обыскав тела вы находите кошелек, который, должно быть, принадлежал к предыдущей жертве этих скотов. Или, возможно, его вручили как плату за вашу голову."/>
     
-    <string id="JL7rnNjm" text="Вам не следует это читать... {s9}"/>
     
-    <string id="JMNC9Esp" text="Приказать своим войскам атаковать без вас."/>
     
-    <string id="jSo7iacI" text="Вы хотите высадиться?"/>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     
     <string id="kB65SzbF" text="Да."/>
     
-    <string id="kN01nbE6" text="Битва окончена. {1} ваша сторона убила {5} противников и потеряла {6} солдат в бою. Лично вы умертвили {7} врагов в сражении."/>
     
-    <string id="kp426Ppq" text="10 ярдов."/>
+    
+    
     
     <string id="kwVELZN1" text=""/>
     
-    <string id="l0UzjjSV" text="Вы помогаете {ATTACKER} против {DEFENDER}. У вас есть {YOUR_TROOPS} солдат подходящих к битве против {ENEMY_TROOPS} противника."/>
     
-    <string id="l56bHLVL" text="Подмастерье ремесленника."/>
     
-    <string id="lAHqezLw" text="{s3}"/>
     
-    <string id="lcqAlGUR" text="Введите 9."/>
+    
+    
+    
+    
     
     <string id="LGHFBwQU" text="Вы отбились от стражи и замели следе, прежде чем сбежать, легко теряя своих преследователей в лабиринте улиц."/>
     
-    <string id="Ll2TTbMs" text="Произвести {1}."/>
     
-    <string id="M8tgkkVJ" text="Приблизиться к осадному лагерю."/>
+    
+    
     
     <string id="Mg1PotzO" text="После недолгого ожидания, стража открывает ворота позволяя вам и вашему отряду пройти внутрь."/>
     
-    <string id="Mo9hvqPV" text="Вы предлагаете своим пленникам свободу, если они согласятся присоединиться к вам в качестве солдат. {s18}"/>
     
-    <string id="msa49tfv" text="{!}Вам не следует это читать."/>
     
-    <string id="mUubYb7v" text="Призвать К Оружию"/>
     
-    <string id="mxlANkA6" text="Ваши враги берут вас в плен."/>
     
-    <string id="mY6uYlbU" text="{s5}"/>
     
-    <string id="N2p0yzuk" text="Вернуться в меню лагеря."/>
     
-    <string id="N7Jsdrhd" text="Нанять их ({reg6}{GOLD_ICON})."/>
     
-    <string id="nHI8WYpc" text="Просмотреть отчет об отношениях фракций."/>
     
-    <string id="NIYiASfR" text="{!}Cheat: Go to range."/>
     
-    <string id="oa5CO6qy" text="Готовиться к бою!"/>
     
-    <string id="obCZfO3a" text="Говорить с тренером."/>
     
-    <string id="OimilXIv" text="Город был разграблен. Немногие выжившие разбегаются, когда вы проходите мимо сожженных домов."/>
     
-    <string id="ov0IJT6g" text="Гнать скот вперед."/>
     
-    <string id="p2f9TEVj" text="Перейти в центр производства оружия."/>
     
-    <string id="PaW9ATX3" text="{s1} начинает наступление на стены города {s2}. У вас есть {reg10} солдат подходящих к битве с {reg11}. Вы решаете..."/>
     
-    <string id="PdlqoIgy" text="Введите 5."/>
     
-    <string id="ppPJfVBy" text="Два."/>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     <string id="pSSDfAjR" text="Переодевшись в одежду бедного пилигрима, вы одурачили стражников и вошли в город."/>
     
-    <string id="PVsnuDkH" text="Введите 3."/>
     
-    <string id="Q3jydb0f" text="{s7}{s2}"/>
     
-    <string id="QLh3voMK" text="Кузнец."/>
     
-    <string id="QPNl8CNL" text="{s18}"/>
+    
+    
+    
+    
     <string id="QpQQJjD6" text="Хозяин этого замка запретил вам входить в эти стены, а сержант гвардии сообщил вам, что его люди не пожалеют стрел, если вы попытаетесь подойти ближе."/>
     
-    <string id="QXqV3CGV" text="{s11}^^Ваши потери:{s8}{s10}^^Потери противника:{s9}"/>
     
-    <string id="r13Pg2vJ" text="{!}Cheat: Faction orders."/>
+    
+    
     
     <string id="R8rzU9sm" text="Чит : Покинуть."/>
     
-    <string id="RbRLOyMk" text="Вы вьезжаете в город Zendar."/>
     
-    <string id="rNuPwSsg" text="Смотреть брачные отношения."/>
+    
+    
     <string id="RrM7800A" text="Когда вы пытались проникнуть внутрь, один из стражников узнал вас и поднял тревогу! Вы должны бежать обратно через ворота прежде чем вся стража в городе набросится на вас"/>
     
-    <string id="rsqxbnq5" text="Степной кочевник."/>
     
-    <string id="rVLcqpea" text="Посетить {s12}"/>
     
-    <string id="s774Ggbt" text="Время перемирия истекло^^Перемирие между {s1} и {s2} подошло к концу."/>
     
-    <string id="sbOVsaOq" text="Введите 1."/>
     
-    <string id="skEn0V8G" text="Обедневшим дворянином."/>
     
-    <string id="sQZFrhS8" text="Вы подслушать несколько разговоров о ценах на товары на локальных^.Вы внимательно слушайте, стараясь понять лучшие предложения вокруг."/>
     
-    <string id="Sv01qbaE" text="Уличным сорванцом."/>
     
-    <string id="SZrkPSic" text="Вы получили сообщение от вашего лорда, {TOWN_NAME}.^^ {?KING.GENDER}Она решила{?}Он решил{\?} даровать  {TOWN_NAME} и {VILLAGES} вашему мужу, {HUSBAND.LINK}."/>
     
-    <string id="TakHCuuH" text="Вам предложен мир^^The {s1} предлагает вам заключить мирное соглашение. Каков будет ваш ответ?"/>
     
-    <string id="TifFb1vR" text="Алебарда."/>
     
-    <string id="U8bP1TJj" text="Выбрать книгу для чтения."/>
     
-    <string id="UPzJpsGB" text="далее"/>
     
-    <string id="V99ppYaZ" text="Один."/>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     
     <string id="veWOovVv" text="Продолжить..."/>
     
-    <string id="vrmiePbO" text="Произвести {5}."/>
     
-    <string id="Vty4JhAC" text="{!}Field 1"/>
     
-    <string id="WlqnaH0D" text="60 ярдов."/>
     
-    <string id="WVkc4UgX" text="Продолжить."/>
     
-    <string id="x9nQwFJp" text="Тренировка дальнобойного оружия."/>
     
-    <string id="XGaT0URq" text="Торговля с оружейником."/>
     
-    <string id="xjyQh5TX" text="{s17}"/>
     
-    <string id="xRci3NgO" text="{!}CHEAT! - increase your relation with {s14}"/>
     
-    <string id="y6FHodim" text="{s12}^^Но вскоре все изменилось и вы решили отправиться в путь самостоятельно в качестве искателя приключений. Вас заставило принять это решение..."/>
     
-    <string id="YB24mdaI" text="Просмотреть отчет о боевом духе отряда."/>
     
-    <string id="YKyiobOD" text="Страсть к путешествиям."/>
     
-    <string id="yp7buQea" text="Просмотреть отчет о размере отряда."/>
     
-    <string id="yUO2Vqq7" text="Выберите знамя:"/>
     
-    <string id="YXeTF9Va" text="Вы отдаете приказ. {reg4} воинов будут сдерживать врага, пока вы отступаете, уводя остальную часть отряда."/>
     
-    <string id="Z0z5XbKQ" text="Потеря любимого человека."/>
     
-    <string id="Z2sLYZkZ" text="Арбалет."/>
     
-    <string id="Za2z5swo" text="{!}Cheat: Go to track."/>
     
-    <string id="ZavkSerY" text="Метательное оружие."/>
     
-    <string id="zdhJi1xj" text="Улучшить кузню."/>
     
-    <string id="zjHYjTwo" text="Вы получили сообщение от вашего правителя, {KING.LINK}.^^'Меня в высшей степени порадовали известия о вашей доблести при захвате {TOWN_NAME}. Ваша победа наполнила счастьем наши сердца. Кроме того, вы просили меня даровать замок вашему супругу. Боюсь, что мне придется отказать вам в этой просьбе, поскольку ему и так принадлежит множество земель в моей державе. Вместо этого я посылаю вам {REWARD}{GOLD_ICON} динаров для покрытия издержек вашей военной компании. {TOWN_NAME} же я отдам {TOWN_OWNER}."/>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     <string id="znDzVxVJ" text="Нет."/>
     
-    <string id="Zuu1RcdD" text="Вы получили сообщение от вашего правителя, {KING.LINK}.^^'Меня в высшей степени порадовали известия о вашей доблести при захвате {TOWN_NAME}. Ваша победа наполнила счастьем наши сердца. Кроме того, вы просили меня даровать вам замок, но это благодеяние, боюсь, я не могу вам оказать, поскольку вы и так владеете значительной собственностью в моем государстве. Вместо этого я посылаю вам {REWARD}{GOLD_ICON} динаров для покрытия издержек вашей военной компании. А {TOWN_NAME} я отдам {TOWN_OWNER}."/>
+    
   </strings>
 </base>

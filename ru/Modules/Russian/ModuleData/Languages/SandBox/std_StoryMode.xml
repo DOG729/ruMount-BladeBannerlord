@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
   <tags>
     <tag language="Русский"/>
@@ -646,7 +646,7 @@
     <string id="Zz6IvIH9" text="Империя ненадолго оставила нас в покое, а Нерецес предлагал людям серебро, поэтому я подумал: «Почему бы и нет? Пусть они помогут Империи. Ах, я должен был знать. Лучший путь в войнах - это иметь с ними как можно меньше общего."/>
     <string id="DyE3luNM" text="Вам нужно иметь по крайней мере {NUMBER} член вашего отряда, чтобы иметь дело с рейдерским отрядом. Ступайте в деревни, чтобы набрать больше войск."/>
     <string id="Fgta5mF6" text="Прежде чем я отвечу, нам с тобой нужно побольше узнать друг о друге. Я не знаю, что ты знаешь обо мне... Я... Я был гражданином Империи. Я был командующим имперских войск. Но я не из империи."/>
-    <string id="GxlPj4GC" text="Найди убежище, о котором тебе говорила Истиана, и получи следующий фрагмент."/>
+    
     <string id="jq5TnHEN" text="Если вы сможете найти недостающие части, я уверен, что смогу помочь вам найти им хорошее применение. [sp:/Sounds/VO/mainquest/mntemp_q01_05.ogg]"/>
     <string id="QLgkR3qN" text="You've successfully finished the track in ({TIME_SCORE}) seconds. You've received ({PENALTY_SECONDS}) seconds penalty from ({MISSED_TARGETS}) missed targets."/>
     <string id="veHe94Ec" text="You've successfully finished the track in ({TIME_SCORE}) seconds without missing any targets!"/>

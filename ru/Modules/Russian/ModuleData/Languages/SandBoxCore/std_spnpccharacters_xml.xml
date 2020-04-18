@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
   <tags>
     <tag language="Русский"/>
@@ -7,7 +7,7 @@
     <string id="0GKH29JG" text="Наемная Стража"/>
     <string id="0GkJB08d" text="Стургийская Ветеранская Стража Каравана"/>
     <string id="0Xku0LQD" text="Стургианский Крестьянин"/>
-    <string id="1PovWQ3G" text="tournament_template_aserai_one_participant_set_v1"/>
+    
     <string id="1PsLlMaQ" text="Имперский Эквит"/>
     <string id="1sJcKkVP" text="Стража"/>
     <string id="1WfDVpya" text="Стургианский Лучник"/>
@@ -17,13 +17,13 @@
     <string id="2HDPaohZ" text="Опытный Лесник"/>
     <string id="2w6jXVzJ" text="Battania preset"/>
     <string id="3lNtvh9W" text="Охотник За Головами "/>
-    <string id="3uSMU7zy" text="Стургианский Манекен Для Тренировок"/>
+    
     <string id="3VosbFR0" text="Вландийский Чемпион"/>
     <string id="4BxUa4Sr" text="Асерайский Застрельщик"/>
     <string id="4C4WiTb2" text="Варяг"/>
     <string id="5b6KjY5b" text="Вландийский Алебардист"/>
     <string id="5JFkQn5U" text="Лучник Ветеран Кузаитского Ополчения"/>
-    <string id="6akxY6JL" text="tournament_template_khuzait_four_participant_set_v2"/>
+    
     <string id="6C3OMP1X" text="Баттанийский Разведчик"/>
     <string id="6hhspFvz" text="Ветеранская Стража Кузаитского Каравана"/>
     <string id="6oc7CXbI" text="Асерайский Фарис Ветеран"/>
@@ -51,7 +51,7 @@
     <string id="afhXdjBU" text="Кочевник"/>
     <string id="AlmaRAib" text="RuralNotableNotary"/>
     <string id="AloMryIU" text="Вландийский Легкий Кавалерист"/>
-    <string id="ansW4mx2" text="Асерайская Горожанка"/>
+    
     <string id="AoFZUbun" text="Асерайский Фарис Авангард"/>
     <string id="arb5nRri" text="Асерайский Дикарь"/>
     <string id="AssCCFew" text="Наёмный Всадник"/>
@@ -60,7 +60,7 @@
     <string id="B4ls6R2b" text="Асерайский Мастер Лучник"/>
     <string id="b4QPaEnA" text="Лучник Баттанийского Ополчения"/>
     <string id="B7oI7AZG" text="Кузаитский Стражник Хана"/>
-    <string id="baAQDdE5" text="Вландийская Горожанка"/>
+    
     <string id="BBJKgKj2" text="Стургианский Рекрут"/>
     <string id="BbTpfJ7G" text="Дрантон"/>
     <string id="bFyidmyK" text="Sturgia preset"/>
@@ -91,7 +91,7 @@
     <string id="cte0zSCz" text="Имперский Дикарь"/>
     <string id="cZms8Ivb" text="Баттанийский Высокородный Юноша"/>
     <string id="d6vsgKnp" text="Асерайский Крестьянин"/>
-    <string id="dAIGb3JM" text="tournament_template_empire_four_participant_set_v2"/>
+    
     <string id="dfv7E49q" text="Асерайский Племенной Всадник"/>
     <string id="DIt9SuMb" text="Спрут"/>
     <string id="DlIU2vJB" text="Кузаитский Стрелок"/>
@@ -103,7 +103,7 @@
     <string id="ECxiXTbF" text="Нотариус"/>
     <string id="ehACDRBk" text="Скрытая пешка"/>
     <string id="eHVgfyPH" text="Кузаитский Всадник Лучник"/>
-    <string id="euTE3FUY" text="tournament_template_battania_four_participant_set_v3"/>
+    
     <string id="eWRlQ4XU" text="Вор"/>
     <string id="eYIMQafj" text="Имперский Тяжелый Всадник"/>
     <string id="f2a1fPca" text="Копейщик Ветеран Кузаитского Ополчения"/>
@@ -205,7 +205,7 @@
     <string id="pzmgMODE" text="Стургийская Стража Каравана"/>
     <string id="q7b4pQc9" text="Матерый Волк"/>
     <string id="q7VeZazL" text="Баттанийский Застрельщик"/>
-    <string id="Q7wFotYV" text="Баттанийский Горожанка"/>
+    
     <string id="qAsnj7vU" text="Имперский Элитный Менавлиатон"/>
     <string id="qAvxmnav" text="Jawwal Бедуин"/>
     <string id="QbSjMefR" text="Вландийский Караванщик"/>
@@ -215,7 +215,7 @@
     <string id="QGPAEtj7" text="Варяг Ветеран"/>
     <string id="QhNpvW0Y" text="Кузаитский Торгууд"/>
     <string id="QlVeZvbv" text="Асерайская Ветеранская Стража Каравана"/>
-    <string id="qMqRkvWu" text="Стургийский Горожанка"/>
+    
     <string id="qMYpZKWo" text="Принципы"/>
     <string id="QNKfXvuA" text="Имперский Signifier"/>
     <string id="Qo2cc7bF" text="Скен"/>
@@ -226,11 +226,11 @@
     <string id="riT39wKu" text="Саплинг"/>
     <string id="Rj0bNOOh" text="Керн"/>
     <string id="RJNNsaSP" text="Стургианский Разбойник"/>
-    <string id="rojq8QTp" text="Кузаитский Манекен для оружия"/>
+    
     <string id="rQ0t0Wws" text="Вландийская Стража Каравана"/>
     <string id="rtOJNB6u" text="Страж Рекрут"/>
     <string id="RYP9hzIy" text="Страж"/>
-    <string id="s0oKleXi" text="tournament_template_battania_one_participant_set_v2"/>
+    
     <string id="s3IJIFUw" text="Имперский Рекрут"/>
     <string id="S6BosJUq" text="Новобранец Элефтерой"/>
     <string id="S8ElYRrb" text="Aserai preset"/>
@@ -242,7 +242,7 @@
     <string id="sMI3wMZu" text="disguise_equipment_set"/>
     <string id="strAI" text="ИИ"/>
     <string id="SvAADOwm" text="Вландийский Арбалетчик Леви"/>
-    <string id="t9eMjdgC" text="Имперский Манекен для оружия"/>
+    
     <string id="ta34CxLs" text="Травник"/>
     <string id="TbBnWiao" text="Имперская Стража Каравана"/>
     <string id="tDYfuUuU" text="Асерайский Мамелюкский Дворцовый Страж"/>
@@ -270,7 +270,7 @@
     <string id="uzwfybTH" text="Кузаитский Пехотнец"/>
     <string id="V1hoeBch" text="Мастер Бандит"/>
     <string id="V7iJlSuT" text="меч на меч"/>
-    <string id="V8GrFH4B" text="Кузаитский Горожанка"/>
+    
     <string id="v8hRrmY2" text="Баттанийский Вооруженный Торговец"/>
     <string id="VbWtdAWn" text="Стургианский Закоренелый Разбойник"/>
     <string id="vGFdbjFC" text="Ветеран Копейщик Вландийского Ополчения"/>
@@ -281,7 +281,7 @@
     <string id="vZlMfmng" text="Асерайский Мамелюк Воин"/>
     <string id="W2WXkiAh" text="Посредник По Выкупу"/>
     <string id="w6YwFaG7" text="Кузаитский Копейщик"/>
-    <string id="WbH2HS8j" text="Имперская Горожанка"/>
+    
     <string id="WEHDGbEE" text="Кузаитский Караванщик"/>
     <string id="WJbOQSiT" text="Асерайский Мамелюкский Воин"/>
     <string id="WNU7kE5N" text="Ветеран Страж"/>
@@ -317,5 +317,5 @@
     <string id="Zmajp2o1" text="Копейщик Стургийского Ополчения"/>
     <string id="ZRkceJx3" text="Судья"/>
     <string id="ZSU7sMYX" text="Кузаитский Дархан"/>
-  </strings>
+  <string id="1gAasy1t" text="Lake Rat Veteran"/><string id="6j9iJMRr" text="Lake Rat Recruit"/><string id="BC5YGna3" text="Lake Rat Wrecker "/></strings>
 </base>

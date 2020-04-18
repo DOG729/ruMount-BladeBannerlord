@@ -1,20 +1,20 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
   <tags>
     <tag language="Русский"/>
   </tags>
   <strings>
     
-    <string id="5uCebOUD" text="Мы отдыхаем в {s1}. {s14}{s15}"/>
+    
     <string id="5ypRJiWZ" text="Спасибо за информацию"/>
     <string id="62AkUCOw" text="Почему вы не защищаете..."/>
     
-    <string id="7TIRUaPi" text="Мы путешествуем в {s1}. {s14}{s15}"/>
     
-    <string id="8VsbaDHu" text="Мы боремся против {s1}. {s14}{s15}"/>
+    
+    
     <string id="8xvSu9fX" text="Простите меня, {?NPC.GENDER}мадам{?}сир{\?}. Я даже не знаю, что и думать."/>
     
-    <string id="b9iOMo1O" text="Я руковожу армией королевства."/>
+    
     
     <string id="fbM7drKO" text="Почему бы вам не осадить..."/>
     <string id="fBt8X6Tw" text="Да? Чего ты хочешь?"/>
@@ -30,15 +30,15 @@
     <string id="ltS8zmH8" text="Вы с ума сошли? Я не ваш враг."/>
     <string id="M7O3AItb" text="Прошу прощения. Так. Ничего."/>
     
-    <string id="RFkvMoMU" text="Мы грабим деревню {s1}. {s14}{s15}"/>
+    
     <string id="RJbrrM0K" text="{REASON}"/>
     <string id="s61RscYw" text="Где?"/>
     
-    <string id="UUKIk0WP" text="Мы сопровождаем {s1}. {s14}{s15}"/>
+    
     <string id="vsxVIDqT" text="Прочь отсюда."/>
     <string id="WzipKNWN" text="{s43}"/>
     
-    <string id="YLPPnLMu" text="Я направляюсь к окрестностям {s1}. {s14}{s15}"/>
+    
     <string id="ztuhSo8h" text="Почему бы тебе не совершить рейд..."/>
   </strings>
 </base>
