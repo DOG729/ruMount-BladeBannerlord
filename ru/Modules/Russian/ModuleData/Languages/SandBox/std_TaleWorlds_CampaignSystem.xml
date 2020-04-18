@@ -3088,78 +3088,78 @@
   <string id="0wAjmea4" text="Fencing stolen goods"/>
     <string id="3DzXmMEU" text="CharmExtra1"/>
     <string id="90YOVmcG" text="Доброго вам дня."/>
-    <string id="9e0Zd8jn" text="Every skill increase after 250 gives you +1 party capacity."/>
-    <string id="Avy8Gua1" text="Perks"/>
+    <string id="9e0Zd8jn" text="Каждое повышение навыка после 250 дает +1 вместимость отряда."/>
+    <string id="Avy8Gua1" text="Перки"/>
     <string id="dDKOoD3e" text="Healty Scout"/>
-    <string id="dJYkrZhv" text="Your caravans and workshops gain influence."/>
-    <string id="djYQlr3i" text="Hit points increased by 10}"/>
-    <string id="GCH6RgIQ" text="How though are they?"/>
+    <string id="dJYkrZhv" text="Ваши караваны и мастерские обретают влияние."/>
+    <string id="djYQlr3i" text="Хит-поинты увеличены на 10}"/>
+    <string id="GCH6RgIQ" text="А как насчет них?"/>
     <string id="I8Jy7Zb9" text="Eye for Ambush"/>
-    <string id="ja74aAEI" text="You ignored the village and did not solve the dispute. {?QUEST_GIVER.GENDER}She{?}he{\?} probably feels betrayed."/>
-    <string id="lA14Ubal" text="I will send my men to kill those poachers for you."/>
+    <string id="ja74aAEI" text="Вы проигнорировали деревню и не решили спор. {?QUEST_GIVER.GENDER}She{?}he{\?} probably feels betrayed."/>
+    <string id="lA14Ubal" text="Я пошлю своих людей убить этих браконьеров."/>
     <string id="m8LA0EpY" text="+15 к размеру отряда"/>
     <string id="Nn2X6yew" text="Mounted Thrower"/>
-    <string id="P68GX3zY" text="Lay of the land"/>
-    <string id="PX0Xufmr" text="Spartan"/>
+    <string id="P68GX3zY" text="Положение земли"/>
+    <string id="PX0Xufmr" text="Спартанец"/>
     <string id="radvxImF" text="Наемный торговец"/>
     <string id="RchM1puc" text=" Доп. 3% к скорости передвижения по карте."/>
     <string id="rG5z0Jt1" text="Can spot hideouts from further away."/>
     <string id="sfW7oT9e" text="Ремесленник не может продавать продукты"/>
     <string id="SKbwy5EB" text="Городские проекты по умолчанию на 60% эффективнее"/>
     <string id="sn4CiYVj" text="Никакого штрафа за бросок во время движения."/>
-    <string id="ufYwLbZR" text=" Extra 8 hitpoints."/>
-    <string id="VXHePMnL" text="Very good. I'll ask the herders to be ready to accompany your party right away. Please be careful while guiding the herd. We can take some losses. But I expect at least half of the herd to be delivered."/>
-    <string id="vzF9atyv" text="My dear {PLAYER.NAME}, I have been informed that you have captured the foul {TARGET_HERO.LINK}. This is great news, one of my agents will wait for you at the gates of the next settlement you visit with the bounty I promised. You should deliver your prisoner to him as soon as you can. I have plans for {?TARGET_HERO.GENDER}her{?}him{\?}. Thank you and best wishes, - {ISSUE_OWNER.LINK}"/>
+    <string id="ufYwLbZR" text=" Дополнительные 8 хит-поинтов."/>
+    <string id="VXHePMnL" text="Очень хорошо. Я попрошу пастухов быть готовыми сопровождать вашу вечеринку прямо сейчас. Пожалуйста, будьте осторожны, направляя стадо. Мы можем понести некоторые потери. Но я ожидаю, что по крайней мере половина стада будет доставлена."/>
+    <string id="vzF9atyv" text="Мой дорогой {PLAYER.NAME}, Мне сообщили, что вы поймали фол. {TARGET_HERO.LINK}. Это отличная новость, один из моих агентов будет ждать вас у ворот следующего поселения, которое вы посетите... Чтобы получить вознаграждение, которую я обещал. Вы должны доставить своего заключенного к нему как можно скорее. У меня есть планы на {?TARGET_HERO.GENDER}неё{?}него{\?}. Спасибо и всего доброго, - {ISSUE_OWNER.LINK}"/>
     <string id="wfyUIBPl" text="Running throw"/>
     <string id="wwuuplH7" text="Everyday Engineer"/>
-    <string id="1zLZf5rw" text="Your troops dragged you out."/>
+    <string id="1zLZf5rw" text="Твои войска вытащили тебя."/>
     <string id="essaRvXP" text=" King's support"/>
     <string id="QwpHoMJu" text="Незначительный"/>
-    <string id="FAIYN0vN" text="У тебя есть {NUMBER} new updates to your quests."/>
+    <string id="FAIYN0vN" text="У вас есть {NUMBER} new updates to your quests."/>
     <string id="FSl1LFP6" text="{CLAN} has gained {AMOUNT_TO_ADD} renown. New renown is {NEW_RENOWN}"/>
     <string id="kaQ7DsW3" text="Персонаж не имеет цели обновления."/>
     <string id="m1bIfPf1" text="Персонаж не имеет достаточного опыта для апгрейда."/>
-    <string id="PJMbfSPJ" text="You have {NUMBER} new prisoners to recruit."/>
-    <string id="rlqjkZ9Q" text="You have {NUMBER} new perks available for selection."/>
-    <string id="Wbm4XGB6" text="You have {NUMBER} new troops to upgrade."/>
-    <string id="2EiC1YyZ" text="Well, if they get wind of what you're up to, things could go very wrong for me. Do be quick."/>
-    <string id="3pkVKMnA" text="Most poachers would probably run if they were surprised by armed men. But these ones are bold and desperate. Be ready for a fight."/>
+    <string id="PJMbfSPJ" text="У вас есть {NUMBER} новые заключенные для вербовки."/>
+    <string id="rlqjkZ9Q" text="У вас есть {NUMBER} new perks available for selection."/>
+    <string id="Wbm4XGB6" text="У вас есть {NUMBER} новые войска для повышения."/>
+    <string id="2EiC1YyZ" text="Ну, если они пронюхают о том, что ты задумал, все может пойти не так, как надо. Поторопись."/>
+    <string id="3pkVKMnA" text="Большинство браконьеров, вероятно, сбежали бы, если бы их застали врасплох вооруженные люди. Но эти люди смелы и отчаянны. Будьте готовы к драке."/>
     <string id="428B377z" text="{ISSUE_GIVER.LINK}, a merchant of {QUEST_GIVER_SETTLEMENT}, told you that some poachers {?ISSUE_GIVER.GENDER}she{?}he{\?} hired are now out of control. You asked {COMPANION.LINK} to take {NEEDED_MEN_COUNT} of your men to go to {QUEST_VILLAGE} and kill the poachers. They should rejoin your party in {RETURN_DAYS} days."/>
-    <string id="5hbH44YW" text="Mercenary contract of {CLAN_NAME}"/>
-    <string id="ajNYs50o" text="Well... Are you working for that merchant in the town? So it's all fine when the rich folk trade in poached skins, but if we do it, armed men come to hunt us down."/>
-    <string id="bioyMrUD" text="You are just a bunch of hunters. You don’t stand a chance against us!"/>
-    <string id="cQCs72U7" text="You're not bad people. You can easily ply your trade somewhere else, somewhere safe."/>
-    <string id="DBabgrcC" text="This companion is not available right now."/>
-    <string id="dL8196qY" text="{YOUNG_HERO.LINK} has escaped. Find and talk to him to continue your quest."/>
-    <string id="eaQxeRh6" text="A boy runs out of the village and asks you to talk to the leader of the poachers. The villagers want to avoid a fight outside their homes."/>
-    <string id="EvAubSxs" text="What kind of troops do they make?"/>
-    <string id="FO1oruNy" text="You talk about poor folk, but you think the people here like their village turned into a nest of outlaws?"/>
-    <string id="Gu3jF88V" text="Any night battle can easily go wrong. I need more time to prepare."/>
-    <string id="IefM6uAy" text="Thank you. You’ll be paid well. Also you can keep their illegally obtained leather."/>
-    <string id="INn1axcf" text="Ok captain, thank you."/>
-    <string id="JI6Q9pQ7" text="Bandits can kill as well as any other kind of troops, if used correctly."/>
-    <string id="Jk3mDlU6" text="Yeah... I've got some problems. A few years ago, I needed hides for my tannery and I hired some hunters. I didn't ask too many questions about where they came by the skins they sold me. Well, that was a bit of mistake. Now they've banded together as a gang and are trying to muscle me out of the leather business."/>
-    <string id="JQKCPllJ" text="You've made your point."/>
-    <string id="jWavM9AD" text="You've been around in the world. You know that mercenaries aren't saints."/>
-    <string id="l7Jt5tvt" text="This is how I earn my living, and all your clever talk doesn't make it any different. Leave now!"/>
-    <string id="Lk6ln3sR" text="We got separated but I am happy that I found you. Join me we have to continue your training."/>
-    <string id="mvw1ayGt" text="I'm here to do the job I agreed to do, outlaw. Give up or die."/>
-    <string id="mwbYdaJr" text="{VICTIM.NAME} has been executed."/>
-    <string id="NacogXav" text="{VICTIM.LINK} has been executed."/>
-    <string id="NC2VGafO" text="They skin their beasts in the woods, then go into the village after midnight to stash the hides. The villagers are terrified of them, I believe. If you go into the village late at night, you should be able to track them down."/>
-    <string id="QNV1b5s5" text="Are those poachers still in business?"/>
-    <string id="S0NeQdLp" text="You had an agreement with {QUEST_GIVER.NAME}. Your word is your bond, no matter which side of the law you're on."/>
-    <string id="sLjGguGy" text="Sure, they’re bastards. But they’ll be loyal bastards if you treat them well."/>
-    <string id="SqceZdzH" text="Of course. That’s why they’re cheap. You get what you pay for. "/>
-    <string id="UP0pMGDR" text="There are enough bandits around here already. I don't need more on retainer."/>
-    <string id="VJYEoOAc" text="Well... You have a point. Go on. We won't bother you any more."/>
-    <string id="wglTyBbx" text="Thank you, friend. Go in peace."/>
-    <string id="wM77S68a" text="What's there to discuss?"/>
+    <string id="5hbH44YW" text="Наемный контракт от {CLAN_NAME}"/>
+    <string id="ajNYs50o" text="Ну... Ты работаешь на того торговца в городе? Все хорошо, когда богатые люди торгует браконьерскими шкурами. Но если мы это сделаем, придут вооруженные люди, чтобы наказать нас."/>
+    <string id="bioyMrUD" text="Вы просто кучка охотников. У вас нет шансов против нас!"/>
+    <string id="cQCs72U7" text="Вы неплохие люди. Вы можете легко устроить свою торговлю в другом месте, в безопасном месте."/>
+    <string id="DBabgrcC" text="Этот спутник сейчас недоступен."/>
+    <string id="dL8196qY" text="{YOUNG_HERO.LINK} has escaped. Найдите и поговорите с ним, чтобы продолжить ваши поиски."/>
+    <string id="eaQxeRh6" text="Из деревни выбегает мальчик и просит вас поговорить с предводителем браконьеров. Жители деревни хотят избежать драки в пределах своих домов."/>
+    <string id="EvAubSxs" text="Какие у них войска?"/>
+    <string id="FO1oruNy" text="Вы говорите о бедных людях, но вы думаете, что здешние люди, как и их деревня, превратились в гнездо разбойников?"/>
+    <string id="Gu3jF88V" text="Любая ночная битва может легко пойти не так. Мне нужно больше времени, чтобы подготовиться."/>
+    <string id="IefM6uAy" text="Спасибо. Вам хорошо заплатят. Также вы можете оставить себе их незаконно полученную кожу."/>
+    <string id="INn1axcf" text="Хорошо, капитан, спасибо."/>
+    <string id="JI6Q9pQ7" text="Бандиты могут убивать так же, как и любые другие войска, при правильном использовании."/>
+    <string id="Jk3mDlU6" text="Да... У меня есть кое-какие проблемы. Несколько лет назад мне понадобились шкуры для моей кожевенной лавки, и я нанял нескольких охотников. Я не задавал слишком много вопросов о том, откуда у них взялись шкуры, которые они мне продали. Ну, это была небольшая ошибка. А теперь они объединились в банду и пытаются вытеснить меня из кожевенного дела."/>
+    <string id="JQKCPllJ" text="Вы уже высказали свою точку зрения."/>
+    <string id="jWavM9AD" text="Вы же бывали в разных концах света. Вы же знаешь, что наемники не святые."/>
+    <string id="l7Jt5tvt" text="Вот-так я зарабатываю себе на жизнь, и все твои убеждения ничего не поменяют. Уходи сейчас же!"/>
+    <string id="Lk6ln3sR" text="Мы расстались, но я счастлив, что нашел тебя. Присоединяйтесь ко мне, мы должны продолжить ваше обучение."/>
+    <string id="mvw1ayGt" text="Я здесь для того, чтобы выполнить работу, на которую согласился. Сдавайся или умри."/>
+    <string id="mwbYdaJr" text="{VICTIM.NAME} был казнен."/>
+    <string id="NacogXav" text="{VICTIM.LINK} был казнен."/>
+    <string id="NC2VGafO" text="Они освежевывают зверей в лесу, а после полуночи идут в деревню, чтобы спрятать шкуры. Думаю, крестьяне их просто боятся. Если вы пойдете в деревню поздно ночью, вы сможете их выследить."/>
+    <string id="QNV1b5s5" text="Эти браконьеры все еще в деле?"/>
+    <string id="S0NeQdLp" text="У вас был договор с {QUEST_GIVER.NAME}. Твоё слово - это твой залог, неважно на чьей ты стороне закона."/>
+    <string id="sLjGguGy" text="Конечно, они ублюдки. Но они будут верными ублюдками, если к ним хорошо относиться."/>
+    <string id="SqceZdzH" text="Конечно. Вот почему они дешевые. Ты получаешь то, за что платишь. "/>
+    <string id="UP0pMGDR" text="Здесь и так достаточно бандитов. Мне больше ничего не нужно в качестве &quot;аванса&quot;."/>
+    <string id="VJYEoOAc" text="Что ж... В этом есть смысл. Продолжать. Мы больше не будем вас беспокоить."/>
+    <string id="wglTyBbx" text="Спасибо тебе, дружище. Иди с миром."/>
+    <string id="wM77S68a" text="А что тут обсуждать?"/>
     <string id="WrJSUsBe" text="Support to king"/>
-    <string id="wwJGE28v" text="Negotiate with the poachers"/>
-    <string id="xF7he8fZ" text="Fight the poachers"/>
-    <string id="z1mdQhDB" text="Of course. Send them in ahead of your other troops. If they die, you don’t need to pay them."/>
-    <string id="zifRFhnq" text="Mercenary bonus"/>
-    <string id="zR356YDY" text="I have to say, they seem more like bandits than soldiers."/>
+    <string id="wwJGE28v" text="Договаривайтесь с браконьерами"/>
+    <string id="xF7he8fZ" text="Сразитесь с браконьерами"/>
+    <string id="z1mdQhDB" text="Конечно... Пошлите их вперед других ваших войск. Если они умрут, вам не придется больше платить им."/>
+    <string id="zifRFhnq" text="Бонус наемника"/>
+    <string id="zR356YDY" text="Я должен сказать, что они больше похожи на бандитов, чем на солдата."/>
     </strings>
 </base>
