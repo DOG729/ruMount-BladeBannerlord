@@ -188,7 +188,7 @@
     <string id="3j6Ec63l" text="Странствующие Слухи"/>
     <string id="3JfCwL31" text="Тебе сначала придется сразиться с нами![rf:idle_angry][ib:aggressive]"/>
     <string id="3KdaFFAS" text="OutOfShapeBuild"/>
-    <string id="3Kmkc3jQ" text="Yes my {?PLAYER.GENDER}lady{?}lord{\?}... Craftsmen like me are required to buy our raw materials from local merchants. But they're not offering reasonable prices. They've come together and agreed on a price that's just too high. They don't care if it ruins us. You could stop them with a decree."/>
+    <string id="3Kmkc3jQ" text="Да, {?PLAYER.GENDER}моя леди{?}мой лорд{\?}... Ремесленники, вроде меня, обязаны покупать сырье у местных торговцев. Но они не предлагают разумных цен. Они все собрались вместе и договорились о одинаковых ценах, которые просто безумно высокие. Им все равно, если это нас разорит. Вы можете остановить их указом... Этим самым помочь нам."/>
     <string id="3KpgHPlo" text="Законы {ISSUE_GIVER_SETTLEMENT} диктуют, что ремесленники могут продавать продукцию по той же цене, что и местные торговцы. И теперь они жалуются, что торговцы ставят завышенные цены."/>
     <string id="3lZPkiIZ" text="{NAME} the Tightfisted"/>
     <string id="3n1KRLpZ" text="'Моя любовь далеко,{newline}И не знаю я где.{newline}Возможно, ветра сообщат тайны мне'"/>
@@ -2526,7 +2526,7 @@
     <string id="TyultuzK" text="Это все, что мне нужно знать. Спасибо."/>
     <string id="tYVW8iQN" text="Поговорить с лидером армии"/>
     <string id="tzbXy8Nb" text="Навык медицины, теперь распостроняется и на врагов, снижая шанс смерти.{NEWLINE}(Полезно для захвата пленных)"/>
-    <string id="tzBybYcf" text="I am interested, who is this {?TARGET_HERO.GENDER}woman{?}man{\?}?."/>
+    <string id="tzBybYcf" text="Мне интересно, кто эта{?TARGET_HERO.GENDER} женщина{?}т мужчина{\?}?."/>
     <string id="tZqbrlV9" text="Как можете помочь вы?"/>
     <string id="TzqxgiQl" text="Мужчины говорят, что их зарплаты опаздывают. Лучше соблюдать свою часть сделки с ними, или они не могли держать их. Это особенно будет сложно, если они решили аннулировать свой контракт во время боя, не так ли?"/>
     <string id="TzvGs0v1" text="Ну я думаю, что это слишком поздно сейчас передумаешь, я решила сделать из тебя пример."/>
@@ -2540,7 +2540,7 @@
     <string id="u63WBQ5a" text="Более низкий штраф за проведение ударов по лошади"/>
     <string id="U7s1LycQ" text="Ссылается на скандинавскую практику назначения независимых старейшин, чтобы напомнить совету о законе и прошлых прецедентах. Это, как правило, благоприятствует тем, у кого есть образование, чтобы делать сложные юридические аргументы."/>
     <string id="U7sTASN4" text="{ISSUE_OWNER.LINK} is a Gang Leader from {QUEST_SETTLEMENT}, has told you that some bounty hunters captured some of {?ISSUE_OWNER.GENDER}her{?}his{\?} gang members and are holding them in their hideout. {?ISSUE_OWNER.GENDER}She{?}He{\?} wants them found and rescued. You agreed to send {TROOP_COUNT} of your men along with a {COMPANION.LINK} to find these bounty hunters and rescue {?ISSUE_OWNER.GENDER}her{?}his{\?} associates. They should be back in {RETURN_DAYS} days."/>
-    <string id="U90asNb9" text="Artisans in {SETTLEMENT} cannot continue their work because of the overpriced raw materials."/>
+    <string id="U90asNb9" text="Ремесленники в городе {SETTLEMENT} не могут продолжать свою работу из-за завышенных цен на сырье."/>
     <string id="u9oONz9o" text="Быстрое Развитие"/>
     <string id="U9z7rvX5" text="При всем уважении, ты совершаешь большую ошибку, и я думаю, что вы собираетесь сожалеть об этом."/>
     <string id="U9zFz8Et" text="The {SIEGE_ENGINE} of {SIEGED_SETTLEMENT_NAME} has been cracked."/>
