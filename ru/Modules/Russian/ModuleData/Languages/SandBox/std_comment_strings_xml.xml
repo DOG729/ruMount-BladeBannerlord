@@ -33,7 +33,6 @@
     <string id="8WLSZRZc" text="Хорошо. Что вы предлагаете?"/>
     <string id="8x8kVUGX" text="Отстаивайте права бедных и кротких, вдов и сирот, и Небеса примут это к сведению."/>
     <string id="99gE1ZoY" text="Я {CONVERSATION_CHARACTER.LINK}, из {FACTION}."/>
-    
     <string id="9ZHhYooG" text="Помните, как я победил вас, один на один? Вы вернулись за добавкой?"/>
     <string id="a55SAS18" text="У нас преимущество над вами. Сдавайтесь, и с вами будут хорошо обращаться.[ib:warrior][if:idle_angry]"/>
     <string id="a5LChqbr" text="Простому народу этих земель нужен кто-то, кто будет присматривать за ними. Вот где наше Братство необходимо. Вы услышите, что нас называют бандитами или грабителями. Не верьте ни единому слову."/>
@@ -194,7 +193,6 @@
     <string id="ufa20b2l" text="Я имею дело лишь с теми, кто держит свои клятвы. Если вы один из тех, кто не ценит свое слово, не тратьте мое время."/>
     <string id="Ufn3916B" text="Я слышал о вас. Итак, мы встретились. Я не из тех кто любит болтать, так что если у вас есть что сказать мне, говорите."/>
     <string id="v4nyY62z" text="Королева Стургитов"/>
-    
     <string id="vN4spwD1" text="Знайте, что если вы когда-нибудь помешаете мне, вы окажетесь едой для шакалов."/>
     <string id="vNnMHR84" text="Вы делаете себе услугу, {?PLAYER.GENDER}мадам{?}сир{\?}. Я не забуду этого.[if:happy][rb:very_positive]"/>
     <string id="VOExVZtX" text="Мне жаль. Мне не нравится кровопролитие, но я не могу позволить дать вам уйти, чтобы сражаться в другой день."/>
@@ -229,5 +227,9 @@
     <string id="zPbQs8Zt" text="Я могу предложить вам славную смерть в битве или гостеприимство моих темниц.[ib:warrior][if:idle_angry]"/>
     <string id="zwRbpQJ0" text="Я слышал о вас! Жаль, что мы встретились вот так."/>
     <string id="zZ9FQJRI" text="Я {CONVERSATION_CHARACTER.LINK}, из {CLAN_NAME}, самого древнего и благородного рода из Асераи."/>
-  <string id="EIThhVgG" text="I know your name. It's good to meet."/><string id="ETxtYU6C" text="So... You've made quite a name for yourself..."/><string id="o2aKr8JD" text="I've heard your name."/><string id="PQZfXcU1" text="I have heard your name. People speak of your deeds. It is good to finally meet you."/></strings>
+    <string id="EIThhVgG" text="I know your name. It's good to meet."/>
+    <string id="ETxtYU6C" text="So... You've made quite a name for yourself..."/>
+    <string id="o2aKr8JD" text="I've heard your name."/>
+    <string id="PQZfXcU1" text="I have heard your name. People speak of your deeds. It is good to finally meet you."/>
+    </strings>
 </base>
