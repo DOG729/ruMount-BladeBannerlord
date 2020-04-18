@@ -45,6 +45,7 @@
     <string id="1PwQxaOu" text="Preparations seem to be under way for a tournament. Prize is {ITEM}." />
     <string id="1pxLpZ4r" text="Calculating:" />
     <string id="1sJcKkVP" text="Guard" />
+    <string id="1wHTYnxh" text="You've supported the conspiracy against the Empire!" />
     <string id="1wkANMRC" text="Our plan is to try and hold this narrow pass." />
     <string id="1XVvU23F" text="Unable to use the clipboard text as body properties key!" />
     <string id="1Zq8mzzJ" text="Well now. Let's see what sort of fly has stumbled into our web." />
@@ -253,6 +254,7 @@
     <string id="a0YMy8E5" text="{REQUIRED_ITEM} is needed for upgrade." />
     <string id="a10WGnBr" text="FOUL! No fighting outside of the joust. You have been disqualified!" />
     <string id="a15eUf3B" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}are{?}is{\?} fighting enemy inside the walls." />
+    <string id="A1tkQyBb" text="{KINGDOM_NAME} is now defeated. You've failed!" />
     <string id="a3hmB91k" text="Build and operate siege engines. Successfully use engines in sieges offensively or defensively." />
     <string id="A3T5z4Mv" text="Defensive" />
     <string id="a3uKkLez" text="{LORD.LINK} is in the field nearby {SETTLEMENT_NAME}" />
@@ -307,7 +309,9 @@
     <string id="anHqaNK0" text="queen" />
     <string id="anrHk7ea" text="{PARTY} is leading the attack on the enemy. You'll be joining {?ARMY_COMMANDER_GENDER}her{?}him{\?} with your troops." />
     <string id="aNSAaHk9" text="Bagh Chal is a game of Sheep (white) versus Wolves (black).{newline}The wolves have four pawns that start on the four corners of the board. Every turn, one sheep is placed on the board, and one wolf makes a move or capture until all sheep have been placed on the board.{newline}After all sheep have been placed, the sheep can now also move on the board." />
+    <string id="AONnsaao" text="You are the leader of the Empire!" />
     <string id="aOvxxLZ8" text="Food Variety" />
+    <string id="Aph8CcKO" text="Free Attribute Points: You can use these points to increase attributes. You'll gain one free attribute for every {ATTRIBUTE_EVERY_LEVEL} levels you gain. " />
     <string id="ar2Y8Xs9" text="{LEFT}: " />
     <string id="aR4e8B2A" text="II" />
     <string id="arHXmqqc" text="a beg" />
@@ -480,6 +484,7 @@
     <string id="DJgeYv9X" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}are{?}is{\?} moving in reserve." />
     <string id="DjoYTx2w" text="Mercenaries cannot gather armies" />
     <string id="dKcvwi6V" text="Well well, look at this! You'd best start coughing up some silver, friend, or me and my boys'll have to break you." />
+    <string id="DKnL0IcO" text="You've destroyed the Empire!" />
     <string id="DKqLY1aJ" text="Equip" />
     <string id="dKXdN4BL" text="You are leading an army" />
     <string id="dLXZaEI1" text="Buying Foods" />
@@ -501,6 +506,7 @@
     <string id="Duoo5R2P" text="Arena Master" />
     <string id="DvecWeGT" text="Winter {DAY}, {YEAR}" />
     <string id="DvGueBrU" text="Linen" />
+    <string id="Dw3CViwY" text="You've defeated the Empire!" />
     <string id="dxtuFW8b" text="You put up quite a good fight there. Some very good moves. A few errors, sure, but you definitely show promise. And you earned a prize of {PRIZE}{GOLD_ICON} for knocking down {OPPONENT_COUNT} opponents." />
     <string id="DyarV8i7" text="There is already a proposed decision for this policy." />
     <string id="dyLYsWPf" text="Assuring Presence Perk Bonus" />
@@ -573,6 +579,7 @@
     <string id="FbcC2loc" text="You have been knocked unconscious and your opponent is granted victory!" />
     <string id="fd35ahzV" text="&lt;b&gt;Fire Ballista&lt;/b&gt;{NEWLINE}Shoots bolts with tips dipped in tar.{NEWLINE}They will deal fire damage to enemy siege engines and wooden structures as well as being deadly against soldiers." />
     <string id="FD9abtTo" text="If you wager 100&lt;img src=&quot;Icons\Coin@2x&quot;&gt; and win, you will get {NORMALIZED_EXPECTED_GOLD}&lt;img src=&quot;Icons\Coin@2x&quot;&gt;" />
+    <string id="FdTd3yIx" text="Changes you made cannot be applied. Do you want to reset and change the screen?" />
     <string id="fEqd7jXj" text="{EFFECT_NAME}: +{NUM}" />
     <string id="fEu5S6Bd" text="Distance" />
     <string id="fEXuXAl1" text="Army Morale : {ARMY_MORALE}{newline}{ARMY_MORALE_ITEMS}" />
@@ -736,7 +743,6 @@
     <string id="InGwtrWt" text="Quit" />
     <string id="inKr3PbA" text="Armies" />
     <string id="iNriAkLl" text="Used for increasing speed" />
-    <string id="ioBKEA6x" text="You can use free focus points for increasing your learning limit in individual skills. Characters earn one focus point evry time they level up." />
     <string id="ioKVFDcQ" text="{?AND} {?}and {\?}{SENTENCE_3} " />
     <string id="iOLa5rjZ" text="Grain is usually the cheapest food you can buy.{newline}{newline}Other types of food may grant various bonuses when consumed.{newline}{newline}Buy some food now." />
     <string id="IoLK7Lec" text="Base size" />
@@ -775,6 +781,7 @@
     <string id="Jd0Kq9lD" text="Shield" />
     <string id="jd4ULLGr" text="Active Quests" />
     <string id="JdNTRtpJ" text=" Maintain high morale in your party. Assemble and lead armies. " />
+    <string id="jEaglTuQ" text="You've united the Empire!" />
     <string id="Jelvod71" text="Capturing" />
     <string id="jfIbp2Hg" text="Follow Up: " />
     <string id="JflqTj4T" text="Misc." />
@@ -820,7 +827,6 @@
     <string id="k8PxNh7x" text="Shield V" />
     <string id="k8QpbFnj" text="Cape" />
     <string id="k9QvIYaR" text="Focus points are used to increase the learning rate at any skill." />
-    <string id="kA5tlKTz" text="Free Attribute Points: You can use these points to increase attributes. You'll gain one free attribute for every three levels you gain. " />
     <string id="ka7vAxgo" text="Charge at enemy {TARGET_FORMATION}" />
     <string id="KawqKhwh" text="Heavy Armor" />
     <string id="KC5AZohd" text="Greetings, traveler. Welcome to our forest. We're going to have to collect a small toll." />
@@ -856,6 +862,7 @@
     <string id="KTGG9EgL" text="Safe journeys! Don't let yourself get robbed by anyone but us!" />
     <string id="Ktk2FaFn" text="Parties ({CURRENT}\{LIMIT})" />
     <string id="KUEHAD4U" text="Quests" />
+    <string id="kUh3nsAF" text="You've found the third and final banner piece!" />
     <string id="kuKad3dj" text="{MISSION_MODE}" />
     <string id="kuLjsNgz" text="Rural Notable" />
     <string id="kvykuTJS" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}are{?}is{\?} attacking siege weapons." />
@@ -955,6 +962,7 @@
     <string id="MrtzlaYt" text="During battles, holding down the Alt key shows markers on enemy and allied formations." />
     <string id="mSPDO0Fe" text="You are trapped by enemies. You are not in no condition to fight. Your only option is to surrender." />
     <string id="MT4b8H9h" text="Unknown" />
+    <string id="mtndRgOg" text="You've started the conspiracy against the Empire!" />
     <string id="mTTWkewD" text="Give" />
     <string id="MUCmJaXQ" text="Ruler of {FACTION}" />
     <string id="MW8rlyfL" text="Thrown" />
@@ -1036,6 +1044,7 @@
     <string id="OhLXo0gb" text="Criminal Governor" />
     <string id="OIBpCGYv" text="This party will shrink in size. It's current size target is {TARGET_SIZE}" />
     <string id="OiCCv0EL" text="The village is going through hard times. Farm tools are rusty and broken. Brush and weeds are reclaiming the outermost fields. " />
+    <string id="OikiOJgf" text="You've found the second banner piece!" />
     <string id="oiSW6MyB" text="Chest Armor" />
     <string id="OJbpmlXu" text="Ranged" />
     <string id="OJmC1Ckc" text="Remaining opponent: {REMAINING_OPPONENT_COUNT}" />
@@ -1050,6 +1059,7 @@
     <string id="OPhlqUVl" text="Talk" />
     <string id="OpSGWdrk" text="Gangster" />
     <string id="OqCodBZJ" text="Stop there you dog! Show us what you've got!" />
+    <string id="oqEV14Lm" text="You've supported the conspiracy against the enemies of the Empire!" />
     <string id="oRaa1yls" text="Consumable" />
     <string id="OSZUvWbG" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}are{?}is{\?} ready." />
     <string id="ot2M62R8" text="+{BONUS_AMOUNT} xp bonus to garrison troops" />
@@ -1080,6 +1090,7 @@
     <string id="PE4nuMc7" text="This page explains the game concepts in Bannerlord" />
     <string id="PEKxMxal" text="STUB: You can now escape." />
     <string id="pEm60xEX" text="Your opponent captures a pawn." />
+    <string id="pERXhX7A" text="You've found the first banner piece!" />
     <string id="pftVKkgq" text="To keep track of a settlement on the campaign map, press the circle next to its name." />
     <string id="pgbC8UkU" text="Rebellion" />
     <string id="pgd7Dp78" text="Dwellings" />
@@ -1227,6 +1238,7 @@
     <string id="s5h0Yarn" text="Manage your army" />
     <string id="s6ofDDii" text="Barricade" />
     <string id="s9oED1IR" text="Skirmisher" />
+    <string id="SBp4Ja1u" text="You can use free focus points for increasing your learning limit in individual skills. Characters earn {FOCUS_PER_LEVEL} focus point every time they level up." />
     <string id="sbricRaZ" text="Earnings from Bets: {BET}" />
     <string id="SdcpdfaV" text="Hey - you. What you got in your bags? What are you carrying?" />
     <string id="SdXS4lxN" text="Faction Leader Bonus" />
@@ -1302,6 +1314,7 @@
     <string id="TvmDFK6o" text="{REWARD}" />
     <string id="TVQXa0y0" text="Battle won!" />
     <string id="Txbga7js" text="You come across a battle between {ATTACKER} and {DEFENDER}" />
+    <string id="Txbga7jx" text="Defenders make sally out to siege camp you are inside" />
     <string id="TxeKpK3Y" text="Your relation is increased by {MAGNITUDE} to {VALUE} with {HERO.NAME}." />
     <string id="tXl9REtA" text="Militia of {SETTLEMENT_NAME}" />
     <string id="Tyc4aAdz" text="Join the battle without leading any men." />
@@ -1364,6 +1377,7 @@
     <string id="v5bJd6mZ" text="+{BONUS_AMOUNT} bonus to prosperity change" />
     <string id="V7ESaOJU" text="Choose your banner" />
     <string id="v7HPTy2y" text="With a strong army at your behest, you can conquer an enemy castle or city. This looks like a good target to besiege." />
+    <string id="v8gFAT88" text="You've started the conspiracy against the enemies of the Empire!" />
     <string id="Vap6ahft" text="Men! {BEHAVIOUR_NAME_BEGIN}!" />
     <string id="VbeHEAsa" text="Retreat" />
     <string id="VbL6GFmy" text="Butter" />
@@ -1439,6 +1453,7 @@
     <string id="WSk5Sibs" text="Cheese" />
     <string id="WSoZkkqD" text="PrisonGuard" />
     <string id="wtDdqXGW" text="Well, I'm glad you respect our ancient and sacred privileges." />
+    <string id="wTEYR4kc" text="You've chosen to pledge your alliance to the {KINGDOM_NAME}!" />
     <string id="WTR5Lr8W" text="The defenders win when they can move their king to any edge of the board.{newline}The attackers win when they capture the king, or if they can prevent all defenders from moving." />
     <string id="wTT3Fyzl" text="sir" />
     <string id="WusvipsF" text="Insufficient funds!" />

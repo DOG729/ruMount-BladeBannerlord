@@ -74,7 +74,9 @@
     <string id="DRzsgjsD" text="I am {CONVERSATION_CHARACTER.LINK}, of the house of {CLAN_NAME}, one of the most illustrious families in the annals of the Empire." />
     <string id="dvpbyoAQ" text="I've heard of you. At last we meet. You sound like a good {?PLAYER.GENDER}woman{?}man{\?} to know. Let us speak together, from time to time." />
     <string id="DxuuarNT" text="I know your name -- and from what they say about you, I'd say that many a grieving widow knows too. But that is no concern of mine." />
+    <string id="EIThhVgG" text="I know your name. It's good to meet." />
     <string id="ELtT9ctL" text="You may know of the Skolderbroda. On the battlefield, we are second to none. We expect to be paid according to our worth, and that is not cheap, but if we take your coin, you will have our oath to honor the terms of the contract, to our death if necessary." />
+    <string id="ETxtYU6C" text="So... You've made quite a name for yourself..." />
     <string id="EXgm5Utx" text="Long may {?GENDER}she{?}he{\?} live!" />
     <string id="eyxfHmCU" text="I am {CONVERSATION_CHARACTER.LINK}, of the {CLAN_NAME}. Our family has served the kings of the Vlandians for generations." />
     <string id="f2eZL7w5" text="Oh, I suppose I'm obligated to give you a chance to grovel for your life. Will you surrender, then?[ib:warrior][if:idle_angry]" />
@@ -142,6 +144,7 @@
     <string id="Nq2dyiO1" text="I am {CONVERSATION_CHARACTER.LINK}, of the {CLAN_NAME}, a name you will have heard many times in the sagas of the Sturgians." />
     <string id="nRnbBnFq" text="I am? Well... I am grateful.[if:happy][rb:very_positive]" />
     <string id="NW1n9k45" text="Cousin." />
+    <string id="o2aKr8JD" text="I've heard your name." />
     <string id="O8wTipT2" text="Thank you. When you are finally defeated, I will request that your death be swift and merciful. Unless, that is, you care to join us... Good bye, for now.[if:happy][rb:very_positive]" />
     <string id="OgzAlCkk" text="I am still recovering from the bruises you gave me." />
     <string id="oIrz5050" text="Your highness" />
@@ -152,6 +155,7 @@
     <string id="PhTv43ve" text="Ah, yes. At last we meet. You sound like a good woman to know. Let us speak together, from time to time." />
     <string id="pn79h0aj" text="I am {CONVERSATION_CHARACTER.LINK}, of the {CLAN_NAME}. We received our title from the Emperor Vortios himself. Not that he had much choice about it, as he was held captive in one of our raiding ships at the time, but I'm sure he recognized the nobility of our blood." />
     <string id="pQkiu5qf" text="Would you like me to give you another task, so that you can betray me again?" />
+    <string id="PQZfXcU1" text="I have heard your name. People speak of your deeds. It is good to finally meet you." />
     <string id="pXULuzaq" text="I yield! You have won. Cursed be this day![rf:angry][rb:trivial]" />
     <string id="pZj9C1yA" text="The Heavens will shall be done. But those who smooth the path shall be rewarded." />
     <string id="q5nQGimE" text="I am {CONVERSATION_CHARACTER.LINK}, of the house of {CLAN_NAME}. Though one should not be too proud of one's lineage, I am glad to say that we have always taken seriously our duty to protect the common folk of the Empire." />

@@ -12,7 +12,6 @@
     <string id="154a34f8caccfc833238cc89d38861e8" text="Requires: " />
     <string id="1CXlqb2U" text="Pick:" />
     <string id="1oeak0OC" text="Forge" />
-    <string id="29kdPaeK" text="This hero is busy" />
     <string id="2abtb4xu" text="Independent" />
     <string id="2ckyCKR7" text="Reserve" />
     <string id="2Cq3tViJ" text="Party Troop Size Limit" />
@@ -21,13 +20,13 @@
     <string id="3025020b83b218707499f0de3135ed0a" text="Maneuver: " />
     <string id="305cf7f98458b22e9af72b60a131714f" text="Horse Armor: " />
     <string id="345a87fcc69f626ae3916939ef2fc135" text="Swing Speed: " />
-    <string id="3ab000d582d2f304e8bed9109ff147a2" text="Consumable" />
     <string id="3CpNUnVl" text="Cancel" />
     <string id="3F0y3ugx" text="Success!" />
     <string id="3ORSs1nN" text="Current bonus: {BONUS}" />
     <string id="3sxtCWPe" text="Leaving Kingdom" />
     <string id="43HYUImy" text="{SETTLEMENT}'s Siege" />
     <string id="4cU98rkg" text="Smelting" />
+    <string id="4Dd2xgPm" text="Weight" />
     <string id="4U9EnZt5" text="Critical Success!" />
     <string id="4uMWNDoi" text="Thrust Speed" />
     <string id="51ZgFP8d" text="Running From {TARGET_PARTY}." />
@@ -39,10 +38,12 @@
     <string id="63Ic1Ahe" text="Cost: {UPGRADE_COST} (You don't have)" />
     <string id="68IlDbA2" text="You need to have {PERK_NAME} perk to upgrade a bandit troop to a normal troop." />
     <string id="6adabc1f82216992571c3e22abc164d7" text="Ammo Limit: " />
+    <string id="6GSXsdeX" text="Speed" />
     <string id="74dc1908cb0b990e80fb977b5a0ef10d" text="Speed: " />
     <string id="7h6cXdW7" text="Engineer" />
     <string id="7tBOCHm6" text="Sigil Color:" />
     <string id="7Xynf4IA" text="Hand Armor" />
+    <string id="8BlMRMiR" text="Horse Tier" />
     <string id="8cad4a279770f269c4bb0dc7a357ee1e" text="Class: " />
     <string id="8SOh9bah" text="Choose Production" />
     <string id="92M0Pb5T" text="Scout" />
@@ -62,6 +63,7 @@
     <string id="aVH7pKnK" text="Next Bonus: {BONUS}" />
     <string id="AxRxT2Xj" text="Once a party is disbanded, it merges into a near clan party or goes to nearest map faction settlement and joins its garrison.\nYou will not be able to undo / cancel this action.\nAre you sure?" />
     <string id="B0pFBs5P" text="Running From {TARGET_PARTY}" />
+    <string id="bAqDnkaT" text="Missile Speed" />
     <string id="bd7oAQq6" text="Daily" />
     <string id="bdp65LWd" text="Clan Role" />
     <string id="bfQLwMUp" text="Clans" />
@@ -80,6 +82,7 @@
     <string id="cbbUzYX3" text="Difficulty: {DIFFICULTY}" />
     <string id="CExQ40Ux" text="{PARTY_1S_MEMBERS}   " />
     <string id="cf61cce254c7dca65be9bebac7fb9bf5" text="Arm Armor: " />
+    <string id="cnmRwV4s" text="Ammo Limit" />
     <string id="CnsIzaWo" text="Field Battle" />
     <string id="cUUI8u2G" text="Smithy Stamina" />
     <string id="d2K6gMsZ" text="Leave members. Need at least 1 companion." />
@@ -88,10 +91,13 @@
     <string id="DNq9bdvV" text="{THRUST_DAMAGE_FACTOR}" />
     <string id="dO95yR9b" text="Thrust Damage" />
     <string id="Dqydb21E" text=" {PARTY_SIZE}" />
+    <string id="dWYm9GsC" text="Requires" />
     <string id="DzviXC3W" text="Level:" />
     <string id="e8390c3480028e34c370c7b60ebc41e2" text="Horse Type: " />
     <string id="ebbyLN2i" text="Towns" />
+    <string id="eHVq6yDa" text="Item Properties" />
     <string id="eikN2SUN" text="Last Run {DAYS} days ago." />
+    <string id="eIws123Z" text="Leg Armor" />
     <string id="EQHq3bHM" text="Travelling to {TARGET_PARTY}" />
     <string id="ErnykQEH" text="Outputs" />
     <string id="eTw2aNV5" text="+" />
@@ -118,6 +124,8 @@
     <string id="HFZdseH9" text="Only the ruler of the kingdom can change it's name." />
     <string id="HHTQVp52" text="Heroes Healing Rate" />
     <string id="hJypvWMR" text="Refine" />
+    <string id="HkfY3Ds5" text="Body Armor" />
+    <string id="hn9TPqhK" text="Weapon Tier" />
     <string id="horseTier" text="Horse Tier: " />
     <string id="hr4MuPnt" text="Required Materials" />
     <string id="hTzTMLsf" text="View Distance" />
@@ -147,6 +155,7 @@
     <string id="JYOcl7Ox" text="Ineffective!" />
     <string id="JzrodcIR" text="There is no one available in your clan who can govern this settlement right now." />
     <string id="k1E9DuKi" text="Select All" />
+    <string id="kftE5nvv" text="Horse Armor" />
     <string id="knwId8DG" text="You cannot assign a prisoner as a governor of a settlement" />
     <string id="koX9okuG" text="None" />
     <string id="kqeA8rjL" text="Are you sure you want to disband your army?" />
@@ -154,9 +163,11 @@
     <string id="KTKBKmvp" text="Thrust Damage Factor " />
     <string id="KTTyBbsp" text="Max HP" />
     <string id="kWVbHPtT" text="Total" />
+    <string id="kx7q8ybD" text="Arm Armor" />
     <string id="LBNzsqyb" text="Fiefs" />
     <string id="lc9s4rLZ" text="Create Army" />
     <string id="LEiZWuZm" text="{SKILL_NAME}: {SKILL_VALUE}" />
+    <string id="lGWb26Lj" text="This hero is busy with a quest." />
     <string id="LpsoPtOo" text="Projects" />
     <string id="LsZEdD2z" text="Walls" />
     <string id="LVmkE2Ow" text="Battle Ready Troops" />
@@ -164,10 +175,12 @@
     <string id="lxwGbRwu" text="x {SHOP_DIFFERENCE_COUNT}" />
     <string id="McJjNM50" text="Cost: {UPGRADE_COST}" />
     <string id="mDFhzEMC" text="Max. Hit Points" />
+    <string id="Mfbc4rQR" text="Charge Damage" />
     <string id="mg7id9om" text="Number of Consumable Items" />
     <string id="mGUSMpTX" text="Coffers" />
     <string id="mp68RYnD" text="Party Size Limit" />
     <string id="MqCH7R4A" text="Security" />
+    <string id="myMbtwXi" text="Morale Bonus" />
     <string id="N63XYX2r" text="Support" />
     <string id="N6QTvjMf" text="Prisoners" />
     <string id="NAA4pajB" text="You need to leave your current army to create a new one." />
@@ -176,6 +189,7 @@
     <string id="nMcvafHY" text="Active" />
     <string id="NRpbagbZ" text="Running to {TARGET_PARTY}" />
     <string id="nYYUQQm0" text="Swing Damage Factor " />
+    <string id="O3dhjtOS" text="Head Armor" />
     <string id="oBbiVeKE" text="Hit Points" />
     <string id="ocSW4WA2" text="Critical Fail!" />
     <string id="oibdTnXP" text="Handling" />
@@ -210,6 +224,7 @@
     <string id="QlbkxoSp" text=" {TOOLTIP_TROOPS} ({PARTY_SIZE})" />
     <string id="qRqnrtdX" text="Owner" />
     <string id="qSi4DlT4" text="Food" />
+    <string id="QSPrSsHv" text="No Saddle!" />
     <string id="QXBf26Rv" text="Unknown Behavior" />
     <string id="QyVbwGLp" text="{PARTY_SIZE}" />
     <string id="qZvNIVGV" text="There is no one available in your clan who can lead a party right now." />
@@ -218,16 +233,21 @@
     <string id="Raa4j4rF" text="Required: {UPGRADE_ITEM}" />
     <string id="RClxLG6N" text="Holding" />
     <string id="redwEIlW" text="Quartermaster" />
+    <string id="rg7OuWS2" text="Maneuver" />
     <string id="rgqA29b8" text="You don't have enough {SKILL_NAME} skill to equip this item" />
     <string id="rGy8vjOv" text="Defending {TARGET_SETTLEMENT}." />
     <string id="Rkh2k1OA" text="Completion:" />
     <string id="rsHPaaYZ" text="Cohesion needs to be lower than {MINAMOUNT} to boost" />
     <string id="rThSy9ed" text="Required: {UPGRADE_ITEM} (You have none)" />
     <string id="RVPidk5a" text="Influence" />
+    <string id="s31DnnAf" text="Damage" />
     <string id="s5b77f0H" text="Add +{BOOSTAMOUNT} cohesion to your army" />
     <string id="s6koeapc" text="{MAP_FACTION}" />
+    <string id="S9tmCkHz" text="This hero is clearing a common area" />
+    <string id="sa2TQu1G" text="This hero is busy with an issue." />
     <string id="Sls0KQVn" text="Elections" />
     <string id="slzfQzl3" text="This hero is lost" />
+    <string id="sqdzHOPe" text="Class" />
     <string id="Srr4rOSq" text="Transfer All Other Prisoners" />
     <string id="SVJlOYCB" text="Party has less men than 40% of it's party size limit." />
     <string id="sVsaWZjg" text="Transfer All Other Troops" />
@@ -243,11 +263,13 @@
     <string id="Te4xxzzK" text="Current Denars" />
     <string id="tf7301NC" text="Healing Rate" />
     <string id="tFGM0yav" text="This party is disbanding." />
+    <string id="twtbH1zv" text="Stack Amount" />
     <string id="TzLtVzdg" text="Wounded Troops" />
     <string id="UbZL2BJQ" text="Hitpoints" />
     <string id="UHLcmf9A" text="Party Prisoner Size Limit" />
     <string id="uJro3Bua" text="Over Limit" />
     <string id="uoDuiBZR" text="You cannot assign yourself as a governor" />
+    <string id="US7UmBbt" text="Armor Tier" />
     <string id="UxAl9iyi" text="Personal" />
     <string id="v3OF6vBg" text="Yield" />
     <string id="Ve5jkJqf" text="Auto Offer" />
@@ -257,6 +279,7 @@
     <string id="vOojEcIf" text="You cannot assign a prisoner member as a new party leader" />
     <string id="Vq8yavES" text="Already in army." />
     <string id="VtWa9Pmh" text="Raiding {TARGET_SETTLEMENT}." />
+    <string id="VzCoqt8D" text="No sadle equipped. -10% penalty to mounted speed and maneuver." />
     <string id="VZjxs5Dt" text="Owner of " />
     <string id="W1tsTWZv" text=" {PARTY_MEMBER.LINK} ({MEMBER_HEALTH}%)" />
     <string id="w8Yzf0F0" text="Destroyed" />
@@ -277,6 +300,7 @@
     <string id="xwRWjlar" text="Background Color:" />
     <string id="xXSFaGW8" text="Disband" />
     <string id="XYAVu2f0" text="Chasing {TARGET_PARTY}." />
+    <string id="XzggyCPW" text="This hero is busy." />
     <string id="YbGu9rSH" text="This character is already the governor of {SETTLEMENT_NAME}" />
     <string id="ybLA7ZXp" text="Already at Max" />
     <string id="YifFZaG7" text="Party Owner" />
@@ -285,7 +309,9 @@
     <string id="yUVv3z5V" text="Patrolling around {TARGET_SETTLEMENT}." />
     <string id="z8h0BRAb" text="Keep all holdings" />
     <string id="zawBaxl5" text="Distance : {DISTANCE}" />
+    <string id="ZcybPatO" text="Weapon Length" />
     <string id="zMMqgxb1" text="Type" />
+    <string id="ZUgoQ1Ws" text="Horse Type" />
     <string id="zWaCtOJU" text="{SETTLEMENTS}" />
     <string id="zWaVxD6T" text="Party Speed" />
     <string id="zZlWRZjO" text="Wars" />

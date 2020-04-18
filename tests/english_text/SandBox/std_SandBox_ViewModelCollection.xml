@@ -35,7 +35,6 @@
     <string id="nvemmBZz" text="You earned {AMOUNT}% of the loot and prisoners" />
     <string id="O9nwLrYp" text="+{WOUNDEDAMOUNT}w" />
     <string id="oBbiVeKE" text="Hit Points" />
-    <string id="oHaWR73d" text="Ok" />
     <string id="Q1HIlJxe" text="Overwrite" />
     <string id="QHV8aeEg" text="Delete Save" />
     <string id="qIeDZoSx" text="Purchased" />
@@ -43,7 +42,6 @@
     <string id="R2AaCaPJ" text="Expected Change" />
     <string id="raD9MK3O" text="Difficulty" />
     <string id="RVPidk5a" text="Influence" />
-    <string id="UwuYCgIU" text="Caution" />
     <string id="V4iU0wRv" text="Gold" />
     <string id="WAKz9xX8" text="You gained {A0} morale." />
     <string id="WDlVhNuq" text="Name your save file" />
@@ -52,6 +50,5 @@
     <string id="xzzSaN4b" text="Expected: {OVERALL_EXPECTED_DENARS}" />
     <string id="yF5fpwNE" text="Total: {TOTAL}" />
     <string id="YgyHVu8S" text="Sold" />
-    <string id="YXgNatqF" text="This save's version doesn't correspond to current game's version. Proceed with caution." />
   </strings>
 </base>
