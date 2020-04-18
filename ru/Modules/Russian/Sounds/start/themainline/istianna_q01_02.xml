@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rhubarbResult>
+  <metadata>
+    <soundFile>K:\Develop\MB3\WOTS\Sounds\VO\mainquest\mntemp_q01_02.ogg</soundFile>
+    <duration>1.73</duration>
+  </metadata>
+  <mouthCues>
+    <mouthCue start="0.00" end="0.51">X</mouthCue>
+    <mouthCue start="0.51" end="0.70">B</mouthCue>
+    <mouthCue start="0.70" end="0.77">C</mouthCue>
+    <mouthCue start="0.77" end="0.97">B</mouthCue>
+    <mouthCue start="0.97" end="1.44">F</mouthCue>
+    <mouthCue start="1.44" end="1.73">X</mouthCue>
+  </mouthCues>
+</rhubarbResult>
