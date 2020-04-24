@@ -470,6 +470,7 @@
     <string id="D8Wjbw9K" text="I got captured, but later managed to escape" />
     <string id="D9WJXQ9Z" text="Reject" />
     <string id="DaE0N37L" text="Notables" />
+    <string id="DaX6bsaD" text="{CLAN_PARTY_NAME} is attacked by {ENEMY_PARTY_NAME} near {SETTLEMENT_NAME}" />
     <string id="dbdliaP3" text="my wife {REFERING_HERO.LINK}" />
     <string id="DbHLHwkX" text="Smelt" />
     <string id="DBU4VaIl" text="Bandit Faction" />
@@ -522,11 +523,11 @@
     <string id="EAicirVE" text="Fearless" />
     <string id="eaIQXj6O" text="Free attribute points: {NUMBER}" />
     <string id="ealIwlQH" text="Defending {SETTLEMENT_NAME}" />
-    <string id="eavr4x8n" text="Daily Production:" />
+    <string id="eavr4x8n" text="Construction:" />
     <string id="eb0nLx5E" text="Aserai Sultanate" />
     <string id="EbB9y2zZ" text="Declare War" />
     <string id="eDVvDS1i" text="Villagers" />
-    <string id="EegxpPka" text="+{BONUS_AMOUNT} bonus to hammers" />
+    <string id="EegxpPka" text="+{BONUS_AMOUNT} bonus to construction" />
     <string id="eEmbb1MR" text="Production(s)" />
     <string id="EHkzaZBi" text="Tournament of {SETTLEMENT_NAME}" />
     <string id="eIws123Z" text="Leg Armor" />
@@ -701,7 +702,7 @@
     <string id="hSsS5xAa" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}are{?}is{\?} waiting for other siege machines to arrive." />
     <string id="HuCClZqT" text="Wage" />
     <string id="hVmamTJX" text="Gain party morale from food variety (Quartermaster). Improve settlement prosperity and build projects (Governor). Spend time in your settlements (Clan Leader)." />
-    <string id="HWSKCne0" text="Boosting a project x2 speed for 1 day costs 500&lt;img src=&quot;Icons\Coin@2x&quot;&gt;" />
+    <string id="HWSKCne0" text="Boosting a project adds +50 construction and costs 500&lt;img src=&quot;Icons\Coin@2x&quot;&gt;/day." />
     <string id="Hx47TGrA" text="Hard" />
     <string id="hYgmzZJX" text="Denars" />
     <string id="HYVQKIhh" text="Defender Army" />
