@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
   <tags>
     <tag language="Русский"/>
   </tags>
-<strings>
+  <strings>
     <string id="0xC75dN6" text="Вражеский отряд"/>
     <string id="1cnJtNTt" text="({KEY}) Вытащить"/>
     <string id="1CPdu9K0" text="Камень"/>
@@ -20,7 +20,7 @@
     <string id="bWi4aMO9" text="Бочка со стрелами"/>
     <string id="F9AQxCax" text="Вилы"/>
     <string id="fEQAPJ2e" text="({KEY}) Использовать"/>
-    <string id="G0AWk1rX" text="Лестница"/> 
+    <string id="G0AWk1rX" text="Лестница"/>
     <string id="gqQPSAQZ" text="({KEY}) Покинуть арену"/>
     <string id="hOSafKZ9" text="Новая игра в режиме {GAME_TYPE} начнётся на {SCENE_NAME}"/>
     <string id="hvQSOi79" text="Бот"/>

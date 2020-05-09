@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
   <tags>
     <tag language="Русский"/>
@@ -8,5 +8,6 @@
     <string id="3CpNUnVl" text="Отменить"/>
     <string id="Eg3m6vUS" text="Настройте свой персональный баннер, выбрав символ вашего клана "/>
     <string id="WiNRdfsm" text="Выполнить"/>
-  <string id="ObTXSp9L" text="Cannot paste before selecting the correct template."/></strings>
+    <string id="ObTXSp9L" text="Cannot paste before selecting the correct template."/>
+  </strings>
 </base>

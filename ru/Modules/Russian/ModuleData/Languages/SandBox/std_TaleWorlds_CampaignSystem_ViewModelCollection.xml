@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
   <tags>
     <tag language="Русский"/>
@@ -315,5 +315,5 @@
     <string id="ZUgoQ1Ws" text="Horse Type"/>
     <string id="QSPrSsHv" text="No Saddle!"/>
     <string id="VzCoqt8D" text="No sadle equipped. -10% penalty to mounted speed and maneuver."/>
-    </strings>
+  </strings>
 </base>

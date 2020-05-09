@@ -1,16 +1,16 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
   <tags>
     <tag language="Русский"/>
   </tags>
   <strings>
-	<string id="7ZhNilg8" text="Легко (5% бонус)"/>
-	<string id="9jSxo790" text="Реалистично"/>
-	<string id="AQfVclN8" text="Приз"/>
-	<string id="B0uvwKae" text="Герои могут умереть на поле боя."/>
-	<string id="bLwIgxXa" text="Сложность набора войск"/>
-	<string id="cA1D2Ua3" text="Вам нужно улучшить отношения со знатью, чтобы открыть все их войска."/>
-	<string id="carorTAF" text="Уменьшен до 2/3 (Легко)"/>
+    <string id="7ZhNilg8" text="Легко (5% бонус)"/>
+    <string id="9jSxo790" text="Реалистично"/>
+    <string id="AQfVclN8" text="Приз"/>
+    <string id="B0uvwKae" text="Герои могут умереть на поле боя."/>
+    <string id="bLwIgxXa" text="Сложность набора войск"/>
+    <string id="cA1D2Ua3" text="Вам нужно улучшить отношения со знатью, чтобы открыть все их войска."/>
+    <string id="carorTAF" text="Уменьшен до 2/3 (Легко)"/>
     <string id="cUHlzCRx" text="Разрешить смерть"/>
     <string id="D9GkBqyW" text="Вы можете покинуть тренировочное поле зажав [{LEAVE_KEY}]{newline}Вы можете вернуться в любое время с глобальной карты."/>
     <string id="DFMhzFGV" text="Несколько дополнительных лошадей в вашем инвентаре могут значительно ускорить ваш отряд, так как они увеличат вашу грузоподъемность, а пехота будет ехать на запасных лошадях. Вьючные лошади и мулы полезны только для перевозки грузов."/>
@@ -35,7 +35,6 @@
     <string id="QzmJL5I7" text="Легко (1 доп.)"/>
     <string id="raD9MK3O" text="Сложности"/>
     <string id="ReNnVfEn" text="Изменить Название Королевства "/>
-    <string id="RyNYEVYp" text="{RANK}."/>
     <string id="RZFAxCMp" text="Очень легко (10% бонус)"/>
     <string id="sp8Kred0" text="Member должен быть в отряде игрока, чтобы сделать это действие."/>
     <string id="TZ9ugd1p" text="Автоматически распределять навыки членам клана"/>
@@ -50,5 +49,5 @@
     <string id="LfpteADn" text="Определите сложность боевого ИИ"/>
     <string id="RjjIbn4V" text="Ветеран"/>
     <string id="sYVFg9ai" text="Боевая сложность ИИ"/>
-    </strings>
+  </strings>
 </base>

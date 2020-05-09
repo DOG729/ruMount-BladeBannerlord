@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
   <tags>
     <tag language="Русский"/>
@@ -184,5 +184,6 @@
     <string id="zMbYCQa5" text="Средний Балл:"/>
     <string id="Zv1lg272" text="Оффлайн"/>
     <string id="zxBBzoTH" text="Дуэль {DUEL_NAME} начнётся через {DUEL_REMAINING_TIME} секунд."/>
-  <string id="aalbxe7z" text="Army Size, when the game option of Number Of Bots Per Formation is set to {OPTION_VALUE}"/></strings>
+    <string id="aalbxe7z" text="Army Size, when the game option of Number Of Bots Per Formation is set to {OPTION_VALUE}"/>
+  </strings>
 </base>

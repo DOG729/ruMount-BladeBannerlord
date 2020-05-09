@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
   <tags>
     <tag language="Русский"/>
   </tags>
-<strings>
+  <strings>
     <string id="0W4dgUho" text="Заблокирован игрой до {BANNEDUNTIL}, по причине: {BANREASON}"/>
     <string id="2xOyWxIo" text="Игрок не состоит в отряде."/>
     <string id="4XDu4Qcd" text="Только лидер отряда может исключать игроков."/>
@@ -43,5 +43,9 @@
     <string id="xMa4QqvL" text="Сейчас в отряде состоят следующие игроки: {PLAYERS}"/>
     <string id="ysfEQO6c" text="Не получилось найти игрока"/>
     <string id="zyDyPr4I" text="Игрок, которого вы пытаетесь повысить, не состоит в вашем отряде."/>
+    <string id="3EOP6yhO" text="You have been kicked by anti-cheat. Reason: {KICKREASON}"/>
+    <string id="AIgw3aFG" text="Cannot queue to battle because some of the players are blocked from matchmaking."/>
+    <string id="P0aRStg4" text="Cannot queue to battle because you are blocked from matchmaking."/>
+    <string id="UMNzrvvJ" text="You are blocked from matchmaking for {PUNISHMENTDURATION} seconds."/>
   </strings>
 </base>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Русский" />
+  </tags>
+   <functions>
+	<function functionName="MAX" functionBody="{?$0&gt;$1}{$0}{?}{$1}{\?}"/>
+	<function functionName="POW2" functionBody="{?$0==0}1{?}{2*POW2($0 - 1)}{\?}"/>
+	<function functionName="FIB" functionBody="{?$0 &lt; 2}1{?}{FIB($0 - 1)+FIB($0 - 2)}{\?}"/>
+	<function functionName="ADDITION" functionBody="$0+$1"/>
+  </functions>
+</base>

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
   <tags>
     <tag language="Русский"/>
@@ -617,5 +617,9 @@
     <string id="TybJcG0A" text="Очень низкий (64) "/>
     <string id="urbLiiQJ" text="Настройка экспозиции"/>
     <string id="zzonsjpL" text="Высокий (512)"/>
+    <string id="a8MvWaSN" text="Force VSync in Menus (i.e. Lobby, Inventory, Party, Character, Quest etc.)"/>
+    <string id="Hj1bsSbW" text="Force VSync in Menus"/>
+    <string id="jOGbGqOC" text="Enable Vertical Aim Correction"/>
+    <string id="TRmaxjal" text="Enable vertical aim correction while in third person mode."/>
   </strings>
 </base>
