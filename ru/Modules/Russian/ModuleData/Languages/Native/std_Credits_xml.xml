@@ -1,179 +1,179 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
   <tags>
-    <tag language="Русский" />
+    <tag language="Русский"/>
   </tags>
   <strings>
-    <string id="0iqsdT4L" text="Additional Art" />
-    <string id="0zLob1Uu" text="The following middleware is licensed under the Modified BSD License: EASTL Copyright (c) 2019 Electronic Arts, Google Protobuf Copyright (c) 2008 Google Inc., libvpx Copyright (c) 2010, The WebM Project authors. All rights reserved." />
-    <string id="124SWOY7" text="Additional Development" />
-    <string id="1o8XTS6h" text="© 2020 Microsoft. All rights reserved." />
-    <string id="1sSyroGW" text="Platforms" />
-    <string id="1TA2ok5f" text="Audio Director" />
-    <string id="3wIV0yeG" text="Additional Voice Production" />
-    <string id="4lLLxfsS" text="Recast Navigation Copyright (c) 2009 Mikko Mononen memon@inside.org" />
-    <string id="4YGPcAex" text="Forum Administration" />
-    <string id="54pMbaF2" text="End Notes" />
-    <string id="6ILbDR4E" text="2. Altered source versions must be plainly marked as such, and must not be misrepresented as being the original software." />
-    <string id="6KLTgVjs" text="Music Production" />
-    <string id="6Zh3MbFr" text="© 2005 - 2020 TaleWorlds Entertainment, Mount &amp; Blade, Bannerlord and related logos are trademarks of TaleWorlds Entertainment. All rights reserved. All other trademarks, logos and copyrights are the property of their respective owners." />
-    <string id="7ts7yUDj" text="Music from Mount &amp; Blade: Warband" />
-    <string id="87hekX7g" text="Jesse Connell (Director and Recording Engineer)" />
-    <string id="88epcrzC" text="Technical Partners" />
-    <string id="8W319Y82" text="PR Specialist " />
-    <string id="9Qnsmtnk" text="Lead Designers" />
-    <string id="9xYBf6iD" text="Head of Translation " />
-    <string id="a5VEvbBS" text="PSAI music Authoring" />
-    <string id="AbeJXITr" text="Helene Rousse Total Casting (Additional Voices Casting)" />
-    <string id="AgVIPVAB" text="This software is provided 'as-is', without any express or implied warranty. In no event will the authors be held liable for any damages arising from the use of this software." />
-    <string id="aOwwPVPz" text="Legal" />
-    <string id="AwKkvVWB" text="Human Resources" />
-    <string id="AzT61ffc" text="Project Management" />
-    <string id="bDxhbyBg" text="Made with FMOD Studio by Firelight Technologies Pty Ltd." />
-    <string id="bEVvtWDo" text="Game Design" />
-    <string id="BgbbQQxP" text="Turkish " />
-    <string id="bmLOhQHE" text="Studio Heads" />
-    <string id="bmv8GFKD" text="French, German, Italian, Portuguese - Brazilian and Spanish - LatAM. " />
-    <string id="BQTgNsay" text="3. This notice may not be removed or altered from any source distribution." />
-    <string id="BS9Lqja4" text="Arranged by Finn Seliger" />
-    <string id="buLA3an1" text="Product Marketing" />
-    <string id="bvbTt1C3" text="Japanese, Korean, Polish and Russian" />
-    <string id="BVkruRfe" text="Platform Coordinator" />
-    <string id="c3oPbuE0" text="Review &amp; Editing" />
-    <string id="c4uLbAk2" text="Simplified Chinese &amp; Traditional Chinese:" />
-    <string id="CbzAMeSf" text="Additional Exclusive and Non-exclusive Music" />
-    <string id="cKhUXNAk" text="Interactive music middleware psai by Periscope Studio UG &amp; Co. KG" />
-    <string id="cLVGvJRV" text="Composed and performed by Daniel Fredriksson" />
-    <string id="ctc5D9FL" text="Art Team Lead" />
-    <string id="DT32QT8j" text="Engine Team Lead " />
-    <string id="dujedylV" text="2. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution." />
-    <string id="DxzisJKO" text="Operations" />
-    <string id="dyJTXTrH" text="Ali Shiby (Oud)" />
-    <string id="EtnQWZkE" text="Voice Production Cast" />
-    <string id="EzpUaovY" text="Motion Capture" />
-    <string id="F4PvNJrS" text="3. Neither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission." />
-    <string id="FbvKfN2j" text="Forum Programming" />
-    <string id="fEnidUaD" text="Forum Moderation Team" />
-    <string id="FPdGPPtD" text="Backend Programmers" />
-    <string id="G0ocXSx0" text="Composed by J. S. Hopkins" />
-    <string id="G5ERyhKK" text="MIT License" />
-    <string id="g9A0YLeG" text="The following middleware is licensed under the Apache License, Version 2.0: JetBrains.Annotations Copyright 2007-2011 JetBrains s.r.o. Software Occlusion Culling Copyright 2017 Intel Corporation, GCE-Math Copyright (C) 2016-2019 Keith O'Hara." />
-    <string id="gc3ZaCea" text="IT Assistant" />
-    <string id="gdhSuMiM" text="Neither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission." />
-    <string id="GgNXPtra" text="Game Systems Team Lead" />
-    <string id="gU8aYXYV" text="Community" />
-    <string id="Gz6ZWpny" text="UI Programmers" />
-    <string id="h2byL281" text="From Lithuania" />
-    <string id="hdh8DSHk" text="German Localization" />
-    <string id="hDIgNVBV" text="Purchasing" />
-    <string id="hRJrv2sB" text="Multilanguage Project Management " />
-    <string id="i4bYuyGT" text="Website frontend" />
-    <string id="I9KEqapI" text="Project Managers" />
-    <string id="ia6lOF0f" text="Uses Telemetry.  Copyright (C)  2009-2020 by RAD Game Tools, Inc." />
-    <string id="IDSuJSgW" text="Special Thanks" />
-    <string id="j0XlgbXO" text="Sulamith Bowinkelmann (Violin)" />
-    <string id="j4zzGaNK" text="Development Lead" />
-    <string id="J63KwTme" text="you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an &quot;AS IS&quot; BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License." />
-    <string id="J6roOUmV" text="Licensed under the Apache License, Version 2.0 (the &quot;License&quot;);" />
-    <string id="jGXauhYH" text="Italian Localization" />
-    <string id="JKCounzE" text="Video" />
-    <string id="k5hLPEvV" text="Cinematics" />
-    <string id="KavlbhOa" text="Brand Designs" />
-    <string id="kjsaMvYK" text="Office Support" />
-    <string id="kmTHnu7N" text="Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:" />
-    <string id="KZaLQD23" text="3D Artists" />
-    <string id="L3iyUeut" text="External Partners" />
-    <string id="lft1JGnv" text="Gregg Jonasson (Producer)" />
-    <string id="Lmi0RnrQ" text="Assistant Producers" />
-    <string id="mcwsvqeV" text="Website" />
-    <string id="mjiPGeaA" text="Illustration" />
-    <string id="mKwTaD83" text="Finance" />
-    <string id="MQa7CgqF" text="Ferren Freitas (Percussions)" />
-    <string id="myaC3BZR" text="Steam Community Moderation Team" />
-    <string id="N2rnSKY0" text="Character Artists" />
-    <string id="N63XYX2r" text="Support" />
-    <string id="nbN8JdQt" text="Public Relations Partners" />
-    <string id="NdlwtaGj" text="Additional Instrument Recordings" />
-    <string id="niSw5MFS" text="Legal Notices" />
-    <string id="NjgkbvaY" text="Localization" />
-    <string id="NXpjWNys" text="Studio Administration &amp; Operations" />
-    <string id="O03UudTV" text="Portuguese Localization (Brazilian)" />
-    <string id="oebbeWtK" text="1. The origin of this software must not be misrepresented; you must not claim that you wrote the original software. If you use this software in a product, an acknowledgment in the product documentation would be appreciated but is not required." />
-    <string id="oMVL32vx" text="Technical Artists" />
-    <string id="opGawi8D" text="AI Programmers" />
-    <string id="OtgIVbBo" text="Volunteers" />
-    <string id="OTXMIRE3" text="Website &amp; Forum designers" />
-    <string id="OU8xH8HP" text="Platform Engineer" />
-    <string id="OwWmriyd" text="Additional Voice Support" />
-    <string id="PCZ23wvW" text="Engineering" />
-    <string id="PGLl1PPt" text="QA Lead" />
-    <string id="pIaFYfAS" text="This software product includes BattlEye(TM) anti-cheat technology, © 2020 BattlEye Innovations e.K.. All rights reserved." />
-    <string id="PKUclaUm" text="2D Artists" />
-    <string id="PNjeYVAE" text="Bad Words Lab Cast" />
-    <string id="po94Llpu" text="Community Notables" />
-    <string id="PpLloLh4" text="Level Designers" />
-    <string id="pU9xe3hJ" text="Lighting &amp; Particles" />
-    <string id="puGce4U8" text="THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS ``AS IS'' AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE." />
-    <string id="q1u6Pmt3" text="Art Director" />
-    <string id="q9buyaE5" text="Art" />
-    <string id="QA5PTOVx" text="Community Management" />
-    <string id="QiXNr6ec" text="THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS &quot;AS IS&quot; AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE." />
-    <string id="qUajaG6E" text="Reception" />
-    <string id="QXK9yaMb" text="Game Systems Programmers" />
-    <string id="r2HFpefP" text="Motion Capture Talents" />
-    <string id="r5hNDcB0" text="Writing" />
-    <string id="rLkaodJw" text="Apache BSD License" />
-    <string id="rPLbPekK" text="Simplified BSD License" />
-    <string id="rpZOQyFT" text="IT Manager" />
-    <string id="RUO61OPl" text="WARNING: IT IS A VIOLATION OF FEDERAL COPYRIGHT LAW TO COPY, DUPLICATE OR REPRODUCE THIS PROGRAM OR ANY PORTIONS OF THIS PROGRAM WITHOUT THE EXPRESS WRITTEN PERMISSION OF THE COPYRIGHT OWNER" />
-    <string id="RWtetmX9" text="Concept Artists" />
-    <string id="rYfkudiO" text="French Localization" />
-    <string id="rzpWUcUp" text="Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer." />
-    <string id="s45CdRMU" text="Malte Meibauer (Cello)" />
-    <string id="sabEi8fE" text="Additional Programming" />
-    <string id="sDT3ugyp" text="Bad Words Lab (Additional Voices)" />
-    <string id="SJIpBDxo" text="Composed By J. S. Hopkins" />
-    <string id="sVHkEE3E" text="UI Artists" />
-    <string id="sxesAYHl" text="From Turkey" />
-    <string id="tstxOBWA" text="Additional Support and Administration" />
-    <string id="ugDQBlJe" text="Motion Capture Acting Consultant" />
-    <string id="Ugff1qj4" text="2D - 3D artists" />
-    <string id="ujYlJTrN" text="Thorsten Stoye (Nyckelharpa, Duduk, Flutes and Pipes)" />
-    <string id="umXyQK7A" text="Translation Team" />
-    <string id="Up6XJntn" text="Spanish Localization (Latinamerican)" />
-    <string id="UQflxYtU" text="Campaign Gameplay Programmers" />
-    <string id="uUYGfzKJ" text="NVIDIA® and PhysX® are trademarks of NVIDIA Corporation and are used under license." />
-    <string id="V7GFGz3b" text="Special Thanks To" />
-    <string id="V9ZkjlcN" text="Portions of this software utilize SpeedTree® technology (©2019 Interactive Data Visualization, Inc.). SpeedTree® is a registered trademark of Interactive Data Visualization, Inc. All rights reserved." />
-    <string id="VaAPDVLa" text="Publishing &amp; Director of Business Development" />
-    <string id="Vj8QgrqE" text="Marketing" />
-    <string id="vJbENFBJ" text="The following middleware is licensed under the MIT license: Mono Copyright 2001-2003 Ximian Inc. Copyright 2003-2010 Novell Inc. Copyright (C) 2012 Xamarin Inc, CSteamWorks Copyright (c) 2013-2016 Riley Labrecque, Newtonsoft.Json Copyright (c) 2007 James Newton-King, Steamworks.Net Copyright (c) 2013-2019 Riley Labrecque, System.Numerics.Vectors Copyright (c) .NET Foundation and Contributors, System.Management Copyright © .NET Foundation and Contributors, imgui Copyright (c) 2014-2020 Omar Cornut, mimalloc Copyright (c) 2019 Microsoft Corporation Daan Leijen, rapidxml Copyright (c) 2006, 2007 Marcin Kalicinski, SMAA Copyright (C) 2013 Jorge Jimenez (jorge@iryoku.com) Jose I. Echevarria (joseignacioechevarria@gmail.com) Belen Masia (bmasia@unizar.es) Fernando Navarro (fernandn@microsoft.com) Diego Gutierrez (diegog@unizar.es), SSSS Copyright (C) 2012 Jorge Jimenez (jorge@iryoku.com), Diego Gutierrez (diegog@unizar.es), Scalable Ambient Obscurance Copyright (c) 2011-2012, NVIDIA. ForwardPlus11 Copyright (c) 2016 Advanced Micro Devices, Inc, dxt-decompress Copyright (C) 2009 Benjamin Dobell, Glass Echidna 2012 - 2015 Matthäus G. &quot;Anteru&quot; Chajdas. All rights reserved." />
-    <string id="VZF1xTc8" text="Modified BSD License" />
-    <string id="W0OOibCY" text="Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the Distribution" />
-    <string id="W5c9l9Zh" text="Finn Seliger (Composer)" />
-    <string id="waxCsuhs" text="Permission is granted to anyone to use this software for any purpose, including commercial applications, and to alter it and redistribute it freely, subject to the following restrictions:" />
-    <string id="Wdb5iCSj" text="From China" />
-    <string id="WDK5MTya" text="Rodrigo Reichel (Violin, Viola)" />
-    <string id="WjOj9cc2" text="Quality Assurance" />
-    <string id="wPh3h854" text="Additional Writing" />
-    <string id="WW5f0mMt" text="Interns" />
-    <string id="X6t9Qcea" text="QA Team" />
-    <string id="xDhbNGyW" text="The following middleware is licensed under the Simplified BSD License: LZ4 Copyright (C) 2011-present Yann Collet, xxHash Copyright (c) 2012-present, Yann Collet, moodycamel::ConcurrentQueue Copyright (c) 2013-2016 Cameron Desrochers, moodycamel::ReaderWriterQueue Copyright (c) 2013-2020 Cameron Desrochers, Screen Space Ray Tracing Morgan McGuire and Michael Mara at Williams College 2014. All rights reserved." />
-    <string id="xebFLnH2" text="Audio" />
-    <string id="XGozLzmb" text="Design Team" />
-    <string id="xgZ2Gbcv" text="Subreddit Moderation Team" />
-    <string id="xLkrk2SX" text="UI &amp; Backend Team Lead" />
-    <string id="xq6ODvln" text="Additional Programmers" />
-    <string id="XUpFZTKs" text="Portions of this software are included under license. © 2017 Graphine NV. All rights reserved." />
-    <string id="y7TbndRb" text="Website backend" />
-    <string id="Yb1mppcs" text="Engine Programmers" />
-    <string id="yhTfnDB2" text="Game Localization" />
-    <string id="ynfjbXRh" text="1. Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer." />
-    <string id="yq91XwbN" text="Ensemble Galatia" />
-    <string id="Yri61YnN" text="Campaign Gameplay Team Leads" />
-    <string id="YzfjQ2Tv" text="Medieval Live Ensemble Recordings by" />
-    <string id="ZhD2lnYL" text="© 2020 Intel Corporation. All rights reserved. Intel® and the Intel logo are trademarks of Intel Corporation in the U.S. and/or other countries." />
-    <string id="ZLWQaEbN" text="IT" />
-    <string id="Zy27mbj0" text="Marcus Weseloh (Drehleier)" />
+    <string id="0iqsdT4L" text="Дополнительное искусство"/>
+    <string id="0zLob1Uu" text="Следующее промежуточное программное обеспечение лицензируется по модифицированной лицензии BSD: EASTL Copyright (c) 2019 Electronic Arts, Google Protobuf Copyright (c) 2008 Google Inc., libvpx Copyright (c) 2010, авторы проекта WebM. Все права защищены."/>
+    <string id="124SWOY7" text="дополнительное развитие"/>
+    <string id="1o8XTS6h" text="© 2020 Microsoft. Все права защищены."/>
+    <string id="1sSyroGW" text="Платформы"/>
+    <string id="1TA2ok5f" text="Директор Аудио"/>
+    <string id="3wIV0yeG" text="Дополнительное производство голоса"/>
+    <string id="4lLLxfsS" text="Recast Navigation Copyright (c) 2009 Mikko Mononen memon@inside.org"/>
+    <string id="4YGPcAex" text="администрация форума"/>
+    <string id="54pMbaF2" text="Конечные ноты"/>
+    <string id="6ILbDR4E" text="2. Измененные исходные версии должны быть четко обозначены как таковые и не должны быть искажены как исходное программное обеспечение."/>
+    <string id="6KLTgVjs" text="Music Production"/>
+    <string id="6Zh3MbFr" text="© 2005-2020 TaleWorlds Entertainment, Mount &amp;amp; Blade, Bannerlord и связанные с ними логотипы являются товарными знаками TaleWorlds Entertainment. Все права защищены. Все остальные товарные знаки, логотипы и авторские права являются собственностью их соответствующих владельцев."/>
+    <string id="7ts7yUDj" text="Music from Mount &amp;amp; Blade: Warband"/>
+    <string id="87hekX7g" text="Jesse Connell (Director and Recording Engineer)"/>
+    <string id="88epcrzC" text="Technical Partners"/>
+    <string id="8W319Y82" text="PR Specialist"/>
+    <string id="9Qnsmtnk" text="Lead Designers"/>
+    <string id="9xYBf6iD" text="Head of Translation"/>
+    <string id="a5VEvbBS" text="PSAI music Authoring"/>
+    <string id="AbeJXITr" text="Helene Rousse Total Casting (Additional Voices Casting)"/>
+    <string id="AgVIPVAB" text="Это программное обеспечение предоставляется &quot;как есть&quot;, без каких-либо явных или подразумеваемых гарантий. Авторы ни в коем случае не несут ответственности за какой-либо ущерб, возникший в результате использования данного программного обеспечения."/>
+    <string id="aOwwPVPz" text="Legal"/>
+    <string id="AwKkvVWB" text="Human Resources"/>
+    <string id="AzT61ffc" text="Project Management"/>
+    <string id="bDxhbyBg" text="Made with FMOD Studio by Firelight Technologies Pty Ltd."/>
+    <string id="bEVvtWDo" text="Game Design"/>
+    <string id="BgbbQQxP" text="Turkish"/>
+    <string id="bmLOhQHE" text="Studio Heads"/>
+    <string id="bmv8GFKD" text="French, German, Italian, Portuguese - Brazilian and Spanish - LatAM."/>
+    <string id="BQTgNsay" text="3. Это уведомление не может быть удалено или изменено из любого исходного дистрибутива."/>
+    <string id="BS9Lqja4" text="Arranged by Finn Seliger"/>
+    <string id="buLA3an1" text="Product Marketing"/>
+    <string id="bvbTt1C3" text="Японский, корейский, польский и русский языки"/>
+    <string id="BVkruRfe" text="Platform Coordinator"/>
+    <string id="c3oPbuE0" text="Review &amp;amp; Editing"/>
+    <string id="c4uLbAk2" text="Simplified Chinese &amp;amp; Traditional Chinese:"/>
+    <string id="CbzAMeSf" text="Additional Exclusive and Non-exclusive Music"/>
+    <string id="cKhUXNAk" text="Interactive music middleware psai by Periscope Studio UG &amp;amp; Co. KG"/>
+    <string id="cLVGvJRV" text="Composed and performed by Daniel Fredriksson"/>
+    <string id="ctc5D9FL" text="Art Team Lead"/>
+    <string id="DT32QT8j" text="Engine Team Lead"/>
+    <string id="dujedylV" text="2. Распространение в двоичной форме должно воспроизводить вышеуказанное уведомление об авторских правах, этот список условий и следующий отказ от ответственности в документации и / или других материалах, предоставленных вместе с распространением."/>
+    <string id="DxzisJKO" text="Operations"/>
+    <string id="dyJTXTrH" text="Ali Shiby (Oud)"/>
+    <string id="EtnQWZkE" text="Voice Production Cast"/>
+    <string id="EzpUaovY" text="Motion Capture"/>
+    <string id="F4PvNJrS" text="3. Ни имя владельца авторских прав, ни имена его авторов не могут быть использованы для одобрения или продвижения продуктов, полученных из этого программного обеспечения, без специального предварительного письменного разрешения."/>
+    <string id="FbvKfN2j" text="Forum Programming"/>
+    <string id="fEnidUaD" text="Forum Moderation Team"/>
+    <string id="FPdGPPtD" text="Backend Programmers"/>
+    <string id="G0ocXSx0" text="Composed by J. S. Hopkins"/>
+    <string id="G5ERyhKK" text="MIT License"/>
+    <string id="g9A0YLeG" text="The following middleware is licensed under the Apache License, Version 2.0: JetBrains.Annotations Copyright 2007-2011 JetBrains s.r.o. Software Occlusion Culling Copyright 2017 Intel Corporation, GCE-Math Copyright (C) 2016-2019 Keith O'Hara."/>
+    <string id="gc3ZaCea" text="IT Assistant"/>
+    <string id="gdhSuMiM" text="Ни имя владельца авторских прав, ни имена его авторов не могут быть использованы для одобрения или продвижения продуктов, полученных из этого программного обеспечения, без специального предварительного письменного разрешения."/>
+    <string id="GgNXPtra" text="Game Systems Team Lead"/>
+    <string id="gU8aYXYV" text="Community"/>
+    <string id="Gz6ZWpny" text="UI Programmers"/>
+    <string id="h2byL281" text="From Lithuania"/>
+    <string id="hdh8DSHk" text="German Localization"/>
+    <string id="hDIgNVBV" text="Purchasing"/>
+    <string id="hRJrv2sB" text="Multilanguage Project Management"/>
+    <string id="i4bYuyGT" text="Website frontend"/>
+    <string id="I9KEqapI" text="Project Managers"/>
+    <string id="ia6lOF0f" text="Uses Telemetry.  Copyright (C)  2009-2020 by RAD Game Tools, Inc."/>
+    <string id="IDSuJSgW" text="Special Thanks"/>
+    <string id="j0XlgbXO" text="Sulamith Bowinkelmann (Violin)"/>
+    <string id="j4zzGaNK" text="Development Lead"/>
+    <string id="J63KwTme" text="you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an &quot;AS IS&quot; BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License."/>
+    <string id="J6roOUmV" text="Licensed under the Apache License, Version 2.0 (the &quot;License&quot;);"/>
+    <string id="jGXauhYH" text="Italian Localization"/>
+    <string id="JKCounzE" text="Video"/>
+    <string id="k5hLPEvV" text="Cinematics"/>
+    <string id="KavlbhOa" text="Brand Designs"/>
+    <string id="kjsaMvYK" text="Office Support"/>
+    <string id="kmTHnu7N" text="Распространение и использование в исходной и двоичной формах, с модификацией или без нее, разрешается при условии соблюдения следующих условий:"/>
+    <string id="KZaLQD23" text="3D Artists"/>
+    <string id="L3iyUeut" text="External Partners"/>
+    <string id="lft1JGnv" text="Gregg Jonasson (Producer)"/>
+    <string id="Lmi0RnrQ" text="Assistant Producers"/>
+    <string id="mcwsvqeV" text="Website"/>
+    <string id="mjiPGeaA" text="Illustration"/>
+    <string id="mKwTaD83" text="Finance"/>
+    <string id="MQa7CgqF" text="Ferren Freitas (Percussions)"/>
+    <string id="myaC3BZR" text="Steam Community Moderation Team"/>
+    <string id="N2rnSKY0" text="Character Artists"/>
+    <string id="N63XYX2r" text="Support"/>
+    <string id="nbN8JdQt" text="Public Relations Partners"/>
+    <string id="NdlwtaGj" text="Additional Instrument Recordings"/>
+    <string id="niSw5MFS" text="Legal Notices"/>
+    <string id="NjgkbvaY" text="Localization"/>
+    <string id="NXpjWNys" text="Studio Administration &amp;amp; Operations"/>
+    <string id="O03UudTV" text="Portuguese Localization (Brazilian)"/>
+    <string id="oebbeWtK" text="1. Происхождение этого программного обеспечения не должно быть искажено; вы не должны утверждать, что написали оригинальное программное обеспечение. Если вы используете это программное обеспечение в продукте, подтверждение в документации по продукту будет оценено, но не требуется."/>
+    <string id="oMVL32vx" text="Технических Исполнителей"/>
+    <string id="opGawi8D" text="AI Programmers"/>
+    <string id="OtgIVbBo" text="Volunteers"/>
+    <string id="OTXMIRE3" text="Website &amp;amp; Forum designers"/>
+    <string id="OU8xH8HP" text="Platform Engineer"/>
+    <string id="OwWmriyd" text="Additional Voice Support"/>
+    <string id="PCZ23wvW" text="Engineering"/>
+    <string id="PGLl1PPt" text="QA Lead"/>
+    <string id="pIaFYfAS" text="Этот программный продукт включает в себя технологию anti-cheat BattlEye(TM), © 2020 BattlEye Innovations e.K.. Все права защищены."/>
+    <string id="PKUclaUm" text="2D Artists"/>
+    <string id="PNjeYVAE" text="Bad Words Lab Cast"/>
+    <string id="po94Llpu" text="Community Notables"/>
+    <string id="PpLloLh4" text="Level Designers"/>
+    <string id="pU9xe3hJ" text="Lighting &amp;amp; Particles"/>
+    <string id="puGce4U8" text="THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS ``AS IS'' AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."/>
+    <string id="q1u6Pmt3" text="Art Director"/>
+    <string id="q9buyaE5" text="Art"/>
+    <string id="QA5PTOVx" text="Community Management"/>
+    <string id="QiXNr6ec" text="THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS &quot;AS IS&quot; AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."/>
+    <string id="qUajaG6E" text="Reception"/>
+    <string id="QXK9yaMb" text="Game Systems Programmers"/>
+    <string id="r2HFpefP" text="Motion Capture Talents"/>
+    <string id="r5hNDcB0" text="Writing"/>
+    <string id="rLkaodJw" text="Apache BSD License"/>
+    <string id="rPLbPekK" text="Simplified BSD License"/>
+    <string id="rpZOQyFT" text="IT Manager"/>
+    <string id="RUO61OPl" text="WARNING: IT IS A VIOLATION OF FEDERAL COPYRIGHT LAW TO COPY, DUPLICATE OR REPRODUCE THIS PROGRAM OR ANY PORTIONS OF THIS PROGRAM WITHOUT THE EXPRESS WRITTEN PERMISSION OF THE COPYRIGHT OWNER"/>
+    <string id="RWtetmX9" text="Concept Artists"/>
+    <string id="rYfkudiO" text="French Localization"/>
+    <string id="rzpWUcUp" text="При распространении исходного кода должно сохраняться вышеуказанное уведомление об авторских правах, этот список условий и следующий отказ от ответственности."/>
+    <string id="s45CdRMU" text="Malte Meibauer (Cello)"/>
+    <string id="sabEi8fE" text="Additional Programming"/>
+    <string id="sDT3ugyp" text="Bad Words Lab (Additional Voices)"/>
+    <string id="SJIpBDxo" text="Composed By J. S. Hopkins"/>
+    <string id="sVHkEE3E" text="UI Artists"/>
+    <string id="sxesAYHl" text="From Turkey"/>
+    <string id="tstxOBWA" text="Additional Support and Administration"/>
+    <string id="ugDQBlJe" text="Motion Capture Acting Consultant"/>
+    <string id="Ugff1qj4" text="2D - 3D artists"/>
+    <string id="ujYlJTrN" text="Thorsten Stoye (Nyckelharpa, Duduk, Flutes and Pipes)"/>
+    <string id="umXyQK7A" text="Translation Team"/>
+    <string id="Up6XJntn" text="Spanish Localization (Latinamerican)"/>
+    <string id="UQflxYtU" text="Campaign Gameplay Programmers"/>
+    <string id="uUYGfzKJ" text="NVIDIA® and PhysX® are trademarks of NVIDIA Corporation and are used under license."/>
+    <string id="V7GFGz3b" text="Special Thanks To"/>
+    <string id="V9ZkjlcN" text="Portions of this software utilize SpeedTree® technology (©2019 Interactive Data Visualization, Inc.). SpeedTree® is a registered trademark of Interactive Data Visualization, Inc. All rights reserved."/>
+    <string id="VaAPDVLa" text="Publishing &amp;amp; Director of Business Development"/>
+    <string id="Vj8QgrqE" text="Marketing"/>
+    <string id="vJbENFBJ" text="The following middleware is licensed under the MIT license: Mono Copyright 2001-2003 Ximian Inc. Copyright 2003-2010 Novell Inc. Copyright (C) 2012 Xamarin Inc, CSteamWorks Copyright (c) 2013-2016 Riley Labrecque, Newtonsoft.Json Copyright (c) 2007 James Newton-King, Steamworks.Net Copyright (c) 2013-2019 Riley Labrecque, System.Numerics.Vectors Copyright (c) .NET Foundation and Contributors, System.Management Copyright © .NET Foundation and Contributors, imgui Copyright (c) 2014-2020 Omar Cornut, mimalloc Copyright (c) 2019 Microsoft Corporation Daan Leijen, rapidxml Copyright (c) 2006, 2007 Marcin Kalicinski, SMAA Copyright (C) 2013 Jorge Jimenez (jorge@iryoku.com) Jose I. Echevarria (joseignacioechevarria@gmail.com) Belen Masia (bmasia@unizar.es) Fernando Navarro (fernandn@microsoft.com) Diego Gutierrez (diegog@unizar.es), SSSS Copyright (C) 2012 Jorge Jimenez (jorge@iryoku.com), Diego Gutierrez (diegog@unizar.es), Scalable Ambient Obscurance Copyright (c) 2011-2012, NVIDIA. ForwardPlus11 Copyright (c) 2016 Advanced Micro Devices, Inc, dxt-decompress Copyright (C) 2009 Benjamin Dobell, Glass Echidna 2012 - 2015 Matthäus G. &quot;Anteru&quot; Chajdas. All rights reserved."/>
+    <string id="VZF1xTc8" text="Modified BSD License"/>
+    <string id="W0OOibCY" text="Распространение в двоичной форме должно воспроизводить вышеуказанное уведомление об авторских правах, этот список условий и следующий отказ от ответственности в документации и / или других материалах, предоставленных вместе с распространением"/>
+    <string id="W5c9l9Zh" text="Finn Seliger (Composer)"/>
+    <string id="waxCsuhs" text="Любому лицу предоставляется разрешение на использование данного программного обеспечения в любых целях, включая коммерческие приложения, а также на его свободное изменение и распространение с учетом следующих ограничений:"/>
+    <string id="Wdb5iCSj" text="From China"/>
+    <string id="WDK5MTya" text="Rodrigo Reichel (Violin, Viola)"/>
+    <string id="WjOj9cc2" text="Quality Assurance"/>
+    <string id="wPh3h854" text="Additional Writing"/>
+    <string id="WW5f0mMt" text="Interns"/>
+    <string id="X6t9Qcea" text="QA Team"/>
+    <string id="xDhbNGyW" text="The following middleware is licensed under the Simplified BSD License: LZ4 Copyright (C) 2011-present Yann Collet, xxHash Copyright (c) 2012-present, Yann Collet, moodycamel::ConcurrentQueue Copyright (c) 2013-2016 Cameron Desrochers, moodycamel::ReaderWriterQueue Copyright (c) 2013-2020 Cameron Desrochers, Screen Space Ray Tracing Morgan McGuire and Michael Mara at Williams College 2014. All rights reserved."/>
+    <string id="xebFLnH2" text="Audio"/>
+    <string id="XGozLzmb" text="Design Team"/>
+    <string id="xgZ2Gbcv" text="Subreddit Moderation Team"/>
+    <string id="xLkrk2SX" text="UI &amp;amp; Backend Team Lead"/>
+    <string id="xq6ODvln" text="Additional Programmers"/>
+    <string id="XUpFZTKs" text="Некоторые части этого программного обеспечения включены по лицензии. © 2017 Graphine NV. Все права защищены."/>
+    <string id="y7TbndRb" text="Website backend"/>
+    <string id="Yb1mppcs" text="Engine Programmers"/>
+    <string id="yhTfnDB2" text="Game Localization"/>
+    <string id="ynfjbXRh" text="1. При распространении исходного кода должно сохраняться вышеуказанное уведомление об авторских правах, этот список условий и следующий отказ от ответственности."/>
+    <string id="yq91XwbN" text="Ensemble Galatia"/>
+    <string id="Yri61YnN" text="Campaign Gameplay Team Leads"/>
+    <string id="YzfjQ2Tv" text="Medieval Live Ensemble Recordings by"/>
+    <string id="ZhD2lnYL" text="© Корпорация Intel 2020. Все права защищены. Intel ® и логотип Intel являются товарными знаками корпорации Intel в США и / или других странах."/>
+    <string id="ZLWQaEbN" text="IT"/>
+    <string id="Zy27mbj0" text="Marcus Weseloh (Drehleier)"/>
   </strings>
 </base>

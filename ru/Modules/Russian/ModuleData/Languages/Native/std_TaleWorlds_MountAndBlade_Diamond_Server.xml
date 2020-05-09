@@ -43,9 +43,9 @@
     <string id="xMa4QqvL" text="Сейчас в отряде состоят следующие игроки: {PLAYERS}"/>
     <string id="ysfEQO6c" text="Не получилось найти игрока"/>
     <string id="zyDyPr4I" text="Игрок, которого вы пытаетесь повысить, не состоит в вашем отряде."/>
-    <string id="3EOP6yhO" text="You have been kicked by anti-cheat. Reason: {KICKREASON}"/>
-    <string id="AIgw3aFG" text="Cannot queue to battle because some of the players are blocked from matchmaking."/>
-    <string id="P0aRStg4" text="Cannot queue to battle because you are blocked from matchmaking."/>
+    <string id="3EOP6yhO" text="Вы были кикнуты анти-читом. Причина: {KICKREASON}"/>
+    <string id="AIgw3aFG" text="Нельзя стоять в очереди на бой, потому что некоторые игроки заблокированы от сватовства."/>
+    <string id="P0aRStg4" text="Нельзя стоять в очереди на битву, потому что вы заблокированы от сватовства."/>
     <string id="UMNzrvvJ" text="You are blocked from matchmaking for {PUNISHMENTDURATION} seconds."/>
   </strings>
 </base>
