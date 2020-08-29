@@ -18,7 +18,6 @@
     <string id="eiWQoW9j" text="Вы получили {A0} к известности."/>
     <string id="eL8nhkhQ" text="Создать новый слот для сохранения"/>
     <string id="eTw2aNV5" text="+"/>
-    <string id="GAWxyVgq" text="Удалить"/>
     <string id="GZWPHmAw" text="День : {DAY}"/>
     <string id="HH2mZq8J" text="Вы уверены, что хотите удалить эту игру??"/>
     <string id="hiCxFj4E" text="Сохранения"/>
@@ -50,5 +49,6 @@
     <string id="xzzSaN4b" text="Ожидаемо: {OVERALL_EXPECTED_DENARS}"/>
     <string id="yF5fpwNE" text="Всего: {TOTAL}"/>
     <string id="YgyHVu8S" text="Продан"/>
+    <string id="deleteaction" text="Удалить"/>
   </strings>
 </base>

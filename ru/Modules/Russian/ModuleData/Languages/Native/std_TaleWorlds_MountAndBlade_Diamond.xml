@@ -1,9 +1,10 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
   <tags>
-    <tag language="Русский" />
+    <tag language="Русский"/>
   </tags>
   <strings>
-    <string id="ivKntfNA" text="Запрос на вход уже отправлен, ожидаем ответ от сервера" />
+    <string id="ivKntfNA" text="Запрос на вход уже отправлен, ожидаем ответ от сервера"/>
+    <string id="dnKQbXIZ" text="Could not report player: Game does not exist."/>
   </strings>
 </base>

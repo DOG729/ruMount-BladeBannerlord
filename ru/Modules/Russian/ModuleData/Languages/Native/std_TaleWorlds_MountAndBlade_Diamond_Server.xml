@@ -47,5 +47,23 @@
     <string id="AIgw3aFG" text="Нельзя стоять в очереди на бой, потому что некоторые игроки заблокированы от сватовства."/>
     <string id="P0aRStg4" text="Нельзя стоять в очереди на битву, потому что вы заблокированы от сватовства."/>
     <string id="UMNzrvvJ" text="You are blocked from matchmaking for {PUNISHMENTDURATION} seconds."/>
+    <string id="0y5Noakb" text="You have accepted the friend request"/>
+    <string id="6cMSAe2Z" text="Could not report player. Player cannot be found."/>
+    <string id="963x2S0a" text="Friend has been removed"/>
+    <string id="cBY4Mymw" text="Player has been reported."/>
+    <string id="d4eShU5x" text="{PLAYER} accepted your friend request"/>
+    <string id="dabogDDj" text="You are already friends"/>
+    <string id="dDF2wZGu" text="{PLAYER} declined your friend request"/>
+    <string id="f4iavKkb" text="You are muted until {MUTEDUNTIL}, Reason: {MUTEREASON}"/>
+    <string id="jl8MYbLR" text="Your friend request is forwarded to {PLAYER}."/>
+    <string id="KCtYUaag" text="You have already sent a request"/>
+    <string id="n1MdWtck" text="You are now friends with {PLAYER}"/>
+    <string id="nQWwqDmn" text="You have received a friend request from {PLAYER}"/>
+    <string id="oFfMEy1S" text="Friend request cannot be found"/>
+    <string id="qoto9N7y" text="Friend cannot be found"/>
+    <string id="SIT1tREw" text="You cannot add yourself as friend"/>
+    <string id="Xb6TEi3o" text="You have declined the friend request"/>
+    <string id="xHqjCamt" text="Could not report player. Game cannot be found."/>
+    <string id="YF0irfDl" text="Player cannot be found"/>
   </strings>
 </base>

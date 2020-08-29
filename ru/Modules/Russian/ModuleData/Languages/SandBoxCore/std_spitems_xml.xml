@@ -300,7 +300,6 @@
     <string id="EadnjRjs" text="Длинный Военный Меч"/>
     <string id="ebHdQfbX" text="Каркасный Шлем с Подшлемником"/>
     <string id="EELLBAbX" text="Горная Чешуйчатая Броня"/>
-    <string id="efFb16x7" text="Доспех Наёмника-Ветерана"/>
     <string id="EfRKaKs0" text="Степная Меховая Упряжь"/>
     <string id="efW2XbK8" text="Шлем Эмира"/>
     <string id="EgrNdBct" text="Зазубренные Дротики"/>
@@ -421,7 +420,6 @@
     <string id="hyNitMsQ" text="Горный клинок из отличной Стали"/>
     <string id="hytuHaoA" text="Шипованный Каплевидный Щит"/>
     <string id="hz87PBsa" text="Копьё с Широким Лезвием"/>
-    <string id="i17zuvS4" text="Стургианский Охотник"/>
     <string id="i4bslk7h" text="Южные Метательные Кинжалы"/>
     <string id="i4CfsNGd" text="Имперский Кольчужный Жилет"/>
     <string id="i8S2PJB4" text="Горные Перчатки"/>
@@ -641,7 +639,6 @@
     <string id="PL5SG9hI" text="Кожаная Чешуйчатая Броня"/>
     <string id="PLtQdf23" text="Усиленные Мягкие Варежки"/>
     <string id="pmabPgC0" text="Племенной Степной Щит"/>
-    <string id="PoY2Vh7K" text="Степной Лук"/>
     <string id="pP0GacSW" text="Закруглённый Топор из Отличной Стали"/>
     <string id="PP5SzUx0" text="Кружевное Платье"/>
     <string id="ppiy9Cwl" text="Дротики с широким клинком"/>
@@ -655,7 +652,6 @@
     <string id="Q4sO8AZd" text="Нахасави"/>
     <string id="QaKohN0V" text="Имперская Кольчуга Поверх Подёртой Кожанки"/>
     <string id="qaraQjXa" text="Котелок с Имперским подбитым Подшлемником"/>
-    <string id="QaysED62" text="Туника С Закатанными Ткани"/>
     <string id="Qazvdg1P" text="Имперский Койф из Ткани"/>
     <string id="qc0P0b2r" text="Шлем с Маской и Кольчугой"/>
     <string id="QcKpipVr" text="Адарга"/>
@@ -725,7 +721,6 @@
     <string id="smKogclC" text="Туника из Мешковины"/>
     <string id="Sn2O0Ogx" text="Бронзовый Круглый Котелок с Кожаным Подшлемником"/>
     <string id="sQAXkEQ7" text="Южный Кольчужный Койф"/>
-    <string id="SrRspWRy" text="Пластинчатые Доспехи из Кожи и Железа"/>
     <string id="SUSbUAEl" text="Практичный Лук"/>
     <string id="SV1pTR2P" text="Подбитый Койф"/>
     <string id="SW3lkPHe" text="Цветной Бишт"/>
@@ -881,7 +876,6 @@
     <string id="XH9f3yOX" text="Меховой Жилет Поверх Туники"/>
     <string id="xkX9T0yT" text="Свободный Обёрнутый Южный Шлем"/>
     <string id="xl5MgK49" text="Стургианский Тяжелый Кавалерийский Шлем"/>
-    <string id="xnDWqYKW" text="Охотник"/>
     <string id="xnoAJwoy" text="Цельный Шлем с Подбитым Тканевым Подшлемником"/>
     <string id="XoISdMVx" text="Восточный Благородный Шлем с Мехом"/>
     <string id="XOvg9rbg" text="Южная Броня Лучника"/>
@@ -949,7 +943,6 @@
     <string id="ZjAZNjvu" text="Северный Кольчужный Бард"/>
     <string id="ZJYVpjuR" text="Верблюжье седло с Тяжелой Кладью"/>
     <string id="ZLpYFYXo" text="Зубчатое Копьё из Отличной Стали"/>
-    <string id="zLxE6e7A" text="Стургийская Укрепленная Броня"/>
     <string id="zmEnxUpL" text="Имперский Чешуйчатый Бард"/>
     <string id="ZOoxd36t" text="Горная Броня Наёмника"/>
     <string id="ZOWdFaUi" text="Остроконечная Кипа с Кольчужным Койфом"/>
@@ -971,9 +964,37 @@
     <string id="9j9fb5pR" text="Позолоченный шлем с боковинами"/>
     <string id="89bCqb0Z" text="Турнир по плетеной площади Shield"/>
     <string id="AZg2woNV" text="Северный круглый спарринг-щит"/>
-    <string id="cDetN1Ao" text="Makeshift Kite Sparring Shield"/>
+    <string id="cDetN1Ao" text="Временный Щит Спарринг Кайта"/>
     <string id="lW3smDRu" text="Kite Sparring Shield"/>
     <string id="SRWJ8waf" text="Южный круглый спарринг-щит"/>
     <string id="VluRLqn8" text="Западный спарринг-щит всадника"/>
+    <string id="06Qoh8AO" text="Короткий золотой военный меч"/>
+    <string id="0lNp3f76" text="Engraved Angular Kaskara"/>
+    <string id="bohbzGjg" text="Decorated Scimitar With Wide Grip"/>
+    <string id="Bv068ziR" text="Северный Украшенный Mail"/>
+    <string id="camFHYrN" text="Кожаный доспех с железными пластинами"/>
+    <string id="Cr5ak47X" text="Украшенный Палаш"/>
+    <string id="EezWSI6v" text="Fortified Mercenary Armor"/>
+    <string id="hunterhorse" text="Hunter"/>
+    <string id="iCy5h0Y9" text="Northern Lamellar Over Hauberk"/>
+    <string id="IL9lsYBs" text="Northern Brigandine Over Hauberk"/>
+    <string id="JzZJpbTB" text="Reinforced Targe"/>
+    <string id="mmc3tBVN" text="Sharpened Spatha Blade With Ring Pommel"/>
+    <string id="MnmUBlbL" text="Малый щит"/>
+    <string id="Mt24PoKF" text="Северный короткий ламеллярный жилет"/>
+    <string id="myXODDHv" text="Fullered Arming Sword Blade With Crescent Guard"/>
+    <string id="ojhEwC8M" text="Northern Brass Lamellar Over Mail"/>
+    <string id="przGGaVm" text="Bronze Reinforced Highland Large Shield"/>
+    <string id="QA5zGCKf" text="Decorated Fullered Sword"/>
+    <string id="steppebowitem" text="Степной лук"/>
+    <string id="sturgianhunterhorse" text="Стурджанский Охотник"/>
+    <string id="tpUzcdY6" text="Tall Gripped Ild Sword"/>
+    <string id="UEestBsE" text="Northern Bronze Scale Vest"/>
+    <string id="uHIVkxVt" text="Northern Bronze Scale Vest Over Gambeson"/>
+    <string id="vsI4M5oq" text="Iron Reinforced Highland Large Shield"/>
+    <string id="wAcc9SX4" text="Хайленд Большой Щит"/>
+    <string id="WUasz2kP" text="Highland Fine Two Handed Sword"/>
+    <string id="zaajJhvz" text="Золотой Меч с выгравированной гвардией"/>
+    <string id="zvrxBeqB" text="Северный украшенный хауберк"/>
   </strings>
 </base>

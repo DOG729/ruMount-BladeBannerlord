@@ -4,7 +4,6 @@
     <tag language="Русский"/>
   </tags>
   <strings>
-    <string id="0647tsif" text="Профиль"/>
     <string id="06V7fEV4" text="Нажмите ESC, чтобы вернуться"/>
     <string id="2Q6Mm9Jo" text="Настройка геймпада"/>
     <string id="2zcrC0h1" text="Геймплей"/>
@@ -48,7 +47,6 @@
     <string id="d5SNB0HV" text="Выбрать {ITEM_NAME}"/>
     <string id="DAVb2Pzg" text="Обязанности Употр."/>
     <string id="Dbkx4v90" text="Раунд проигран"/>
-    <string id="DdOgvhsV" text="Кикнуть"/>
     <string id="DKqLY1aJ" text="Экипировать"/>
     <string id="DmaP2qaR" text="Тип кожи"/>
     <string id="dMdmyb3Y" text="Защищены паролем "/>
@@ -79,7 +77,6 @@
     <string id="Hp2wp3et" text="Принять (F1)"/>
     <string id="HXxNfncd" text="Конец битвы"/>
     <string id="i0OEsfLt" text="Пользовательские Битвы Отключены"/>
-    <string id="IBEJPlEj" text="Дом"/>
     <string id="Ie9I2Bha" text="Сила удара"/>
     <string id="iKtIhlbo" text="Раунды"/>
     <string id="IlQnJsUp" text="Флагов захвачено:"/>
@@ -87,7 +84,6 @@
     <string id="iNqucBor" text="Войти в"/>
     <string id="J0vjDOFO" text="Скорость удара"/>
     <string id="Jd44GGJW" text="{TEAM} команда победила в тайм-ауте"/>
-    <string id="JKCounzE" text="Видео"/>
     <string id="JPimShCw" text="Тип игры"/>
     <string id="jy9orOJz" text="Играть"/>
     <string id="jZ6GblZu" text="Избранные"/>
@@ -185,5 +181,20 @@
     <string id="Zv1lg272" text="Оффлайн"/>
     <string id="zxBBzoTH" text="Дуэль {DUEL_NAME} начнётся через {DUEL_REMAINING_TIME} секунд."/>
     <string id="aalbxe7z" text="Размер армии, установить параметр количества ботов в формирование {OPTION_VALUE}"/>
+    <string id="0B27RrYJ" text="Battania"/>
+    <string id="9jdHEa0N" text="Friend Requests"/>
+    <string id="aseraifaction" text="Aserai"/>
+    <string id="cw5QyeRU" text="Report Reason"/>
+    <string id="empirefaction" text="Empire"/>
+    <string id="FjwRsf1C" text="Vlandia"/>
+    <string id="gamevideo" text="Video"/>
+    <string id="hometab" text="Home"/>
+    <string id="nqYaiEo2" text="My Badges"/>
+    <string id="partykick" text="Kick"/>
+    <string id="PjO7oY16" text="Sturgia"/>
+    <string id="rLozutts" text="Request Friendship"/>
+    <string id="socialtab" text="Social"/>
+    <string id="sZLd6VHi" text="Khuzait"/>
+    <string id="wnMT7R0K" text="Pending Requests"/>
   </strings>
 </base>

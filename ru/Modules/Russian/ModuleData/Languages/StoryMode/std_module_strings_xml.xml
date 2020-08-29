@@ -4,7 +4,6 @@
     <tag language="Русский"/>
   </tags>
   <strings>
-    <string id="(" text="Бальдимос"/>
     <string id="3nilwlcM" text="Вы прибыли в {TUTORIAL_SETTLEMENT_NAME}. Чтобы изучить местность, вы можете войти в населенный пункт, нажав на подсвеченную кнопку слева."/>
     <string id="3RqEmB15" text="Навигация по Кальрадии"/>
     <string id="3Y5dudW9" text="Альда"/>
@@ -95,5 +94,7 @@
     <string id="z9eC5hjv" text="С копьем и щитом"/>
     <string id="ZozwfwVl" text="Защитите себя ({HIT} / {ALL})"/>
     <string id="ZW9OGfEt" text="Спасение &amp; Взятие Пленных"/>
+    <string id="4kBdT24F" text="Натанос"/>
+    <string id="776J8Fng" text="Бальдимос"/>
   </strings>
 </base>

@@ -5,7 +5,6 @@
   </tags>
   <strings>
     <string id="09gOOa0h" text="Следопыт"/>
-    <string id="1sJcKkVP" text="Охранник"/>
     <string id="4C4WiTb2" text="Варяг"/>
     <string id="6aqDcMPr" text="Максимальная броня (55)"/>
     <string id="8qg72H8Z" text="Племенной воин"/>
@@ -38,18 +37,19 @@
     <string id="naBbiK9v" text="Сброд"/>
     <string id="NJRUb0C1" text="Палатинская гвардия"/>
     <string id="nt7wUxIa" text="Бедуин"/>
-    <string id="PoY2Vh7K" text="Степной лук"/>
     <string id="q1tbZIR9" text="Средняя броня (37)"/>
-    <string id="rdIGpLLh" text="Загонщик"/>
-    <string id="RjjIbn4V" text="Ветеран"/>
     <string id="RssJTUpL" text="Берсерк"/>
     <string id="s9oED1IR" text="Застрельщик"/>
     <string id="Tm3CY9tC" text="Броня ниже среднего (12)"/>
     <string id="TNQaD5p2" text="Лучник-ополченец"/>
     <string id="WtEoXblx" text="Рыцарь"/>
     <string id="XeXJAB6a" text="Тяжелый копьеносец"/>
-    <string id="xnDWqYKW" text="Охотник"/>
     <string id="yDiWi6SO" text="Дикарь"/>
     <string id="ZKdiaaFo" text="Разбойник"/>
+    <string id="coursercavalryman" text="Courser"/>
+    <string id="guardnoun" text="Guard"/>
+    <string id="huntertroop" text="Hunter"/>
+    <string id="steppebowtroop" text="Steppe Bow"/>
+    <string id="veterantroop" text="Veteran"/>
   </strings>
 </base>

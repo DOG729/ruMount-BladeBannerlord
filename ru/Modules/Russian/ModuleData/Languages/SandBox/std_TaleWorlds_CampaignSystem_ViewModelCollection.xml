@@ -11,7 +11,6 @@
     <string id="13wo3QQB" text="Вторичное свойство"/>
     <string id="154a34f8caccfc833238cc89d38861e8" text="Требуется:"/>
     <string id="1CXlqb2U" text="Выберите: "/>
-    <string id="1oeak0OC" text="Ковка"/>
     <string id="2abtb4xu" text="Независимый"/>
     <string id="2ckyCKR7" text="Резерв"/>
     <string id="2Cq3tViJ" text="Максимальная численность отряда"/>
@@ -22,13 +21,11 @@
     <string id="345a87fcc69f626ae3916939ef2fc135" text="Скорость Взмаха: "/>
     <string id="3CpNUnVl" text="Отменить"/>
     <string id="3F0y3ugx" text="Успех!"/>
-    <string id="3ORSs1nN" text="Текущий бонус: {BONUS}"/>
     <string id="3sxtCWPe" text="Покинуть Королевство"/>
     <string id="43HYUImy" text="{SETTLEMENT} находится в осаде"/>
     <string id="4cU98rkg" text="Переплавка"/>
     <string id="4U9EnZt5" text="Критический Успех!"/>
     <string id="4uMWNDoi" text="Скорость Укола: "/>
-    <string id="51ZgFP8d" text="Бежит от {TARGET_PARTY}."/>
     <string id="5bzk75Ql" text="Сражается с {TARGET_PARTY}."/>
     <string id="5dCR9ixM" text="Вы можете продать эту мастерскую за {AMOUNT} динаров."/>
     <string id="5dec16fa0be433ade3c4cb0074ef366d" text="Точность: "/>
@@ -57,11 +54,8 @@
     <string id="armorTier" text="Класс экипировки: "/>
     <string id="aROohsat" text="Является членом в другой армии."/>
     <string id="aTdrjrEh" text="{SWING_DAMAGE_FACTOR}"/>
-    <string id="aVH7pKnK" text="Следующий бонус: {BONUS}"/>
     <string id="AxRxT2Xj" text="После роспуска армии, все ее бойцы примкнут к отряду союзника или отправятся в близжайшее союзное поселение,что бы вступить в гарнизон. Этот приказ нельзя будет отменить. Вы точно уверены,что хотите сделать это?"/>
-    <string id="B0pFBs5P" text="Бежит от {TARGET_PARTY}"/>
     <string id="bd7oAQq6" text="Ежедневно"/>
-    <string id="bdp65LWd" text="Роль в Клане: "/>
     <string id="bfQLwMUp" text="Кланы"/>
     <string id="BgqZWbga" text="Знати не понравится ваше решение отречься от своей клятвы. Вы уверены, что хотите покинуть Королевство?"/>
     <string id="BifGz0h4" text="Патрулирует"/>
@@ -80,7 +74,6 @@
     <string id="cUUI8u2G" text="Выносливость"/>
     <string id="d2K6gMsZ" text="Отправить воинов. Нужен как минимум один спутник."/>
     <string id="DAmdTxuC" text="Управление армией"/>
-    <string id="DbHLHwkX" text="Переплавка"/>
     <string id="DNq9bdvV" text="{THRUST_DAMAGE_FACTOR}"/>
     <string id="dO95yR9b" text="Колющий урон: "/>
     <string id="Dqydb21E" text=" {PARTY_SIZE}"/>
@@ -104,14 +97,12 @@
     <string id="g9VIbA9s" text="Сержант"/>
     <string id="GCaYjA5W" text="Вы должны быть лидером клана,что бы переименовать его."/>
     <string id="gduqxfck" text="У вас нет всех необходимых материалов!"/>
-    <string id="GgfucQ86" text="Прогнать"/>
     <string id="ggpRTQQl" text="Лидер отряда"/>
     <string id="gsVtO9A7" text="Ополчение"/>
     <string id="HAaElX8X" text="{PARTY_OWNERS_FACTION}"/>
     <string id="HcAV8x7p" text="Член отряда"/>
     <string id="HFZdseH9" text="Только правитель королевства может переименовать его."/>
     <string id="HHTQVp52" text="Скорость исцеления"/>
-    <string id="hJypvWMR" text="Создать"/>
     <string id="horseTier" text="Уровень лошади: "/>
     <string id="hr4MuPnt" text="Необходимые Материалы"/>
     <string id="hTzTMLsf" text="Дальность обзора"/>
@@ -283,7 +274,6 @@
     <string id="bnrRzeiF" text="Не активно"/>
     <string id="CaRbMaZY" text="Ежедневная Плата: "/>
     <string id="DzviXC3W" text="Уровень: "/>
-    <string id="eikN2SUN" text="Вы были здесь {DAYS} дней назад."/>
     <string id="ipLqVv1f" text="Вы не можете призвать королевский отряд в свою армию."/>
     <string id="nMcvafHY" text="Активно"/>
     <string id="Ra17aK4e" text="Столица: "/>
@@ -315,5 +305,21 @@
     <string id="ZUgoQ1Ws" text="Horse Type"/>
     <string id="QSPrSsHv" text="No Saddle!"/>
     <string id="VzCoqt8D" text="No sadle equipped. -10% penalty to mounted speed and maneuver."/>
+    <string id="2htkK82b" text="Available cultures are limited to the clan’s culture as well as any owned settlements’ cultures."/>
+    <string id="2lFwF07j" text="Change Name"/>
+    <string id="9huJZblF" text="Last Run"/>
+    <string id="9i0wnjJK" text="L-II : {BONUS}"/>
+    <string id="c6BtCIrX" text="{DAYS} days ago"/>
+    <string id="cJmI2poS" text="Info"/>
+    <string id="DXczLzml" text="Status"/>
+    <string id="F6GhrriD" text="Create Kingdom"/>
+    <string id="g4XqKGUr" text="Party already has a member with this role."/>
+    <string id="IbqRyrKo" text="This will determine the initial active policies of the Kingdom. Choose Maximum 4 Policies."/>
+    <string id="mHXujEVw" text="Choose Your Kingdom's Active Policies"/>
+    <string id="PJZ8QYgA" text="L-I : {BONUS}"/>
+    <string id="pRP2sOWP" text="L-III : {BONUS}"/>
+    <string id="RuaA8t97" text="Kingdom Name"/>
+    <string id="ScDj827c" text="Initial Capital"/>
+    <string id="tLh0VqN3" text="Choose Your Kingdom Culture"/>
   </strings>
 </base>

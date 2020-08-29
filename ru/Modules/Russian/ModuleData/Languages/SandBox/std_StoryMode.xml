@@ -47,7 +47,6 @@
     <string id="3Io5vmOk" text="Прогресс войны с {FACTION}"/>
     <string id="3nCxVXvo" text="Отлично. Знамя Дракона в ваших руках провозглашает вас мстителем за преступления Империи и ее преемника."/>
     <string id="3sRdGQou" text="Покинуть"/>
-    <string id="3T0Rd1Zt" text="Отлично. Я попрошу своих информаторов разнести по всей Империи весть о появлении нового законного претендента. Вкупе с некоторыми предзнаменованиями, чтобы показать следующую за вами божественную милость."/>
     <string id="40oa2Nav" text="Знамя Кальрадии является частью легенды. Говорят, что носил его Кальрадий Великий, когда водил свою малую группу изгнанников в эту землю, чтобы построить для себя новый дом. Считается, что пока его носит истинный сын Кальрадия, никто не победит его в битве. Или дочь, наверное, хотя так ещё не случалось.[sp:/Modules/Russian/Sounds/start/themainline/istianna_q01_04.ogg]"/>
     <string id="4Baa38ra" text="Мы с трудом одержали победу, и то при помощи имперцев, но Кергитов тоже хорошо задело. С тех пор Кергиты были довольно слабые, а вы знаете, что происходит со слабыми. Всё же никто не заставлял их класть все яйца в одну корзину."/>
     <string id="4d5SP6B6" text="{MENTOR.LINK} предлагает вам поддержать анти-имперское королевство, передав им Знамя Дракона."/>
@@ -97,7 +96,6 @@
     <string id="6UIa4784" text="Вам что нибудь известно о битве при Пендраике?"/>
     <string id="6vCHovVH" text="Вы победили налетчика."/>
     <!--Здесь был Cas. Финальная версия!-->
-    <string id="72pbZgQL" text="{CLAN_NAME}"/>
     <string id="77TavbOY" text="Вы завершили обучение. В любой момент вы можете вернуться и отточить свои навыки."/>
     <string id="7AYJ3SjK" text="Ваша семья организовала для вас сопровождение вождя вашего города. На вас не возлагали большие обязанности - в основном вы доставляли сообщения и ухаживали за его лошадью - но это дало вам шанс увидеть, как планировались кампании и как люди развертываются в битве."/>
     <string id="7cHsIMLP" text="Вы никогда не смогли бы купить снаряжение самостоятельно, но вы были достаточно хорошим наездником, так что местный лорд одолжил вам лошадь и снаряжение. Вы присоединились к бронированной кавалерии, тренируясь с копьем."/>
@@ -197,7 +195,6 @@
     <!--Здесь был Cas. Финальная версия!-->
     <string id="bXKPO8lX" text="Прекратить Заговор"/>
     <string id="bXYFXLgg" text="Увеличить количество динар на 1000"/>
-    <string id="c5dMlrMk" text="Пусть варвары дрожат от страха! Да будут низвергнуты лживые коварные узурпаторы! Включая тех, кто является хорошими друзьями."/>
     <string id="c6pDNXbb" text="Вы можете создать собственное королевство или поддержать существующее..."/>
     <string id="cbF9jdQo" text="Ваши родители не оставили вам много денег, но они оставили достаточно, чтобы вы купили участок неиспользуемой земли на окраине деревни. Вы расчистили камни и вырыли ирригационную канаву, собирали несколько сезонов сельскохозяйственные культуры, а затем продали все со значительной прибылью."/>
     <!--Здесь был Cas. Финальная версия!-->
@@ -265,7 +262,6 @@
     <string id="eV8R0SKp" text="Вы собрали все части Знамени Дракона. Теперь вы можете решить, что вы будете делать с кусочками. Вернитесь к {IMPERIAL_MENTOR.LINK} или {ANTI_IMPERIAL_MENTOR.LINK}, чтобы выбрать свой путь."/>
     <string id="eVgAY7ts" text="Боже мой, мне нужно описание получше. Мои люди захватили десятки маленьких детей в этом регионе. Неплохие охотничьи угодья! Хотя большинство из них уже отправлено на юг на рабский рынок, о котором я знаю.[ib:confident]"/>
     <string id="EWD4Op6d" text="Уведомление"/>
-    <string id="EXp18CLD" text="Королевство {CLAN_NAME}"/>
     <string id="EZ19JOGj" text="Дом {MENTOR.NAME}"/>
     <string id="ez4rbGmx" text="Оскорбляет своего самого могущественного вассала, а затем и самого ценного союзника. Прекрасный рабочий день, не правда ли? Но с тех пор он стал мудрее, хотя и не стал более приятным собеседником."/>
     <string id="F0ldgio8" text="Вернуться к тренировкам."/>
@@ -358,7 +354,6 @@
     <string id="ib2TKPUa" text="Правитель фракции {FACTION} собрал альянс против вас. Разбейте вражеских полководцев или заставьте заключить мир, захватывая поселения и уничтожая отряды альянса."/>
     <string id="ibm9EEPa" text="Нет, мне нужно ещё подумать."/>
     <string id="IITkXnnU" text="Кальрадия - это земля, полная опасностей, равно как и возможностей. Чтобы справиться с трудностями, поджидающими вас, вы должны создать свой клан. Ваш брат сказал вам, что есть много способов заработать денег. Торговля - однин из способов, еще есть продажа захваченных бандитов в городах. Какой бы путь вы ни выбрали, путешествуя в одиночку, вы станете легкой добычей каждого встречного.Вы знаете, что можете нанять парней у старост деревень и городов, которые будут следовать за вами, хотя они могут попросить вас о парочке услуг, прежде чем позволят вам нанимать более ценных бойцов.Конечно, еще вы можете найти уникальных личностей в тавернах Кальрадии. Однако их интересуют более устоявшиеся кланы."/>
-    <string id="Ikd2KnkS" text="Насколько вы продвинулись?"/>
     <string id="ImLQNYWC" text="Хорошо - я принимаю твой вызов."/>
     <string id="InN5ZZt3" text="Стражи землевладельца"/>
     <!--Здесь был Cas. Финальная версия!-->
@@ -487,7 +482,6 @@
     <string id="OKgsM4nr" text="Я проклинаю это имя. Из-за него у меня отняли мужа, двух братьев, и столько кузенов, что я сбилась со счета."/>
     <string id="oMbOIPc9" text="Обучаться с застрельщиками"/>
     <!--Здесь был Cas. Финальная версия!-->
-    <string id="omni7OIs" text="Пусть имперская кровь зальет поля Кальрадии."/>
     <string id="OMrnTIe0" text="Вы спасаете нескольких заключенных, которых захватили налетчики. Они выглядят обезвоженными и истощенными. Вы даете им немного воды и хлеба, и через короткое время один встает на ноги и подходит к вам."/>
     <string id="ORnjaMlM" text="Вы потерпели поражение от налетчиков, но ваш брат спас вас. Хотя, не похоже, что они собираются куда-то, так что вы должны атаковать снова, как только вы будете готовы. Вы должны иметь по крайней мере 6 членов в вашем отряде. Если у вас не хватает людей, то вернитесь в деревню и наймите больше войск."/>
     <string id="Os79KwFa" text="Я был с авангардом. Нерецес, знал, что баттанийцы организовали засаду - об этом ему доложили кузаитские разведчики. Но он не удосужился сообщить нам. Итак, мы шли вдоль чистейшего лесистого ручья, все было прекрасно, пока баттанийские стрелы не начали со свистом вылетать из-за каждого куста."/>
@@ -499,7 +493,6 @@
     <!--Здесь был Cas. Финальная версия!-->
     <string id="p4qJ4KSm" text="Если вам нужна дополнительная информация, вы можете попытаться поговорить еще с двумя людьми. {IMPERIAL_MENTOR.NAME} была тайным шпионом на службе у Нерецеса. Она живет рядом с {IMPERIAL_MENTOR_SETTLEMENT}."/>
     <string id="pa9LrHln" text="Похоже, что мы на месте. Итак... Нам нужна пища. А после, возможно, мы сможем убедить кого-то присоединиться к нам."/>
-    <string id="PCm9w15S" text="Империи Кальрадии"/>
     <string id="peNBA0WW" text="История"/>
     <string id="peSuujki" text="В конце концов, вы должны владеть поселением, которое не является имперским."/>
     <string id="PJ5C3Dim" text="Заговор со стороны {ANTIIMPERIAL_MENTOR.NAME}"/>
@@ -618,7 +611,6 @@
     <string id="tTb28jyU" text="Многие баттанийцы сражаются как Керны, универсальные войска, которые могут как расколоть линию врага своими копьями, так и присоединиться к последнему громкому натиску, когда враг ослабнет."/>
     <string id="tTLvo8sM" text="Уровень клана"/>
     <string id="tVlZTOst" text="Вы выбрали другой путь."/>
-    <string id="tw5v6xlf" text="О создании собственной фракции.."/>
     <string id="tWwXEWh6" text="Используйте портрет, чтобы поговорить и займитесь делом."/>
     <string id="tzkclhXs" text="Как мы будем готовиться к бою?"/>
     <string id="tzsZTcWd" text="Интересно, какое королевство я должен поддержать.."/>
@@ -636,7 +628,6 @@
     <string id="unOLk4PY" text="Так. Кто ты и что привело тебя ко мне?"/>
     <string id="upyNhwZ9" text="Да, я намерен использовать знамя, чтобы помочь разрушить империю."/>
     <string id="URgZ4ai4" text="Ваша семья была членами среднего звена одного из кланов Кузаитов. Они имели несколько собственных табунов, но не были богат. Когда Кузаитскую Орду призвали сражаться, ваш отец сражался среди конных лучников, стреляя и наматывая круги на лошади, изматывания противника, прежде чем уланы нанесут последний удар."/>
-    <string id="UT0ADpno" text="Я сделал все, что вы от меня просили. Я готов."/>
     <string id="uvbCyLiR" text="Это правда? Ну, это интересно."/>
     <string id="UVuwofhS" text="Кланы появляются, кланы распадаются. Мой долг перед всеми кузаитами.Посмотрите на это с другой стороны. Если бы не смерть ее мужа, леди Месуи никогда бы не унаследовала управление Хергитами. Смерть лишь открывает возможности. Выжившие в великой битве устраивают траурное шоу, но внутри они радуются."/>
     <string id="uw2kKrQk" text="{EXP_VALUE} Уровня мастерства и {FOCUS_VALUE} Очко Фокуса для {SKILL_ONE}. {ATTR_VALUE} Очко Атрибута для {ATTR_NAME}{TRAIT_DESC}{RENOWN_DESC}{GOLD_DESC}"/>
@@ -769,5 +760,56 @@
     <string id="HskL8pEa" text="{KINGDOM_NAME} побежден. Вы потерпели неудачу!"/>
     <string id="IL4FcHXv" text="Вы присягнули на верность королю {KINGDOM_NAME}!"/>
     <string id="Pus87ZW2" text="Вы уже нашли, {BANNER_PIECE_COUNT} кусок Знамени!"/>
+    <string id="0I9siaQY" text="Bastards... You're the kin of my captives, right? I saw {RADAGOS.LINK} with you. You know he can't be trusted?[if:idle_angry][ib:warrior]"/>
+    <string id="1T7p0O7B" text="We have to be clever. {HIDEOUT_BOSS.LINK} is a cunning fellow, in a low and base kind of way."/>
+    <string id="1yi00v5w" text="{PLAYER.NAME}! Good to see you. Believe it or not, I mean that. I've been looking for you...[if:happy][ib:demure]"/>
+    <string id="2GeiKTlS" text="I'll do you the honor of duelling you, and my men will stand down if you win."/>
+    <string id="3dhvmJDp" text="Well... Looks like we've gotten your kin back to you, so my end of our deal is complete. I'll be making myself scarce now."/>
+    <string id="8b4Ndfep" text="Oh of course. I have no doubts on that score."/>
+    <string id="a29lmPLd" text="I defeated you before. I know how your gang operates. Less talking, more raiding. C'mon..."/>
+    <string id="bJjAqCxk" text="I escaped - one of his men, a little guiltier than the rest, cut my bonds when the others were sleeping - but I can't let a traitor live. So I decided to find you and offer you a deal.[if:idle_angry][ib:warrior]"/>
+    <string id="bsWSecYa" text="{PLAYER_BROTHER.NAME} is the elder brother of {PLAYER.LINK}. He has gone in search of the family's two youngest siblings, {PLAYER_LITTLE_BROTHER} and {PLAYER_LITTLE_SISTER}."/>
+    <string id="c1Q2irLi" text="Your men killed my parents. Did you really think you would not be punished?"/>
+    <string id="C79Xxm1b" text="Don't let your conscience bother you about letting me go, by the way. I won't get back into slaving. Burned too many bridges with my old colleagues, you might say. I'll find some other way to earn my keep - mercenary work, perhaps. Anyway, maybe our paths will cross again."/>
+    <string id="dIko48bN" text="I am still trying to decide what to do..."/>
+    <string id="DIKPGwj1" text="So glad to see you safe. Is everyone okay?"/>
+    <string id="DjQuB0TU" text="You saved your brother and sister, and you decided to let {RADAGOS.LINK} go..."/>
+    <string id="dlBFVkDj" text="About the task you gave me..."/>
+    <string id="fM4eSVps" text="You said talking was a waste of time. You are {RADAGOS.NAME}'s property, now."/>
+    <string id="ft6zzDrJ" text="I can live with that. Let's go."/>
+    <string id="FyzsAZx8" text="{RADAGOS.LINK} said that he knows where your siblings are. He offered to attack together. He will wait for you at the hideout that he mentioned about near {SETTLEMENT_LINK}. You can see the hideout marked on the map."/>
+    <string id="G9iXmhGK" text="Look, we can still talk. I'll give you a pouch of silver."/>
+    <string id="Ga8mDgab" text="You've been defeated at {HIDEOUT_BOSS.LINK}'s hideout. You can attack again when you are ready."/>
+    <string id="GicEcLx2" text="See you there then. But, remember, if this is a trap or something, that will cost you your life."/>
+    <string id="heoCaRIr" text="Nah... There's no more talking. Kill me or I kill you, that's how this ends.[ib:confident]"/>
+    <string id="HPNuqbSf" text="Rescue Your Family"/>
+    <string id="HrdVRMgR" text="Perhaps by saving my brother and sister you earned your life back. Very well, go now."/>
+    <string id="hrhvEWP8" text="{PLAYER_MOTHER.NAME} was the mother of {PLAYER.LINK}. She was slain when raiders attacked the inn at which her family was staying."/>
+    <string id="HT9hW29s" text="Splendid! But I have a few things to do. There is a hideout near this city. {HIDEOUT_BOSS.LINK} keep your siblings there. I will join you right where the path leads up, just out of sight of their scouts.[if:idle_normal][ib:normal]"/>
+    <string id="IC9Vg5MA" text="Meet me there later, when you're ready to tell me everything.[if:idle_normal][ib:normal]"/>
+    <string id="k7ebznzr" text="Yes?"/>
+    <string id="kbyqtszZ" text="I'm listening.."/>
+    <string id="kz5PJbV1" text="I shall. For your many crimes, {RADAGOS.NAME}, your life is forfeit."/>
+    <string id="kzgbBrYo" text="As you leave the hideout, {RADAGOS.LINK} comes to you and asks to talk."/>
+    <string id="LrItHItu" text="Okay brother, be careful. Take care."/>
+    <string id="mmQRCHUM" text="But in return, I will have the pleasure of killing that bastard. So what do you say?[if:idle_pleased][ib:confident]"/>
+    <string id="mWMkslbn" text="He led us here. Where are my brothers and my sister?"/>
+    <string id="p3Kia1OO" text="I'll take {LITTLE_SISTER.LINK} and {LITTLE_BROTHER.LINK} to {SETTLEMENT_LINK} immediately. They will be safe there."/>
+    <string id="pCNSEPEP" text="You escaped? Where's my brother? What happened?"/>
+    <string id="PiKISvfu" text="{PLAYER.NAME}! I knew you'd come. Great Heaven. Damn, {?PLAYER.GENDER}sister{?}brother{\?}, nothing can stop you! I love you, {?PLAYER.GENDER}sister{?}brother{\?}.[if:happy][ib:demure]"/>
+    <string id="PlpNTQqf" text="I know where {HIDEOUT_BOSS.LINK} is now. If you agree, we can attack together and save your kin."/>
+    <string id="QbsDYITB" text="That you did, that you did. Lead on, then.[ib:closed][rb:negative]"/>
+    <string id="rDuegB1L" text="You've finally arrived! I have a few things to say to before we attack.[if:idle_pleased][ib:confident]"/>
+    <string id="RefpTQpr" text="Maybe. Goodbye, {RADAGOS.NAME}..."/>
+    <string id="UpUqL368" text="What scum, eh? Even in this profession, double-crossing your comrades is frowned upon."/>
+    <string id="uYjEknNX" text="{VICTIM}'s execution by {EXECUTER}"/>
+    <string id="VbJvL8yB" text="Oh you can't trust me. But you need me, and I figure you have enough men that you could easily slit my throat pretty quickly if I lead you into a trap. And I don't need to trust you - you're my vehicle of revenge, not my partner."/>
+    <string id="W7hi7jS4" text="Eh, well, I dared to hope, I suppose. All right then, I'm not going to grovel to you, so get it over with."/>
+    <string id="X1TJNkBV" text="We found your little brother and sister. But my former partner {HIDEOUT_BOSS.LINK} betrayed me. We came into his camp to negotiate the kids' release, and he seized us right then and there."/>
+    <string id="xachJ1hb" text="Yes, we are all fine. {LITTLE_SISTER.LINK} and {LITTLE_BROTHER.LINK} are scared but fine... We need to be quick and get the hell out of this place.[if:idle_insulted][ib:closed]"/>
+    <string id="xknCpvcb" text="Calm down, now. I'll tell you everything."/>
+    <string id="XmvaRfLM" text="{PLAYER_FATHER.NAME} was the father of {PLAYER.LINK}. He was slain when raiders attacked the inn at which his family was staying."/>
+    <string id="ypDmy5Rn" text="Uh, how can we possibly trust each other?"/>
+    <string id="ZpcV9MZE" text="You saved your brother and sister, and you decided to execute {RADAGOS.LINK} because he caused the death of your parents."/>
   </strings>
 </base>

@@ -79,7 +79,6 @@
     <string id="eyxfHmCU" text="Я {CONVERSATION_CHARACTER.LINK}, из {CLAN_NAME}. Наша семья служила королям Вландии в течение поколений."/>
     <string id="f2eZL7w5" text="О, я полагаю, я обязан дать вам шанс пожертвовать своей жизнью. В этом случае вы сдадитесь?[ib:warrior][if:idle_angry]"/>
     <string id="f3X79aDs" text="Итак... я слышал, вы путешествовали достаточно далеко. Без сомнения, вы видели много странных и ужасных вещей. Может быть, вы сделали несколько странных и ужасных вещей. Давайте, расскажите мне немного о ваших странствиях. Я обещаю не быть в шоке."/>
-    <string id="F70rOpkK" text="Капитан"/>
     <string id="Fb7JxGKM" text="Да... я знаю ваше имя. Точно. Я не люблю общаться, поэтому давайте пропустим первое и приступим ко второму."/>
     <string id="fbArcLAA" text="Миледи, если вы искусны в оружии так же, как и спокойны, тогда ваши враги действительно должны вас бояться!"/>
     <string id="FbstpIYj" text="Не говорите, что я не давал вам шанс."/>
@@ -231,5 +230,16 @@
     <string id="ETxtYU6C" text="So... You've made quite a name for yourself..."/>
     <string id="o2aKr8JD" text="I've heard your name."/>
     <string id="PQZfXcU1" text="I have heard your name. People speak of your deeds. It is good to finally meet you."/>
+    <string id="1MPxKtue" text="Is this important? I'm rather busy right now."/>
+    <string id="6l8ty6Dr" text="Pleasure to meet you."/>
+    <string id="9uH1NdsT" text="You're a handsome devil, aren't you? Bet you're a load of trouble, though."/>
+    <string id="A40Z3egp" text="That job you did for me... Nice work."/>
+    <string id="c7hrnOUE" text="I guess that task I gave you didn't work out."/>
+    <string id="captainasleader" text="Captain"/>
+    <string id="lcPeNFTN" text="I am glad to meet you."/>
+    <string id="tRSD2C3k" text="That task you took on for me. Very nicely done."/>
+    <string id="TvqjhDaQ" text="So, my young lion. You have the look of someone who may go far, if they don't wind up dead."/>
+    <string id="UehvSvLD" text="That job I gave you... I'd say you let me down."/>
+    <string id="WnxA6JQl" text="Good to meet you. Look, one thing I value is that people keep their word, so deal straight with me and I'll deal straight with you."/>
   </strings>
 </base>
