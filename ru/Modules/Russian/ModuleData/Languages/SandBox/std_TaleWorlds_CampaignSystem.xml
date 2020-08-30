@@ -3163,7 +3163,7 @@
     <string id="nxyXKy2z" text="Old {QUEST_GIVER.NAME} has got some problems with those herders over in {TARGET_SETTLEMENT}."/>
     <string id="Ny2i62w5" text="{TARGET_HERO} died and your agreement with {ISSUE_OWNER.LINK} has been canceled."/>
     <string id="nysBXpEO" text="camels"/>
-    <string id="O4fIFDAx" text="Навык уменьшает стоимость вербовки пехоты на 30%. Кроме того, размер гарнизона ваших поселений повышается на 15"/>
+    <string id="O4fIFDAx" text="Пехота в вашем построении после сражений получает 10% общего опыта."/>
     <string id="o57z0zB9" text="Skewer"/>
     <string id="o6J5b0M2" text="Troops in your formation take 20% less morale loss."/>
     <string id="oFsPkOpe" text="Camels"/>
@@ -3206,14 +3206,14 @@
     <string id="rkuAgPSA" text="On the edge"/>
     <string id="RlMqzqbS" text="Show of Strength"/>
     <string id="roTCX8S8" text="{ISSUE_GIVER_1.NAME} mentioned something about needing someone to do some work."/>
-    <string id="rQEPseAj" text="Ваши воины получают в начале боя +8 боевого духа, если вы в меньшинстве. Кроме того, гарнизонные войска в ваших поселениях на 30% более эффективны в обеспечении безопасности города."/>
+    <string id="rQEPseAj" text="Ваши воины получают в начале боя +8 боевого духа, если вы в меньшинстве. "/>
     <string id="rrCkJgtd" text="We don't know enough about the enemy, where they are strong and where they are weak. I don't want to lead a huge army through their territory on a wild goose hunt. We need someone to ride through there swiftly, scouting out their garrisons. Can you do this?"/>
     <string id="s4BKLQc1" text="Experience of garrisoned cavalry in governed settlements is increased by 20%."/>
     <string id="S6amWNGS" text="You need to assign at least {TROOP_COUNT} tier "/>
     <string id="seEyGLMz" text="Go deep into {ENEMY} territory, to {SETTLEMENT_1}, {SETTLEMENT_2} and {SETTLEMENT_3}. I want to know every detail about them, what sort of fortifications they have, whether the walls are well-manned or undergarrisoned, and any other enemy forces in the vicinity."/>
     <string id="siegeevent" text="Siege"/>
     <string id="SIxE2LGn" text="{ISSUE_GIVER_1.NAME} mentioned something about needing someone to do some work. And I think {ISSUE_GIVER_2.NAME} and {ISSUE_GIVER_3.NAME} were looking for someone."/>
-    <string id="SlrvOUWa" text="Ваши очки здоровья повышаются на 5 Кроме того, стоимость найма пехоты снижается на 30%"/>
+    <string id="SlrvOUWa" text="Вы получаете +5 к жизни."/>
     <string id="sSTCcoiT" text="Garrison wages in the governed settlement reduced by 5%."/>
     <string id="SzoXR4Iy" text="Troops in the formation you are leading have medium bonus to their shield size against ranged when they are in shieldwall formation."/>
     <string id="T3UdjMXf" text="Increase crafting stamina recovery rate by 50%."/>
