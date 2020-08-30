@@ -2997,19 +2997,19 @@
     <string id="A9mtiIx2" text="Increase your thrust damage with polearms by 10%."/>
     <string id="AdoaDR26" text="{QUEST_GIVER.LINK} asks you to scout {SETTLEMENT_1}, {SETTLEMENT_2} and {SETTLEMENT_3}."/>
     <string id="aFNfxhwz" text="You no longer have enough {MOUNT_TYPE} for {QUEST_GIVER.LINK}."/>
-    <string id="aHScc7NS" text="You don't have any companions with {TACTICS_SKILL} skill higher than {REQUIRED_SKILL_LEVEL} to assign for this quest!"/>
+    <string id="aHScc7NS" text="У вас нет компаньонов с навыком {TACTICS_SKILL} выше {REQUIRED_SKILL_LEVEL} для выполнения этого задания!"/>
     <string id="AHtFRv5T" text="Ignore Pain"/>
-    <string id="aIxX2s8n" text="Collected Livestock Amount (Optional)"/>
+    <string id="aIxX2s8n" text="Собрано скота (Необязательно)"/>
     <string id="ak8QloJg" text="While besieged, governed settlement consumes 20% less food."/>
-    <string id="AkbiPIij" text="Orchards"/>
+    <string id="AkbiPIij" text="Сады"/>
     <string id="AlY8Edde" text="Governed settlement gain +1 loyalty per day."/>
     <string id="aMHPsSe4" text="Foot troops in your party gain +3 xp everyday while traveling."/>
     <string id="AoqCwaPN" text="Companion should be healthy and should have riding skill above {RIDING_THRESHOLD} and trade skill above {TRADE_THRESHOLD}"/>
     <string id="aR3M3YfX" text="Infantry troops in the formation you are leading increase their attack speed by 2%."/>
-    <string id="arBQHbWv" text="I'm not sure I know you well enough to discuss something like this."/>
+    <string id="arBQHbWv" text="Не могу с уверенностью утверждать, что знаю вас достаточно хорошо, чтобы обсудить что-то подобное."/>
     <string id="ASU5BjTb" text="Your kills with two handed weapons have 30% higher effect on friendly troops battle morale."/>
-    <string id="AV5xVGM5" text="Good. We need them as soon as possible."/>
-    <string id="AvDUO9r0" text="We are about to start a full scale campaign but my quartermaster reported that our food supplies are not enough for an operation that long. We urgently need someone outside of the army who can provide us a huge amount of supplies as soon as possible. Are you interested in this type of work?"/>
+    <string id="AV5xVGM5" text="Хорошо. Мы нуждаемся в них как можно скорее."/>
+    <string id="AvDUO9r0" text="Мы собираемся начать полномасштабную кампанию, но мой квартирмейстер сообщил, что наших запасов продовольствия недостаточно для такой длительной кампании. Нам срочно нужен кто-то, кто сможет предоставить нам большое количество припасов в кратчайшие сроки. Вы сможете помочь?"/>
     <string id="b0ak3yGV" text="Fury"/>
     <string id="b2FsL69P" text="Increase your chance to knock opponents down with succesful swing attakcs."/>
     <string id="b38NeEp2" text="Foot troops in your party gain +10 xp everyday while waiting in settlements."/>
@@ -3020,17 +3020,17 @@
     <string id="BC1vxpPb" text="All troops in party gain additional +1 xp per day."/>
     <string id="bdzt4TcN" text="Sure Footed"/>
     <string id="bEab8stb" text="Okay. I’m waiting for your good news."/>
-    <string id="behOnSfK" text="I also have the same problem. Thank you."/>
-    <string id="bGbSbqTG" text="Have you brought our supplies?"/>
+    <string id="behOnSfK" text="У меня похожая проблема. Спасибо"/>
+    <string id="bGbSbqTG" text="Вы принесли припасы?"/>
     <string id="BibRbG6U" text="Increase your damage with two handed weapons by 15%, when your hitpoints are above 90%."/>
     <string id="bigS7KHi" text="Well Built"/>
-    <string id="BkFausb8" text="While mounted your one handed weapon damage is increased by 5%."/>
+    <string id="BkFausb8" text="Навык повышает ваш конный урон от одноручного оружия на 5%"/>
     <string id="bM9VX881" text="Shield breaker"/>
     <string id="bMBqJx4h" text="Party suffers 20% less speed penalty from being over burdened."/>
     <string id="bmW77NvO" text="What about my {MOUNT_TYPE}?"/>
     <string id="brmnjfP3" text="Every skill point after 250 grants you 0.2% speed increase and 0.5% damage increase with two handed weapons."/>
     <string id="buWDlKBV" text="You need to have more than {REQUIRED_GOLD}{GOLD_ICON} to let your companion buy the products."/>
-    <string id="bXrpRfcT" text="Infantry troops gain a +2 daily xp."/>
+    <string id="bXrpRfcT" text="Навык повышает размер вашего отряда на 15 Кроме того, он уменьшает жалование гарнизона в ваших поселениях на 5%"/>
     <string id="C7BAafCR" text="When no shields and range weapons are wielded, gain 10% faster movement."/>
     <string id="cboHxNDF" text="{QUEST_GIVER.LINK} told you that {?QUEST_GIVER.GENDER}she{?}he{\?} needs {MOUNT_TYPE} for {?QUEST_GIVER.GENDER}her{?}his{\?} party."/>
     <string id="cH0iAEfq" text="Solve this matter immediately. I need those animals."/>
@@ -3045,9 +3045,9 @@
     <string id="czTKtBIk" text="Increase your two handed Axe and two handed Mace damage by 10%."/>
     <string id="D49gf45A" text="Decrease your armor weight by 30%."/>
     <string id="d5aK6Sv0" text="Strong"/>
-    <string id="daJkC7ZG" text="Hitpoints increased by 2."/>
+    <string id="daJkC7ZG" text="Ваши очки здоровья повышаются на 2 Кроме того, после каждого сражения, пехота получает на 5% больше опыта"/>
     <string id="dbEb7iak" text="Way Of The Great Axe"/>
-    <string id="Dd9bwAZL" text="I was planning to give you some troops to solve this task but it seems like there are lots of troops under your command already."/>
+    <string id="Dd9bwAZL" text="В моих планах было дать вам немного воинов для решения этой задачи, но, похоже, под вашим командованием уже достаточно солдат."/>
     <string id="dfwCjiRx" text="Trade Tax from {A0}"/>
     <string id="dGakGflE" text="Yes, your {?QUEST_GIVER.GENDER}ladyship{?}lordship{\?}, I'll gladly do it."/>
     <string id="DqOBr2BF" text="You stun enemies longer after they block your attack."/>
@@ -3060,17 +3060,17 @@
     <string id="E5XGVJGE" text="Increase your stagger damage threshold by 50% while on foot."/>
     <string id="EbFK5HXY" text="Infantry troops in the formation you are leading increase their damage by 2% and movement speed 2%."/>
     <string id="EeHDUxf8" text="Increase your armor by 10% while on foot."/>
-    <string id="EfZaCzb0" text="{PLAYER.NAME}, please return back to {QUEST_SETTLEMENT} to claim your rewards."/>
+    <string id="EfZaCzb0" text="{PLAYER.NAME}, пожалуйста, возвращайтесь в {QUEST_SETTLEMENT}, за вашей наградой."/>
     <string id="eL9RlPbj" text="Increase your speed damage bonus with polearms while mounted by 20%."/>
     <string id="empirefaction" text="Empire"/>
-    <string id="ENS8Ig1o" text="Collected Wine Amount (Optional)"/>
+    <string id="ENS8Ig1o" text="Собрано вина (Необязательно)"/>
     <string id="EPbHr2DX" text="two healthy babies"/>
     <string id="Eqwrqotp" text="Increase your swing speed with two handed swords by 3%."/>
     <string id="EtRkxd6x" text="Troops in the formation you are leading increase their damage with polearms by 3%."/>
     <string id="FCZc2zev" text="Infantry troops in the formation you are leading increase their movement speed by 5%."/>
-    <string id="fjmGXcLW" text="You have to send healthy troops to this quest."/>
+    <string id="fjmGXcLW" text="Вы должны отправить здоровых воинов для этого задания."/>
     <string id="FLxu1bc0" text="Infantry troops in the formation you are leading increase their damage against mounts with polearms by 30%."/>
-    <string id="FmjZfigu" text="Yes commander, I have brought your grain, livestock and wine as you requested."/>
+    <string id="FmjZfigu" text="Да, я {?PLAYER.GENDER}доставила{?}доставил{?} зерно, скот и вино, как вы просили."/>
     <string id="FogJnYH9" text="Any news about the pastures?"/>
     <string id="FPbmUpy7" text="{QUEST_GIVER.NAME} is in quite a stew over the merchants' monopoly, so I hear."/>
     <string id="fT1lcx9n" text="Ultimate Leader II"/>
@@ -3078,12 +3078,12 @@
     <string id="G14cbf5j" text="Troops in your formation you gain +2% more melee damage."/>
     <string id="g6P6nKIf" text="Consider it done, commander."/>
     <string id="G79IzJsZ" text="Scout Enemy Garrisons"/>
-    <string id="gCol2epF" text="Reduce the effect of wielding a shield on your combat movement speed."/>
+    <string id="gCol2epF" text="Навык уменьшает влияние владения щитом на скорость вашего боя"/>
     <string id="GcycaG5L" text="Increase your damage against mount with polearms by 70%"/>
     <string id="Ge9RMuRi" text="+40% more damage against shields with 2 handed weapons."/>
     <string id="gEHEQazX" text="You're heavily wounded and not fit for the fight. Come back when you're ready."/>
     <string id="GHbM1i6R" text="{QUEST_GIVER.LINK} needs {MOUNT_TYPE} to speed up {?QUEST_GIVER.GENDER}her{?}his{\?} party."/>
-    <string id="GiaTh92Q" text="{QUEST_GIVER.LINK}, the army commander of the {QUEST_GIVER_FACTION} has told you that they need food supplies for their upcoming military campaign. {?QUEST_GIVER.GENDER}She{?}He{\?} wanted you to deliver {GRAIN_AMOUNT} sacks of grain and although it's not necessary, to provide {LIVESTOCK_AMOUNT} live stocks and {WINE_AMOUNT} barrels of wine {?QUEST_GIVER.GENDER}she{?}he{\?} would appreciate it."/>
+    <string id="GiaTh92Q" text="{QUEST_GIVER.LINK}, {?QUEST_GIVER.GENDER}командующая{?}командующий{\?} войском {QUEST_GIVER_FACTION}, {?QUEST_GIVER.GENDER}рассказала{?}рассказал{\?} вам о проблемах с провизией для войска. {?QUEST_GIVER.GENDER}Она попросила{?}Он попросил{\?} вас доставить {GRAIN_AMOUNT} зерна, и по возможности доставить {LIVESTOCK_AMOUNT} скота, и {WINE_AMOUNT} вина."/>
     <string id="gTuRHrjO" text="Infantry troops in the formation you are leading gain +3 hitpoints."/>
     <string id="GUqjL6xk" text="Your scouts have returned from {SETTLEMENT}. According to their report {SETTLEMENT}'s garrison has {GARRISON_SIZE} men and walls are high enough to defend against invaders."/>
     <string id="guZWnzaV" text="Strong Legs"/>
@@ -3093,7 +3093,7 @@
     <string id="GzodT3vS" text="You have failed to scout the enemy settlements in time."/>
     <string id="He6DW2Xb" text="Thank you for protecting us {?PLAYER.GENDER}madam{?}sir{\?}. Keep following, we are almost there."/>
     <string id="HKNtU2NI" text="Foot Troops in your formation gain +5 hitpoints."/>
-    <string id="HM7auUMA" text="You are my friend, but even so, this is a risky conversation to have."/>
+    <string id="HM7auUMA" text="Вы мой друг, но даже в таком случае, это рискованный разговор."/>
     <string id="HqxV96aL" text="Having Going"/>
     <string id="I022Z9Ub" text="Heh. {QUEST_GIVER.NAME} got in deeper than {?QUEST_GIVER.GENDER}she{?}he{\?} could handle with those mercenaries."/>
     <string id="I0OtUEDb" text="Increase your map hit points regeneration by 10% while traveling."/>
@@ -3104,7 +3104,7 @@
     <string id="inkr6Dzy" text="Too bad. You've wasted my time. Now I need to find someone else to get those {MOUNT_TYPE}."/>
     <string id="iPDOLbi3" text="Party wages {A0}"/>
     <string id="ipwU1JT3" text="Morning Exercise"/>
-    <string id="ISOHhXxW" text="Yes commander, I have brought your grain and wine as you requested."/>
+    <string id="ISOHhXxW" text="Да, {?PLAYER.GENDER}доставила{?}доставил{?} зерно и вино, как вы просили."/>
     <string id="IyRHO2Ez" text="Garrison infantry in governed settlements have their wages reduced by 20%."/>
     <string id="IYyuc1fz" text="Governed settlements gain +1 militia per day."/>
     <string id="j0UDi2AN" text="Clan tier should be at least {TIER}"/>
@@ -3121,10 +3121,10 @@
     <string id="jkYQmtIF" text="You need to have at least {GOLD_AMOUNT}{GOLD_ICON} denars to pay for the expenses beforehand."/>
     <string id="JmrERaq4" text="Troops in the formation you are leading gain 5 experience for each enemy you killed."/>
     <string id="joBeQXGd" text="Reduces recruitment cost of infantry troops by 20%."/>
-    <string id="jpBpwgAs" text="Settlements"/>
+    <string id="jpBpwgAs" text="Поселения"/>
     <string id="JpiQagYa" text="Drills"/>
     <string id="jXepJAhO" text="4% Increased damage with any melee weapons you wield."/>
-    <string id="K2gsZOMb" text="Army is disbanded and your mission was canceled."/>
+    <string id="K2gsZOMb" text="Войско расформировано, и ваша миссия была отменена."/>
     <string id="kbs0D9wc" text="Foot troops in your formation gain +5 armor."/>
     <string id="KT9rp0v9" text="Increase your defence against mount charge damage by 50%."/>
     <string id="KuZiQJhV" text="Two handed weapons you wield has 10% better handling."/>
@@ -3135,7 +3135,7 @@
     <string id="lbRMmZym" text="a healthy baby"/>
     <string id="LC2F84GR" text="None of the target settlements are in control of the enemy. Army Commander has canceled the mission."/>
     <string id="ljduhdzj" text="Sharpen the Tip"/>
-    <string id="Ljs9ahMk" text="I know your intentions. I will not let you steal from those poor villagers!"/>
+    <string id="Ljs9ahMk" text="Я знаю что вы задумали!. Я не позволю обокрасть этих бедных жителей!"/>
     <string id="lOaVRxdR" text="Increase your two handed weapon damage by 10%."/>
     <string id="loJja04L" text="My men will bring your {MOUNT_TYPE} as soon as possible."/>
     <string id="LpGt1ekS" text="While on foot your weapon handling is increased by 10%."/>
@@ -3146,8 +3146,8 @@
     <string id="lyGvyZK4" text="Very well. When you reach one of their fortresses, spend some time observing. Don't move on to the next one at once. You don't need to find me to report back the details, just send your messengers."/>
     <string id="m2U5wTqa" text="You need to have at least one healthy companion with riding skill above {RIDING_THRESHOLD} and trade skill above {TRADE_THRESHOLD}"/>
     <string id="m4KacGv9" text="Increase your movement speed by 10%."/>
-    <string id="M8yrANf5" text="increased damage with one handed weapons by 5%."/>
-    <string id="m9a3ZalO" text="Yes commander, I have brought your grain as you requested."/>
+    <string id="M8yrANf5" text="Навык увеличивает ваш урон одноручным оружием на 5% Кроме того, размер вашего отряда повышается на 15"/>
+    <string id="m9a3ZalO" text="Да, я {?PLAYER.GENDER}доставила{?}доставил{?} зерно, как вы и просили."/>
     <string id="MalIalPA" text="I will not listen to such matters while I'm in an army."/>
     <string id="miMZavW3" text="Baptised in Blood"/>
     <string id="MkbmHsAH" text="Decrease your charge damage taken by 50%"/>
@@ -3163,17 +3163,17 @@
     <string id="nxyXKy2z" text="Old {QUEST_GIVER.NAME} has got some problems with those herders over in {TARGET_SETTLEMENT}."/>
     <string id="Ny2i62w5" text="{TARGET_HERO} died and your agreement with {ISSUE_OWNER.LINK} has been canceled."/>
     <string id="nysBXpEO" text="camels"/>
-    <string id="O4fIFDAx" text="Infantry in your formation gain 10% of the total xp after battles."/>
+    <string id="O4fIFDAx" text="Навык уменьшает стоимость вербовки пехоты на 30%. Кроме того, размер гарнизона ваших поселений повышается на 15"/>
     <string id="o57z0zB9" text="Skewer"/>
     <string id="o6J5b0M2" text="Troops in your formation take 20% less morale loss."/>
     <string id="oFsPkOpe" text="Camels"/>
     <string id="oNgwQTTV" text="Workshop Expenses"/>
-    <string id="oS5Nesmi" text="Better fortifications and higher walls around the keep, also increases the max garrison limit since it provides more space for the resident troops."/>
-    <string id="ow06ZHwa" text="20% more damage while wielding a one-handed weapon without a shield."/>
+    <string id="oS5Nesmi" text="Улучшенные укрепления и более высокие стены вокруг поселений. Также увеличивается максимальный размер гарнизона."/>
+    <string id="ow06ZHwa" text="Навык увеличивает ваш урон при использовании одноручного оружия без щита на 20% Кроме того, вы получаете двойную известность на турнирах"/>
     <string id="oxqZJ0s9" text="Governed settlements gain 0.5 security per day."/>
     <string id="oYJz4V0s" text="Governed settlements have increased militia recruitment by 0.5 per day."/>
     <string id="P0Zm6daz" text="Cavalry troops in the formation you are leading increase their melee damage by 5%."/>
-    <string id="PAbVhuKi" text="Not yet commander. I'm still working on it."/>
+    <string id="PAbVhuKi" text="Еще нет, командир. Я все еще работаю над этим."/>
     <string id="PbwM7meL" text="You have failed to deliver the {MOUNT_TYPE} in time."/>
     <string id="PCigQKQ8" text="{QUEST_GIVER.LINK} told you that {?QUEST_GIVER.GENDER}she{?}he{\?} needs {MOUNT_TYPE} for {?QUEST_GIVER.GENDER}her{?}his{\?} party. You asked your companion {COMPANION.LINK} and {TROOP_COUNT} of your cavalry to deliver {MOUNT_COUNT} {MOUNT_NAME}s to {QUEST_GIVER.LINK}. They will rejoin your party in {RETURN_DAYS} days"/>
     <string id="pdLfrowl" text="You get double renown from tournaments."/>
@@ -3181,8 +3181,8 @@
     <string id="pjjnackd" text="Increase your damage against shields with two handed weapons by 30%."/>
     <string id="plHZYtxF" text="{REQUESTED_MOUNT_NAME}{.s} in Inventory"/>
     <string id="PMSSAVgi" text="Increase your prisoner limit by 10"/>
-    <string id="pnTXy7ub" text="I can provide you necessary supplies. Just tell me what you need."/>
-    <string id="ppO0hoT6" text="I'll deliver {GRAIN_AMOUNT} sacks of grain as soon as possible sir, and try to find some livestock and wine as you requested."/>
+    <string id="pnTXy7ub" text="Я могу предоставить всё что нужно. Просто скажите мне, что вам требуется."/>
+    <string id="ppO0hoT6" text="Я как можно скорее доставлю {GRAIN_AMOUNT} зерна, и постараюсь отыскать скот и вино, как вы просили."/>
     <string id="pV7DLTAu" text="I am sorry my {?QUEST_GIVER.GENDER}lady{?}lord{\?}. I cannot deliver the {MOUNT_TYPE} you have requested."/>
     <string id="QcECvqaN" text="Infantry troops in the formation you are leading increase their damage against shields by 15%."/>
     <string id="QdbLh2x7" text="You need {NUMBER_OF_TROOPS} troops."/>
@@ -3191,14 +3191,14 @@
     <string id="qe6YR2gh" text="Your kills with two handed weapons have 20% higher effect on enemy troops battle morale."/>
     <string id="qfjRGjM4" text="Your scouts started to gather information about {SETTLEMENT}."/>
     <string id="QGigAhFW" text="You have married with {YOUNG_HERO.LINK} who is the young noble you agreed to be his tutor. {QUEST_GIVER.LINK} has canceled your tutor agreement and wished you a long lasting marriage."/>
-    <string id="qjuiWN4K" text="{PLAYER.NAME}, you should wait with us in the village to ambush the deserters!"/>
+    <string id="qjuiWN4K" text="{PLAYER.NAME}, вы должны ждать с нами в деревне, чтобы устроить засаду дезертирам"/>
     <string id="QLLeHRWw" text="Herders of {QUEST_SETTLEMENT}"/>
-    <string id="qR3gQrLi" text="Splendid. We’ll need to keep moving around, though, so it might be tricky to find us. My fellow nobles  will usually know where to find me though, if you ask them."/>
+    <string id="qR3gQrLi" text="Splendid. We’ll need to keep moving around, though, so it might be tricky to find us. My fellow nobles will usually know where to find me though, if you ask them."/>
     <string id="QR80Vhdk" text="Increase your waiting hit points regeneration by 10%."/>
     <string id="QSbW5yYa" text="Bonus to pushing opponents with a successful thrust attack with polearms"/>
-    <string id="qsnh0KGS" text="As your friend, I give you my word that I won't breathe a word to anyone else about this conversation."/>
+    <string id="qsnh0KGS" text="Как ваш друг, я даю слово, что никому не расскажу об этом разговоре."/>
     <string id="Qy7Zmmvk" text="You have successfully scouted the target settlements."/>
-    <string id="rAqyKcKZ" text="Who the hell are you? What do you want from us?"/>
+    <string id="rAqyKcKZ" text="Кто вы, черт возьми?! Что вы хотите от нас?"/>
     <string id="rBPI2dvX" text="I don't need the service of strangers. I work only with lords of the realm and loyal mercenaries."/>
     <string id="REWGj2ge" text="a rising new clan"/>
     <string id="rHcPtNKI" text="Troops in the formation you are leading have their one handed combat effectiveness as if they were one tier higher."/>
@@ -3206,14 +3206,14 @@
     <string id="rkuAgPSA" text="On the edge"/>
     <string id="RlMqzqbS" text="Show of Strength"/>
     <string id="roTCX8S8" text="{ISSUE_GIVER_1.NAME} mentioned something about needing someone to do some work."/>
-    <string id="rQEPseAj" text="Troops in your party start with +8 battle morale if you are outnumbered."/>
+    <string id="rQEPseAj" text="Ваши воины получают в начале боя +8 боевого духа, если вы в меньшинстве. Кроме того, гарнизонные войска в ваших поселениях на 30% более эффективны в обеспечении безопасности города."/>
     <string id="rrCkJgtd" text="We don't know enough about the enemy, where they are strong and where they are weak. I don't want to lead a huge army through their territory on a wild goose hunt. We need someone to ride through there swiftly, scouting out their garrisons. Can you do this?"/>
     <string id="s4BKLQc1" text="Experience of garrisoned cavalry in governed settlements is increased by 20%."/>
     <string id="S6amWNGS" text="You need to assign at least {TROOP_COUNT} tier "/>
     <string id="seEyGLMz" text="Go deep into {ENEMY} territory, to {SETTLEMENT_1}, {SETTLEMENT_2} and {SETTLEMENT_3}. I want to know every detail about them, what sort of fortifications they have, whether the walls are well-manned or undergarrisoned, and any other enemy forces in the vicinity."/>
     <string id="siegeevent" text="Siege"/>
     <string id="SIxE2LGn" text="{ISSUE_GIVER_1.NAME} mentioned something about needing someone to do some work. And I think {ISSUE_GIVER_2.NAME} and {ISSUE_GIVER_3.NAME} were looking for someone."/>
-    <string id="SlrvOUWa" text="You gain +5 hitpoints."/>
+    <string id="SlrvOUWa" text="Ваши очки здоровья повышаются на 5 Кроме того, стоимость найма пехоты снижается на 30%"/>
     <string id="sSTCcoiT" text="Garrison wages in the governed settlement reduced by 5%."/>
     <string id="SzoXR4Iy" text="Troops in the formation you are leading have medium bonus to their shield size against ranged when they are in shieldwall formation."/>
     <string id="T3UdjMXf" text="Increase crafting stamina recovery rate by 50%."/>
@@ -3234,16 +3234,16 @@
     <string id="U3LR7dyK" text="Good. I'll be waiting for your messengers."/>
     <string id="UdAlVmmF" text="Increase your damage with polearms by 2%."/>
     <string id="UDpWoSuA" text="Every skill point after 250 grants you 0.2% speed increase and 0.5% damage increase with polearms."/>
-    <string id="uEV6kKdU" text="You have collected all the supplies that the army commander requested. Return to army and deliver the supplies"/>
+    <string id="uEV6kKdU" text="Вы собрали всё что требовалось для войска. Вернитесь, и доставьте припасы"/>
     <string id="ufciD08A" text="Increase handling of swingable polearms you use by 15%."/>
     <string id="ugHO6Sa6" text="I need more {MOUNT_TYPE}, specifically, we need {MOUNT_COUNT} and they need to be {MOUNT_NAME}s, because we know how to use them and how they fit our needs.."/>
-    <string id="UjS8JnH5" text="Splendid. I will never forget your service, my friend."/>
+    <string id="UjS8JnH5" text="Благодарю. Я никогда не забуду про вашу помощь."/>
     <string id="UP6rkdbg" text="Infantry in your party gain 10% movement speed."/>
     <string id="uUkCLZEo" text="Let's see... {ISSUE_GIVER_LIST}[rb:positive]"/>
     <string id="uuyso3mg" text="Income from Parties"/>
     <string id="V1ZKAdcK" text="Infantry troops in the formation you are leading take 10% less shield damage."/>
     <string id="v75k1FoT" text="Not yet. We need to make more preparations."/>
-    <string id="VA8BTMBR" text="You must know of my reputation. You know that it's not in my interest to betray your trust."/>
+    <string id="VA8BTMBR" text="Вы знаете какой я человек. Не в моих интересах предавать ваше доверие."/>
     <string id="vixwTVbE" text="Increase your maximum hitpoints by 5."/>
     <string id="vn13OyFV" text="one healthy and one stillborn baby"/>
     <string id="vpGuPeAH" text="Increase your damage with polearms while mounted by 2%."/>
@@ -3255,7 +3255,7 @@
     <string id="wgX2nL5Z" text="{SETTLEMENT} is no longer in control of enemy. There is no need to scout that settlement."/>
     <string id="wVKrbVSO" text="Your clan is now at war with the {QUEST_GIVER.LINK}'s faction. Your agreement was canceled."/>
     <string id="WVobv24n" text="Heaven save us if {QUEST_GIVER.NAME} can't get {?QUEST_GIVER.GENDER}her{?}his{\?} hands on more grain."/>
-    <string id="wVyqTlpS" text="Army Needs Supply"/>
+    <string id="wVyqTlpS" text="Войску нужны припасы"/>
     <string id="WXDcmG0f" text="Increase militia recruitment in governed settlements by 1."/>
     <string id="WXPGv7Si" text="Your couch lance attacks deal triple damage against shields."/>
     <string id="WyXs70nc" text="Increase your damage with two handed weapons by 20%, when your hitpoints are below 50%."/>
@@ -3271,25 +3271,25 @@
     <string id="xMpCWjg0" text="Shield bashes now deal 50% more damage and stun your enemy for longer."/>
     <string id="XNsTQlgr" text="Troops in your formation you gain +20 to their Throwing skills"/>
     <string id="yBa95LU3" text="Generous Rations"/>
-    <string id="YbsVaZkb" text="Yes commander, I have brought your grain and livestock as you requested."/>
+    <string id="YbsVaZkb" text="Да, я {?PLAYER.GENDER}доставила{?}доставил{?} зерно и скот, как вы просили."/>
     <string id="Ye9lbBr3" text="Steady"/>
     <string id="YErURO5l" text="Your scouts have returned from {SETTLEMENT}. According to their report {SETTLEMENT}'s garrison has {GARRISON_SIZE} men and walls are too high and hard to breach."/>
     <string id="YF6PPWlT" text="Very good. I’m sure your men will bring my {MOUNT_TYPE} as soon as possible."/>
-    <string id="yGxjOnYb" text="Collected Grain Amount"/>
+    <string id="yGxjOnYb" text="Собрано зерна"/>
     <string id="YHG17dqZ" text="One of your companions who is good at haggling and riding would be appropriate for this task. {MOUNT_TYPE_CAPITAL} should cost no more than {REQUIRED_GOLD_AMOUNT}{GOLD_ICON} denars and this should be covered by yourself. You'll also need some cavalry to bring the {MOUNT_TYPE_LOWER}. A purse of {REWARD_GOLD_AMOUNT}{GOLD_ICON} denars will be waiting for you when you get the job done."/>
     <string id="YnimoRlg" text="Way of the Spear"/>
     <string id="YsGSgaba" text="Number of towns or castles you own should be at least {SETTLEMENT_COUNT}"/>
     <string id="ytvDsThh" text="Also, all melee infantry troops in your party gain 5 % more xp after battle."/>
-    <string id="z9pbB0K5" text="You have successfully delivered the supplies as requested."/>
+    <string id="z9pbB0K5" text="Вы успешно доставили припасы."/>
     <string id="ZCPrYXaO" text="You have enough {MOUNT_TYPE}. Return back to {QUEST_GIVER.LINK}."/>
     <string id="zEIe1ROP" text="Slightly increase your persuasion chance."/>
     <string id="ZGovl01w" text="Reckless Charge"/>
     <string id="zgzDwZKZ" text="Courtship from clan parties"/>
-    <string id="zlTBwmR4" text="I'm not interested in military staff."/>
-    <string id="ZR4RJdYS" text="Hmm, that sounds interesting..."/>
+    <string id="zlTBwmR4" text="Я не заинтересован в пополнении."/>
+    <string id="ZR4RJdYS" text="Хм, звучит интересно..."/>
     <string id="zrYFYDfj" text="Surging Blow"/>
-    <string id="Zs6L1aBL" text="Sorry, this didn't interest me."/>
-    <string id="ZYBoS4zG" text="You don't have any companions with {ONE_HANDED_SKILL}, {TWO_HANDED_SKILL} or {POLEARM_SKILL} skill higher than {REQUIRED_SKILL_LEVEL} to assign for this quest!"/>
-    <string id="zYKeYZAo" text="All right. Don't rush this but also don't wait too long."/>
-  </strings>
-</base>
+    <string id="Zs6L1aBL" text="Извиняюсь, меня это не интересует"/>
+    <string id="ZYBoS4zG" text="У вас нет спутников с нужными навыками Требуется: {ONE_HANDED_SKILL}, {TWO_HANDED_SKILL} или {POLEARM_SKILL} выше {REQUIRED_SKILL_LEVEL}"/>
+    <string id="zYKeYZAo" text="В порядке. Не спешите с этим но и не ждите слишком долго."/>
+    </strings>
+  </base>
