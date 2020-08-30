@@ -774,7 +774,7 @@
     <string id="dIko48bN" text="I am still trying to decide what to do..."/>
     <string id="DIKPGwj1" text="So glad to see you safe. Is everyone okay?"/>
     <string id="DjQuB0TU" text="You saved your brother and sister, and you decided to let {RADAGOS.LINK} go..."/>
-    <string id="dlBFVkDj" text="About the task you gave me..."/>
+    <string id="dlBFVkDj" text="На счёт задания, которое вы поручили мне..."/>
     <string id="fM4eSVps" text="You said talking was a waste of time. You are {RADAGOS.NAME}'s property, now."/>
     <string id="ft6zzDrJ" text="I can live with that. Let's go."/>
     <string id="FyzsAZx8" text="{RADAGOS.LINK} said that he knows where your siblings are. He offered to attack together. He will wait for you at the hideout that he mentioned about near {SETTLEMENT_LINK}. You can see the hideout marked on the map."/>
@@ -787,7 +787,7 @@
     <string id="hrhvEWP8" text="{PLAYER_MOTHER.NAME} was the mother of {PLAYER.LINK}. She was slain when raiders attacked the inn at which her family was staying."/>
     <string id="HT9hW29s" text="Splendid! But I have a few things to do. There is a hideout near this city. {HIDEOUT_BOSS.LINK} keep your siblings there. I will join you right where the path leads up, just out of sight of their scouts.[if:idle_normal][ib:normal]"/>
     <string id="IC9Vg5MA" text="Meet me there later, when you're ready to tell me everything.[if:idle_normal][ib:normal]"/>
-    <string id="k7ebznzr" text="Yes?"/>
+    <string id="k7ebznzr" text="Да?"/>
     <string id="kbyqtszZ" text="I'm listening.."/>
     <string id="kz5PJbV1" text="I shall. For your many crimes, {RADAGOS.NAME}, your life is forfeit."/>
     <string id="kzgbBrYo" text="As you leave the hideout, {RADAGOS.LINK} comes to you and asks to talk."/>
@@ -809,7 +809,7 @@
     <string id="xachJ1hb" text="Yes, we are all fine. {LITTLE_SISTER.LINK} and {LITTLE_BROTHER.LINK} are scared but fine... We need to be quick and get the hell out of this place.[if:idle_insulted][ib:closed]"/>
     <string id="xknCpvcb" text="Calm down, now. I'll tell you everything."/>
     <string id="XmvaRfLM" text="{PLAYER_FATHER.NAME} was the father of {PLAYER.LINK}. He was slain when raiders attacked the inn at which his family was staying."/>
-    <string id="ypDmy5Rn" text="Uh, how can we possibly trust each other?"/>
+    <string id="ypDmy5Rn" text="Как мы можем доверять друг другу?"/>
     <string id="ZpcV9MZE" text="You saved your brother and sister, and you decided to execute {RADAGOS.LINK} because he caused the death of your parents."/>
   </strings>
 </base>

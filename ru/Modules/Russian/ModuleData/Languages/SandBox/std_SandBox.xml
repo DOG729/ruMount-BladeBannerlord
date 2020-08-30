@@ -1207,53 +1207,53 @@
     <string id="SJHtVaNa" text="Шпион среди нас"/>
     <string id="VWaNqkqJ" text="Не могу сказать, что я видел здесь кого-то подобного, {?PLAYER.GENDER}миледи{?}сир{\?}."/>
     <string id="xizHRti3" text="Ничего особенного, ваша светлость."/>
-    <string id="0wTZx8EC" text="You don't seem trustworthy. I have no interest in your offer."/>
-    <string id="4mhOs9Fb" text="Is there a way to form a caravan includes better troops?"/>
-    <string id="6po3wjFa" text="Okay. I hope you will not regret this."/>
-    <string id="aIbR4Nr3" text="Sure, but first you will need to pay me and my men {GOLD_AMOUNT} denars for our efforts."/>
-    <string id="dfEi6GSE" text="We will fight for you, if you can pay us {GOLD_AMOUNT} denars in exchange for every influence we gain for you."/>
-    <string id="GbOj39KC" text="I'm not sure why"/>
-    <string id="HOMeZ9bB" text="Let me think about it."/>
-    <string id="MaXA5HJi" text="Your companions report that the {ISSUE_GIVER.LINK}'s daughter returns to {?ISSUE_GIVER.GENDER}her{?}him{\?} safe and sound. {?ISSUE_GIVER.GENDER}She{?}He{\?} is happy and sends {?ISSUE_GIVER.GENDER}her{?}his{\?} regards with a large pouch of {BASE_REWARD_GOLD}{GOLD_ICON}."/>
-    <string id="MnluqvyE" text="I do not care to talk about my past."/>
-    <string id="pBb6sevv" text="It is enough to say that I am looking for a new employer, and I will serve loyally so long as I am treated well and paid well."/>
-    <string id="VIztLFNQ" text="You need to discuss this with our leader {LEADER.LINK}."/>
-    <string id="VJbQNVDu" text="You don't deserve my coin. This contract is over."/>
-    <string id="xbFa2L9A" text="We will not forget this."/>
-    <string id="xOrwhUVJ" text="I want to end our contract."/>
-    <string id="zFAkHQRH" text="I am ready to pay my debt."/>
-    <string id="3INC3Thi" text="If you need me, you know where to find me."/>
-    <string id="5ANh9qVW" text="Farewell for now. Walk the path of the righteous, and the Heavens will protect you."/>
-    <string id="7b6yzkig" text="Always a please, m'lady. Keep safe."/>
+    <string id="0wTZx8EC" text="Вы не похожи на человека заслуживающего доверие. Меня не интересует ваше предложение."/>
+    <string id="4mhOs9Fb" text="Можно ли собрать караван с более хорошей стражей?"/>
+    <string id="6po3wjFa" text="Хорошо. Надеюсь, вы не пожалеете об этом."/>
+    <string id="aIbR4Nr3" text="Конечно, но сначала вам нужно заплатить мне и моим людям {GOLD_AMOUNT} динар за наши усилия."/>
+    <string id="dfEi6GSE" text="Вы можете нанять нас за {GOLD_AMOUNT} динар, но придётся... Немного доплачивать, каждый раз когда мы будем зарабатывать вам влияние. Мы делаем вас более влиятельным - вы нам платите, всё честно, верно?"/>
+    <string id="GbOj39KC" text="Понятия не имею, почему"/>
+    <string id="HOMeZ9bB" text="Дайте мне подумать об этом."/>
+    <string id="MaXA5HJi" text="Ваши люди сообщают что дочь {ISSUE_GIVER.LINK} вернулась к {?ISSUE_GIVER.GENDER}матери{?}отцу{\?} в целостности и сохранности. {?ISSUE_GIVER.GENDER}Мать{?}Отец{\?} девушки с благодарностью высылает вам {BASE_REWARD_GOLD}{GOLD_ICON}."/>
+    <string id="MnluqvyE" text="Я не хочу говорить о моем прошлом."/>
+    <string id="pBb6sevv" text="Достаточно сказать, что я ищу нового командира, и я буду преданно служить, пока со мной хорошо обращаются и хорошо платят."/>
+    <string id="VIztLFNQ" text="Вы должны обсудить это с нашим лидером, его зовут - {LEADER.LINK}."/>
+    <string id="VJbQNVDu" text="Вы не заслуживаете моих монет. Я разрываю контракт."/>
+    <string id="xbFa2L9A" text="Мы не забудем этого."/>
+    <string id="xOrwhUVJ" text="Я хочу разорвать наш контракт."/>
+    <string id="zFAkHQRH" text="Теперь я могу оплатить свой долг."/>
+    <string id="3INC3Thi" text="Если я буду {?NPC.GENDER}нужна{?}нужен{\?} вам, вы знаете, где меня найти."/>
+    <string id="5ANh9qVW" text="А пока прощай. Следуй пути праведника, и Небеса защитят тебя."/>
+    <string id="7b6yzkig" text="Всегда в вашим услугам, миледи. Берегите себя."/>
     <string id="7RyXSkEE" text="Wouldn't want to be the poor lovesick sap who ran off with {QUEST_GIVER.NAME}'s daughter."/>
-    <string id="8Mx8gMmw" text="One other small thing... I've had to take some money from some fairly dangerous people around here. I'll need {GOLD_AMOUNT}{GOLD_ICON} to get that beast off my back. Do you reckon you can pay me that?[rb:trivial]"/>
-    <string id="8wdzSgfZ" text="If you have work for me, we could discuss it."/>
-    <string id="9804jwU1" text="It was a pleasure, sir. I hope to see you again some time soon.[rb:positive]"/>
-    <string id="9g6FB5Y7" text="There are some townspeople who've looked after me here, made sure I was fed and that. I'd like to give them something before I go. Could I ask for {GOLD_AMOUNT}{GOLD_ICON} as an advance?[rb:trivial]"/>
-    <string id="9kHU4AMD" text="Great. Going to need some money in advance though - {GOLD_AMOUNT}{GOLD_ICON}. Can you pay?[rb:trivial]"/>
-    <string id="BQjAAo9f" text="Right now I'm looking for work, if you have anything to offer."/>
+    <string id="8Mx8gMmw" text="Есть небольшая загвоздка... Я {?NPC.GENDER}задолжала{?}задолжал{\?} опасным людям, и мне нужно {GOLD_AMOUNT}{GOLD_ICON}, чтобы я {?NPC.GENDER}смогла{?}смог{\?} расплатиться с ними сполна. Могли бы вы помочь мне?[rb:trivial]"/>
+    <string id="8wdzSgfZ" text="Если вы можете предложить мне работу, что же - давайте обсудим."/>
+    <string id="9804jwU1" text="Сир, это было восхитительно. Надеюсь, вскоре мы сможем увидеться снова.[rb:positive]"/>
+    <string id="9g6FB5Y7" text="Некоторые горожане приглядывали за мной, делились питьём и пищей. Я должен отплатить им за их доброту. Могу ли я попросить у вас {GOLD_AMOUNT}{GOLD_ICON} наперёд?[rb:trivial]"/>
+    <string id="9kHU4AMD" text="Великолепно. Но прежде чем отправиться с вами, мне нужны {GOLD_AMOUNT}{GOLD_ICON}. Можете заплатить?[rb:trivial]"/>
+    <string id="BQjAAo9f" text="Сейчас я ищу работу. У вас есть, что предложить?"/>
     <string id="C9feTaca" text="I hear {QUEST_GIVER.NAME} is going to sort it out with {RIVAL_GANG_LEADER.NAME} once and for all."/>
     <string id="CxavIji0" text="many more"/>
-    <string id="EBI3j6O8" text="Sure. You know where to find me."/>
-    <string id="eWGJmRMR" text="Yeah, sure. Later, then."/>
-    <string id="F7yFADCx" text="Sure thing, boss.[ib:demure][rb:positive]"/>
+    <string id="EBI3j6O8" text="Конечно. Вы знаете, где меня найти."/>
+    <string id="eWGJmRMR" text="Да, конечно. Тогда как-нибудь потом."/>
+    <string id="F7yFADCx" text="Конечно, босс.[ib:demure][rb:positive]"/>
     <string id="HZ6fr5zG" text="You have to send at least {NUMBER} tier {TIER} troops to this quest."/>
-    <string id="K1RtrtvH" text="So, uh, there's a young woman around here. I really need to leave her some money before I go anywhere. Let's say {GOLD_AMOUNT}{GOLD_ICON} - can you pay me that?[rb:trivial]"/>
-    <string id="kJDDW6Dk" text="It was a pleasure to meet you. Safe travels.[rb:positive]"/>
-    <string id="km6aX5ev" text="Yeah... Go on, then."/>
+    <string id="K1RtrtvH" text="Тут есть одна молодая девушка, и мне нужно оставить ей немного денег, прежде, чем я отправлюсь в путь. Вы сможете заплатить {GOLD_AMOUNT}{GOLD_ICON}?[rb:trivial]"/>
+    <string id="kJDDW6Dk" text="{?NPC.GENDER}Была рада{?}Был рад{\?} знакомству. Лёгкой дороги вам.[rb:positive]"/>
+    <string id="km6aX5ev" text="Да... Продолжим."/>
     <string id="lmVCRD4Q" text="I hope {QUEST_GIVER.NAME} can work out that trouble with {?QUEST_GIVER.GENDER}her{?}his{\?} kinsman."/>
-    <string id="loLetAI9" text="Very well. But the world being as it is, I'm going to need {GOLD_AMOUNT}{GOLD_ICON} as a down payment on my services. Can you pay that?[rb:trivial]"/>
-    <string id="OB37sx91" text="Don't be a stranger, eh? Come see me again some time.[rb:positive]"/>
-    <string id="oiMs17Oh" text="Very well... You know where to find me."/>
-    <string id="PlhbjNOE" text="Just so you know... I'm not cheap. I want {GOLD_AMOUNT}{GOLD_ICON} as an advance, or there's no deal.[rb:trivial]"/>
-    <string id="sbugaHdU" text="Right. Cheers, then."/>
-    <string id="sy5Hbp04" text="Safe travels to you, my lady. I hope to see you again soon."/>
-    <string id="uolvICE4" text="Let's talk again soon, m'lady.[rb:positive]"/>
-    <string id="V5Kygicn" text="It was good to meet you. Come see me if you need anything."/>
-    <string id="VvxGEJoz" text="I am enchanted to have met you, my lady.[rb:positive]"/>
-    <string id="wbxUMLZ8" text="Be on your way, then."/>
+    <string id="loLetAI9" text="Очень хорошо. Но, несмотря ни на что, мне нужны {GOLD_AMOUNT}{GOLD_ICON} наперёд за мои услуги. Вы можете заплатить?[rb:trivial]"/>
+    <string id="OB37sx91" text="Не пропадай, хорошо? Приходи ко мне снова.[rb:positive]"/>
+    <string id="oiMs17Oh" text="Очень хорошо. Вы знаете, где меня найти."/>
+    <string id="PlhbjNOE" text="Только знайте... Мои услуги стоят недёшево, и мне нужны {GOLD_AMOUNT}{GOLD_ICON} наперёд, или сделке не бывать.[rb:trivial]"/>
+    <string id="sbugaHdU" text="Точно. Ну тогда, ура."/>
+    <string id="sy5Hbp04" text="Лёгкой дороги вам, миледи. Я надеюсь скоро увидеть вас снова."/>
+    <string id="uolvICE4" text="Скоро мы сможем поговорить вновь, миледи.[rb:positive]"/>
+    <string id="V5Kygicn" text="{?NPC.GENDER}Была рада{?}Был рад{\?}. Приходите ко мне, если вам что-то понадобится."/>
+    <string id="VvxGEJoz" text="Я очарован вами, миледи.[rb:positive]"/>
+    <string id="wbxUMLZ8" text="Тогда ступай."/>
     <string id="wvbiyZfp" text="What else do you have to say?"/>
     <string id="wWrEvkuj" text="{CULPRIT.LINK} is no longer a member of your clan. Your agreement with {QUEST_GIVER.LINK} was terminated."/>
-    <string id="z1nFn4Ug" text="You could say perhaps that I am between jobs right now, so if by any chance you are looking to hire... Well, I'm open to discussion."/>
+    <string id="z1nFn4Ug" text="Вы могли заметить, что сейчас у меня нет никакой работы, поэтому, если вы захотите нанять меня... Я всегда готов обсудить это."/>
   </strings>
 </base>
