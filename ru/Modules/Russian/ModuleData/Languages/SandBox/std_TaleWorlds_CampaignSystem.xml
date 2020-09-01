@@ -426,7 +426,7 @@
     <string id="9DaDtQbo" text="Отречься от {POLICY_NAME}"/>
     <string id="9FslPRv3" text="Показатель рождаемости увеличен на 20%, для всех членов клана."/>
     <string id="9iZg4vpz" text="Спасибо. Вы будете вознаграждены, когда вы все сделаете."/>
-    <string id="9J5axrwQ" text="Производство осадного двигателя увеличивается на 30%."/>
+    <string id="9J5axrwQ" text="Cкорость производство осадного орудий увеличивается на 30%."/>
     <string id="9j7LJk60" text="Собранные Предметы"/>
     <string id="9JzMorN4" text="Перевозка раненых"/>
     <string id="9KQxHbo2" text="Известный Лучник"/>
@@ -3000,33 +3000,33 @@
     <string id="aHScc7NS" text="У вас нет компаньонов с навыком {TACTICS_SKILL} выше {REQUIRED_SKILL_LEVEL} для выполнения этого задания!"/>
     <string id="AHtFRv5T" text="Ignore Pain"/>
     <string id="aIxX2s8n" text="Собрано скота (Необязательно)"/>
-    <string id="ak8QloJg" text="While besieged, governed settlement consumes 20% less food."/>
+    <string id="ak8QloJg" text="В осажденном поселении под вашим управлением потребляет на 20% меньше еды."/>
     <string id="AkbiPIij" text="Сады"/>
-    <string id="AlY8Edde" text="Governed settlement gain +1 loyalty per day."/>
-    <string id="aMHPsSe4" text="Foot troops in your party gain +3 xp everyday while traveling."/>
+    <string id="AlY8Edde" text="Управляемые поселения получают +1 к лояльности в день."/>
+    <string id="aMHPsSe4" text="Пехотинцы в вашей группе получают +3 опыта каждый день во время путешествий."/>
     <string id="AoqCwaPN" text="Companion should be healthy and should have riding skill above {RIDING_THRESHOLD} and trade skill above {TRADE_THRESHOLD}"/>
-    <string id="aR3M3YfX" text="Infantry troops in the formation you are leading increase their attack speed by 2%."/>
+    <string id="aR3M3YfX" text="Пехотные войска в строю, которым вы руководите, увеличивают свою скорость атаки на 2%."/>
     <string id="arBQHbWv" text="Не могу с уверенностью утверждать, что знаю вас достаточно хорошо, чтобы обсудить что-то подобное."/>
     <string id="ASU5BjTb" text="Your kills with two handed weapons have 30% higher effect on friendly troops battle morale."/>
     <string id="AV5xVGM5" text="Хорошо. Мы нуждаемся в них как можно скорее."/>
     <string id="AvDUO9r0" text="Мы собираемся начать полномасштабную кампанию, но мой квартирмейстер сообщил, что наших запасов продовольствия недостаточно для такой длительной кампании. Нам срочно нужен кто-то, кто сможет предоставить нам большое количество припасов в кратчайшие сроки. Вы сможете помочь?"/>
     <string id="b0ak3yGV" text="Fury"/>
     <string id="b2FsL69P" text="Increase your chance to knock opponents down with succesful swing attakcs."/>
-    <string id="b38NeEp2" text="Foot troops in your party gain +10 xp everyday while waiting in settlements."/>
-    <string id="b7FbnGn6" text="Tier 3+ foot troops your formation gain +10% movement speed."/>
+    <string id="b38NeEp2" text="Пехотинцы в вашей группе получают +10 опыта каждый день, ожидая в поселениях."/>
+    <string id="b7FbnGn6" text="Пехотные войска 3+ уровня вашего формирования, получают +10% скорости передвижения."/>
     <string id="B7HwvV6L" text="A Good Days Rest"/>
     <string id="BazrgEOj" text="Counterweight"/>
-    <string id="bBa0LB1D" text="Chink in the Armor"/>
-    <string id="BC1vxpPb" text="All troops in party gain additional +1 xp per day."/>
-    <string id="bdzt4TcN" text="Sure Footed"/>
-    <string id="bEab8stb" text="Okay. I’m waiting for your good news."/>
+    <string id="bBa0LB1D" text="Щель в броне"/>
+    <string id="BC1vxpPb" text="Все войска в группе получают дополнительно +1 опыта в день."/>
+    <string id="bdzt4TcN" text="Уверенные ноги"/>
+    <string id="bEab8stb" text="Ладно. Я жду хороших новостей."/>
     <string id="behOnSfK" text="У меня похожая проблема. Спасибо"/>
     <string id="bGbSbqTG" text="Вы принесли припасы?"/>
-    <string id="BibRbG6U" text="Increase your damage with two handed weapons by 15%, when your hitpoints are above 90%."/>
+    <string id="BibRbG6U" text="Увеличьте урон от двуручного оружия на 15%, когда ваше здоровье выше 90%."/>
     <string id="bigS7KHi" text="Well Built"/>
     <string id="BkFausb8" text="Навык повышает ваш конный урон от одноручного оружия на 5%"/>
     <string id="bM9VX881" text="Shield breaker"/>
-    <string id="bMBqJx4h" text="Party suffers 20% less speed penalty from being over burdened."/>
+    <string id="bMBqJx4h" text="Группа получает на 20% меньше штрафа к скорости из-за чрезмерной нагрузки."/>
     <string id="bmW77NvO" text="What about my {MOUNT_TYPE}?"/>
     <string id="brmnjfP3" text="Every skill point after 250 grants you 0.2% speed increase and 0.5% damage increase with two handed weapons."/>
     <string id="buWDlKBV" text="You need to have more than {REQUIRED_GOLD}{GOLD_ICON} to let your companion buy the products."/>
@@ -3042,18 +3042,18 @@
     <string id="cvk5Wb7e" text="Melee troops gain 5% more experience after every battle."/>
     <string id="cvZH3cI1" text="I hope {QUEST_GIVER.NAME} has a plan to get that herd to market."/>
     <string id="cZ38hU37" text="Military projects (barracks, training fields, battlements, workshop etc..) are build 30% faster."/>
-    <string id="czTKtBIk" text="Increase your two handed Axe and two handed Mace damage by 10%."/>
-    <string id="D49gf45A" text="Decrease your armor weight by 30%."/>
-    <string id="d5aK6Sv0" text="Strong"/>
+    <string id="czTKtBIk" text="Увеличьте урон от двуручного топора и двуручной булавы на 10%."/>
+    <string id="D49gf45A" text="Уменьшите вес брони на 30%."/>
+    <string id="d5aK6Sv0" text="Сильный"/>
     <string id="daJkC7ZG" text="Ваши очки здоровья повышаются на 2 Кроме того, после каждого сражения, пехота получает на 5% больше опыта"/>
     <string id="dbEb7iak" text="Way Of The Great Axe"/>
     <string id="Dd9bwAZL" text="В моих планах было дать вам немного воинов для решения этой задачи, но, похоже, под вашим командованием уже достаточно солдат."/>
     <string id="dfwCjiRx" text="Trade Tax from {A0}"/>
     <string id="dGakGflE" text="Yes, your {?QUEST_GIVER.GENDER}ladyship{?}lordship{\?}, I'll gladly do it."/>
     <string id="DqOBr2BF" text="You stun enemies longer after they block your attack."/>
-    <string id="DSKtsYPi" text="Prestige"/>
+    <string id="DSKtsYPi" text="Престиж"/>
     <string id="dU7haWkI" text="Braced"/>
-    <string id="dyaagsuj" text="Foot Troops in your formation gain +5% movement speed."/>
+    <string id="dyaagsuj" text="Пехотинцы в вашем построении получают +5% скорости передвижения."/>
     <string id="DzFvoy8r" text="Thrust attacks with polearms have 5% increased damage."/>
     <string id="E3BsEDav" text="Financial Help for Parties"/>
     <string id="E5bgLJcs" text="Head Basher"/>
@@ -3062,7 +3062,7 @@
     <string id="EeHDUxf8" text="Increase your armor by 10% while on foot."/>
     <string id="EfZaCzb0" text="{PLAYER.NAME}, пожалуйста, возвращайтесь в {QUEST_SETTLEMENT}, за вашей наградой."/>
     <string id="eL9RlPbj" text="Increase your speed damage bonus with polearms while mounted by 20%."/>
-    <string id="empirefaction" text="Empire"/>
+    <string id="empirefaction" text="Империя"/>
     <string id="ENS8Ig1o" text="Собрано вина (Необязательно)"/>
     <string id="EPbHr2DX" text="two healthy babies"/>
     <string id="Eqwrqotp" text="Increase your swing speed with two handed swords by 3%."/>
@@ -3073,7 +3073,7 @@
     <string id="FmjZfigu" text="Да, я {?PLAYER.GENDER}доставила{?}доставил{?} зерно, скот и вино, как вы просили."/>
     <string id="FogJnYH9" text="Any news about the pastures?"/>
     <string id="FPbmUpy7" text="{QUEST_GIVER.NAME} is in quite a stew over the merchants' monopoly, so I hear."/>
-    <string id="fT1lcx9n" text="Ultimate Leader II"/>
+    <string id="fT1lcx9n" text="Абсолютный лидер II"/>
     <string id="Fv8CKNU2" text="I hope {QUEST_GIVER.NAME} knows what {?QUEST_GIVER.GENDER}she's{?}he's{\?} doing with that plan to get rid of the deserters."/>
     <string id="G14cbf5j" text="Troops in your formation you gain +2% more melee damage."/>
     <string id="g6P6nKIf" text="Consider it done, commander."/>
@@ -3087,7 +3087,7 @@
     <string id="gTuRHrjO" text="Infantry troops in the formation you are leading gain +3 hitpoints."/>
     <string id="GUqjL6xk" text="Your scouts have returned from {SETTLEMENT}. According to their report {SETTLEMENT}'s garrison has {GARRISON_SIZE} men and walls are high enough to defend against invaders."/>
     <string id="guZWnzaV" text="Strong Legs"/>
-    <string id="GYNbGbwd" text="Your attacks ignore %25 of enemies armor."/>
+    <string id="GYNbGbwd" text="Ваши атаки игнорируют 25% брони врагов."/>
     <string id="gYonPSUM" text="Infantry troops in the formation you are leading increase their damage against destructible objects by 20%."/>
     <string id="GzNVqogG" text="Infantry troops in the the formation you are leading have their hitpoints increased by 10."/>
     <string id="GzodT3vS" text="You have failed to scout the enemy settlements in time."/>
@@ -3101,48 +3101,48 @@
     <string id="IFqtwpb0" text="Pikeman"/>
     <string id="ijanbumZ" text="Led formation have small shield size bonus againt ranged attacks."/>
     <string id="ijj0JGTW" text="Troops in the formation you are leading start the battle with +5 battle morale."/>
-    <string id="inkr6Dzy" text="Too bad. You've wasted my time. Now I need to find someone else to get those {MOUNT_TYPE}."/>
+    <string id="inkr6Dzy" text="Жаль. Вы зря потратили мое время. Теперь мне нужно найти кого-нибудь, чтобы получить {MOUNT_TYPE}."/>
     <string id="iPDOLbi3" text="Party wages {A0}"/>
-    <string id="ipwU1JT3" text="Morning Exercise"/>
+    <string id="ipwU1JT3" text="Утренняя зарядка"/>
     <string id="ISOHhXxW" text="Да, {?PLAYER.GENDER}доставила{?}доставил{?} зерно и вино, как вы просили."/>
-    <string id="IyRHO2Ez" text="Garrison infantry in governed settlements have their wages reduced by 20%."/>
-    <string id="IYyuc1fz" text="Governed settlements gain +1 militia per day."/>
-    <string id="j0UDi2AN" text="Clan tier should be at least {TIER}"/>
-    <string id="J7oh7Vin" text="Wood Chopper"/>
-    <string id="j9OIuxxY" text="Thick Hides"/>
-    <string id="Jat5GFDi" text="Unstoppable Force"/>
-    <string id="jC08sYIo" text="Increase your change to dismount an enemy cavalry on successful hit."/>
-    <string id="jD7aFORo" text="Your couch lance now have %30 chance to stay couched if it killed someone."/>
-    <string id="jdQuO7Qf" text="Infantry troops in the formation you are leading increase their movement speed by 2%."/>
-    <string id="jgtQbyyU" text="Infantry troops in the formation you are leading have +30 to their Polearms skills."/>
-    <string id="JiHaL6IV" text="Army has disbanded and your mission has been canceled."/>
-    <string id="jjNSVzx3" text="What do you need, Lord?"/>
-    <string id="JKqsYaBj" text="One handed weapons you wield have their handling increased by 20%."/>
+    <string id="IyRHO2Ez" text="Заработная плата гарнизонной пехоте в управляемых поселениях снижена на 20%.."/>
+    <string id="IYyuc1fz" text="Управляемые поселения получают +1 ополчение в день."/>
+    <string id="j0UDi2AN" text="Уровень клана должен быть не менее {TIER}"/>
+    <string id="J7oh7Vin" text="Измельчитель Древесины"/>
+    <string id="j9OIuxxY" text="Толстые Шкуры"/>
+    <string id="Jat5GFDi" text="Неудержимая сила"/>
+    <string id="jC08sYIo" text="Увеличивает шанс, чтобы спешить вражескую кавалерию при успешном попадании."/>
+    <string id="jD7aFORo" text="Ваше копье теперь имеет 30%-ный шанс остаться целым(возможно подобрать), если оно кого-то убьет."/>
+    <string id="jdQuO7Qf" text="Пехотные войска в строю, которым вы руководите, увеличивают свою скорость передвижения на 2%.."/>
+    <string id="jgtQbyyU" text="Пехотные войска в строю, которым вы руководите, имеют +30 к навыкам древкового оружия.."/>
+    <string id="JiHaL6IV" text="Армия расформирована, и ваша миссия отменена."/>
+    <string id="jjNSVzx3" text="Что тебе нужно, Господи?"/>
+    <string id="JKqsYaBj" text="Обработка одноручного оружия, которым вы владеете, увеличена на 20%.."/>
     <string id="jkYQmtIF" text="You need to have at least {GOLD_AMOUNT}{GOLD_ICON} denars to pay for the expenses beforehand."/>
-    <string id="JmrERaq4" text="Troops in the formation you are leading gain 5 experience for each enemy you killed."/>
-    <string id="joBeQXGd" text="Reduces recruitment cost of infantry troops by 20%."/>
+    <string id="JmrERaq4" text="Войска в строю, которым вы руководите, получают +5 опыта за каждого убитого вами врага."/>
+    <string id="joBeQXGd" text="Снижает стоимость найма пехоты на 20%.."/>
     <string id="jpBpwgAs" text="Поселения"/>
-    <string id="JpiQagYa" text="Drills"/>
-    <string id="jXepJAhO" text="4% Increased damage with any melee weapons you wield."/>
+    <string id="JpiQagYa" text="Сверла"/>
+    <string id="jXepJAhO" text="На 4% увеличен урон любым оружием ближнего боя, которым вы владеете.."/>
     <string id="K2gsZOMb" text="Войско расформировано, и ваша миссия была отменена."/>
-    <string id="kbs0D9wc" text="Foot troops in your formation gain +5 armor."/>
-    <string id="KT9rp0v9" text="Increase your defence against mount charge damage by 50%."/>
-    <string id="KuZiQJhV" text="Two handed weapons you wield has 10% better handling."/>
-    <string id="kwVELZN1" text="Infantry troops in the formation you are leading have their damage increased by 2%."/>
-    <string id="kZLdXWoq" text="You can deflect arrows with 2h weapons while changing block positions."/>
-    <string id="lB12FYqb" text="Governed settlements gain +1 security per day."/>
-    <string id="lbGa4ihC" text="Mighty Blow "/>
-    <string id="lbRMmZym" text="a healthy baby"/>
-    <string id="LC2F84GR" text="None of the target settlements are in control of the enemy. Army Commander has canceled the mission."/>
-    <string id="ljduhdzj" text="Sharpen the Tip"/>
+    <string id="kbs0D9wc" text="Пехотинцы в вашем построении получают +5 брони."/>
+    <string id="KT9rp0v9" text="Увеличьте вашу защиту от урона от атак mount на 50%."/>
+    <string id="KuZiQJhV" text="Двуручное оружие, которым вы владеете, на 10% легче в обращении.."/>
+    <string id="kwVELZN1" text="Урон пехотных войск в строю, который вы возглавляете, увеличен на 2%.."/>
+    <string id="kZLdXWoq" text="Вы можете отражать стрелы с помощью двухручного оружия, меняя положение блоков.."/>
+    <string id="lB12FYqb" text="Управляемые поселения получают +1 к безопасности в день."/>
+    <string id="lbGa4ihC" text="Могучий удар "/>
+    <string id="lbRMmZym" text="здоровый ребенок"/>
+    <string id="LC2F84GR" text="None of the target settlements are in control of the enemy. Командующий армией отменил задание."/>
+    <string id="ljduhdzj" text="Заострить кончик"/>
     <string id="Ljs9ahMk" text="Я знаю что вы задумали!. Я не позволю обокрасть этих бедных жителей!"/>
-    <string id="lOaVRxdR" text="Increase your two handed weapon damage by 10%."/>
+    <string id="lOaVRxdR" text="Увеличьте урон от двуручного оружия на 10%."/>
     <string id="loJja04L" text="My men will bring your {MOUNT_TYPE} as soon as possible."/>
-    <string id="LpGt1ekS" text="While on foot your weapon handling is increased by 10%."/>
-    <string id="lPuk6bao" text="Hope"/>
-    <string id="LUTwOksA" text="When you hit enemies head with a polearm you deal 50% more damage."/>
+    <string id="LpGt1ekS" text="Когда вы идете пешком, ваше владение оружием увеличивается на 10%."/>
+    <string id="lPuk6bao" text="Надежда"/>
+    <string id="LUTwOksA" text="Когда вы ударяете врага по голове древковым оружием, вы наносите на 50% больше урона.."/>
     <string id="LVeZLsbg" text="Healthy Citizens"/>
-    <string id="LVwh7Eba" text="Foot troops in your formation gain +30% speed damage bonus."/>
+    <string id="LVwh7Eba" text="Пехотинцы в вашем построении получают +30% бонус к урону от скорости."/>
     <string id="lyGvyZK4" text="Very well. When you reach one of their fortresses, spend some time observing. Don't move on to the next one at once. You don't need to find me to report back the details, just send your messengers."/>
     <string id="m2U5wTqa" text="You need to have at least one healthy companion with riding skill above {RIDING_THRESHOLD} and trade skill above {TRADE_THRESHOLD}"/>
     <string id="m4KacGv9" text="Increase your movement speed by 10%."/>

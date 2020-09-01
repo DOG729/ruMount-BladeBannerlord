@@ -777,12 +777,12 @@
     <string id="dlBFVkDj" text="На счёт задания, которое вы поручили мне..."/>
     <string id="fM4eSVps" text="You said talking was a waste of time. You are {RADAGOS.NAME}'s property, now."/>
     <string id="ft6zzDrJ" text="I can live with that. Let's go."/>
-    <string id="FyzsAZx8" text="{RADAGOS.LINK} said that he knows where your siblings are. He offered to attack together. He will wait for you at the hideout that he mentioned about near {SETTLEMENT_LINK}. You can see the hideout marked on the map."/>
+    <string id="FyzsAZx8" text="{RADAGOS.LINK} сказал, что знает, где твои братья и сестры. Он предложил атаковать вместе. Он будет ждать вас в убежище, о котором упоминал, рядом {SETTLEMENT_LINK}. Вы можете увидеть укрытие, отмеченное на карте."/>
     <string id="G9iXmhGK" text="Look, we can still talk. I'll give you a pouch of silver."/>
     <string id="Ga8mDgab" text="You've been defeated at {HIDEOUT_BOSS.LINK}'s hideout. You can attack again when you are ready."/>
     <string id="GicEcLx2" text="See you there then. But, remember, if this is a trap or something, that will cost you your life."/>
     <string id="heoCaRIr" text="Nah... There's no more talking. Kill me or I kill you, that's how this ends.[ib:confident]"/>
-    <string id="HPNuqbSf" text="Rescue Your Family"/>
+    <string id="HPNuqbSf" text="Спасите свою семью"/>
     <string id="HrdVRMgR" text="Perhaps by saving my brother and sister you earned your life back. Very well, go now."/>
     <string id="hrhvEWP8" text="{PLAYER_MOTHER.NAME} was the mother of {PLAYER.LINK}. She was slain when raiders attacked the inn at which her family was staying."/>
     <string id="HT9hW29s" text="Splendid! But I have a few things to do. There is a hideout near this city. {HIDEOUT_BOSS.LINK} keep your siblings there. I will join you right where the path leads up, just out of sight of their scouts.[if:idle_normal][ib:normal]"/>
