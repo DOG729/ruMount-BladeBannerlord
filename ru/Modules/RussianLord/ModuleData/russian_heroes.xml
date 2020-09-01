@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Heroes>
-  <!-- Dead -->
-  <Hero id="elizabeth" faction="Faction.clan_dogerster" alive="false" is_noble="true" text="{=elizabeth_r_mod}A late mother who came from other lands." />
-  <!-- Actuive -->
-  <Hero id="lord_magnus" is_noble="true" faction="Faction.clan_dogerster" text="{=clan_dogerster_owner_r_mod}Head of clan." />
-  <Hero id="lord_valoda" father="Hero.lord_magnus" mother="Hero.elizabeth" is_noble="true" faction="Faction.clan_dogerster" text="{=clan_ifno_valoda_r_mod}Vladimir is one of those people who is ready to go head over heels to achieve the goal. He doesn't care how many people are lying headless behind him." />
-</Heroes>
