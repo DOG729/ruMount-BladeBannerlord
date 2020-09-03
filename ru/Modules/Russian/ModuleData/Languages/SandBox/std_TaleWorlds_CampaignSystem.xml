@@ -60,7 +60,7 @@
     <string id="117W31dZ" text="Вы не смогли увезти сельчан из оспариваемого пастбища. Землевладелец, {QUEST_GIVER.LINK}, считает, что вы подвели {?QUEST_GIVER.GENDER}ее{?}его{\?}."/>
     <string id="15wCjIBY" text="Будете медлить - моих людей повесят на эшафоте. Поторопитесь же, ну!"/>
     <string id="176K8dcb" text="Вы прекратите осаду, если уйдете. Вы уверены?"/>
-    <string id="17cIGVQE" text="Polearm weapon damage: +{a0} %"/>
+    <string id="17cIGVQE" text="Урон от древкового оружия: +{a0} %"/>
     <string id="18NtjryL" text="Пока нет, но скоро будет."/>
     <string id="18xOURG4" text="Хмм.. Нет... {IMMEDIATE_FAILURE_LINE}"/>
     <string id="19EdDJIz" text="Звенящий {FIRST_NAME}"/>
@@ -106,7 +106,7 @@
     <string id="27yneDGL" text="Захват противника."/>
     <string id="2AGIxoUN" text="{MOTHER} из вашего клана только что узнала, что она беременна."/>
     <string id="2ApU6iCB" text="Я найду для вас {TOTAL_COUNT} групп из {BRIGAND_TYPE}."/>
-    <string id="2ATI9qVM" text="Polearm weapon speed: +{a0} %"/>
+    <string id="2ATI9qVM" text="Скорость древковым оружием: +{a0} %"/>
     <string id="2aW6NC3Q" text="Давай обсудим окончательные условия нашего брака."/>
     <string id="2awf1tei" text="Налог"/>
     <string id="2bKgL66e" text="{COURTSHIP_DECLINE_REACTION}"/>
@@ -2258,7 +2258,7 @@
     <string id="tpPebu3G" text="{SHEPHERD_COUNT} {SHEPHERD_TYPE} и {ANIMAL_COUNT} {ANIMAL_TYPE} is added to your party."/>
     <string id="TpzZgFsA" text="Молодой и Уважительный"/>
     <string id="TqbTDToV" text="+5% больше добычи за разграбления деревень."/>
-    <string id="TQMGppEk" text="Thrown weapon damage: +{a0} %"/>
+    <string id="TQMGppEk" text="Урон от метательного оружия: +{a0} %"/>
     <string id="TQyB9rAs" text="{ISSUE_OWNER.NAME} соратники, захваченные охотниками за головами."/>
     <string id="TrQzYwVD" text="Yes {?PLAYER.GENDER}lady{?}lord{\?} since we last spoke I had chance to increase my understanding of ranged combat. How to breath, calculate distance, and lead the target if necessary."/>
     <string id="Ts5dZih4" text="You couldn't fully bring {REQUESTED_GOOD} to {?QUEST_GIVER.GENDER}her{?}him{\?} in time."/>
@@ -2334,7 +2334,7 @@
     <!--Здесь был Cas. Фикс недочётов!-->
     <string id="upK62aLR" text="позволив лордам за проезд по дорогам проходит через их земли"/>
     <string id="uPwKhAps" text="Мы можем уйти сейчас?"/>
-    <string id="uq7JwT1Z" text="Trade penalty Reduction +{a0}%"/>
+    <string id="uq7JwT1Z" text="Снижении неустойки при торговли  +{a0}%"/>
     <string id="UqDNAZqM" text="Перестать ждать"/>
     <string id="uQgNPJnc" text="Управлять Войсками"/>
     <string id="UQhRKJb9" text="Игнорировать обвинения"/>
@@ -3028,16 +3028,16 @@
     <string id="bM9VX881" text="Shield breaker"/>
     <string id="bMBqJx4h" text="Группа получает на 20% меньше штрафа к скорости из-за чрезмерной нагрузки."/>
     <string id="bmW77NvO" text="What about my {MOUNT_TYPE}?"/>
-    <string id="brmnjfP3" text="Every skill point after 250 grants you 0.2% speed increase and 0.5% damage increase with two handed weapons."/>
+    <string id="brmnjfP3" text="Каждое очко навыка после 250 дает вам увеличение скорости на 0,2% и увеличение урона на 0,5% с помощью двуручного оружия."/>
     <string id="buWDlKBV" text="You need to have more than {REQUIRED_GOLD}{GOLD_ICON} to let your companion buy the products."/>
     <string id="bXrpRfcT" text="Навык повышает размер вашего отряда на 15 Кроме того, он уменьшает жалование гарнизона в ваших поселениях на 5%"/>
     <string id="C7BAafCR" text="When no shields and range weapons are wielded, gain 10% faster movement."/>
     <string id="cboHxNDF" text="{QUEST_GIVER.LINK} told you that {?QUEST_GIVER.GENDER}she{?}he{\?} needs {MOUNT_TYPE} for {?QUEST_GIVER.GENDER}her{?}his{\?} party."/>
     <string id="cH0iAEfq" text="Solve this matter immediately. I need those animals."/>
-    <string id="ckTWlCtf" text="Infantry troops in the formation you are leading have their defence against mount charge damage increase by 30%."/>
+    <string id="ckTWlCtf" text="Пехотные войска в строю, который вы возглавляете, имеют свою защиту от урона mount charge, увеличенного на 30%."/>
     <string id="crg2DrbZ" text="We are worried that the herders of target settlement will harm our animals. Fortunately we have you on our side {?PLAYER.GENDER}madam{?}sir{\?}."/>
     <string id="cRwfJ7aU" text="Infantry troops in the formation you are leading increase their damage by 2%."/>
-    <string id="CRXQ3Fmn" text="+1 focus points to throwing."/>
+    <string id="CRXQ3Fmn" text="+1 точек фокусировки для метания."/>
     <string id="ctgihUte" text="I hope {QUEST_GIVER.NAME} has a plan to get rid of those bandits."/>
     <string id="cvk5Wb7e" text="Melee troops gain 5% more experience after every battle."/>
     <string id="cvZH3cI1" text="I hope {QUEST_GIVER.NAME} has a plan to get that herd to market."/>
@@ -3048,7 +3048,7 @@
     <string id="daJkC7ZG" text="Ваши очки здоровья повышаются на 2 Кроме того, после каждого сражения, пехота получает на 5% больше опыта"/>
     <string id="dbEb7iak" text="Way Of The Great Axe"/>
     <string id="Dd9bwAZL" text="В моих планах было дать вам немного воинов для решения этой задачи, но, похоже, под вашим командованием уже достаточно солдат."/>
-    <string id="dfwCjiRx" text="Trade Tax from {A0}"/>
+    <string id="dfwCjiRx" text="Торговый налог с {A0}"/>
     <string id="dGakGflE" text="Yes, your {?QUEST_GIVER.GENDER}ladyship{?}lordship{\?}, I'll gladly do it."/>
     <string id="DqOBr2BF" text="You stun enemies longer after they block your attack."/>
     <string id="DSKtsYPi" text="Престиж"/>
@@ -3233,7 +3233,7 @@
     <string id="U3LdMEXb" text="Debts"/>
     <string id="U3LR7dyK" text="Good. I'll be waiting for your messengers."/>
     <string id="UdAlVmmF" text="Increase your damage with polearms by 2%."/>
-    <string id="UDpWoSuA" text="Every skill point after 250 grants you 0.2% speed increase and 0.5% damage increase with polearms."/>
+    <string id="UDpWoSuA" text="Каждое очко навыка после 250 дает вам увеличение скорости на 0,2% и увеличение урона на 0,5% с помощью древкового оружия."/>
     <string id="uEV6kKdU" text="Вы собрали всё что требовалось для войска. Вернитесь, и доставьте припасы"/>
     <string id="ufciD08A" text="Increase handling of swingable polearms you use by 15%."/>
     <string id="ugHO6Sa6" text="I need more {MOUNT_TYPE}, specifically, we need {MOUNT_COUNT} and they need to be {MOUNT_NAME}s, because we know how to use them and how they fit our needs.."/>
