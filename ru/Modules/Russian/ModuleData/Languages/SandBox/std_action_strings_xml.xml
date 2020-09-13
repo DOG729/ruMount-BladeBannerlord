@@ -55,10 +55,11 @@
     <string id="TsYCa2fZ" text="{FACTION1} заключает мир с {FACTION2}"/>
     <string id="WiiRaLyK" text="{INSULTER.LINK} говорит,что {INSULTEE.LINK} проиграл битву по собственной глупости."/>
     <string id="XRTcnnR2" text="{HERO.LINK} сбежал из плена."/>
-    <string id="xss7eP0f" text="{PARTY} совершает набег на {SETTLEMENT}"/>
     <string id="y8WlfdqZ" text="{LORD.LINK}"/>
     <string id="yUaE3eeX" text="{SETTLEMENT} - это поселение очищенно."/>
     <string id="ZQ0bn7l7" text="{HERO_1} несет ответственность за гибель {HERO_2}"/>
     <string id="3aYSoETE" text="{MOTHER.LINK} родила здорового ребенка."/>
+    <string id="hbWhfoWH" text="{SETTLEMENT} is raided by {PARTY} of {FACTION_NAME}"/>
+    <string id="nbVW2cJ8" text="{SETTLEMENT} is raided by army led by {LORD.LINK} of {FACTION_NAME}"/>
   </strings>
 </base>

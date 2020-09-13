@@ -65,5 +65,90 @@
     <string id="Xb6TEi3o" text="You have declined the friend request"/>
     <string id="xHqjCamt" text="Could not report player. Game cannot be found."/>
     <string id="YF0irfDl" text="Player cannot be found"/>
+    <string id="0auJT5XB" text="Invalid text."/>
+    <string id="0kNoZUjm" text="You have to be in a party to see clan game list."/>
+    <string id="0XY1VKVB" text="Your party is not eligible for clan games."/>
+    <string id="1UQf3p3c" text="Clan faction changed successfully."/>
+    <string id="29Zi8mbz" text="Player is in a different clan."/>
+    <string id="2addADLo" text="Player not found."/>
+    <string id="2HaPlivW" text="{PLAYERNAME} declined clan invitation."/>
+    <string id="4lNl8zS2" text="You cannot suggest someone to party as party leader."/>
+    <string id="541adTbO" text="You must be at lobby to destroy a clan."/>
+    <string id="57dvnv3v" text="Player removed from clan."/>
+    <string id="5f2XMbJp" text="You must be at lobby to kick someone from your clan."/>
+    <string id="8O8XqtqZ" text="You have to be at lobby to delete clan announcements."/>
+    <string id="9uUOpV6r" text="You must be at lobby to add an announcement."/>
+    <string id="a8AxTVro" text="You must be the clan leader to change sigil."/>
+    <string id="AAnoAhox" text="Could not change selected game mode"/>
+    <string id="Ajw0d4dW" text="Incorrect password."/>
+    <string id="b72mIrOl" text="You have to be in a party to create a clan."/>
+    <string id="baHOuMTb" text="Announcement added successfully."/>
+    <string id="BDVYCAdP" text="Invited player is not at lobby."/>
+    <string id="bFwUxUJm" text="Only the leader of the clan can edit announcements."/>
+    <string id="bMLqfPRv" text="You are not in a clan."/>
+    <string id="BYv1Laa4" text="You must be in a clan to add an announcement. Obviously."/>
+    <string id="ca5nyktO" text="But you aren't in a clan."/>
+    <string id="DAhyeheV" text="You must be at lobby to change clan information text."/>
+    <string id="dHlxVbMw" text="You are already in a clan."/>
+    <string id="Dmz3JLyp" text="Player invited to clan."/>
+    <string id="e9LrrgAH" text="Announcement doesn't exist."/>
+    <string id="fN1SCUwa" text="Player {SUGGESTEDPLAYER} is suggested to be invited to the party."/>
+    <string id="fZC7pBba" text="You can only suggest players running the game with Anti-cheat."/>
+    <string id="gPnHnLMe" text="You have to be at lobby to invite someone to clan."/>
+    <string id="gXkTPJ8w" text="Player {SUGGESTEDPLAYER} is already in a party."/>
+    <string id="hav7yZyB" text="No text entered."/>
+    <string id="HKzZOfac" text="Player successfully promoted to clan leader."/>
+    <string id="hqK9565f" text="Invalid game type."/>
+    <string id="hsJt9Iaa" text="You have to be at lobby to see clan game list."/>
+    <string id="i3sq6BMI" text="You have to be at lobby to edit clan announcements."/>
+    <string id="IBObL770" text="You have to be the clan leader to kick someone."/>
+    <string id="iG72AMy8" text="Information text changed successfully."/>
+    <string id="INecDsvJ" text="Only the leader of the clan can delete announcements."/>
+    <string id="ismMkXud" text="You have to be the clan leader to invite someone to clan."/>
+    <string id="IZWRF6ze" text="Clan name is already in use."/>
+    <string id="jbpKfRl8" text="You must be the clan leader to add an announcement."/>
+    <string id="JgdLtL2O" text="Invited player is already in a clan."/>
+    <string id="K0mSh8Hw" text="Your party does not have enough players to create a clan."/>
+    <string id="kGkBHfpR" text="Player already invited to another clan."/>
+    <string id="KLaW0bOz" text="You have to be in lobby to create a clan."/>
+    <string id="kTiV7Hzl" text="You have to be at lobby."/>
+    <string id="LbUlhYVa" text="You must be at lobby to suggest someone to your party."/>
+    <string id="LjwYbHFL" text="You have to be the leader of the clan to promote someone."/>
+    <string id="lVWJRrvx" text="Premade game creation canceled by {PLAYERNAME}"/>
+    <string id="M8x38ZZZ" text="Player is not in your clan."/>
+    <string id="mdH4S8Kx" text="You must be in a party to suggest someone to your party."/>
+    <string id="MowSn4ch" text="Game not found."/>
+    <string id="Mp9I9aqd" text="You must be in a clan to change clan information text. Obviously."/>
+    <string id="nZlu3Moe" text="Left clan."/>
+    <string id="OsRgBZq2" text="You have to be in a party to create a clan game."/>
+    <string id="P3JTNI9P" text="You can not promote yourself to clan leader."/>
+    <string id="pKNTLYQP" text="Text can't be longer than {MAX_LENGTH} characters."/>
+    <string id="QHnxKHkV" text="You are not in a party."/>
+    <string id="rfaIXasP" text="Clan sigil changed successfully."/>
+    <string id="rI8gE2Qh" text="Announcement deleted successfully."/>
+    <string id="rkxTEFGp" text="Player is not online."/>
+    <string id="RV60avUq" text="You have to be the party leader to create a clan game."/>
+    <string id="S7Y5Suho" text="You cannot suggest yourself to party."/>
+    <string id="sa138Btz" text="You have to be creating a clan game to cancel one."/>
+    <string id="SfBU7exM" text="You have to be in a clan to create a clan game."/>
+    <string id="sov81CZ5" text="Your Bannerlord ID is updated successfully"/>
+    <string id="SvHP9TXr" text="Not all players are ready."/>
+    <string id="TKv0vF7H" text="You must be at lobby to change clan sigil."/>
+    <string id="TPCm8PRy" text="You are not the party leader."/>
+    <string id="TqVsDCe3" text="You must be the clan leader to change faction."/>
+    <string id="ujLHwcn8" text="Player {SUGGESTEDPLAYER} is not at lobby."/>
+    <string id="uqqqWl6f" text="Party not eligible for clan game."/>
+    <string id="VaWafSkY" text="You have to be at lobby to create a clan game."/>
+    <string id="voOrIr0b" text="{PLAYERNAME} accepted clan invitation."/>
+    <string id="vVAzWAGc" text="You must be the clan leader to destroy a clan."/>
+    <string id="WppypzjS" text="You must be at lobby to change clan faction."/>
+    <string id="XgQQPZsn" text="You can't invite yourself."/>
+    <string id="y0dKQ8pL" text="Announcement changed successfully."/>
+    <string id="YGfHWmNS" text="Could not change region"/>
+    <string id="yQyozBBX" text="Your party is not eligible to create a clan game."/>
+    <string id="ywVYMhiF" text="You must be the clan leader to change clan information text."/>
+    <string id="z40g0BmW" text="Could not update Bannerlord ID"/>
+    <string id="zBaXq4cg" text="Clan tag is already in use."/>
+    <string id="ZtktMXDw" text="You ain't in a clan."/>
   </strings>
 </base>

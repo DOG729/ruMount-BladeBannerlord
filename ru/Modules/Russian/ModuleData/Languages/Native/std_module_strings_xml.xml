@@ -326,7 +326,6 @@
     <string id="b5t34yLX" text="Конская Упряжь"/>
     <string id="b6biU4f1" text="Создать Новый Отряд"/>
     <string id="B6g1ukB7" text="Ранг I"/>
-    <string id="b6zBcSp2" text="Город процветает. Стены, улицы и дома ухожены."/>
     <string id="b778BvfW" text="Эта вещь дороже на {PERCENTAGE}% по сравнению со средней ценой"/>
     <string id="b7aDfCR9" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} и {?}{\?}{TROOP_NAMES_END} защищаются."/>
     <string id="b7bWCXbk" text="Теперь иди, маленькая овечка. И будь осторожна с другими стаями волков."/>
@@ -590,14 +589,12 @@
     <string id="FRZfpryn" text="Выдвинуть предложение предполагающее передачу поселка кому-нить другому"/>
     <string id="FS78CuPs" text="Навыки привязанные к аттрибуту {ATTRIBUTE_NAME}:"/>
     <string id="FVEvjlis" text="Размер отряда превышен"/>
-    <string id="FvlyWloX" text="Деревня процветает. Полные мешки с зерном и телеги, груженые дарама полей, указывают на это."/>
     <string id="FvYhaE3z" text="Знамя"/>
     <string id="fwbD1Jqo" text="Купить"/>
     <string id="FwlZRESM" text="+{BONUS_AMOUNT} бонус к ополчению"/>
     <string id="fWwYUOVs" text="Мы принимаем ваше предложение."/>
     <string id="FxoVjLvl" text="Щиты и Дальнобойные Оружия"/>
     <string id="FxPzcyLN" text="{SUPPORTERNAME} is supporting {CANDIDATENAME}"/>
-    <string id="FZBqNCvd" text="никто не"/>
     <string id="G0AWk1rX" text="Лестница"/>
     <string id="g0gDsalr" text="Импульсивный"/>
     <string id="g1KLcfxT" text="Деревня процветает. Люди выглядят сытыми и довольными. Здоровые животные тянут плуги и собирают урожай."/>
@@ -682,7 +679,6 @@
     <string id="ho5EndaV" text="Решение"/>
     <string id="HP9wMk1T" text="Нельзя открыть прямо сейчас окно отряда!"/>
     <string id="HPe7HaZx" text="Выкуп Пленных"/>
-    <string id="hpNFob32" text="Город беден. Люди недоедают."/>
     <string id="hqIIEur1" text="Вы встретились с {ARMY}."/>
     <string id="hSsS5xAa" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} и {?}{\?}{TROOP_NAMES_END} ждут прибытия остальных осадных машин."/>
     <string id="HuCClZqT" text="Плата"/>
@@ -872,7 +868,6 @@
     <string id="LBy6YDMV" text="Перегруппироваться"/>
     <string id="Lc1vIEnM" text="Волк и овца движутся одинаково - проходят вдоль линии и лишь одну клетку за ход."/>
     <string id="LEC8NhCV" text="Стратегии"/>
-    <string id="lfkwsa5f" text="След"/>
     <string id="lfMgaBiJ" text="Пускай это стоит нашего времени, чтобы не убить тебя."/>
     <string id="Lg3zeoYi" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} и {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}защищают{?}защищает{\?} {#IS_LEFT}{#}левый{#}несколько{\#}{?IS_MIDDLE}центральный{?}{\?}{?IS_RIGHT}правый{?}{\?} фланг{#IS_LEFT}{#}{#}ов{\#}."/>
     <string id="lh1yhgXw" text="Снаряжение Лошади V"/>
@@ -899,7 +894,6 @@
     <string id="LymKjMLk" text=" Ваши люди просто присоединиться к вашей партии"/>
     <string id="lZ1IDnpP" text="Дать Все"/>
     <string id="LZhRP3PM" text="Ждать других осадных машин"/>
-    <string id="LZjdxXex" text="Деревня бедная. Люди недоедают. Животные болеют или умирают. Возделываемые земли выгружается бурьяном, из-за отсутствия руки, чтобы пришить ее."/>
     <string id="Lzmtqif5" text="Размер Армии "/>
     <string id="lznqF0oO" text="Расформирование"/>
     <string id="M00MeRJD" text="Хлопок"/>
@@ -951,7 +945,6 @@
     <string id="MxG4217V" text="Селянки"/>
     <string id="MxmOWsHj" text="Энциклопедия"/>
     <string id="mXxVf2rb" text="Книга"/>
-    <string id="mz8PnI3s" text="Задета кость: {BONE}."/>
     <string id="mZR7eYHa" text="Щит Я"/>
     <string id="N0MCVBXb" text="Забудьте"/>
     <string id="n3cjEB0X" text="Инструменты"/>
@@ -1074,7 +1067,6 @@
     <string id="PJEuE208" text="Ополчение:"/>
     <string id="PJNW1UWK" text="Лавочник"/>
     <string id="pJR9zz06" text="Войска, готовые к улучшению, отмечены специальной иконкой.{newline}{newline}Некоторые из них могут иметь два возможных пути развития."/>
-    <string id="pkyASW0A" text="Отряд / Размер оплаты"/>
     <string id="pLZeP6L6" text="Штурм стен{?IS_GENERAL_SIDE}{?} со стороны {SIDE_STRING}{\?}"/>
     <string id="pm0yiOmv" text="Заработано: {DENAR_AMOUNT}{GOLD_ICON}"/>
     <string id="PMnSk81U" text="Так ты намерен драться, ягненок? Давай посмотрим тогда на ваши рога."/>
@@ -1298,7 +1290,6 @@
     <string id="uCikaIoq" text="Великолепно. Видите ли, я и мои люди не жестоки. Бесспорно немного жадные, так что будьте щедрыми.[ib:hip][rb:trivial]"/>
     <string id="UckVajhO" text="Получено известности: + {RENOWN}"/>
     <string id="ucyy9Sc5" text="{LEFT} / {RIGHT}"/>
-    <string id="Ue3JhJvE" text="Дополнительная броня"/>
     <string id="ufnnUxKb" text="Кожа"/>
     <string id="uFuDwaYp" text="{HOUR} {?PLURAL}hours{?}hour{\?}"/>
     <string id="ug4LiPbb" text="Оружие дальнего боя IV"/>
@@ -1389,7 +1380,6 @@
     <string id="VyPwh1CT" text="Взять героя в отряд"/>
     <string id="vZzDCjDr" text="В настоящее время никто не желает присоединиться в этом городе."/>
     <string id="W1seGc3t" text="Картридж"/>
-    <string id="w2j9LGvZ" text="Размер цели"/>
     <string id="W2WXkiAh" text="Работорговец"/>
     <string id="w3v2S03V" text="Ваши отношения с {HERO_NAME} will &lt;a style=&quot;УлучшилисьStyle&quot; &gt;&lt;b&gt;улучшились&lt;/b&gt;&lt;/a&gt;"/>
     <string id="W4iKIM2s" text="Маленький щит"/>
@@ -1547,7 +1537,6 @@
     <string id="zfCoeglY" text="Музыкант"/>
     <string id="zg0q1aqD" text="Вы не можете распустить войска гарнизона"/>
     <string id="Zg5Zmgui" text="Мы возвращаемся с рынка {TOWN} обратно в нашу деревню."/>
-    <string id="zgRwrWSC" text="Соотношение оплаты "/>
     <string id="ZhiB1EOM" text="Пленный в {SETTLEMENT_NAME}"/>
     <string id="ZlJIpfWg" text="Бонус скорости: {SPEED_BONUS}%."/>
     <string id="ZMdOAbTd" text="Атакующие"/>
@@ -1661,5 +1650,9 @@
     <string id="wifesisterinlaw" text="sister-in-law"/>
     <string id="XCz81XYm" text="Inputs"/>
     <string id="XgioIHv6" text="Resolve existing decision"/>
+    <string id="4U6x48yQ" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}are{?}is{\?} leading battle."/>
+    <string id="KafFddmO" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}are{?}is{\?} protecting general."/>
+    <string id="settlementtrack" text="Track"/>
+    <string id="u3c9M8vx" text="an archoness"/>
   </strings>
 </base>

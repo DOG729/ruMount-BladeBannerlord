@@ -157,7 +157,6 @@
     <string id="NAA4pajB" text="Вам нужно покинуть нынешнюю армию, чтобы создать новую."/>
     <string id="NC9bbrt5" text="Конец дня денаров"/>
     <string id="NcYbdiyT" text="Сменить Лидера"/>
-    <string id="NRpbagbZ" text="Следует к {TARGET_PARTY}"/>
     <string id="nYYUQQm0" text="Множитель рубящего урона "/>
     <string id="oBbiVeKE" text="Здоровье"/>
     <string id="ocSW4WA2" text="Полный провал!"/>
@@ -321,5 +320,14 @@
     <string id="RuaA8t97" text="Kingdom Name"/>
     <string id="ScDj827c" text="Initial Capital"/>
     <string id="tLh0VqN3" text="Choose Your Kingdom Culture"/>
+    <string id="3PzgpFGq" text="Neutral"/>
+    <string id="BV5exuPf" text="Remove From Bookmarks"/>
+    <string id="d8jrv3nA" text="Add To Bookmarks"/>
+    <string id="dD3kRDHi" text="This hero is a fugitive and running from their captors. They will will be available after some time"/>
+    <string id="DPTPuyip" text="And {NUMBER} more..."/>
+    <string id="HURdAXDQ" text="Hideout Crew"/>
+    <string id="jxypVgl2" text="Relation Changes"/>
+    <string id="tYz4D8Or" text="Prisoner"/>
+    <string id="uQgNPJnc" text="Manage Troops"/>
   </strings>
 </base>

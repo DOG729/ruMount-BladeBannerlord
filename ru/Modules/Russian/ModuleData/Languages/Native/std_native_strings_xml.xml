@@ -28,7 +28,6 @@
     <string id="2QzgefNF" text="Полнота лица"/>
     <string id="2Rf2ChRD" text="Глубина бровей"/>
     <string id="2uynGJbP" text="Передача войск"/>
-    <string id="39kMNdA5" text="Снятие флага"/>
     <string id="3AInGztr" text="Туловище"/>
     <string id="3APdsKEi" text="Метательный нож"/>
     <string id="3aX5gXmJ" text="Цвет кожи"/>
@@ -114,7 +113,6 @@
     <string id="CoxEyDa8" text="Перчатка"/>
     <string id="cPbHqGrI" text="Кикнуть игрока"/>
     <string id="d3RJm2zW" text="Высота челюсти "/>
-    <string id="DdOgvhsV" text="Кикнуть"/>
     <string id="DHlVSaZW" text="Относительная скорость: {SPEED} m/s"/>
     <string id="DKqLY1aJ" text="Снарядить"/>
     <string id="dojUqbv8" text="Высота носа "/>
@@ -134,10 +132,8 @@
     <string id="f4ZeGAJi" text="Относительная скорость: {SPEED} m/s"/>
     <string id="f5y9qyDb" text="Рука"/>
     <string id="F6dUDgg3" text="Поражение"/>
-    <string id="F70rOpkK" text="Капитан"/>
     <string id="fFLBT9wb" text="Грудь"/>
     <string id="FFNJTsDL" text="Кикнуть игрока"/>
-    <string id="fFULSlYb" text="Дополнительный урон от навыков: {EXTRA_DAMAGE}"/>
     <string id="fGFMqlGz" text="Пол"/>
     <string id="FgJpTBp1" text="Дружественный урон от огня"/>
     <string id="fjD2tRXW" text="Выпуклость подбородка"/>
@@ -168,7 +164,6 @@
     <string id="ig0lsiwY" text="Отряд"/>
     <string id="iJXH3841" text="Свободный"/>
     <string id="IKn1YxU2" text="Процент прироста золота атакующих"/>
-    <string id="imTtoHqW" text="Зарегистрироваться вместе"/>
     <string id="ImWyFyld" text="Положение рта"/>
     <string id="irGCyJaY" text="Убийств"/>
     <string id="iTau5cxh" text="Средняя"/>
@@ -296,7 +291,6 @@
     <string id="u8j8nN5U" text="Смотреть на врага"/>
     <string id="UbMCCh8L" text="Горбинка носа"/>
     <string id="uCyQNvq1" text="Клин"/>
-    <string id="uGM8DWrm" text="Верхом"/>
     <string id="UHIZLFBn" text="Убит {TROOP_NAME}"/>
     <string id="Umb8XsZH" text="Колющий"/>
     <string id="umhwsoqb" text="Выберите желаемый отряд в начале раунда и для дальнейшего возрождения, используйте золото."/>
@@ -346,7 +340,6 @@
     <string id="xXQN7Go6" text="Открытость глаз"/>
     <string id="XZU9SyQW" text="Быстрая игра"/>
     <string id="XzZFhRwr" text="Вернуться в игру"/>
-    <string id="Ybvu10zM" text="Осада"/>
     <string id="ycCmfxhJ" text="Пятый фраг"/>
     <string id="yClOSxT8" text="Положение носа"/>
     <string id="yfa7tpbK" text="Все"/>
@@ -397,5 +390,20 @@
     <string id="YRabuUqx" text="Baravenos Encirclement"/>
     <string id="YvK6gI6q" text="Окраина города"/>
     <string id="ztGHtRNf" text="Мошенничество"/>
+    <string id="52YN6m2B" text="Delivered braced polearm damage!"/>
+    <string id="captainasgame" text="Captain"/>
+    <string id="cSui4APH" text="Objective Destroyed"/>
+    <string id="d1ogH1v1" text="Tsagaan Castle"/>
+    <string id="Lz6ggWch" text="Damage reduction from perks and effects: {MODIFIED_DAMAGE}"/>
+    <string id="MnvK3eK2" text="Objective Completed"/>
+    <string id="mountnoun" text="Mount"/>
+    <string id="mountverb" text="Mount"/>
+    <string id="nx5W7jN0" text="Received braced polearm damage!"/>
+    <string id="OzifZbSB" text="Match Type"/>
+    <string id="RDsOaEtS" text="Extra damage from perks and effects: {MODIFIED_DAMAGE}"/>
+    <string id="scoreboardkick" text="Kick"/>
+    <string id="siegemultiplayergametype" text="Siege"/>
+    <string id="xhnV76OL" text="Skala Landing"/>
+    <string id="YNkPy4ta" text="Clan Match"/>
   </strings>
 </base>

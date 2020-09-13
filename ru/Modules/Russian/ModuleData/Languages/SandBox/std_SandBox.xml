@@ -4,7 +4,6 @@
     <tag language="Русский"/>
   </tags>
   <strings>
-    <string id="07UaVoOI" text="Вы просили переговоры. Очень хорошо, но если вы не возражаете, поднимая свой голос немного, я буду держаться на расстоянии от ваших стен. Я сейчас не в настроении, чтобы насытиться горячим маслом."/>
     <string id="0C4PoPw5" text="Они работают на {ALLEY_BOSS.NAME}, привозили выпивку, азартные игры и женщин. Некоторые магазины здесь потеряют в обороте, но остальные из нас не будут скучать по пьяным незнакомцам, начинающим драки на наших порогах."/>
     <string id="0dlDkkJV" text="Вы не смогли найти шпиона. {QUEST_GIVER.LINK} разачарован."/>
     <string id="0eAc6WQk" text="Я хотел бы вступить в {FACTION_SERVICE_TERM}."/>
@@ -27,7 +26,6 @@
     <string id="1bhjQFOe" text="Я {CONVERSATION_HERO.FIRSTNAME}. Я владею землей поблизости. Я говорю от лица многих людей в этой деревне.[rb:trivial]"/>
     <string id="1bzdDYoO" text="Все пешки ИИ заблокирован. Снимите одну из пешек игрока, чтобы сделать ход"/>
     <string id="1esi62Zb" text="Ну - мы любим, чтобы турниры запомнились надолго. Так что спонсоры покупают приз, о котором они будут говорить на рынках неделями. Изящный клинок, скажем, или породистая лошадь. Что-нибудь, чем чемпион с гордостью владел бы."/>
-    <string id="1g3OR6KQ" text="{STR_PARLEY_COMMENT}"/>
     <string id="1gvHI0TH" text="Ах... ну, я боюсь, что не хватит."/>
     <string id="1ieLd5qq" text="Теперь ты уверен, что у шпиона нет особых черт."/>
     <string id="1jExD58d" text="{QUEST_GIVER.LINK}, торговец {SETTLEMENT_NAME}, сказал, что {?QUEST_GIVER.GENDER}её{?}его{\?} дочь {TARGET_HERO.LINK} либо похищена, либо сбежала с местным бандитом. {?QUEST_GIVER.GENDER}Она{?}Он{\?} предлагает награду в размере {BASE_REWARD_GOLD}{GOLD_ICON} любому, кто найдет и вернет ее назад. Вы согласились отыскать ее и вернуть в {SETTLEMENT_NAME}. Если, выйдя из поселения, вы не обнаружите её следов, то вам следует посетить ближайшие деревни около {SETTLEMENT_NAME}, чтобы найти улики и следы похитителя."/>
@@ -491,7 +489,6 @@
     <string id="Fwm0PwVb" text="Отлично. Как я уже говорил, нам нужно минимум 3 дня, чтобы подготовиться. Я напомню, когда мы будем готовы . Только не уезжайте из города, пока мы не уладим это дело."/>
     <string id="FxKgQECI" text="Как говорят, старец Люкон / Всю жизнь старел, родившись стариком. / Живет он во дворце златом, / Где все покрыто темнотой и льдом."/>
     <string id="fzNqSoeL" text="Не спешите, миледи."/>
-    <string id="g3oFsCtd" text="Вы просили переговоров. Я надеюсь, что вы будете чтить обычаи войны и не станете прибегать к хитростям."/>
     <string id="g4pKPzDl" text="Что ты хочешь, чтобы мы сделали?"/>
     <string id="g5G8AJ5n" text="Вы теперь мой пленник."/>
     <string id="g5ofoKa8" text="Да... Теперь я вспомнил тебя.[rb:very_positive]"/>
@@ -915,7 +912,6 @@
     <string id="s5fXZf2f" text="Вы убедили взять {CULPRIT.LINK} в {TARGET_SETTLEMENT}, чтобы вместе встретиться с {TARGET_NOTABLE.LINK}, и попытаться урегулировать конфликт мирным путем. Он согласился на это при условии, что ты защитишь его разгневанных родственников."/>
     <string id="s5pftw9C" text="Все правильно. Я принимаю"/>
     <string id="s5qs0bPs" text="{ISSUE_GIVER.LINK} -- {?ISSUE_GIVER.GENDER}правительница{?}правитель{\?} {QUEST_SETTLEMENT}, беспокоится о шпионе, который притворяется участником турнира. Вас попросили разоблачить шпиона и позаботиться о нем. Вы отправили {COMPANION.LINK} и {NEEDED_MEN_COUNT} ваших лучших людей позаботиться об этом. Они вернутся через {ALTERNATIVE_SOLUTION_DURATION} дней."/>
-    <string id="s6xlGuTH" text="Я буду чтить условия соглашения, покуда вы их соблюдаете."/>
     <string id="S9yOQgb1" text="Ваши отношения с {HERO.NAME} должгы быть не ниже {RELATION}."/>
     <string id="sakSp6H8" text="Ты не можешь продолжать жить как трус. Как и ч не смогу защищать тебя вечно, мы должны как-то решить эту проблему. Даю слово чести, что защищу тебя, если дела пойдут плохо."/>
     <string id="Sb25Ac2S" text="У тебя недостаточно войск второго уровня."/>
@@ -944,7 +940,6 @@
     <string id="sytYViXb" text="Я принимаю твой вызов на дуэль."/>
     <string id="SZjC5xxl" text="Вернуть 50{GOLD_ICON}"/>
     <string id="SZRwXQad" text="Соберите мои войска здесь и пусть они присоединятся к моему отряду."/>
-    <string id="T0Cdfsx2" text="Ты попросил переговоров. Если у тебя есть соблазн попробовать какие-нибудь трюки, знай, что у меня есть лучники, которые стоят рядом, чтобы напомнить тебе о честности."/>
     <string id="T29epQk3" text="100{GOLD_ICON}."/>
     <string id="T5jd4m69" text="Так будет только веселее. О чем ты думал?"/>
     <string id="T85Ze9R6" text="Пусть начнется бой!"/>
@@ -1255,5 +1250,49 @@
     <string id="wvbiyZfp" text="What else do you have to say?"/>
     <string id="wWrEvkuj" text="{CULPRIT.LINK} is no longer a member of your clan. Your agreement with {QUEST_GIVER.LINK} was terminated."/>
     <string id="z1nFn4Ug" text="Вы могли заметить, что сейчас у меня нет никакой работы, поэтому, если вы захотите нанять меня... Я всегда готов обсудить это."/>
+    <string id="89b5ao7P" text="As of now, I do not have 1000 denars to afford on gambling. I may get back to you once I get the required amount."/>
+    <string id="AMlaYbJv" text="You don't have 1000 denars."/>
+    <string id="auQ4ldmT" text="You don't have any companion with {TACTICS_SKILL_NAME} skill higher than {TACTIC_SKILL_LIMIT} or {ROGUERY_SKILL_NAME} skill higher than {ROGUERY_SKILL_LIMIT}."/>
+    <string id="azVhRGik" text="I am waiting for the right moment."/>
+    <string id="b5LdBYpF" text="{SETTLEMENT} is under siege. Your agreement with {QUEST_GIVER.LINK} is canceled."/>
+    <string id="bEipgE5E" text="Ah, yes, these are the most interesting kinds of games, aren't they? I won't deny myself the pleasure but clearly that deed is worth more to him than just the value of the land. I'll wager the deed, but you need to put up 1000 denars."/>
+    <string id="bgfTuU2U" text="You are not a part of this world anymore."/>
+    <string id="bRMLn0jj" text="Well, if he wanders off to another town, or gets his throat slit, or loses the deed, that would be the wrong moment, now wouldn't it?"/>
+    <string id="BSeplVwe" text="That's too much. I will be back later."/>
+    <string id="bvhWLb4C" text="You defeated the Game Host and got the souvenir back. {QUEST_GIVER.LINK} &quot;Thank you for resolving this issue so neatly.. Please accept these {GOLD}{GOLD_ICON} denars with our gratitude.&quot;"/>
+    <string id="dyhZUHao" text="Well, I thought you were here to be sheared, but it looks like the sheep bites back. Very well, nicely played, here's your man's land back."/>
+    <string id="dzWioKRa" text="Hello there, are you looking for a friendly match? A wager perhaps?"/>
+    <string id="eOle8pYT" text="You won a deed of land from my employer. I'm here to win it back."/>
+    <string id="fiMZ696A" text="Yes, I'll play again."/>
+    <string id="Giblfhdx" text="DONE"/>
+    <string id="h2tMadtI" text="I've heard that story before. What did you lose?"/>
+    <string id="HGRWs0zE" text="Have you met the man who took my deed? Did you get it back?"/>
+    <string id="hkNrC5d3" text="That was fun, but I've learned not to inflict too great a humiliation on those who carry a sword. I'll take my winnings and enjoy them now. Good-bye to you!"/>
+    <string id="I6amLvVE" text="Good, good. That's the best way to do these things. Go to {TARGET_SETTLEMENT}, find this game host and wipe the smirk off of his face."/>
+    <string id="iHYAEEfv" text="SELECT AN HEIR"/>
+    <string id="JsUbgfgl" text="Select an heir"/>
+    <string id="kiaN39yb" text="Thank you, {PLAYER.NAME}. I'm sure your companion will be persuasive."/>
+    <string id="KMThnMbt" text="I'll go to the tavern and win it back the same way you lost it."/>
+    <string id="LD4tGYCA" text="It's a deed to a plot of farmland. Not a big or valuable plot, mind you, but I'd rather not have to explain to my men why they won't be sowing it this year. You can find the man who took it from me at the tavern in {TARGET_SETTLEMENT}. They call him the &quot;Game Host&quot;. Just be straight about what you're doing. He's in no position to work the land. I don't imagine that he'll turn down a chance to make more money off of it."/>
+    <string id="LtIqwsbU" text="You have to send at least {NUMBER} troops on this quest."/>
+    <string id="MIxzaqzi" text="{QUEST_GIVER.LINK} told you that he lost a land deed in a wager in {TARGET_CITY}. He needs to buy it back, and he wants your companions to intimidate the seller into offering a reasonable price. You asked {COMPANION.LINK} to take {TROOP_COUNT} of your men to go and take care of it. They should report back to you in {RETURN_DAYS} days."/>
+    <string id="MOmePlJQ" text="Could you hurry this along? I don't want him to find another buyer. Thank you."/>
+    <string id="pa3RY39w" text="Sure. I'm happy to turn paper into silver... 1000 denars it is."/>
+    <string id="ppi6eVos" text="As you wish."/>
+    <string id="QdKWaabR" text="Worry not {ISSUE_OWNER.NAME}, my men will be back with your deed in no time."/>
+    <string id="swamqBRq" text="{ISSUE_OWNER.NAME} wants you to beat the game host"/>
+    <string id="T0zupcGB" text="Ah yes... It is a bit embarrassing to mention, but... Well, when I am in town, I often have a drink at the inn and perhaps play a round of {GAME_TYPE} or two. Normally I play for low stakes but let's just say that last time the wine went to my head, and I lost something I couldn't afford to lose."/>
+    <string id="t154GeM2" text="{SETTLEMENT} was raided, Your agreement with {QUEST_GIVER.LINK} is canceled..."/>
+    <string id="TdnD29Ax" text="Ah! You almost had me! Maybe you just weren't paying attention. Care to put another 1000 denars on the table and have another go?"/>
+    <string id="TIPxWsYW" text="You have bought the painting from the game host. {QUEST_GIVER.LINK}. &quot; I knew I I was right with betting on you. Please accept these {GOLD}{GOLD_ICON} denars with my gratitude.&quot;"/>
+    <string id="tirG1BB2" text="{QUEST_GIVER.LINK} told you that he lost a land deed while playing games in a tavern in {TARGET_SETTLEMENT}. He wants you to go find the game host and win it back for him. You told him that you will take care of the situation yourself."/>
+    <string id="txtsL6QQ" text="You received a message from {QUEST_GIVER.LINK}. &quot;This may not have seemed like an important task, but I placed my trust in you. I guess I was wrong to do so.&quot;"/>
+    <string id="uJPAYUU7" text="I will be on my way soon enough."/>
+    <string id="urCXu9Fc" text="Well, I could try and buy it from him, but I'm sure he'll jack up the price. I'd need to take along a few tough-looking bastards to show him the folly of not accepting a reasonable offer. One of your companions with {ALTERNATIVE_SOLUTION_NEEDED_MAN_COUNT} men would do the trick."/>
+    <string id="uUhtKnfA" text="Inn and Out"/>
+    <string id="WrnvRayQ" text="Let's just save ourselves some trouble, and I'll just pay you that amount."/>
+    <string id="XvkSbY6N" text="I see your wager. Let's play."/>
+    <string id="ye4oqBFB" text="You lost the board game and failed to help {QUEST_GIVER.LINK}. &quot;Thank you for trying, {PLAYER.NAME}, but I guess I chose the wrong person for the job.&quot;"/>
+    <string id="zlFSIvD5" text="No, no. I know a trap when I see one. You win. Good-bye."/>
   </strings>
 </base>
