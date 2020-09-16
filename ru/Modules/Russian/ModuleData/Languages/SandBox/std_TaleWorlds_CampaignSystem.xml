@@ -2529,7 +2529,7 @@
     <string id="Y07OcP1T" text="Скорость лошади: +{a0}"/>
     <string id="Y20AQIvo" text="{PRISONER.NAME} был взят в плен {CAPTOR_NAME}!"/>
     <string id="y3cP8Etv" text="Задание Отменено: {QUEST_TITLE}"/>
-    <string id="Y3lGJT8H" text="{PARTY} не будет нападать на {FACTION} в течение {DURATION}."/>
+    <string id="Y3lGJT8H" text="{PARTY} не будет нападать на {FACTION} в течение {DURATION} {?DURATION&gt;1}дней{?}дня{\?}."/>
     <string id="y3xguaCc" text="Ставь на первое место свои интересы и благо королевства. Слишком многое поставлено на карту ради этого."/>
     <string id="Yac7bSU3" text="Расскажи мне еще раз, чем вы занимаетесь."/>
     <string id="ybb0ToHE" text="Мы будем защищать наши земли!"/>
@@ -3091,20 +3091,20 @@
     <string id="SzoXR4Iy" text="Troops in the formation you are leading have medium bonus to their shield size against ranged when they are in shieldwall formation."/>
     <string id="T3UdjMXf" text="Increase crafting stamina recovery rate by 50%."/>
     <string id="t9bDPzab" text="Garrison in governed town have their wages reduced by 10%."/>
-    <string id="TaucWWCB" text="Keep at Bay"/>
+    <string id="TaucWWCB" text="Держитесь подальше"/>
     <string id="TBpMffcv" text="Campaigning this season has taken even a higher toll on {MOUNT_TYPE} than it has on my men. The animals will drop dead of exhaustion while my troops soldier on. Yet if we don’t keep our stocks up, the enemy will run rings around us."/>
     <string id="tJc5mZua" text="Your Companion has successfully delivered the {MOUNT_TYPE} QuestGiver requested.You received {QUEST_REWARD} gold in return for your service."/>
     <string id="tLakpr0a" text="Herdsmen of {QUEST_GIVER}"/>
     <string id="TLcnbALt" text="Here are your {MOUNT_TYPE} my {?PLAYER.GENDER}lady{?}lord{\?}."/>
-    <string id="TLuaPAIO" text="Tax from ({A0})"/>
+    <string id="TLuaPAIO" text="Налог от ({A0})"/>
     <string id="tm52b6ji" text="Troops in the formation you are leading increase their damage speed bonus with polearms by 20%."/>
     <string id="tp3p7R8E" text="Form Fitting Armor"/>
     <string id="Tpvthjf1" text="While on foot increase your speed damage bonus with two handed weapons by %20."/>
     <string id="TtwAoHfw" text="Blade Master"/>
     <string id="TuIyqMWG" text="The artisans and the merchants are at each other's throats right now. I bet {QUEST_GIVER.NAME} is planning something."/>
     <string id="Txtwv90o" text="Your clan have conquered the town that you are trying to smuggle weapons into. As the {?PLAYER.GENDER}lady{?}lord{\?} of the settlement you cannot get involved in weapon smuggling now. Your agreement with the {QUEST_GIVER.LINK} has canceled."/>
-    <string id="U3LdMEXb" text="Debts"/>
-    <string id="U3LR7dyK" text="Good. I'll be waiting for your messengers."/>
+    <string id="U3LdMEXb" text="Долги"/>
+    <string id="U3LR7dyK" text="Хорошо. Я буду ждать ваших посланников."/>
     <string id="UdAlVmmF" text="Increase your damage with polearms by 2%."/>
     <string id="UDpWoSuA" text="Каждое очко навыка после 250 дает вам увеличение скорости на 0,2% и увеличение урона на 0,5% с помощью древкового оружия."/>
     <string id="uEV6kKdU" text="Вы собрали всё что требовалось для войска. Вернитесь, и доставьте припасы"/>
@@ -3302,12 +3302,12 @@
     <string id="LiaRnWJZ" text="You can now use all bows on horseback."/>
     <string id="Lj6SwJYF" text="Ranged troops under your command increase their movement speed by 10%."/>
     <string id="ll4s461C" text="You get +3 extra arrows per quiver."/>
-    <string id="lq67KjSY" text="Eagle Eye"/>
+    <string id="lq67KjSY" text="орлиный глаз"/>
     <string id="LqEdr7sQ" text="Thank you, {?PLAYER.GENDER}milady{?}sir{\?}. {QUEST_GIVER.LINK} had informed me that help would be on the way. I admit I was afraid that if you hadn’t arrived in time, those bandits would have slaughtered us all."/>
     <string id="LrDbwars" text="Prisoners in governed town are 50% less likely to escape."/>
-    <string id="LU3lcIwl" text="Mounted troops in your formation gain +10% charge damage."/>
-    <string id="luguToag" text="Bow equipped troops in your formation gain +20 Archery skill."/>
-    <string id="lWAmQK5a" text="You can hold your aim 50% longer without losing accuracy."/>
+    <string id="LU3lcIwl" text="Конные войска в вашем формировании получают +10% урона от заряда."/>
+    <string id="luguToag" text="Войска с луком в вашем формировании получают +20 навыка стрельбы из лука."/>
+    <string id="lWAmQK5a" text="Вы можете удерживать концентрацию(цель) на 50% дольше без потери точности."/>
     <string id="maptrack" text="Track"/>
     <string id="MKbLhn9d" text="I am glad we could reach you in time."/>
     <string id="MmQt0TD3" text="This is not we want, but it's more than nothing. "/>
@@ -3410,21 +3410,21 @@
     <string id="yL192BsB" text="Shield on back has a 75% chance of stopping ranged damage completely."/>
     <string id="yxg91L0a" text="We’ll be sure everyone hears of your heroism. Please take some of these goods as a compliment. We have no intention to sell them anyway. Safe travels {?PLAYER.GENDER}milady{?}sir{\?}."/>
     <string id="YZ6UmX5o" text="Certainly. Here is your payment as I promised. Thank you."/>
-    <string id="ZaSmz64G" text="Veterinary"/>
-    <string id="ZDNI6n9s" text="Salvo"/>
+    <string id="ZaSmz64G" text="Ветеринарная"/>
+    <string id="ZDNI6n9s" text="Кроме"/>
     <string id="ZFtyxzT5" text="Mighty Pull"/>
     <string id="ZHPpzEdM" text="Governed settlements bound villages have better chance to produce tier 2 horses."/>
-    <string id="ZMxAGDKU" text="Cavalry Tactics"/>
+    <string id="ZMxAGDKU" text="Кавалерийская тактика"/>
     <string id="zpqP5LsC" text="Я уйду прямо сейчас"/>
     <string id="zrc7fHf2" text="{QUEST_GIVER.LINK}'s village {QUEST_SETTLEMENT} was raided. Your agreement with {QUEST_GIVER.LINK} is canceled."/>
     <string id="2QWg8lOr" text="Troops in your formation ignore 10% of enemy armor with thrown weapons."/>
     <string id="30xVvbFZ" text="Mounted troops under your command deal 10% more damage with throwing weapons."/>
     <string id="32MHeh5r" text="Infantry upgrades are 20% cheaper."/>
     <string id="6fMGZbXD" text="Your throwing weapons gain 25% additional speed from your movement."/>
-    <string id="7hcdz5CU" text="Focus"/>
+    <string id="7hcdz5CU" text="Фокус"/>
     <string id="7KgllquH" text="Troops under your command in your formation take 3% less damage by range attacks."/>
     <string id="8coU5Ff5" text="Increase security of your settlement by 1."/>
-    <string id="9iLyu1kp" text="Long Reach"/>
+    <string id="9iLyu1kp" text="Длинный досягаемость"/>
     <string id="Abj4P4Hg" text="Every skill point after 200 grants you 0.5% damage increase with throwing weapons."/>
     <string id="aDbvfb8z" text="+50% damage to head shots with thrown weapons."/>
     <string id="aGvLxsub" text="You have successfully delivered {MOUNT_COUNT} {MOUNT_NAME}{.s} to {QUEST_GIVER.LINK} as requested. You received {GOLD_REWARD}{GOLD_ICON} denars in return for your service."/>
@@ -3439,7 +3439,7 @@
     <string id="cPPLAz8l" text="Weak Spot"/>
     <string id="csKot5g4" text="Your throwing weapons deal 50% more damage to enemies with less than 50% health left."/>
     <string id="DdeIg5hz" text="As you move through the streets, you hear whispers of an upcoming war between your faction and {SETTLEMENT_FACTION}. Upon hearing this, you slink away without attracting any suspicion."/>
-    <string id="DeWp2GjP" text="Shield Breaker"/>
+    <string id="DeWp2GjP" text="Разрушитель щитов"/>
     <string id="DIEjNmNa" text="Every skill point after 200 grants you 0.2% projectile speed increase with throwing weapons."/>
     <string id="DjYcaHTw" text="Troops in the formation you control deal 5% more throwing weapon damage against enemy cavalry"/>
     <string id="dUgmNjxx" text="Ranged troops in your formation have 25% chance of having +1 stack size to throwing weapons."/>
@@ -3461,7 +3461,7 @@
     <string id="leKleLYK" text="Can pick spears or weapons from ground when mounted."/>
     <string id="miVfVmu9" text="Projectile speed increased by 5%."/>
     <string id="MKBWG06O" text="{QUEST_GIVER.LINK} had died and your agreement with {?QUEST_GIVER.GENDER}her{?}him{\?} was canceled. You can no longer deliver the {MOUNT_TYPE} to {?QUEST_GIVER.GENDER}her{?}him{\?}."/>
-    <string id="MoHbMLEa" text="Tier 2+ troops are recruited 20% cheaper"/>
+    <string id="MoHbMLEa" text="Войска 2+ уровня, набираются на 20% дешевле"/>
     <string id="mPPWRjCZ" text="Flexible Fighter"/>
     <string id="mQYqKCIK" text="Your throwing axes deals 3x damage to shields."/>
     <string id="OcaW12fJ" text="Running Throw"/>
@@ -3472,13 +3472,13 @@
     <string id="Qdvo3DAI" text="You need to assign at least {TROOP_COUNT} tier {TROOP_TIER} cavalry to start this mission!"/>
     <string id="qiUmE2BI" text="Troops with throwing weapons equipped in your formation gain 10% of the total xp after battles."/>
     <string id="rRdWgBeS" text="Javelins and spears you throw penetrate shields like ballista bolts."/>
-    <string id="s9oED1IR" text="Skirmisher"/>
+    <string id="s9oED1IR" text="Застрельщики"/>
     <string id="sFoPPLaX" text="Throwing weapons ignore 30% of enemy armor."/>
     <string id="SP5n2GOz" text="Troops in your formation deal 8% more damage against shields with throwing weapons."/>
     <string id="tYAYIRjr" text="Impale"/>
     <string id="VUxFbEiW" text="Saddlebags"/>
     <string id="w53LSPJ1" text="Resourceful"/>
-    <string id="xnDWqYKW" text="Hunter"/>
+    <string id="xnDWqYKW" text="Охотник"/>
     <string id="xPt71fIC" text="Troops under your command increase their projectile speed increased by 2%."/>
     <string id="yIl8qub4" text="Mounted throwing penalty decreased by 20%."/>
     <string id="yLuzvTtd" text="You had promised to deliver {MOUNT_COUNT} {MOUNT_NAME}{.s} to {QUEST_GIVER.LINK}. But you've failed to complete this task. {QUEST_GIVER.LINK} was displeased."/>
