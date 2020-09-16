@@ -3263,7 +3263,7 @@
     <string id="dBRKCTao" text="Mounted troops in your formation cause 10% more battle morale penalty when they kill enemies in melee."/>
     <string id="dbUybDTG" text="Horse Master"/>
     <string id="DbXMSRmA" text="You couldn’t keep your distance with the caravan. Bandits were alerted by your presence and left the area. The plan of {QUEST_GIVER.LINK} has failed and {?QUEST_GIVER.GENDER}she{?}he{\?} will be very upset about this."/>
-    <string id="ddEu5IFQ" text="I hope so."/>
+    <string id="ddEu5IFQ" text="Я тоже на это надеюсь..."/>
     <string id="DKiLA9f2" text="Don’t worry I’ll find them."/>
     <string id="dqbbT5DK" text="Strong Bows"/>
     <string id="dQyiRllV" text="Your ranged troops have +5 hit points."/>
@@ -3312,7 +3312,7 @@
     <string id="isepwTYW" text="Every skill point after 200 grants you 0.2% speed increase with crossbows."/>
     <string id="IsuynJ2f" text="Increase your charge damage and manuever by 1 for each 10 riding skill over 200."/>
     <string id="IUGVdu64" text="Marksmen"/>
-    <string id="ixqTFMVA" text="Mounted Warrior"/>
+    <string id="ixqTFMVA" text="Конный воин"/>
     <string id="jbPZTSP4" text="Sagittarius"/>
     <string id="jCBbUvHx" text="Mounted troops in your formation gain +10% hitpoint to mounts."/>
     <string id="JFvZAuKl" text="Crossbow equipped troops in your formation gain +10% damage with crossbows."/>
@@ -3401,7 +3401,7 @@
     <string id="uANbQUxg" text="Donkeys Swiftness"/>
     <string id="ucu9u1nS" text="You delivered the prisoners to {QUEST_GIVER.LINK} as promised."/>
     <string id="UE2X5rAy" text="Trainer"/>
-    <string id="ugJfuabA" text="Horse Archer"/>
+    <string id="ugJfuabA" text="Конный лучник"/>
     <string id="UIuKnT2h" text="Settlement you govern gain +1 militia per day."/>
     <string id="ujSlI1fl" text="Every skill point after 200 grants you 0.5% damage increase with crossbows."/>
     <string id="ulgd9Veb" text="Increase carry capacity of pack animals by 20%."/>
@@ -3430,7 +3430,7 @@
     <string id="XCZ6bdwU" text="Deknighter"/>
     <string id="XLswis9W" text="I will lend one of my best and {TROOP_COUNT} of my men to you {RETURN_DAYS} days to help you. "/>
     <string id="xORKx4wb" text="Troops in your formation using crossbows ignores %5 of enemies armor."/>
-    <string id="xss7eP0f" text="{PARTY} is raiding {SETTLEMENT}"/>
+    <string id="xss7eP0f" text="{PARTY} устраивает набег на {SETTLEMENT}"/>
     <string id="xTUSAw9v" text="Your attacks with bows ignore %10 of enemies armor."/>
     <string id="xvOUF9Kg" text="Mounted troops in your formation gain +5 armor."/>
     <string id="XzbpZji3" text="Increases your damage with bows by 8%."/>
@@ -3445,7 +3445,7 @@
     <string id="ZFtyxzT5" text="Mighty Pull"/>
     <string id="ZHPpzEdM" text="Governed settlements bound villages have better chance to produce tier 2 horses."/>
     <string id="ZMxAGDKU" text="Cavalry Tactics"/>
-    <string id="zpqP5LsC" text="I'll go right away."/>
+    <string id="zpqP5LsC" text="Я уйду прямо сейчас"/>
     <string id="zrc7fHf2" text="{QUEST_GIVER.LINK}'s village {QUEST_SETTLEMENT} was raided. Your agreement with {QUEST_GIVER.LINK} is canceled."/>
   </strings>
 </base>

@@ -495,11 +495,11 @@
     <string id="Hj1bsSbW" text="Принудительная синхронизация VSync в меню"/>
     <string id="jOGbGqOC" text="Включить вертикальную коррекцию прицеливания"/>
     <string id="TRmaxjal" text="Включите вертикальную коррекцию прицеливания в режиме третьего лица."/>
-    <string id="deletekey" text="Delete"/>
-    <string id="fldPHfP6" text="Sets the refresh rate of the game."/>
+    <string id="deletekey" text="Удалить"/>
+    <string id="fldPHfP6" text="Устанавливает частоту обновления игры."/>
     <string id="homekey" text="Home"/>
-    <string id="KGaaYZi1" text="Refresh Rate"/>
-    <string id="MhralfPz" text="Auto"/>
+    <string id="KGaaYZi1" text="Частота обновления"/>
+    <string id="MhralfPz" text="Авто"/>
     <string id="xboxAbutton" text="A Button"/>
     <string id="xboxBackButton" text="Back Button"/>
     <string id="xboxBbutton" text="B Button"/>
@@ -529,6 +529,6 @@
     <string id="mS1cpD6w" text="Enable mouse while scoreboard is open."/>
     <string id="PmbKYDON" text="Cheer"/>
     <string id="s5EnYLUp" text="Cheer on click. Open Cheer wheel on hold."/>
-    <string id="USKys6FV" text="Show Mouse"/>
+    <string id="USKys6FV" text="Показать мышь"/>
   </strings>
 </base>
