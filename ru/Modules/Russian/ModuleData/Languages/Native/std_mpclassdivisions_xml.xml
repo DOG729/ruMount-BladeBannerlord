@@ -15,12 +15,10 @@
     <string id="2bzFzemV" text="Тяжелый Арбалет"/>
     <string id="2JZakvPJ" text="Заменяет Менавлу на Тяжелую Менавлу, медленнее, но наносит больше урона."/>
     <string id="3ksDHRKT" text="Дает Восточное Длинное Копье. Двуручное длинное копье."/>
-    <string id="4ckL9lJ8" text="Дает Пиллум, длиннее, хорош для преследования. Может быть использован для ближнего боя, мало штук."/>
     <string id="4eFFdbbh" text="Заменяет Вульж на Двуручный Меч. Эффективен в дуэлях."/>
     <string id="4wdgiTta" text="Серп"/>
     <string id="5JQFx3EW" text="Заменяет коня на более быстрого и маневренного."/>
     <string id="5pLEUc4t" text="Усиленные стрелы"/>
-    <string id="5ydbUsFh" text="Метательные дротики"/>
     <string id="6bdcoGI1" text="Заменяет коня на более быстрого и маневренного."/>
     <string id="6hwZwODh" text="Глефа"/>
     <string id="722U31od" text="Заменяет коня на более стойкого, но медленного. Наносит больший урон при натиске."/>
@@ -59,11 +57,9 @@
     <string id="cfSgK0nk" text="Проворный конь"/>
     <string id="CG5D5r2w" text="Заменяет Меч на Булаву, эффе против бронированных врагов."/>
     <string id="CJo3mNsK" text="Дает Усиленные Дротики."/>
-    <string id="cMsadGUb" text="Пилумы"/>
     <string id="CQBiJLgv" text="Верблюд"/>
     <string id="cRCkC36E" text="Короткий Меч"/>
     <string id="d7Z3ka1m" text="Улучшенный Лук"/>
-    <string id="d8oFKRxa" text="Дает Метательные Копья, длиннее обычных копий, можно метать и использовать в ближнем бою."/>
     <string id="D9XZcdid" text="Дает Франциски, метательные топоры, эффективны против щитов, но мало."/>
     <string id="DCyOFcZI" text="Дает Секач, древковое оружие."/>
     <string id="Dj64aJKQ" text="Секач"/>
@@ -104,7 +100,6 @@
     <string id="JBVAeXx3" text="Вилы"/>
     <string id="JbWbiO6O" text="Лук и Стрелы"/>
     <string id="Jd0Kq9lD" text="Щит"/>
-    <string id="JfnVaE9D" text="Дает Пилумы, хороши для преследования, можно использовать в ближнем бою, но мало."/>
     <string id="JjRJs2Ue" text="Заменяет Кирку на Двуручный Топор, очень эффективен против щитов."/>
     <string id="jKYWiUZA" text="Заменяет коня на более крепкую и маневренную, но медлительную лошадь, наносящую больше урона натиском."/>
     <string id="K1UFTirG" text="Легкий Арбалет"/>
@@ -203,5 +198,8 @@
     <string id="DKsZqR8p" text="Заменяет кирку на высокогорный двуручный меч, эффективный при дуэлях и ударах двумя руками."/>
     <string id="QR4bNj8H" text="Grants Cavalry version of Menavlion."/>
     <string id="MnmUBlbL" text="Targe"/>
+    <string id="qENFMPqP" text="Grants Throwing Spear, longer than spears, throwable, can be used in melee."/>
+    <string id="r1Jp5c72" text="Grants a Pilum, longer, good for harrassing, can be used in melee."/>
+    <string id="rkqaCud5" text="Pilum"/>
   </strings>
 </base>
