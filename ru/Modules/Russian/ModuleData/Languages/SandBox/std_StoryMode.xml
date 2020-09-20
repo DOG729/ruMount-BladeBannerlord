@@ -752,8 +752,8 @@
     <string id="DyE3luNM" text="Вам нужно иметь по крайней мере {NUMBER} член вашего отряда, чтобы иметь дело с рейдерским отрядом. Ступайте в деревни, чтобы набрать больше войск."/>
     <string id="Fgta5mF6" text="Прежде чем я отвечу, нам с тобой нужно побольше узнать друг о друге. Я не знаю, что ты знаешь обо мне... Я... Я был гражданином Империи. Я был командующим имперских войск. Но я не из империи."/>
     <string id="jq5TnHEN" text="Если вы сможете найти недостающие части, я уверен, что смогу помочь вам найти им хорошее применение. [sp:/Modules/Russian/Sounds/start/themainline/istianna_q01_06.ogg]"/>
-    <string id="QLgkR3qN" text="You've successfully finished the track in ({TIME_SCORE}) seconds. You've received ({PENALTY_SECONDS}) seconds penalty from ({MISSED_TARGETS}) missed targets."/>
-    <string id="veHe94Ec" text="You've successfully finished the track in ({TIME_SCORE}) seconds without missing any targets!"/>
+    <string id="QLgkR3qN" text="Вы финишировали за ({TIME_SCORE}) секунд. Вы получили штраф в ({PENALTY_SECONDS}) секунд, за пропуск ({MISSED_TARGETS}) целей."/>
+    <string id="veHe94Ec" text="Вы успешно финишировали за ({TIME_SCORE}) секунд, не пропустив ни одной цели!"/>
     <string id="oAoTaAWg" text="первый"/>
     <string id="4cw169Kb" text="третье и последнее"/>
     <string id="9ZyXl25X" text="второй"/>
