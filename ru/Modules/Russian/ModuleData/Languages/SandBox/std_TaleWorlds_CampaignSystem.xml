@@ -3023,16 +3023,16 @@
     <string id="LVwh7Eba" text="Пехотинцы в вашем построении получают +30% бонус к урону от скорости."/>
     <string id="lyGvyZK4" text="Very well. When you reach one of their fortresses, spend some time observing. Don't move on to the next one at once. You don't need to find me to report back the details, just send your messengers."/>
     <string id="m2U5wTqa" text="You need to have at least one healthy companion with riding skill above {RIDING_THRESHOLD} and trade skill above {TRADE_THRESHOLD}"/>
-    <string id="m4KacGv9" text="Increase your movement speed by 10%."/>
+    <string id="m4KacGv9" text="Увеличивает скорость передвижения на 10%."/>
     <string id="M8yrANf5" text="Навык увеличивает ваш урон одноручным оружием на 5% Кроме того, размер вашего отряда повышается на 15"/>
     <string id="m9a3ZalO" text="Да, я {?PLAYER.GENDER}доставила{?}доставил{?} зерно, как вы и просили."/>
-    <string id="MalIalPA" text="I will not listen to such matters while I'm in an army."/>
-    <string id="miMZavW3" text="Baptised in Blood"/>
+    <string id="MalIalPA" text="Я не стану слушать подобные вещи, пока нахожусь в армии."/>
+    <string id="miMZavW3" text="Крещеный в крови"/>
     <string id="MkbmHsAH" text="Decrease your charge damage taken by 50%"/>
     <string id="MNuEtdvb" text="Увеличьте лимит гарнизона в управляемом поселении на 30."/>
     <string id="myM5wdFI" text="20% hearth increase the in villages you govern"/>
     <string id="nAlCj2m0" text="Terror"/>
-    <string id="NDtlE6PY" text="Beast Slayer"/>
+    <string id="NDtlE6PY" text="Убийца Зверей"/>
     <string id="NjPMRWbW" text="Make peace with {KINGDOM_NAME}. Our kingdom will receive {T} tribute daily."/>
     <string id="NPoClaRb" text="Вы получаете +1 к здоровью за каждый атлетический навык, превышающий 250."/>
     <string id="NwO0CVzn" text="Recruit {MEN_COUNT} {MERCENARY_NAME} ({TOTAL_AMOUNT}{GOLD_ICON})"/>
@@ -3041,7 +3041,7 @@
     <string id="nysBXpEO" text="верблюды"/>
     <string id="O4fIFDAx" text="Пехота под вашим командованием после сражений получает 10% общего опыта."/>
     <string id="o57z0zB9" text="Skewer"/>
-    <string id="o6J5b0M2" text="Войска под вашим командованием терпят на 20% меньше морального ущерба."/>
+    <string id="o6J5b0M2" text="Войска под вашим командованием теряют на 20% меньше морали."/>
     <string id="oFsPkOpe" text="Верблюды"/>
     <string id="oNgwQTTV" text="Workshop Expenses"/>
     <string id="oS5Nesmi" text="Улучшенные укрепления и более высокие стены вокруг поселений. Также увеличивается максимальный размер гарнизона."/>
@@ -3399,17 +3399,17 @@
     <string id="x6AYjN9a" text="You take 10% less damage from ranged attacks."/>
     <string id="XCZ6bdwU" text="Deknighter"/>
     <string id="XLswis9W" text="I will lend one of my best and {TROOP_COUNT} of my men to you {RETURN_DAYS} days to help you. "/>
-    <string id="xORKx4wb" text="Troops in your formation using crossbows ignores %5 of enemies armor."/>
+    <string id="xORKx4wb" text="Troops in your formation using crossbows ignores 5% of enemies armor."/>
     <string id="xss7eP0f" text="{PARTY} устраивает набег на {SETTLEMENT}"/>
-    <string id="xTUSAw9v" text="Your attacks with bows ignore %10 of enemies armor."/>
-    <string id="xvOUF9Kg" text="Mounted troops in your formation gain +5 armor."/>
-    <string id="XzbpZji3" text="Increases your damage with bows by 8%."/>
-    <string id="Y2a6yycL" text="Decrease your bow accuracy loss due to rotating by 50%."/>
+    <string id="xTUSAw9v" text="Ваши атаки луками игнорируют 10% брони врагов."/>
+    <string id="xvOUF9Kg" text="Конные войска в вашем построении получают +5 брони."/>
+    <string id="XzbpZji3" text="Увеличивает урон от луков на 8%."/>
+    <string id="Y2a6yycL" text="Уменьшите потерю точности лука из-за поворота на 50%."/>
     <string id="Y9LNbRho" text="Thank you. I will put your men to good use."/>
     <string id="YbZYXRqt" text="Asked you to follow a fake caravan that he set as a trap to destroy a particularly large and dangerous group of bandits. You ordered {COMPANION.LINK} and {TROOP_COUNT} of your men to follow the caravan from a safe distance and join in the fight once it is attacked. You expect them to return in {RETURN_DAYS} days with the news of success and {REWARD_GOLD}{GOLD_ICON}."/>
     <string id="yL192BsB" text="Shield on back has a 75% chance of stopping ranged damage completely."/>
     <string id="yxg91L0a" text="We’ll be sure everyone hears of your heroism. Please take some of these goods as a compliment. We have no intention to sell them anyway. Safe travels {?PLAYER.GENDER}milady{?}sir{\?}."/>
-    <string id="YZ6UmX5o" text="Certainly. Here is your payment as I promised. Thank you."/>
+    <string id="YZ6UmX5o" text="Безусловно. Вот ваш награда, как я и обещал... Спасибо."/>
     <string id="ZaSmz64G" text="Ветеринарная"/>
     <string id="ZDNI6n9s" text="Кроме"/>
     <string id="ZFtyxzT5" text="Mighty Pull"/>
@@ -3431,10 +3431,10 @@
     <string id="AJC108Sb" text="Your clan is now at war with the {QUEST_GIVER.LINK}'s faction. Your agreement was canceled. You can no longer deliver the {MOUNT_TYPE} to {?QUEST_GIVER.GENDER}her{?}him{\?}."/>
     <string id="AzdGEO33" text="Your infantry troops in your party gain +1 xp everyday."/>
     <string id="b6W74uyR" text="Splinters"/>
-    <string id="BCoQgZvG" text="Perfect Technique"/>
+    <string id="BCoQgZvG" text="Совершенная техника"/>
     <string id="BFEYIMdi" text="You had promised to deliver {MOUNT_COUNT} {MOUNT_NAME}{.s} to {QUEST_GIVER.LINK}. But you've failed to complete this task in time. {QUEST_GIVER.LINK} was displeased."/>
-    <string id="BgaGaxQ9" text="Gain +1 stack size to throwing weapons."/>
-    <string id="bqjL4vxF" text="Deal 40% more damage against horses with throwing weapons."/>
+    <string id="BgaGaxQ9" text="Увеличивает размер (колчан)стака +1 к метательному оружию."/>
+    <string id="bqjL4vxF" text="Метательное оружие наносит на 40% больше урона лошадям."/>
     <string id="cC8iTtg5" text="Throwing Competitions"/>
     <string id="cPPLAz8l" text="Weak Spot"/>
     <string id="csKot5g4" text="Your throwing weapons deal 50% more damage to enemies with less than 50% health left."/>
@@ -3447,42 +3447,42 @@
     <string id="GebyT7MY" text="Melee mode of throwing weapons you wield now deals 10% more damage."/>
     <string id="Gn3KBN8L" text="Knock Off"/>
     <string id="GQ96SX4M" text="{QUEST_GIVER.LINK} told you that {?QUEST_GIVER.GENDER}she{?}he{\?} needs {MOUNT_TYPE} for {?QUEST_GIVER.GENDER}her{?}his{\?} party. {?QUEST_GIVER.GENDER}She{?}He{\?} asked you to bring {MOUNT_COUNT} {MOUNT_NAME}{.s} to {?QUEST_GIVER.GENDER}her{?}him{\?}. {?QUEST_GIVER.GENDER}She{?}He{\?} will pay you {REWARD_GOLD}{GOLD_ICON} denars when the task is done."/>
-    <string id="GVltJbbv" text="Game has been saved."/>
-    <string id="h1juSIZx" text="Troops under your command have +30 throwing skill."/>
-    <string id="HVxvToRR" text="Infantry gains +15 to all Control Skills, Ranged Troops Gain +15 to all Vigor Skills"/>
-    <string id="hwr0nDWv" text="When thrown your weapons has 50% chance of dismounting enemies on torso hits."/>
+    <string id="GVltJbbv" text="Игра сохранена."/>
+    <string id="h1juSIZx" text="Войска под вашим командованием имеют +30 навыка метательного оружия."/>
+    <string id="HVxvToRR" text="Пехота получает +15 ко всем навыкам управления, дальнобойные войска получают +15 ко всем навыкам выносливости"/>
+    <string id="hwr0nDWv" text="При броске ваше оружие имеет 50% шанс спешить противника при ударах по торсу."/>
     <string id="iARYMyuq" text="Head Hunter"/>
-    <string id="IqcdcG9j" text="Troops in your formation deal 8% more damage against mounts with throwing weapons."/>
-    <string id="IsHyjvSq" text="Last Hit"/>
-    <string id="JfLCWjqI" text="Deal 40% more damage against shields with throwing weapons."/>
-    <string id="kQtrLwVD" text="Increases your troops throwing weapons drawing speed by 10%."/>
-    <string id="kVSO17rc" text="Winning battles give 20% more morale and renown."/>
+    <string id="IqcdcG9j" text="Войска в вашем формировании наносят на 8% больше урона верховым животным метательным оружием."/>
+    <string id="IsHyjvSq" text="Последний удар"/>
+    <string id="JfLCWjqI" text="Наносит на 40% больше урона по щитам с помощью метательного оружия"/>
+    <string id="kQtrLwVD" text="Увеличивает скорость метания оружия вашими войсками на 10%."/>
+    <string id="kVSO17rc" text="Победа в битвах повышает боевой дух и известность на 20%."/>
     <string id="l1I748Fn" text="Mounted Skirmisher"/>
     <string id="leKleLYK" text="Can pick spears or weapons from ground when mounted."/>
-    <string id="miVfVmu9" text="Projectile speed increased by 5%."/>
+    <string id="miVfVmu9" text="Скорость снаряда увеличена на 5%."/>
     <string id="MKBWG06O" text="{QUEST_GIVER.LINK} had died and your agreement with {?QUEST_GIVER.GENDER}her{?}him{\?} was canceled. You can no longer deliver the {MOUNT_TYPE} to {?QUEST_GIVER.GENDER}her{?}him{\?}."/>
     <string id="MoHbMLEa" text="Войска 2+ уровня, набираются на 20% дешевле"/>
     <string id="mPPWRjCZ" text="Flexible Fighter"/>
-    <string id="mQYqKCIK" text="Your throwing axes deals 3x damage to shields."/>
+    <string id="mQYqKCIK" text="Ваши метательные топоры наносят 3-кратный урон щитам."/>
     <string id="OcaW12fJ" text="Running Throw"/>
-    <string id="Og8QMFeC" text="Increases your throwing weapons drawing speed by 20%."/>
-    <string id="pPMPRLYY" text="Zooming with throwing weapons is magnified by 150%."/>
-    <string id="PzqAt7W5" text="Infantry troops in your formation deal 10% more ranged damage with throwing weapons."/>
-    <string id="qCCLpjAa" text="Troops under your command deals 50% more damage to shields with throwing weapons."/>
+    <string id="Og8QMFeC" text="Увеличивает скорость вашего метательного оружия на 20%."/>
+    <string id="pPMPRLYY" text="Zooming с метательным оружием увеличивается на 150%."/>
+    <string id="PzqAt7W5" text="Пехотные войска в вашем построении наносят на 10% больше урона от метательного оружия."/>
+    <string id="qCCLpjAa" text="Войска под вашим командованием наносят на 50% больше урона щитам метательным оружием."/>
     <string id="Qdvo3DAI" text="You need to assign at least {TROOP_COUNT} tier {TROOP_TIER} cavalry to start this mission!"/>
-    <string id="qiUmE2BI" text="Troops with throwing weapons equipped in your formation gain 10% of the total xp after battles."/>
-    <string id="rRdWgBeS" text="Javelins and spears you throw penetrate shields like ballista bolts."/>
+    <string id="qiUmE2BI" text="Войска в вашем строю оснащенные метательным оружием, получают 10% от общего опыта после сражений."/>
+    <string id="rRdWgBeS" text="Дротики и копья, которые вы бросаете, пробивают щиты, как болты баллисты."/>
     <string id="s9oED1IR" text="Застрельщики"/>
-    <string id="sFoPPLaX" text="Throwing weapons ignore 30% of enemy armor."/>
-    <string id="SP5n2GOz" text="Troops in your formation deal 8% more damage against shields with throwing weapons."/>
+    <string id="sFoPPLaX" text="Метательное оружие игнорирует 30% вражеской брони."/>
+    <string id="SP5n2GOz" text="Войска в вашем построении наносят на 8% больше урона метательным оружием по щитам ."/>
     <string id="tYAYIRjr" text="Impale"/>
     <string id="VUxFbEiW" text="Saddlebags"/>
-    <string id="w53LSPJ1" text="Resourceful"/>
+    <string id="w53LSPJ1" text="Находчивый"/>
     <string id="xnDWqYKW" text="Охотник"/>
     <string id="xPt71fIC" text="Troops under your command increase their projectile speed increased by 2%."/>
     <string id="yIl8qub4" text="Mounted throwing penalty decreased by 20%."/>
     <string id="yLuzvTtd" text="You had promised to deliver {MOUNT_COUNT} {MOUNT_NAME}{.s} to {QUEST_GIVER.LINK}. But you've failed to complete this task. {QUEST_GIVER.LINK} was displeased."/>
-    <string id="ZMYTashc" text="Increase the morale of your party at the start of the battle by +5."/>
-    <string id="zQ2Ir1yM" text="If you start battle mounted you have +2 ammunition for throwing weapons."/>
+    <string id="ZMYTashc" text="Повышает боевой дух вашего отряда в начале боя на +5."/>
+    <string id="zQ2Ir1yM" text="Если вы начинаете бой верхом, то получаете +2 снаряда метательного оружия"/>
   </strings>
 </base>
