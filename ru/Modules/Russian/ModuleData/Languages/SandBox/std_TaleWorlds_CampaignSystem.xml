@@ -3189,63 +3189,63 @@
     <string id="5NwaDzcs" text="Animals in your inventory have a very low chance to reproduce."/>
     <string id="5o9udV96" text="Yes? You should go already, every second counts."/>
     <string id="5of4a1kg" text="A landowner needs your help to find prisoners to use in {?ISSUE_GIVER.GENDER}her{?}his{\?} mines as manual laborers."/>
-    <string id="6193thSy" text="Increased stack size for quivers by +4."/>
+    <string id="6193thSy" text="Увеличен размер стака колчанов на +4."/>
     <string id="6duYOjy7" text="Menu Selection."/>
-    <string id="6ncPxxfa" text="Ranged troops in your formation gain 10% of the total xp after battles."/>
-    <string id="6nm9biYR" text="Troops in your formation use crossbows with +30 Crossbow skill."/>
-    <string id="6nUa0FIl" text="Bow equipped troops in your formation ignores %5 of enemies armor."/>
-    <string id="6Rh07aSi" text="Ranged troops reload speed increased by 5%."/>
-    <string id="6U6s0EuM" text="Mounted troops in governed settlement's garrison have 50% reduced wages."/>
+    <string id="6ncPxxfa" text="Войска дальнего боя в вашем построении после сражений получают 10% общего опыта."/>
+    <string id="6nm9biYR" text="Войска в вашем формировании используют арбалеты с навыком арбалета +30."/>
+    <string id="6nUa0FIl" text="Войска в вашем формировании с луком игнорируют 5% брони врагов."/>
+    <string id="6Rh07aSi" text="Скорость перезарядки войск дальнего боя увеличена на 5%."/>
+    <string id="6U6s0EuM" text="Конные войска в гарнизоне управляемого поселения получают снижение заработной платы на 50%."/>
     <string id="7pnCJMFS" text="I already have a plan underway as a solution. A bait if you will. I paid several people to spread rumors about a particularly fat caravan, which is supposed to be laden with silverware. And travelling from here towards {TARGET_SETTLEMENT}. It is a trap of course. A big surprise is waiting for them.  Armed men are hiding and posing as caravaneers. I want to make sure that we deal with them properly. Go and follow my caravan. Stay in a proper distance, until they are attacked. Then move in to engage and finish the bandits for once and for all. My agent, who poses as the Caravan master will pay you {REWARD}{GOLD_ICON} for your troubles when the fight is over."/>
     <string id="7XR4MJci" text="{QUEST_GIVER.LINK}, a landowner in {SETTLEMENT}, told you that {?QUEST_GIVER.GENDER}she{?}he{\?} needs prisoners to use in {?QUEST_GIVER.GENDER}her{?}his{\?} mines as manual laborers. {?QUEST_GIVER.GENDER}She{?}He{\?} asked you to bring at least {NEEDED_PRISONER_AMOUNT} prisoners but {?QUEST_GIVER.GENDER}she{?}he{\?} will paid extra if you bring more. You have agreed to bring {?QUEST_GIVER.GENDER}her{?}him{\?} at least {NEEDED_PRISONER_AMOUNT} prisoner and you will be paid ten times more than their market price for each prisoner you bring."/>
     <string id="8BdJ2MZj" text="I don't want to hurt your people. I'll forget my deal with {ISSUE_GIVER.LINK}."/>
-    <string id="9D6Xv3e8" text="Increase settlement tax gain in governed settlement by 5%."/>
+    <string id="9D6Xv3e8" text="Увеличьте прибыль от уплаты налогов в управляемом поселении на 5%."/>
     <string id="a9o7froG" text="Decrease accuracy penalty by 30% while mounted."/>
     <string id="AAy1oX7z" text="Hunter Clan"/>
-    <string id="AD30RcU9" text="Troops in your formation deal 10% more damage against foot troops with crossbows."/>
+    <string id="AD30RcU9" text="Войска в вашем формировании наносят на 10% больше урона пешим войскам из арбалетов."/>
     <string id="aIKVpGvE" text="Renowned Archer"/>
     <string id="aJcChHfj" text="What are you planning to do about them?"/>
     <string id="aJHMafam" text="{?PLAYER.GENDER}Madam{?}Sir{\?} - a moment of your time! You're on a job for {ISSUE_GIVER.LINK}, am I right? Look - our people are depending on those jobs. {?ISSUE_GIVER.GENDER}She{?}He{\?} doesn't need to pay us a living wage if {?ISSUE_GIVER.GENDER}she{?}he{\?} can do the work with prisoners. Please - break your agreement. You don't have to do this."/>
-    <string id="Arwl4bAi" text="Increase the morale of each Tier 1 to 3 troops by 10%."/>
-    <string id="AsjB3siS" text="Range troops in governed garrison provide 20% more security."/>
-    <string id="aT0uYDuo" text="Sniper"/>
+    <string id="Arwl4bAi" text="Повышает боевой дух каждого отряда 1–3 уровня на 10%."/>
+    <string id="AsjB3siS" text="Войска дальнего боя в управляемом гарнизоне обеспечивают на 20% больше безопасности."/>
+    <string id="aT0uYDuo" text="Снайпер"/>
     <string id="B0YOpGsZ" text="Any news about my prisoners?"/>
     <string id="b1lsZNxE" text="You failed to deliver enough prisoners in time. {QUEST_GIVER.LINK} must be disappointed."/>
-    <string id="b4BX9Fr5" text="Governed settlement gain +1 militia per day."/>
+    <string id="b4BX9Fr5" text="Управляемые поселения получают +1 ополчение в день."/>
     <string id="b9NaTqyr" text="Extra Defender Defense"/>
-    <string id="BajgWS2n" text="Crossbow equipped troops in your formation take 3% less damage by range attacks."/>
-    <string id="BaYbaMU2" text="Ranged troops in for garrison provide 30% more security."/>
+    <string id="BajgWS2n" text="Войска в вашем формировании с арбалетом получают на 3% меньше урона от дальних атак."/>
+    <string id="BaYbaMU2" text="Войска дальнего боя в гарнизоне обеспечивают на 30% большую безопасность."/>
     <string id="BbaidhT4" text="Equipped crossbows do not slow you down."/>
-    <string id="bcONdncG" text="+2 daily xp gain to governed settlements."/>
+    <string id="bcONdncG" text="+2 ежедневного прироста опыта для управляемых поселений."/>
     <string id="bCrTRNut" text="Your troops' kills by crossbows inflict 1.5x morale damage to enemy."/>
     <string id="BdQMQW8t" text="Riding Horde"/>
     <string id="bKjaCnwM" text="Maybe you can help me yes. You see, usually caravans are too fast to catch by large bands of bandits and too heavily guarded for small but fast moving bandits so most of the time they are safe, but then there is these bandits with fast mounts who have been organized around a smart leader who knows a thing or two about proper cavalry tactics. And they have successfully robbed several caravans already. "/>
-    <string id="bMPZi9OZ" text="Increase your damage against mounts with bows by 30%."/>
+    <string id="bMPZi9OZ" text="(с лукам)Увеличьте ваш урон против верховых животных на 30%."/>
     <string id="bOSE6Mhq" text="Каждое очко навыков после 250 дает вам 0,5% увеличения урона одноручным оружием."/>
     <string id="byX4TWWM" text="Reduces upkeep of ranged troops in the governed garrison by 20%."/>
     <string id="C06TxxnM" text="I'll bring you at least {WANTED_PRISONER_AMOUNT} prisoners as soon as possible."/>
     <string id="cbwRp51K" text="Уменьшите штраф к перезарядке на 50%."/>
-    <string id="cFN6JaT2" text="Конница ближнего боя в вашем построении получает +5% к урону (в ближнем бою)."/>
+    <string id="cFN6JaT2" text="Конница ближнего боя в вашем формировании получает +5% к урону (в ближнем бою)."/>
     <string id="ciELES5v" text="Swift Strike"/>
     <string id="cXlnH1Jp" text="Nimble Stead"/>
-    <string id="cYvpUGq9" text="Prisoners in your party is 50% less likely to escape."/>
-    <string id="D867vF71" text="Discipline"/>
-    <string id="dBRKCTao" text="Mounted troops in your formation cause 10% more battle morale penalty when they kill enemies in melee."/>
+    <string id="cYvpUGq9" text="Вероятность побега заключенных в вашей группе на 50% меньше."/>
+    <string id="D867vF71" text="Дисциплина"/>
+    <string id="dBRKCTao" text="Конные войска в вашем формировании нагоняют страх при убийстве врага в ближнем бою. Нанося 10% штраф боевого духа"/>
     <string id="dbUybDTG" text="Horse Master"/>
     <string id="DbXMSRmA" text="You couldn’t keep your distance with the caravan. Bandits were alerted by your presence and left the area. The plan of {QUEST_GIVER.LINK} has failed and {?QUEST_GIVER.GENDER}she{?}he{\?} will be very upset about this."/>
     <string id="ddEu5IFQ" text="Я тоже на это надеюсь..."/>
     <string id="DKiLA9f2" text="Don’t worry I’ll find them."/>
     <string id="dqbbT5DK" text="Strong Bows"/>
-    <string id="dQyiRllV" text="Your ranged troops have +5 hit points."/>
+    <string id="dQyiRllV" text="Ваши отряды дальнего боя имеют +5 хитов(жизни)."/>
     <string id="DSMMIrz9" text="Prisoners... You want criminals or war captives?"/>
-    <string id="DyLbvdUw" text="Your crossbow attacks ignore armor below 20."/>
-    <string id="E42pGCZg" text="Mounted troops in your formation gain +30 riding skill"/>
+    <string id="DyLbvdUw" text="Атаки вашего арбалета игнорируют броню ниже 20."/>
+    <string id="E42pGCZg" text="Конные войска в вашем построении получают +30 навыка верховой езды."/>
     <string id="E5yAFR6y" text="Good to hear that. Thank you."/>
-    <string id="e9bk6QBv" text="Infantry troops in the formation you are leading increase their damage against mounts by 10%"/>
-    <string id="EbSw2vj0" text="Increase mounted infantry campaign speed by 30%."/>
-    <string id="EHBkdRfV" text="Mounted Archers your formation gain +30 Bow skill."/>
+    <string id="e9bk6QBv" text="Пехотные войска в строю, которым вы руководите, увеличивают свой урон против верховых животных на 10%."/>
+    <string id="EbSw2vj0" text="Увеличьте скорость (кампании) конной пехоты на 30%."/>
+    <string id="EHBkdRfV" text="Конные лучники вашего отряда получают +30 к навыку стрельбы из лука."/>
     <string id="EQLgVYk0" text="Settlement Issues"/>
-    <string id="eyIspJfB" text="Troops in your formation increase their bow reload speed by 5%."/>
+    <string id="eyIspJfB" text="Войска в вашем формировании увеличивают скорость перезарядки лука на 5%."/>
     <string id="eYzTvFEH" text="Dauntless Steed"/>
     <string id="FA5QlTvm" text="Fletcher"/>
     <string id="fANacbya" text="Каждое очко навыка после 250 дает вам 0,5% увеличения урона двуручным оружием."/>
@@ -3254,51 +3254,51 @@
     <string id="fFk5dSXc" text="Everyday the party member with lowest Bow skill gains experience in Bow."/>
     <string id="FjMS9Mbz" text="Hammer Bolts"/>
     <string id="frQX6OZv" text="Filled To Brim"/>
-    <string id="fT3VazN7" text="Melee Cavalry in your formation gain +5% to melee damage."/>
+    <string id="fT3VazN7" text="Конница ближнего боя в вашем формировании получает +5% к урону в ближнем бою."/>
     <string id="FVLymWqW" text="Dead Aim"/>
     <string id="g5bRX0dd" text="You have defeated the large group of bandits that {QUEST_GIVER.LINK} has asked you to and {?QUEST_GIVER.GENDER}she{?}he{\?} sends {?QUEST_GIVER.GENDER}her{?}his{\?} regards with the {REWARD_GOLD}{GOLD_ICON} he promised and some trade goods as reward."/>
     <string id="g5I4qyjw" text="Relief Force"/>
-    <string id="ghbKql0E" text="Bow equipped troops in your formation gain +5% to their on foot movement speed."/>
-    <string id="gIL4YKp3" text="Decrease campaign speed herding penalty by 50%."/>
+    <string id="ghbKql0E" text="Войска с луком в вашем формировании получают +5% к скорости пешего передвижения."/>
+    <string id="gIL4YKp3" text="Уменьшите штраф за скорость(кампании) на 50%."/>
     <string id="gL7Ltjpc" text="Sweeping Wind"/>
-    <string id="gpPlaaey" text="Tier 3+ troops in your formation gain +5% damage with bows."/>
+    <string id="gpPlaaey" text="Войска(с луками) 3+ уровня в вашем формировании получают +5% урона."/>
     <string id="grgnisK4" text="Counter Fire"/>
     <string id="H2zjWQLk" text="Bow equipped troops in your party gain small amount of xp everyday."/>
     <string id="h7zHLPX5" text="Increase visual range in campaign  by 10%."/>
     <string id="h83ZU95t" text="Deep Quivers"/>
-    <string id="Hl33qopv" text="Governed settlements bound villages have +5% production."/>
+    <string id="Hl33qopv" text="Управляемые поселения, связанные с деревнями, имеют +5% производства."/>
     <string id="HM2XzVr7" text="Mounted troops in your formation cause 5% more battle morale penalty when they kill enemies on range."/>
     <string id="HM60zpIf" text="Your ranged troops gain +1 xp everyday."/>
     <string id="HMt8Xo5p" text="{PARTY} is raiding {SETTLEMENT}. You decide to..."/>
-    <string id="hOyX7rSy" text="Increase your mount top speed by 5%."/>
+    <string id="hOyX7rSy" text="Увеличьте максимальную скорость вашего маунта на 5%."/>
     <string id="hVIsGd2y" text="Landowner Needs Manual Laborers"/>
     <string id="HvYgMtXO" text="The Way Of The Saddle"/>
     <string id="HZ6fr5zG" text="You have to send at least {NUMBER} tier {TIER} troops to this quest."/>
-    <string id="HZW39Tj2" text="Mounted troops in your formation gain +10 mount armor."/>
+    <string id="HZW39Tj2" text="Конные войска в вашем построении получают +10 к броне ездового животного."/>
     <string id="I3GUAb9a" text="I understand your concern, Headman, but I made an agreement. How about I share the profit with you and your people?"/>
-    <string id="IAdd84xm" text="Troops under your command increase their bolt stack size by +2."/>
+    <string id="IAdd84xm" text="Войска под вашим командованием увеличивают размер стака болтов на +2."/>
     <string id="ICkvftaM" text="Renown Marksmen"/>
-    <string id="iIzShvKQ" text="Melee cavalry in your formation gain +10% speed damage bonus."/>
-    <string id="isepwTYW" text="Every skill point after 200 grants you 0.2% speed increase with crossbows."/>
-    <string id="IsuynJ2f" text="Increase your charge damage and manuever by 1 for each 10 riding skill over 200."/>
+    <string id="iIzShvKQ" text="Конница ближнего боя в вашем формировании получает +10% бонус к урону от скорости."/>
+    <string id="isepwTYW" text="Каждое очко навыка после 200 дает вам увеличение скорости на 0,2% с арбалетом."/>
+    <string id="IsuynJ2f" text="Увеличивает маневренность и урон на 1 за каждые 10 навыков верховой езды выше 200."/>
     <string id="IUGVdu64" text="Marksmen"/>
     <string id="ixqTFMVA" text="Конный воин"/>
     <string id="jbPZTSP4" text="Sagittarius"/>
-    <string id="jCBbUvHx" text="Mounted troops in your formation gain +10% hitpoint to mounts."/>
-    <string id="JFvZAuKl" text="Crossbow equipped troops in your formation gain +10% damage with crossbows."/>
+    <string id="jCBbUvHx" text="Конные войска в вашем формировании +10% здоровья к маунтам."/>
+    <string id="JFvZAuKl" text="Войска с арбалетом в вашем формировании получают +10% урона (из арбалета)."/>
     <string id="jhKd86ti" text="{NOTABLE.NAME} reports a caravan that was supposed to arrive hasn’t arrived yet. {?NOTABLE.GENDER}She{?}He{\?} asks someone to investigate."/>
     <string id="ji5kkqXy" text="They need to be criminals, bandits, for me to do this legally. I need at least {WANTED_PRISONER_AMOUNT} of them. But if you can bring more I will gladly accept. I'm willing to pay ten times more than their market price for each. What do you say?"/>
     <string id="jiFCxZ4B" text="In case you decide to let your troops handle this, you should send a good commander with some {TROOP_COUNT} men, just to be safe. And I’ll send them back to you in {RETURN_DAYS} days. "/>
     <string id="jjkJyKoy" text="Puncture"/>
-    <string id="jojBRn0D" text="Aiming with your crossbow is 25% faster."/>
-    <string id="jWDGbRic" text="Mounted troops in governed settlement's garrison provide 20% more security."/>
+    <string id="jojBRn0D" text="Прицеливание из арбалета на 25% быстрее."/>
+    <string id="jWDGbRic" text="Конные войска в гарнизоне управляемого поселения обеспечивают на 20% больше безопасности."/>
     <string id="Kc9oatmM" text="Rapid Fire"/>
-    <string id="kgJ4hfd2" text="Every skill point after 200 grants you 0.2% speed increase with bows."/>
+    <string id="kgJ4hfd2" text="Каждое очко навыка после 200 дает вам увеличение скорости стрельбы из лука на 0,2%."/>
     <string id="ki1CWgcP" text="Warning! You are too close to the caravan. Stay a bit farther away."/>
     <string id="kzy9Iduz" text="Full Speed"/>
     <string id="l7dL6arZ" text="Thank you. Remember - they need to be looters or bandits. Anyone else I can't put to work."/>
     <string id="leaowE4D" text="Sheriff"/>
-    <string id="lgV3IXwY" text="Increase your headshot damage bonus by 30% with bows."/>
+    <string id="lgV3IXwY" text="Увеличивает бонус к урону от выстрелов в голову на 30%."/>
     <string id="LiaRnWJZ" text="You can now use all bows on horseback."/>
     <string id="Lj6SwJYF" text="Ranged troops under your command increase their movement speed by 10%."/>
     <string id="ll4s461C" text="You get +3 extra arrows per quiver."/>
