@@ -760,56 +760,56 @@
     <string id="HskL8pEa" text="{KINGDOM_NAME} побежден. Вы потерпели неудачу!"/>
     <string id="IL4FcHXv" text="Вы присягнули на верность королю {KINGDOM_NAME}!"/>
     <string id="Pus87ZW2" text="Вы уже нашли, {BANNER_PIECE_COUNT} кусок Знамени!"/>
-    <string id="0I9siaQY" text="Bastards... You're the kin of my captives, right? I saw {RADAGOS.LINK} with you. You know he can't be trusted?[if:idle_angry][ib:warrior]"/>
-    <string id="1T7p0O7B" text="We have to be clever. {HIDEOUT_BOSS.LINK} is a cunning fellow, in a low and base kind of way."/>
-    <string id="1yi00v5w" text="{PLAYER.NAME}! Good to see you. Believe it or not, I mean that. I've been looking for you...[if:happy][ib:demure]"/>
-    <string id="2GeiKTlS" text="I'll do you the honor of duelling you, and my men will stand down if you win."/>
-    <string id="3dhvmJDp" text="Well... Looks like we've gotten your kin back to you, so my end of our deal is complete. I'll be making myself scarce now."/>
-    <string id="8b4Ndfep" text="Oh of course. I have no doubts on that score."/>
-    <string id="a29lmPLd" text="I defeated you before. I know how your gang operates. Less talking, more raiding. C'mon..."/>
-    <string id="bJjAqCxk" text="I escaped - one of his men, a little guiltier than the rest, cut my bonds when the others were sleeping - but I can't let a traitor live. So I decided to find you and offer you a deal.[if:idle_angry][ib:warrior]"/>
-    <string id="bsWSecYa" text="{PLAYER_BROTHER.NAME} is the elder brother of {PLAYER.LINK}. He has gone in search of the family's two youngest siblings, {PLAYER_LITTLE_BROTHER} and {PLAYER_LITTLE_SISTER}."/>
-    <string id="c1Q2irLi" text="Your men killed my parents. Did you really think you would not be punished?"/>
-    <string id="C79Xxm1b" text="Don't let your conscience bother you about letting me go, by the way. I won't get back into slaving. Burned too many bridges with my old colleagues, you might say. I'll find some other way to earn my keep - mercenary work, perhaps. Anyway, maybe our paths will cross again."/>
-    <string id="dIko48bN" text="I am still trying to decide what to do..."/>
-    <string id="DIKPGwj1" text="So glad to see you safe. Is everyone okay?"/>
-    <string id="DjQuB0TU" text="You saved your brother and sister, and you decided to let {RADAGOS.LINK} go..."/>
+    <string id="0I9siaQY" text="Ублюдки ... Вы же родственники моих пленников, да? Я видел с вами {RADAGOS.LINK}. Вы знаете, что ему нельзя доверять?[if:idle_angry][ib:warrior]"/>
+    <string id="1T7p0O7B" text="Надо быть умными. {HIDEOUT_BOSS.LINK} - хитрый парень в плохом смысле"/>
+    <string id="1yi00v5w" text="{PLAYER.NAME}! Рад тебя видеть. Хочешь верьте, хочешь нет, я серьезно. Я искал тебя...[if:happy][ib:demure]"/>
+    <string id="2GeiKTlS" text="Я окажу вам честь сразиться с вами, и мои люди отступят, если вы выиграете."/>
+    <string id="3dhvmJDp" text="Ну ... Похоже, мы вернули тебе твою семью, так что моя часть нашей сделки выполнена. Теперь мне надо немного притаиться."/>
+    <string id="8b4Ndfep" text="Конечно. Я не сомневаюсь на этот счет."/>
+    <string id="a29lmPLd" text="Да брось... Я уже побеждал тебя раньше. Я знаю, как действует ваша банда. Меньше разговоров и ближе к делу."/>
+    <string id="bJjAqCxk" text="Я сбежал - один из его людей, немного более виноватый, чем остальные, разорвал мои узы, когда остальные спали, - но я не могу оставить предателя в живых. Поэтому я решил найти тебя и предложить сделку.[if:idle_angry][ib:warrior]"/>
+    <string id="bsWSecYa" text="{PLAYER_BROTHER.NAME} старший брат {PLAYER.LINK}. Он отправился на поиски двух младших брата и сестры, {PLAYER_LITTLE_BROTHER} и {PLAYER_LITTLE_SISTER}."/>
+    <string id="c1Q2irLi" text="Твои люди убили моих родителей. Ты действительно думаешь, что избежишь наказания?"/>
+    <string id="C79Xxm1b" text="Не позволяй совести терзать тебя за то, что отпустил меня. Я не вернусь в рабство. Можно сказать, сжег слишком много мостов со своими старыми коллегами. Я найду другой способ заработать себе на жизнь – возможно стану наемником. В любом случае, может быть, наши пути еще пересекутся."/>
+    <string id="dIko48bN" text="Я все еще пытаюсь решить, что делать ..."/>
+    <string id="DIKPGwj1" text="Так рад видеть тебя в безопасности. Все в порядке?"/>
+    <string id="DjQuB0TU" text="Вы спасли брата и сестру и решили отпустить {RADAGOS.LINK}..."/>
     <string id="dlBFVkDj" text="На счёт задания, которое вы поручили мне..."/>
-    <string id="fM4eSVps" text="You said talking was a waste of time. You are {RADAGOS.NAME}'s property, now."/>
-    <string id="ft6zzDrJ" text="I can live with that. Let's go."/>
+    <string id="fM4eSVps" text="Вы сказали, что разговоры - пустая трата времени. Теперь вы являетесь собственностью {RADAGOS.NAME}."/>
+    <string id="ft6zzDrJ" text="Я смогу жить с этим. Пошли."/>
     <string id="FyzsAZx8" text="{RADAGOS.LINK} сказал, что знает, где твои братья и сестры. Он предложил атаковать вместе. Он будет ждать вас в убежище, о котором упоминал, рядом {SETTLEMENT_LINK}. Вы можете увидеть укрытие, отмеченное на карте."/>
-    <string id="G9iXmhGK" text="Look, we can still talk. I'll give you a pouch of silver."/>
-    <string id="Ga8mDgab" text="You've been defeated at {HIDEOUT_BOSS.LINK}'s hideout. You can attack again when you are ready."/>
-    <string id="GicEcLx2" text="See you there then. But, remember, if this is a trap or something, that will cost you your life."/>
-    <string id="heoCaRIr" text="Nah... There's no more talking. Kill me or I kill you, that's how this ends.[ib:confident]"/>
+    <string id="G9iXmhGK" text="Слушай, мы еще можем поговорить. Я дам тебе мешочек с серебром."/>
+    <string id="Ga8mDgab" text="Вы потерпели поражение в убежище  {HIDEOUT_BOSS.LINK}. Вы можете атаковать снова, когда будете готовы."/>
+    <string id="GicEcLx2" text="Тогда увидимся там. Но помните, если это ловушка или что-то в этом роде, это будет стоить тебе жизни."/>
+    <string id="heoCaRIr" text="Нет ... Больше никаких разговоров. Убей меня или я убью тебя, вот как это закончится.[ib:confident]"/>
     <string id="HPNuqbSf" text="Спасите свою семью"/>
-    <string id="HrdVRMgR" text="Perhaps by saving my brother and sister you earned your life back. Very well, go now."/>
-    <string id="hrhvEWP8" text="{PLAYER_MOTHER.NAME} was the mother of {PLAYER.LINK}. She was slain when raiders attacked the inn at which her family was staying."/>
-    <string id="HT9hW29s" text="Splendid! But I have a few things to do. There is a hideout near this city. {HIDEOUT_BOSS.LINK} keep your siblings there. I will join you right where the path leads up, just out of sight of their scouts.[if:idle_normal][ib:normal]"/>
-    <string id="IC9Vg5MA" text="Meet me there later, when you're ready to tell me everything.[if:idle_normal][ib:normal]"/>
+    <string id="HrdVRMgR" text="Возможно, спасая моих брата и сестру, ты вернул себе жизнь. Хорошо, ступай."/>
+    <string id="hrhvEWP8" text="{PLAYER_MOTHER.NAME} была матерью {PLAYER.LINK}. Она была убита, когда мародеры напали на гостиницу, в которой остановилась ее семья."/>
+    <string id="HT9hW29s" text="Великолепно! Но у меня есть несколько дел. Рядом с этим городом есть убежище - {HIDEOUT_BOSS.LINK}. Там держат твоих брата и сестру. Я присоединюсь к вам прямо там, где ведет тропа, вне поля зрения их разведчиков.[if:idle_normal][ib:normal]"/>
+    <string id="IC9Vg5MA" text="Встретимся там позже, когда ты будешь готов мне все рассказать.[if:idle_normal][ib:normal]"/>
     <string id="k7ebznzr" text="Да?"/>
-    <string id="kbyqtszZ" text="I'm listening.."/>
-    <string id="kz5PJbV1" text="I shall. For your many crimes, {RADAGOS.NAME}, your life is forfeit."/>
-    <string id="kzgbBrYo" text="As you leave the hideout, {RADAGOS.LINK} comes to you and asks to talk."/>
-    <string id="LrItHItu" text="Okay brother, be careful. Take care."/>
-    <string id="mmQRCHUM" text="But in return, I will have the pleasure of killing that bastard. So what do you say?[if:idle_pleased][ib:confident]"/>
-    <string id="mWMkslbn" text="He led us here. Where are my brothers and my sister?"/>
-    <string id="p3Kia1OO" text="I'll take {LITTLE_SISTER.LINK} and {LITTLE_BROTHER.LINK} to {SETTLEMENT_LINK} immediately. They will be safe there."/>
-    <string id="pCNSEPEP" text="You escaped? Where's my brother? What happened?"/>
-    <string id="PiKISvfu" text="{PLAYER.NAME}! I knew you'd come. Great Heaven. Damn, {?PLAYER.GENDER}sister{?}brother{\?}, nothing can stop you! I love you, {?PLAYER.GENDER}sister{?}brother{\?}.[if:happy][ib:demure]"/>
-    <string id="PlpNTQqf" text="I know where {HIDEOUT_BOSS.LINK} is now. If you agree, we can attack together and save your kin."/>
-    <string id="QbsDYITB" text="That you did, that you did. Lead on, then.[ib:closed][rb:negative]"/>
-    <string id="rDuegB1L" text="You've finally arrived! I have a few things to say to before we attack.[if:idle_pleased][ib:confident]"/>
-    <string id="RefpTQpr" text="Maybe. Goodbye, {RADAGOS.NAME}..."/>
-    <string id="UpUqL368" text="What scum, eh? Even in this profession, double-crossing your comrades is frowned upon."/>
-    <string id="uYjEknNX" text="{VICTIM}'s execution by {EXECUTER}"/>
-    <string id="VbJvL8yB" text="Oh you can't trust me. But you need me, and I figure you have enough men that you could easily slit my throat pretty quickly if I lead you into a trap. And I don't need to trust you - you're my vehicle of revenge, not my partner."/>
-    <string id="W7hi7jS4" text="Eh, well, I dared to hope, I suppose. All right then, I'm not going to grovel to you, so get it over with."/>
-    <string id="X1TJNkBV" text="We found your little brother and sister. But my former partner {HIDEOUT_BOSS.LINK} betrayed me. We came into his camp to negotiate the kids' release, and he seized us right then and there."/>
-    <string id="xachJ1hb" text="Yes, we are all fine. {LITTLE_SISTER.LINK} and {LITTLE_BROTHER.LINK} are scared but fine... We need to be quick and get the hell out of this place.[if:idle_insulted][ib:closed]"/>
-    <string id="xknCpvcb" text="Calm down, now. I'll tell you everything."/>
-    <string id="XmvaRfLM" text="{PLAYER_FATHER.NAME} was the father of {PLAYER.LINK}. He was slain when raiders attacked the inn at which his family was staying."/>
+    <string id="kbyqtszZ" text="Я слушаю.."/>
+    <string id="kz5PJbV1" text="Я должен. За твои многочисленные преступления, {RADAGOS.NAME}, твоя жизнь потеряна."/>
+    <string id="kzgbBrYo" text="Когда вы выходите из убежища, {RADAGOS.LINK} подходит к вам и просит поговорить."/>
+    <string id="LrItHItu" text="Хорошо, брат, будь осторожен. Береги себя."/>
+    <string id="mmQRCHUM" text="Но взамен я буду иметь удовольствие убить этого ублюдка. Так что вы скажете?[if:idle_pleased][ib:confident]"/>
+    <string id="mWMkslbn" text="Он привел нас сюда. Где мои брат и сестра?"/>
+    <string id="p3Kia1OO" text="Я немедленно отвезу {LITTLE_SISTER.LINK} и {LITTLE_BROTHER.LINK} в {SETTLEMENT_LINK}. Там они будут в безопасности."/>
+    <string id="pCNSEPEP" text="Вы сбежали? Где мой брат? Что случилось?"/>
+    <string id="PiKISvfu" text="{PLAYER.NAME}! Я знал, что ты придешь. Хвала небесам. Блин {?PLAYER.GENDER}сестра{?}брат{\?}, ничто не может остановить тебя! Я люблю тебя,, {?PLAYER.GENDER}сестра{?}брат{\?}.[if:happy][ib:demure]"/>
+    <string id="PlpNTQqf" text="Я знаю, где сейчас {HIDEOUT_BOSS.LINK}. Мы можем атаковать вместе и спасти вашу семью, если вы согласны"/>
+    <string id="QbsDYITB" text="Ты действительно это сделал. Веди, тогда.[ib:closed][rb:negative]"/>
+    <string id="rDuegB1L" text="Наконец-то вы прибыли! Мне нужно кое-что сказать перед атакой.[if:idle_pleased][ib:confident]"/>
+    <string id="RefpTQpr" text="Может быть. Прощай, {RADAGOS.NAME}..."/>
+    <string id="UpUqL368" text="Какая мразь, а? Даже в этой профессии не одобряют обман своих товарищей"/>
+    <string id="uYjEknNX" text="Казнь {VICTIM} исполнителем {EXECUTER}"/>
+    <string id="VbJvL8yB" text="О, ты можешь мне не доверять. Но я тебе нужен, и я полагаю, у тебя достаточно людей, чтобы ты мог легко перерезать мне глотку довольно быстро, если я заведу тебя в ловушку. И мне не нужно доверять тебе - ты мой инструмент мести, а не мой партнер."/>
+    <string id="W7hi7jS4" text="Эх, ну, наверное, я осмелился надеяться. Хорошо, я не собираюсь пресмыкаться перед тобой, так что покончим с этим."/>
+    <string id="X1TJNkBV" text="Я нашел твоего младшего брата и сестру. Но мой бывший партнер {HIDEOUT_BOSS.LINK} предал меня. Мы пришли в его лагерь, чтобы договориться об освобождении детей, и он тут же схватил нас."/>
+    <string id="xachJ1hb" text="Да у нас все хорошо. {LITTLE_SISTER.LINK} и {LITTLE_BROTHER.LINK} напуганы, но в порядке ... Нам нужно действовать быстро и убираться к черту отсюда.[if:idle_insulted][ib:closed]"/>
+    <string id="xknCpvcb" text="А теперь успокойся. Я расскажу тебе все."/>
+    <string id="XmvaRfLM" text="{PLAYER_FATHER.NAME} был отцом {PLAYER.LINK}. Он был убит, когда рейдеры напали на гостиницу, в которой остановилась его семья."/>
     <string id="ypDmy5Rn" text="Как мы можем доверять друг другу?"/>
-    <string id="ZpcV9MZE" text="You saved your brother and sister, and you decided to execute {RADAGOS.LINK} because he caused the death of your parents."/>
+    <string id="ZpcV9MZE" text="Вы спасли своих брата и сестру и решили казнить {RADAGOS.LINK}, потому что он стал причиной смерти ваших родителей."/>
   </strings>
 </base>
