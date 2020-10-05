@@ -665,7 +665,7 @@
     <string id="hfSW9FTN" text="Дальнобойное Оружие V"/>
     <string id="HGBuP0wy" text="После этого пленных получит {CONFORMITY_AMOUNT} согласованности, еще один пленных будет доступен для вербовки. Пленыые получают {CONFORMITY_PER_HOUR} согласности за час."/>
     <string id="HiSzYWeh" text="Пиво"/>
-    <string id="hJypvWMR" text="Улучшать"/>
+    <string id="hJypvWMR" text="Обработка"/>
     <string id="HkfY3Ds5" text="Броня"/>
     <string id="HkZ4E94O" text="Кузаитская конфедерация степных племен вела кочевой образ жизни, но недавно поселилась на восточной границе Империи и постепенно переходит в аграрное общество с постоянными городскими центрами. Несмотря на это, они все еще сохраняют многие аспекты своей кочевой жизни, в том числе свою близость с лошадьми. Они мастера стрельбы из лука, стреляют, а затем скачут за пределы досягаемости."/>
     <!--Здесь был Cas. Финальная версия!-->
@@ -1588,19 +1588,19 @@
     <string id="FdTd3yIx" text="Внесенные вами изменения не могут быть применены. Вы хотите сбросить изменения?"/>
     <string id="o5ho2Txg" text="Сплоченность армии"/>
     <string id="Txbga7jx" text="Защитники делают вылазку в осадный лагерь"/>
-    <string id="DaX6bsaD" text="{CLAN_PARTY_NAME} is attacked by {ENEMY_PARTY_NAME} near {SETTLEMENT_NAME}"/>
-    <string id="0amC7X1h" text="War Declaration"/>
-    <string id="5pGjYBFn" text="Tribute Received"/>
-    <string id="8mBT44QK" text="Noble of {FACTION}"/>
-    <string id="a6zaA9Um" text="+{BONUS_AMOUNT} increase to settlement militia."/>
+    <string id="DaX6bsaD" text="{CLAN_PARTY_NAME} атакован {ENEMY_PARTY_NAME} возле {SETTLEMENT_NAME}"/>
+    <string id="0amC7X1h" text="Объявление войны"/>
+    <string id="5pGjYBFn" text="Дань получена"/>
+    <string id="8mBT44QK" text="Благородный из  {FACTION}"/>
+    <string id="a6zaA9Um" text="+{BONUS_AMOUNT} прирост ополчения в поселении."/>
     <string id="aseraifaction" text="Асераи"/>
     <string id="aseraimembers" text="Асераи"/>
-    <string id="aZrbxdat" text="Hold [{KEY_NAME}] to do all"/>
+    <string id="aZrbxdat" text="Удерживайте [{KEY_NAME}] чтобы сделать все"/>
     <string id="captainasleader" text="Капитан"/>
     <string id="d5RAufbd" text="Роль"/>
-    <string id="dd7Owiys" text="Make Peace with {FACTION}"/>
+    <string id="dd7Owiys" text="Заключить мир с {FACTION}"/>
     <string id="empiremembers" text="Империя"/>
-    <string id="ErnykQEH" text="Outputs"/>
+    <string id="ErnykQEH" text="На выходе"/>
     <string id="exhusbandbrotherinlaw" text="Former brother-in-law"/>
     <string id="exhusbandfatherinlaw" text="Former father-in-law"/>
     <string id="exhusbandmotherinlaw" text="Former mother-in-law"/>
@@ -1609,51 +1609,51 @@
     <string id="exwifefatherinlaw" text="Former father-in-law"/>
     <string id="exwifemotherinlaw" text="Former mother-in-law"/>
     <string id="exwifesisterinlaw" text="Former sister-in-law"/>
-    <string id="forgeverb" text="Forge"/>
-    <string id="fQ2RLaOa" text="Clan Does Not Own Any Fiefs"/>
-    <string id="G5yvspkZ" text="Can't retreat, duel is ongoing!"/>
-    <string id="gamefinance" text="Finance"/>
+    <string id="forgeverb" text="Ковка"/>
+    <string id="fQ2RLaOa" text="Клан не владеет вотчиной"/>
+    <string id="G5yvspkZ" text="Отступление не возможно, дуэль продолжается!"/>
+    <string id="gamefinance" text="Финансы"/>
     <string id="giftverb" text="Подарок"/>
     <string id="GmcgoiGy" text="Торговля"/>
     <string id="guardnoun" text="Охрана"/>
-    <string id="homesettlement" text="Home"/>
-    <string id="hometab" text="Home"/>
+    <string id="homesettlement" text="Дом"/>
+    <string id="hometab" text="Главная"/>
     <string id="husbandbrotherinlaw" text="brother-in-law"/>
     <string id="husbandfatherinlaw" text="father-in-law"/>
     <string id="husbandmotherinlaw" text="mother-in-law"/>
     <string id="husbandsisterinlaw" text="sister-in-law"/>
-    <string id="ioKwRFcj" text="Consider making peace (Support: {SUPPORT}%)"/>
-    <string id="izKWEAbY" text="Clan Does Not Have Any Additional Incomes"/>
+    <string id="ioKwRFcj" text="Рассмотрите возможность заключения мира (Поддержка: {SUPPORT}%)"/>
+    <string id="izKWEAbY" text="Клан не имеет дополнительных доходов"/>
     <string id="JAFIo7cM" text=":"/>
     <string id="JKH59XNp" text="Медицина"/>
-    <string id="ki5DqTtC" text="+{BONUS_AMOUNT} increase to settlement prosperity."/>
+    <string id="ki5DqTtC" text="+{BONUS_AMOUNT} увеличение благосостояния поселения."/>
     <string id="LJ6Krlbr" text="Разведка"/>
     <string id="lockverb" text="Замок"/>
-    <string id="mountnoun" text="Mount"/>
-    <string id="NaAA5kjG" text="Consider making peace, receiving {TRIBUTE} tribute/day. (Support: {SUPPORT}%)"/>
+    <string id="mountnoun" text="Маунт"/>
+    <string id="NaAA5kjG" text="Попробуйте помириться, получая дань {TRIBUTE} в день. (Поддержка: {SUPPORT}%)"/>
     <string id="NbgeKwVr" text="Мастерские"/>
-    <string id="oTGDxKW7" text="Declare War Against {FACTION}"/>
+    <string id="oTGDxKW7" text="Объявить войну {FACTION}"/>
     <string id="PCZ23wvW" text="Инженерия"/>
-    <string id="policypropose" text="Propose"/>
-    <string id="PYaUEZzn" text="Consider declaring war (Support: {SUPPORT}%)"/>
-    <string id="rangedtroop" text="Ranged"/>
-    <string id="RdsbyNE2" text="Consider making peace, paying {TRIBUTE} tribute/day. (Support: {SUPPORT}%)"/>
-    <string id="rHSjMjWX" text="Resolve Decision"/>
-    <string id="siegeevent" text="Siege"/>
-    <string id="smeltverb" text="Smelt"/>
-    <string id="smithingverb" text="Smithing"/>
-    <string id="tnZ7BfO9" text="Peace Proposal"/>
-    <string id="vqHDX6hf" text="+{BONUS_AMOUNT} increase to settlement loyalty"/>
+    <string id="policypropose" text="Предложить"/>
+    <string id="PYaUEZzn" text="Рассмотрите возможность объявления войны (Поддержка: {SUPPORT}%)"/>
+    <string id="rangedtroop" text="Дальнебойный"/>
+    <string id="RdsbyNE2" text="Попробуйте помириться, отдавая дань {TRIBUTE} в день. (Поддержка: {SUPPORT}%)"/>
+    <string id="rHSjMjWX" text="Принять Решение"/>
+    <string id="siegeevent" text="Осада"/>
+    <string id="smeltverb" text="Плавка"/>
+    <string id="smithingverb" text="Кузнечное дело"/>
+    <string id="tnZ7BfO9" text="Предложение мира"/>
+    <string id="vqHDX6hf" text="+{BONUS_AMOUNT} повышение лояльности к поселению"/>
     <string id="wifebrotherinlaw" text="brother-in-law"/>
     <string id="wifefatherinlaw" text="father-in-law"/>
     <string id="wifemotherinlaw" text="mother-in-law"/>
     <string id="wifesisterinlaw" text="sister-in-law"/>
     <string id="XCz81XYm" text="Inputs"/>
-    <string id="XgioIHv6" text="Resolve existing decision"/>
-    <string id="4U6x48yQ" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}are{?}is{\?} leading battle."/>
-    <string id="KafFddmO" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}are{?}is{\?} protecting general."/>
+    <string id="XgioIHv6" text="Принять существующее решение"/>
+    <string id="4U6x48yQ" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} и {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}возглавляют{?}возглавляет{\?} битву."/>
+    <string id="KafFddmO" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} и {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}защищают{?}защищает{\?} генерала."/>
     <string id="settlementtrack" text="Track"/>
-    <string id="u3c9M8vx" text="an archoness"/>
-    <string id="FZBqNCvd" text="nobody"/>
+    <string id="u3c9M8vx" text="лукавство"/>
+    <string id="FZBqNCvd" text="никто"/>
   </strings>
 </base>

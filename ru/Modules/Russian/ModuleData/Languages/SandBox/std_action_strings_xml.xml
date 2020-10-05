@@ -59,7 +59,7 @@
     <string id="yUaE3eeX" text="{SETTLEMENT} - это поселение очищенно."/>
     <string id="ZQ0bn7l7" text="{HERO_1} несет ответственность за гибель {HERO_2}"/>
     <string id="3aYSoETE" text="{MOTHER.LINK} родила здорового ребенка."/>
-    <string id="hbWhfoWH" text="{SETTLEMENT} is raided by {PARTY} of {FACTION_NAME}"/>
-    <string id="nbVW2cJ8" text="{SETTLEMENT} is raided by army led by {LORD.LINK} of {FACTION_NAME}"/>
+    <string id="hbWhfoWH" text="На {SETTLEMENT} совершил налет {PARTY} из {FACTION_NAME}"/>
+    <string id="nbVW2cJ8" text="На {SETTLEMENT} совершила налет армия под руководством {LORD.LINK} из {FACTION_NAME}"/>
   </strings>
 </base>
