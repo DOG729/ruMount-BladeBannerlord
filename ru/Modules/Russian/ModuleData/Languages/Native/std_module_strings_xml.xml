@@ -556,7 +556,7 @@
     <string id="F5UPr9jh" text="Взять Все"/>
     <string id="f6gSyvnC" text="Стреляйте во врагов из лука. Выполняйте сложные выстрелы с большого расстояния."/>
     <string id="f6pjlKdz" text="Вчера"/>
-    <string id="f7t4saJu" text="Значение"/>
+    <string id="f7t4saJu" text="Цена"/>
     <string id="F8g1TzoX" text="Вы находитесь около {SETTLEMENT_NAME}. Вы видите знамя {LORD.LINK}, развевающегося над воротами замка."/>
     <string id="Fa16r8MN" text="Казнить Заключенного"/>
     <string id="Fa2nKXxI" text="Управляющий"/>
@@ -1167,7 +1167,7 @@
     <string id="rdbw9TVm" text="Щит II"/>
     <string id="rDnWQL87" text="Показать/Скрыть ножны"/>
     <string id="REdb7vbQ" text="{?RULER.GENDER}Султанша{?}Султан{\?} {RULER.NAME}"/>
-    <string id="redwEIlW" text="Сотрудник по снабжению"/>
+    <string id="redwEIlW" text="Снабженец"/>
     <string id="rFvEZJu7" text="{ITEM_NAME} был добавлен в инвентарь {PLAYER.LINK}"/>
     <string id="RGqPxabq" text="Репутация"/>
     <string id="RiXlbtfl" text="к"/>
@@ -1356,7 +1356,7 @@
     <string id="vn7A8aXV" text="Вы находитесь снаружи {SETTLEMENT_NAME}. Ваше знамя развевается над воротами замка."/>
     <string id="vnmy8Bjl" text="Общий Расход"/>
     <string id="vo867CHX" text="Выполненные Задания в прошлом году"/>
-    <string id="vOgACpuD" text="спутникы"/>
+    <string id="vOgACpuD" text="Спутники"/>
     <string id="VoZBLWay" text="{RULER.NAME} {?RULER.GENDER}Khatun{?}Khan{\?}"/>
     <string id="VpCa9ATa" text="Правильно. Ты же мертв.[if:idle_furious][ib:aggressive][rb:very_negative]"/>
     <string id="VpKIzJxz" text="Ну вот, путешественник. Мы только что высадились в этих землях, надеясь на удачу с набегами и грабежами, у тебя разве не зоркий глаз?"/>
@@ -1600,7 +1600,7 @@
     <string id="d5RAufbd" text="Роль"/>
     <string id="dd7Owiys" text="Заключить мир с {FACTION}"/>
     <string id="empiremembers" text="Империя"/>
-    <string id="ErnykQEH" text="На выходе"/>
+    <string id="ErnykQEH" text="Производит"/>
     <string id="exhusbandbrotherinlaw" text="Former brother-in-law"/>
     <string id="exhusbandfatherinlaw" text="Former father-in-law"/>
     <string id="exhusbandmotherinlaw" text="Former mother-in-law"/>
@@ -1648,7 +1648,7 @@
     <string id="wifefatherinlaw" text="father-in-law"/>
     <string id="wifemotherinlaw" text="mother-in-law"/>
     <string id="wifesisterinlaw" text="sister-in-law"/>
-    <string id="XCz81XYm" text="Inputs"/>
+    <string id="XCz81XYm" text="Потребляет"/>
     <string id="XgioIHv6" text="Принять существующее решение"/>
     <string id="4U6x48yQ" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} и {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}возглавляют{?}возглавляет{\?} битву."/>
     <string id="KafFddmO" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} и {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}защищают{?}защищает{\?} генерала."/>
