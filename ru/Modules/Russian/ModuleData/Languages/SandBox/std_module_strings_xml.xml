@@ -14,7 +14,6 @@
     <string id="cUHlzCRx" text="Разрешить смерть"/>
     <string id="D9GkBqyW" text="Вы можете покинуть тренировочное поле зажав [{LEAVE_KEY}]{newline}Вы можете вернуться в любое время с глобальной карты."/>
     <string id="DFMhzFGV" text="Несколько дополнительных лошадей в вашем инвентаре могут значительно ускорить ваш отряд, так как они увеличат вашу грузоподъемность, а пехота будет ехать на запасных лошадях. Вьючные лошади и мулы полезны только для перевозки грузов."/>
-    <string id="EGwqzjpa" text="Вы можете удерживать клавишу Tab, чтобы покинуть текущую локацию."/>
     <string id="F8TaKnjh" text="Когда вы находитесь в городе или деревне, удерживайте клавишу Alt чтобы отобразить метки важных людей и интересных мест."/>
     <string id="fbaQp3ox" text="Включить автоматическое распределение перков для членов вашего клана."/>
     <string id="hEYfasE1" text="Коэффициент получаемого урона персонажем."/>
@@ -52,5 +51,9 @@
     <string id="hR6Zo6pD" text="Богатый"/>
     <string id="NaMPa4ML" text="Авторитарный"/>
     <string id="veterandifficulty" text="Ветеран"/>
+    <string id="9l5RgXiU" text="Choose if circle map notifications will be shown on the right side on campaign map."/>
+    <string id="aEnXxe0a" text="You can hold the {LEAVE_AREA_KEY} key to leave the current area."/>
+    <string id="lfDzgLTa" text="{PROFESSION} in {LOCATION}"/>
+    <string id="yKJ9c8IV" text="Enable Right Side Circle Map Notifications"/>
   </strings>
 </base>

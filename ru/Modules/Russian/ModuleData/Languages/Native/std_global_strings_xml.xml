@@ -307,7 +307,6 @@
     <string id="Pkw17hO0" text="Боевая скорость"/>
     <string id="pnEeRPAk" text="Группа 7 слушай"/>
     <string id="pNocZkrx" text="Включить визуальные эффекты от урона"/>
-    <string id="PPFFxlsX" text="Выбор способа выполнения блоков."/>
     <string id="pQVSwtfn" text="Переместить камеру ближе к вашему персонажу в режиме вида от третьего лица."/>
     <string id="PRsSB9B8" text="Взаимодействие с оружием, дверями, людьми и т. д."/>
     <string id="ps103cxD" text="Совершить нападение с оружием."/>
@@ -530,5 +529,7 @@
     <string id="PmbKYDON" text="Cheer"/>
     <string id="s5EnYLUp" text="Cheer on click. Open Cheer wheel on hold."/>
     <string id="USKys6FV" text="Показать мышь"/>
+    <string id="ACIFg43o" text="Choose how to perform blocks. Auto will default to &quot;By Mouse Movement&quot; in Multiplayer."/>
+    <string id="altgamekey" text="Alt"/>
   </strings>
 </base>

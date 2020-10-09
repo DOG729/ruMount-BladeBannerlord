@@ -105,7 +105,6 @@
     <string id="iG72AMy8" text="Information text changed successfully."/>
     <string id="INecDsvJ" text="Only the leader of the clan can delete announcements."/>
     <string id="ismMkXud" text="You have to be the clan leader to invite someone to clan."/>
-    <string id="IZWRF6ze" text="Clan name is already in use."/>
     <string id="jbpKfRl8" text="You must be the clan leader to add an announcement."/>
     <string id="JgdLtL2O" text="Invited player is already in a clan."/>
     <string id="K0mSh8Hw" text="Your party does not have enough players to create a clan."/>
@@ -148,8 +147,9 @@
     <string id="yQyozBBX" text="Your party is not eligible to create a clan game."/>
     <string id="ywVYMhiF" text="You must be the clan leader to change clan information text."/>
     <string id="z40g0BmW" text="Could not update Bannerlord ID"/>
-    <string id="zBaXq4cg" text="Clan tag is already in use."/>
     <string id="ZtktMXDw" text="You ain't in a clan."/>
     <string id="T96cPmJT" text="Clan game no longer exists."/>
+    <string id="APQ0kNVj" text="Clan tag is invalid."/>
+    <string id="nlYK3i5a" text="Clan name is invalid."/>
   </strings>
 </base>

@@ -14,7 +14,6 @@
     <string id="0aU9dtvV" text="Время:"/>
     <string id="0AUZvSAq" text="{COMPANY_OF_TROUBLE_PERSUADE_ATTEMPT_1}"/>
     <string id="0aXG8dvJ" text="Голосование за заключение мира с {KINGDOM_NAME}"/>
-    <string id="0aYjbmOO" text="У вас нету каких-либо спутников с навыками {ONE_HANDED_SKILL}, {TWO_HANDED_SKILL} или {POLEARM_SKILL} выше {REQUIRED_SKILL_LEVEL} и навыком {TACTIC_SKILL} выше, чем {REQUIRED_SKILL_LEVEL}, чтобы начать это задание!"/>
     <string id="0B91pZ2R" text="Место постоянного сбора жителей, где все танцуют и социализируются, что повышает ежедневную мораль поселения."/>
     <string id="0bPb5btR" text="{LORD.NAME} член клана {CLAN_NAME}, {CLAN_DESCRIPTION} фракции {FACTION_NAME}, которая поддерживает {RULER} в гражданской войне. {?LORD.GENDER}Известна{?}Известен{\?} в своих кругах {REPUTATION}"/>
     <string id="0cMibkQO" text="Вы можете знать меня как человека чести."/>
@@ -77,7 +76,6 @@
     <string id="1hbos200" text="Вот некоторые документы из канцелярии."/>
     <string id="1Hd19nq5" text="Вы не командуете этой осады."/>
     <string id="1IJouNaM" text="Всего хорошего. Прощайте."/>
-    <string id="1jB1ErfN" text="Навыка {TACTICS_SKILL} не хватает у спутника для этого задания."/>
     <string id="1l5dKk1c" text="О, спасибо вам {PLAYER.NAME}. Наш народ всегда будет помнить вас. Прощайте."/>
     <string id="1LzohiMf" text="Я принес {AMOUNT_TO_DELIVER} единицы {REQUESTED_GOOD} как мы и договаривались."/>
     <string id="1n704NXl" text="Позволяет размещать ваши войска до начала сражения."/>
@@ -86,7 +84,6 @@
     <string id="1r0tDsrR" text="Атакуйте!"/>
     <string id="1rbg3Hz2" text="{HOSTILE_FACTION} и {SETTLEMENT_FACTION} больше не враждуют."/>
     <string id="1REltXXz" text="Я помогу, если смогу."/>
-    <string id="1rKPr3bJ" text="У вас нет доступных спутников, чтобы начать это задание!"/>
     <string id="1s54uxsA" text="К сожалению. У меня нет никаких животных на этот раз."/>
     <string id="1V6DRayw" text="У вас нет {BRIBE_COST} динар."/>
     <string id="1V9GeKr8" text="Мхм...мне не нужно больше людей. Спасибо."/>
@@ -317,7 +314,6 @@
     <string id="723ig40Q" text="Держать"/>
     <string id="72tbUfrz" text="Чистейшие улицы"/>
     <string id="76lo5qsy" text="Урон, наносимый колющими ударами, созданным вами оружием вырастает на 2%."/>
-    <string id="76nH9Kwe" text="У вас недостаточно кавалерии."/>
     <string id="76TgEba5" text="позволяет правителю собирать дополнительные налоги в военное время"/>
     <string id="79h7xNeL" text="Я поручу одному из моих кампаньонов позаботиться об этом."/>
     <string id="7aaAWc01" text="Отряд охраны"/>
@@ -552,7 +548,6 @@
     <string id="aY2SKxqG" text="Совершите набег на их деревни!"/>
     <string id="aYQybo4E" text="Планы подстраховки"/>
     <string id="Az0yhQID" text="Распределение земли среди ветеранов было ключевой основой Римских популистов, таких как Мария и Цезарь. Присутствие ветеранов в фермерских общинах помогает в организации ополчения."/>
-    <string id="AZgXb4Fi" text="У вас нет спутников с навыком {SCOUT_SKILL} выше {NEEDED_SCOUT_SKILL} и {LEADERSHIP_SKILL} выше {NEEDED_LEADERSHIP_SKILL} для отправки."/>
     <string id="azHy8uwl" text="Я издам указ о снятии ограничений на продажу."/>
     <string id="AzKq8AfI" text="В теории, король или империя имеет право командовать людьми на поле битвы. Любой, кто командует армией, делает это во имя короля."/>
     <string id="aZne44IB" text="Семья {CLAN_NAME}"/>
@@ -786,7 +781,6 @@
     <string id="d5ztuP3P" text="Это слишком много."/>
     <string id="D6YLpUQa" text="кантоны"/>
     <string id="d8qjwKza" text="Держать строй"/>
-    <string id="D8qZbOZ7" text="Вы должны отправить как минимум {NUMBER} солдат для этого задания."/>
     <string id="dA8RGoQ1" text="Вы прибыли в  {SETTLEMENT_LINK}. {KEEP_INFO}"/>
     <string id="DaLGnDdq" text="{NAME} из дерева"/>
     <string id="dbG3PGXL" text="Я рад, что вы так думаете? Кроме боя, вы узнали что-нибудь особенное?"/>
@@ -870,7 +864,6 @@
     <string id="DxGecvb6" text="Что случилось с остальными? Ну, в любом случае это лучше, чем ничего, я полагаю."/>
     <string id="dY2PzpIV" text="Я не уверен, сколько у нас общего .."/>
     <string id="dYa9oVSP" text="Судьба жестока. Итак, я ваш пленник. Но вам не нужно делать для {QUEST_GIVER.NAME} грязную работу. Ради вашей чести, {?PLAYER.GENDER} миледи {?}, сэр {\?}, послушайте меня!"/>
-    <string id="DzhaleC7" text="У этого компаньона недостаточный уровень навыка {TWO_HANDED_SKILL} для этого задания."/>
     <string id="dZJCsR7A" text="{FIRST_NAME} {?FEMALE}служанка{?}слуга{\?}"/>
     <string id="e1sSXEOh" text="Это отличная новость. Если бы вы могли привезти товар, вы бы нам очень помогли, а торговцам придется снижать цены. Спасибо."/>
     <string id="E31IJyqs" text="Набирать войска"/>
@@ -978,11 +971,9 @@
     <string id="FAjplXj4" text="Мечи как награда"/>
     <string id="faUooB7V" text="{KINGDOM} не будет {POLICY_DESCRIPTION} ({POLICY}). {POLICY_SUPPORT}"/>
     <string id="fAxjyMt5" text="Ночь"/>
-    <string id="Fbak9pXa" text="Вам нужно назначить хотя бы {TROOP_COUNT} человек для начала этой миссии!"/>
     <string id="FbLOFO88" text="Выбрать войска для миссии"/>
     <string id="FbowXAC0" text="Там нет доступных продуктов прямо сейчас."/>
     <string id="FBR7ANBI" text="Скорость возведения построек увеличивается на Х1.5"/>
-    <string id="Fbzk3pza" text="Компаньон должен быть здоров и обладать навыком тактики выше {TACTICS_THRESHOLD} и одним из навыков ближнего боя выше {MELEE_THRESHOLD}"/>
     <string id="fCcZR7oE" text="На 15% ниже содержание для солдат 4-5-6 уровня ."/>
     <string id="fcRLq8LL" text="{QUEST_GIVER.LINK} землевладелец в {QUEST_SETTLEMENT}, просит вас обучить несколько рекрутов для {?QUEST_GIVER.GENDER}нее{?}него{\?}. {?QUEST_GIVER.GENDER}Она{?}Он{\?} дает вам  {NUMBER_OF_MEN} людей. Надеюсь получить их обратно, когда у них появится некоторый опыт.{newline}Нападать на слабые отряды - самый простой способ обучить их, не подвергая опасности."/>
     <string id="fCSe3acE" text="Кровавый {FIRST_NAME}"/>
@@ -996,7 +987,6 @@
     <string id="FfubN1NY" text="Вы решили издать указ, разрешающий ремесленникам вести торговлю."/>
     <string id="FFx4hSEU" text="{NEWS} {NEWS2}"/>
     <string id="fGFMqlGz" text="Пол"/>
-    <string id="fGHUglLc" text="Уровень мастерства ближнего боя у этого компаньона недостаточно высок для этого квеста."/>
     <string id="fghweLqW" text="Навыки лидерства"/>
     <string id="FHeJ8bsX" text="Посмотрим."/>
     <string id="FhprJ7WR" text="{INITIAL_COURTSHIP_REACTION_TO_PLAYER}"/>
@@ -1031,7 +1021,6 @@
     <string id="fSGY71wd" text="Груз"/>
     <string id="ft08QZrA" text="Право владения землей"/>
     <string id="FTjKWm8s" text="{KING.NAME} должен править нами"/>
-    <string id="FUosyQUq" text="Вы должны отправить одного из ваших компаньонов с {TRADE_SKILL} навыком выше чем {SKILL_LEVEL_1} и {ROGUERY_SKILL} выше чем {SKILL_LEVEL_2} на эту миссию!"/>
     <string id="FV4SWLQx" text="Торговля"/>
     <string id="FViaQrbV" text="{QUEST_GIVER.LINK} {?QUEST_GIVER.GENDER}леди{?}лорд{\?} {QUEST_SETTLEMENT} рассказал вам, что {?QUEST_GIVER.GENDER}ей{?}ему{\?} нужно больше солдат в  {?QUEST_GIVER.GENDER}ее{?}его{\?} гарнизоне. {?QUEST_GIVER.GENDER}Она{?}Он{\?} просит вас развернуть  {NUMBER_OF_TROOP_TO_BE_RECRUITED} {TROOP_TYPE} солдат в гарнизоне {QUEST_SETTLEMENT}."/>
     <string id="fW0XS9JC" text="{ELEMENT_NUMBER} {ELEMENT_CHAR_NAME}"/>
@@ -1109,7 +1098,7 @@
     <string id="GQWizHbx" text="Ваши войска наносят на 5% больше урона в автоматических боях."/>
     <string id="gRHab9Bx" text="Возможность избежать смерти один раз, когда вы смертельно больны."/>
     <string id="gS1noLvf" text="Я не знаю, считать ли это очаровательным или дерзким..."/>
-    <string id="GsIz1Ibk" text="У вас нет ни одного спутника с {REQUIRED_SKILL_ONE}, {REQUIRED_SKILL_TWO} или {REQUIRED_SKILL_THREE} навыком выше чем {REQUIRED_SKILL_LEVEL} для выполнения этого задания!"/>
+    <string id="GsIz1Ibk" text="У тебя нет спутников с ({TRADE_SKILL}) навыком выше , чем {REQUIRED_SKILL_LEVEL}. кто мог бы взять на себя этот квест"/>
     <string id="gSsQLGdS" text="{FIRST_NAME} Роза"/>
     <string id="gsVtO9A7" text="Ополчение"/>
     <string id="Gtbfm10o" text="У вас есть достаточно зерна для завершения задания. Вернитесь в {QUEST_SETTLEMENT} чтобы отдать его."/>
@@ -1388,7 +1377,6 @@
     <string id="KBxajw4c" text="Войти в подземелие (чит)"/>
     <string id="kc3RfwFb" text="Я постараюсь быть для вас полезным {?PLAYER.GENDER}миледи{?}сир{\?}."/>
     <string id="KCBeYCvU" text="Официальный рейтинг аристократов может повысить авторитет тех, кто находится сверху."/>
-    <string id="KCLtaaD4" text="Этот спутник ранен."/>
     <string id="KCYmB5fH" text="{FIRST_NAME} Плуг"/>
     <string id="kD8yLgRv" text="Ступай, но я не спущу с тебя глаз."/>
     <string id="KdhnBhZ1" text="Да, мы рассматриваем предложения, с такими вещами нельзя торопиться."/>
@@ -1538,7 +1526,6 @@
     <string id="mb25Ue3f" text="Прав Выпаса "/>
     <string id="McHsHbH8" text="Посетить кузню"/>
     <string id="McnFeBu0" text="{FIRST_NAME} the {?NORTHERN}Продавец Меха{?}Продавец Травки{\?}"/>
-    <string id="mdbylyka" text="Вам не хватает бойцов."/>
     <string id="mdNRYlfS" text="Забудьте."/>
     <string id="ME5hmllb" text="Ваши отношения со знатью в некоторых ваших поселениях увеличились из-за высокой безопасности"/>
     <string id="mEsaiLOR" text="Ну что ж, очень хорошо. Если у вас появятся еще пленники, вы знаете, где меня найти."/>
@@ -1571,7 +1558,6 @@
     <string id="MMv0U5Yr" text="Знаменосец"/>
     <string id="Mn4bI9Jg" text="Что вы делаете? Вы еще один прихвостень {QUEST_GIVER.NAME}? Думаете, можете охотиться на меня как на животное?[ib:closed][rf:angry]"/>
     <string id="mNWwGT9C" text="{FIRST_NAME} Костяной"/>
-    <string id="MOFjpmVj" text="Вам не хватает здоровых бойцов."/>
     <string id="MqCH7R4A" text="Безопасность"/>
     <string id="mr7SgjAq" text="Да... {QUEST_GIVER.LINK} послал нам весточку. Мы ожидаем {RAW_MATERIALS} от {?QUEST_GIVER.GENDER}нее{?}него{\?}."/>
     <string id="MRbM3lSs" text="Рекруты у знати пополняются на 20% быстрее."/>
@@ -1647,9 +1633,7 @@
     <string id="nmnp9S7k" text="Дворяне имеют право назначать судебные приставы."/>
     <string id="NMNuVESp" text="{FIRST_NAME} из гранта"/>
     <string id="NMOTyLWQ" text="Ваши мастерские, услышав торговые сплетни, выставляют среднюю цену на товар"/>
-    <string id="NMWiEOA0" text="Ваш спутник ранен."/>
     <string id="NNalp5mr" text="+1 спутник."/>
-    <string id="NNtwTgbP" text="У вас должен быть хотя бы один здорового спутник с тактическим навыком выше {TACTICS_THRESHOLD} и с одним из навыком ближнего боя выше {MELEE_THRESHOLD}"/>
     <string id="nnutwjOZ" text="Нам нужно поговорить о том, как мы разделим нашу собственность."/>
     <string id="No04urXt" text="{CLAN} ранг клана увеличен до {TIER_LEVEL}"/>
     <string id="nP7KOISK" text="Местные землевладельцы имеют право взимать плату за торговлю."/>
@@ -1697,7 +1681,6 @@
     <string id="o9ouu97M" text="Я постараюсь быть достойным ваших чувств"/>
     <string id="oAaKaXEy" text="Мне очень нравится эта еда. Я бы {?PLAYER.GENDER}хотела{?}хотел{?}, чтобы это попробовали мои воины."/>
     <string id="oAb4NqO5" text="Человек"/>
-    <string id="obHhAi60" text="У вас нет спутников с навыками верховой езды более чем {REQUIRED_SKILL_LEVEL} необходимой для задания!"/>
     <string id="Obk7j3ai" text="Вот, пожалуйста. Давайте сейчас пройдем."/>
     <string id="obVZqyjo" text="Торговец {NAME}"/>
     <string id="ObwbbEqE" text="Осадный медик"/>
@@ -1746,7 +1729,6 @@
     <string id="OWwPj500" text="5% от село дохода или инной клан правителя как налог\Н5% меньше деревню дохода для кланов"/>
     <string id="oXY2wnic" text="борьба внутри Господь зале "/>
     <string id="oYJCP3mt" text="Вы не смогли остановить дезертиров. Дезертиров опустошают деревни и оставили."/>
-    <string id="OymbuJCo" text="Уровень умения {POLEARM_SKILL} этого товарища недостаточен для этого квеста."/>
     <string id="oYUAuLO7" text="Вы поклялись не нападать."/>
     <string id="ozaLKrbh" text="Сбор Сержантов"/>
     <string id="OzyrsZZK" text="Вы пробились сквозь нападающих, чтобы сбежать из поселения. Когда через некоторое время ваши силы перегруппировываются, вы быстро подсчитываете и видите, что потеряли следующее: {CASUALTIES}.{OTHER_CASUALTIES}"/>
@@ -1776,7 +1758,6 @@
     <string id="PBq1FyrJ" text="{CLAN_NAME} клан был уничтожен."/>
     <string id="pbqjBGk0" text="Я буду честным. У меня есть планы, и я ожидаю, что человек я женюсь, чтобы иметь доход, чтобы поддержать их."/>
     <string id="pbRwAjUN" text="Они, кажется, не имеют никакого ценного груза."/>
-    <string id="pBTMhrmz" text="Вам нужно отправить одного из своих спутников с {TRADE_SKILL} выше, чем {SKILL_LEVEL}, для этого квеста!"/>
     <string id="pCbyKW9R" text="{NAME} Канибал"/>
     <string id="Pcgqs9aX" text="Вот быстренько вниз их подготовки..."/>
     <string id="pDa7kOja" text="Я знаю, что война-это жестоко, но я не хочу, чтобы сделать его более жестоко, чем необходимо. Я бы предпочел не иметь кровь невинных на моей совести, если вы не возражаете. Давайте не совершайте налеты на поселения так."/>
@@ -1804,7 +1785,6 @@
     <!--Здесь был Cas. Фикс недочётов!-->
     <string id="Piq3oYmG" text="Нет, не нужно, спасибо."/>
     <string id="PIukmFYA" text="Вы решили не ввязываться во все это и уехали из деревни. Вы не смогли помочь {QUEST_GIVER.LINK}, как обещали."/>
-    <string id="pj3frf8g" text="Уровень навыка {LEADERSHIP_SKILL} этого компаньона недостаточен для этого квеста."/>
     <string id="pJBz7hhl" text="Собери своих людей, у нас есть другая работа!"/>
     <string id="PjtkgIuR" text="Меньше потери боевого духа во время осад."/>
     <string id="pKquYFTX" text="Сталевар I"/>
@@ -1855,7 +1835,6 @@
     <string id="q3wD0rbq" text="{SETTLEMENT_LINK} принадлежит {LORD.LINK}, {FACTION_OFFICIAL} из {FACTION_TERM}. {KEEP_INFO}"/>
     <string id="q4wWEbsa" text="Вы решили не доставлять предметы после розговора с {COUNTER_OFFER_HERO.LINK}."/>
     <string id="q5q13YYt" text="Пару слухов о рынках, караванах и тому подобных."/>
-    <string id="Q8pdbhEn" text="У вашего спутника не хватает навыка {ROGUERY_SKILL} для выполнения задания."/>
     <string id="Q8VN9UCq" text="Выберите пленников для продажи"/>
     <string id="QaiVxc3f" text="{NAME} Медленный"/>
     <string id="qaKh6vRl" text="Давайте посмотрим как вы держите ваше слово. Если справитесь с этим, то, признаюсь, буду очень впечатлен. Жду еще встерчи с вами. Да очистят небеса путь к вашим целям."/>
@@ -2027,7 +2006,6 @@
     <string id="RwOzeGc3" text="Освободить {PRISONER.NAME}"/>
     <string id="rx2bN30s" text="Щиты получают на 15% меньше урона."/>
     <string id="RXo3edjn" text="Хорошее жилье"/>
-    <string id="rxr2uola" text="У вас нету спутника с навыком {LEADERSHIP_SKILL} и навыком {SCOUTING_SKILL} выше чем {REQUIRED_SKILL_LEVEL}, чтобы начать задание!"/>
     <string id="rxSz5dY1" text="{SEND_TROOPS_TEXT}"/>
     <string id="RxuM5RzJ" text="Чит: Налететь на ближайшую Деревню"/>
     <string id="Ry2GmpAD" text="Вы должны быть более доблестным"/>
@@ -2046,7 +2024,6 @@
     <string id="sA5vwZ1O" text="{FIRST_NAME} Золотого Кубка"/>
     <string id="sAobCa9U" text="Отряды {BRIGAND_TYPE} беспокоят путешественников вне городов. Кому-нибудь нужно выследить их."/>
     <string id="SausWqM5" text="{?CHARACTER.GENDER}Она пропал{?}Он пропал{\?}  где-то в году {YEAR} в возрасте {CHARACTER.AGE}. {?CHARACTER.GENDER}Она известна{?}Он известен{\?} своей репутацией {REPUTATION}"/>
-    <string id="Sb25Ac2S" text="Вам не хватает войска 2го уровня."/>
     <string id="sBahcJcl" text="Незанятый."/>
     <string id="SbbAhpTu" text="Ему на самом деле еще предстоит показать себя."/>
     <string id="sbczu2VI" text="Продолжайте играть, добрый человек."/>
@@ -2134,7 +2111,6 @@
     <string id="tbSMt926" text="Я принимаю твой вызов!"/>
     <string id="tBx7XXps" text="Типы"/>
     <string id="Tcux6Sru" text="Вам не удалось вовремя победить все стороны {TOTAL_COUNT} {BRIGAND_TYPE} как просил {QUEST_GIVER.LINK}. {?QUEST_GIVER.GENDER}Она{?}Он{\?} очень {?QUEST_GIVER.GENDER}разочарована{?}разочарован{\?}."/>
-    <string id="TdEtKohk" text="Ступень 2 или выше войска, необходимые для этого вопроса!"/>
     <string id="tdvnKIyS" text="Никогда не ум"/>
     <string id="TdwKwExD" text="Спасибо. Вы можете найти караван только за пределами населенного пункта."/>
     <string id="TEUVTPIa" text="Ну, мы тут отдыхаем в городе, поэтому наша информация является, наверное, совсем устарела."/>
@@ -2314,7 +2290,6 @@
     <string id="VnECJbmq" text="Этого не достаточно."/>
     <string id="VNFKqpyV" text="Да, я думал об этом."/>
     <string id="vnG1q18y" text="Носитель щитов"/>
-    <string id="VnglMYzZ" text="Уровень умения этого компаньона {SCOUT_SKILL} недостаточен для этого квеста."/>
     <string id="VNXgZ8mt" text="В качестве альтернативы, вы можете назначить компаньона, и {TROOP_COUNT} войнов к этой задаче. Чтобы они сделали работу за вас."/>
     <string id="vo3MqtMn" text="Вы находитесь на пороге смерти, охваченный лихорадкой, дрейфовал в и из сознания. В целителей не верю, что можно восстановить. Вы должны решить финал дела и определять наследника для своего клана, пока еще есть силы говорить."/>
     <string id="Vo64LSGP" text="{HIDEOUT_TEXT}"/>
@@ -2414,7 +2389,6 @@
     <string id="wrliXWLc" text="Вы одобрили закон, запрещающий фиксировать цены на рынках, и отклонили встречное предложение."/>
     <string id="wrpsJM2u" text="Да... некоторое время назад я нанял отряд наемников для проведения кампании. Но ... обычно у наемников есть свой кодекс чести. Ты платишь им, они сражаются за тебя, перестаешь платить, они уходят куда-то. Но эти люди довольно ясно дали понять, что если я не буду продолжать продлевать контракт, они станут бандитами. Сейчас я не могу себе этого позволить."/>
     <string id="Wrqb3iXP" text="У героев вашего отряда на 50% меньше шансов погибнуть в бою."/>
-    <string id="wrXbdvTn" text="Уровень {ONE_HANDED_SKILL} мастерства этого компаньона недостаточен для этого задания."/>
     <string id="wsbkjJhz" text="Арена закрыта ночью"/>
     <string id="wSbsHDhF" text="Каково состояние моего города?"/>
     <string id="wScKLt7F" text="Позвольте мне изложить все именно так... Он совсем не вырос на мне с тех пор, как это случилось в последний раз."/>
@@ -2435,7 +2409,6 @@
     <string id="wWFYPrlb" text="разрешает правителю иметь постоянный отряд наемников"/>
     <string id="wxDbPiNH" text="Что ж, у вас есть репутация человека, способного справиться с головорезами. Может быть, вы сумеете какого-нибудь другого Лорда, который будет нуждаться в них больше и заплатит им больше динаров. Я оплатил их контракт на несколько месяцев. Я могу дать вам небольшое вознаграждение, и если вы найдете покупателя, вы можете передать ему оставшуюся часть контракта и забрать оплату."/>
     <string id="WZbrxhYm" text="Бутыль кефира"/>
-    <string id="WZFqhmLw" text="Вам не хватает солдат выше класса 1."/>
     <string id="x04UGQDn" text="Темница"/>
     <string id="X1B18UeP" text="Бездушный {NAME}"/>
     <string id="x213SJbO" text="Нет. Я ничего об этом не знаю. Может быть, что-то еще? [INCOMPLETE]"/>
@@ -2514,7 +2487,6 @@
     <string id="XTt6gZ7h" text="Поторопитесь, если можете. Пока эти бандиты там, ни один путешественник не будет в безопасности!"/>
     <string id="XvC1eLR1" text="Или, если вы не сможете приобрести товар самостоятельно, вы можете поручить эту задачу одному из ваших доверенных спутников. Кто-нибудь с хорошим пониманием торговли и десятком солдат мог бы сделать это достаточно легко. "/>
     <string id="xvYDbEUa" text="Хорошо. Продолжайте."/>
-    <string id="xw8bWiUu" text="Уровень навыка Тактики этого спутника недостаточен для этого задания."/>
     <string id="xwc9mJdC" text="В последнее время ситуация с разбойниками на дорогах вокруг города стала намного хуже. Мои караваны грабят, как только они исчезают из виду за воротами."/>
     <string id="xWoXL2FG" text="Пустая Мастерская"/>
     <string id="xwS10c1b" text="Да... Я думаю, что для меня будет честью принять ваше предложение."/>
@@ -2557,7 +2529,6 @@
     <string id="YJJwR5PB" text="части доспехов"/>
     <string id="YjsRb88D" text="Это ваше право мо{?PLAYER.GENDER}я леди{?}й лорд{\?}. Но если вы не можете получить поддержку здешних торговцев, когда она вам понадобится в следующий раз, что ж, не говорите, что никто ничего не говорил."/>
     <string id="YjxCkglX" text="Вы не смогли завершить это задание вовремя. Ваше соглашение с {QUEST_GIVER.LINK} было отменено."/>
-    <string id="YJyeb0yt" text="Вы должны послать хотя бы {TROOP_COUNT} кавалеристов на это задание!"/>
     <string id="YKdQmNyx" text="Бонус к Инженернму Навыку"/>
     <string id="ykivrik2" text="Продолжительность жизни клана увеличивается на 10%."/>
     <string id="yKNyuLDj" text="Потребление продуктов питания сократилось на 20%."/>
@@ -2597,7 +2568,6 @@
     <string id="yTOVeqYe" text="Декларация о мире"/>
     <string id="yub5GWVq" text="О чем ты говоришь?"/>
     <string id="yuqLzmL9" text="Напомню, что жду ту оплату, которую вы мне пообещали."/>
-    <string id="YvEgC3ls" text="Недостаточно войск! Их должно быть по крайней мере {TIER}."/>
     <string id="YVGtcLHF" text="Всадник"/>
     <string id="Yvk8a2tb" text="Маневрирование"/>
     <string id="YVNZaVCA" text="Какие действия вы имеете в виду?"/>
@@ -2662,11 +2632,9 @@
     <string id="zMMqgxb1" text="Тип"/>
     <string id="ZMTkq5TG" text="Дворяне и другие землевладельцы имеют исключительные права на охоту в лесах."/>
     <string id="ZmxbIXsp" text="Мне жаль, что вы так считаете. Мы можем говорить позже."/>
-    <string id="zMzi32mX" text="У вас нет ни одного компаньона с каким-либо навыком ближнего боя выше, чем {MELEE_SKILL_LIMIT}, {TACTICS_SKILL_NAME} skill higher than {TACTIC_SKILL_LIMIT} and {LEADERSHIP_SKILL_NAME} skill higher than {LEADERSHIP_SKILL_LIMIT}."/>
     <string id="ZNfWXliN" text="Буду честен, миледи. Вы лишь авантюристка и если я женюсь на вас, то потеряю шансы укрепить союз с семьей, владеющей силой и деньгами."/>
     <string id="zNvjSFaC" text="На разворовывание деревень я не подписывался."/>
     <string id="znWLpQva" text="{FIRST_NAME} Сандалов"/>
-    <string id="Zpc1dti3" text="У напарника не хватает {TRADE_SKILL} для этого задания."/>
     <string id="ZphBf7vf" text="Выносливость, затрачиваемая на плавку, уменьшается вдвое."/>
     <string id="ZPj0ZAO7" text="Да? Что вам от нас нужно? [sp:/Modules/Russian/Sounds/bandit_caught.ogg]"/>
     <string id="ZPv3uCOb" text="{FACTION_LEADER} предлагает отказаться от политики {POLICY_NAME}. Вы можете выбрать свою позицию относительно этого решения."/>
@@ -2876,14 +2844,12 @@
     <string id="A9mtiIx2" text="Увеличьте урон от выпадов с древковым оружием на 10%."/>
     <string id="AdoaDR26" text="{QUEST_GIVER.LINK} просит вас разведать {SETTLEMENT_1}, {SETTLEMENT_2} и {SETTLEMENT_3}."/>
     <string id="aFNfxhwz" text="Вам больше не хватает {MOUNT_TYPE} для  {QUEST_GIVER.LINK}."/>
-    <string id="aHScc7NS" text="У вас нет компаньонов с навыком {TACTICS_SKILL} выше {REQUIRED_SKILL_LEVEL} для выполнения этого задания!"/>
     <string id="AHtFRv5T" text="Игнорирование боль"/>
     <string id="aIxX2s8n" text="Собрано скота (Необязательно)"/>
     <string id="ak8QloJg" text="В осажденном поселении под вашим управлением потребляет на 20% меньше еды."/>
     <string id="AkbiPIij" text="Сады"/>
     <string id="AlY8Edde" text="Управляемые поселения получают +1 к лояльности в день."/>
     <string id="aMHPsSe4" text="Пехотинцы в вашей группе получают +3 опыта каждый день во время путешествий."/>
-    <string id="AoqCwaPN" text="Напарник должен быть здоров и иметь навыки верховой езды выше {RIDING_THRESHOLD} и торговые навыки выше {TRADE_THRESHOLD}"/>
     <string id="aR3M3YfX" text="Пехотные войска в строю, которым вы руководите, увеличивают свою скорость атаки на 2%."/>
     <string id="arBQHbWv" text="Не могу с уверенностью утверждать, что знаю вас достаточно хорошо, чтобы обсудить что-то подобное."/>
     <string id="ASU5BjTb" text="Ваши убийства двуручным оружием на 30% выше влияют на боевой дух дружественных войск."/>
@@ -2908,7 +2874,6 @@
     <string id="bMBqJx4h" text="Группа получает на 20% меньше штрафа к скорости из-за чрезмерной нагрузки."/>
     <string id="bmW77NvO" text="Как насчет моих {MOUNT_TYPE}?"/>
     <string id="brmnjfP3" text="Каждое очко навыка после 250 дает вам увеличение скорости на 0,2% и увеличение урона на 0,5% с помощью двуручного оружия."/>
-    <string id="buWDlKBV" text="У вас должно быть больше {REQUIRED_GOLD}{GOLD_ICON} чтобы ваш спутник мог покупать товары."/>
     <string id="bXrpRfcT" text="Навык повышает размер вашего отряда на 15 Кроме того, он уменьшает жалование гарнизона в ваших поселениях на 5%"/>
     <string id="C7BAafCR" text="Когда нет щитов и оружия дальнего боя, скорость передвижения увеличивается на 10%"/>
     <string id="cH0iAEfq" text="Решите этот вопрос немедленно. Мне нужны эти животные."/>
@@ -2975,7 +2940,6 @@
     <string id="HqxV96aL" text="На ходу"/>
     <string id="I022Z9Ub" text="Heh. {QUEST_GIVER.NAME} got in deeper than {?QUEST_GIVER.GENDER}she{?}he{\?} could handle with those mercenaries."/>
     <string id="I0OtUEDb" text="Увеличьте регенерацию хитов на карте на 10% во время путешествия."/>
-    <string id="i4gcZctY" text="Вам нужно отправить одного из своих спутников с навыком {TRADE_SKILL} выше, чем {SKILL_LEVEL} для этого квеста!"/>
     <string id="IFqtwpb0" text="Копейщик"/>
     <string id="ijanbumZ" text="Led формация имеет небольшой бонус к защите против дальних атак."/>
     <string id="ijj0JGTW" text="Войска в строю, которым вы руководите, начинают бой с боевым духом +5."/>
@@ -3022,7 +2986,6 @@
     <string id="LVeZLsbg" text="Здоровые граждане"/>
     <string id="LVwh7Eba" text="Пехотинцы в вашем построении получают +30% бонус к урону от скорости."/>
     <string id="lyGvyZK4" text="Очень хорошо. Когда вы доберетесь до одной из их крепостей, понаблюдайте за ней. Не переходите сразу к следующему. Вам не нужно искать меня, чтобы сообщить подробности, просто отправьте своих посланников."/>
-    <string id="m2U5wTqa" text="У вас должен быть хотя бы один здоровый компаньон с навыком верховой езды выше {RIDING_THRESHOLD} и навыком торговли выше {TRADE_THRESHOLD}"/>
     <string id="m4KacGv9" text="Увеличивает скорость передвижения на 10%."/>
     <string id="M8yrANf5" text="Навык увеличивает ваш урон одноручным оружием на 5% Кроме того, размер вашего отряда повышается на 15"/>
     <string id="m9a3ZalO" text="Да, я {?PLAYER.GENDER}доставила{?}доставил{?} зерно, как вы и просили."/>
@@ -3161,7 +3124,6 @@
     <string id="ZR4RJdYS" text="Хм, звучит интересно..."/>
     <string id="zrYFYDfj" text="Пульсирующий удар"/>
     <string id="Zs6L1aBL" text="Извиняюсь, меня это не интересует"/>
-    <string id="ZYBoS4zG" text="У вас нет спутников с нужными навыками Требуется: {ONE_HANDED_SKILL}, {TWO_HANDED_SKILL} или {POLEARM_SKILL} выше {REQUIRED_SKILL_LEVEL}"/>
     <string id="zYKeYZAo" text="В порядке. Не спешите с этим но и не ждите слишком долго."/>
     <string id="03db314S" text="Увеличьте скорость перезарядки лука на 25%."/>
     <string id="04tBEafz" text="С вашей помощью на деревню успешно совершили набег."/>
@@ -3273,7 +3235,6 @@
     <string id="hOyX7rSy" text="Увеличьте максимальную скорость вашего маунта на 5%."/>
     <string id="hVIsGd2y" text="Землевладельцу нужны разнорабочие"/>
     <string id="HvYgMtXO" text="Путь седла"/>
-    <string id="HZ6fr5zG" text="Вы должны отправить на это задание отряды состоящий из немение {NUMBER} воинов {TIER} уровня."/>
     <string id="HZW39Tj2" text="Конные войска в вашем построении получают +10 к броне ездового животного."/>
     <string id="I3GUAb9a" text="Я понимаю ваше беспокойство, староста, но я заключил соглашение. Как насчет того, чтобы разделить прибыль с вами и вашими людьми?"/>
     <string id="IAdd84xm" text="Войска под вашим командованием увеличивают размер стака болтов на +2."/>
@@ -3326,7 +3287,6 @@
     <string id="nOZerIfl" text="Быстрая настройка"/>
     <string id="nQ0uWQsv" text="Увеличьте здоровье вашего маунта на 20%."/>
     <string id="NYHeygaj" text="Ловкие руки"/>
-    <string id="NZGcunYF" text="В вашей группе должно быть не менее {TROOP_COUNT} здоровых войск уровня 2 или выше."/>
     <string id="nZK2r5Gn" text="Скорость прибытия добровольцев кавалеристов в городах, которыми управляет ваш клан, увеличился на 30%."/>
     <string id="O977bqTL" text="Уменьшить штраф к точности на 15%."/>
     <string id="Okibjv5n" text="Раздражающее жужжание"/>
@@ -3383,7 +3343,6 @@
     <string id="vDNbHDfq" text="Крепкий конь"/>
     <string id="vl9bawa7" text="{COUNT} {ANIMAL_NAME} добавлены в ваш отряд."/>
     <string id="vnJndBgT" text="Набросок"/>
-    <string id="Vnqdge3k" text="Для этого квеста необходим напарник с навыком рукопашного боя выше  {MELEE_SKILL} и тактическим навыком выше {TACTICS_SKILL}!"/>
     <string id="vPc4hyYy" text="Войска с луком в вашем строю получают на 5% меньше урона от дальних атак."/>
     <string id="VtTMWJja" text="Уменьшает время перезарядки на 25%."/>
     <string id="VWPbNJrY" text="2-кратный зум с арбалетами."/>
@@ -3469,7 +3428,6 @@
     <string id="pPMPRLYY" text="Прицеливание с метательным оружием увеличивается на 150%."/>
     <string id="PzqAt7W5" text="Пехотные войска в вашем построении наносят на 10% больше урона от метательного оружия."/>
     <string id="qCCLpjAa" text="Войска под вашим командованием наносят на 50% больше урона щитам метательным оружием."/>
-    <string id="Qdvo3DAI" text="Чтобы начать эту миссию, вам нужно хотя бы {TROOP_COUNT} кавалеристов {TROOP_TIER} уровня"/>
     <string id="qiUmE2BI" text="Войска в вашем строю оснащенные метательным оружием, получают 10% от общего опыта после сражений."/>
     <string id="rRdWgBeS" text="Дротики и копья, которые вы бросаете, пробивают щиты, как болты баллисты."/>
     <string id="s9oED1IR" text="Застрельщики"/>
@@ -3484,5 +3442,65 @@
     <string id="yLuzvTtd" text="Вы обещали доставить {MOUNT_COUNT} {MOUNT_NAME}{.s} для {QUEST_GIVER.LINK}. Но вы не справились с этой задачей. {QUEST_GIVER.LINK} был недоволен."/>
     <string id="ZMYTashc" text="Повышает боевой дух вашего отряда в начале боя на +5."/>
     <string id="zQ2Ir1yM" text="Если вы начинаете бой верхом, то получаете +2 снаряда метательного оружия"/>
+    <string id="05mFQXdT" text="{LINE_1}\n{LINE_2}"/>
+    <string id="1q2dxlol" text="You have failed to pay {TOTAL_DENAR}{GOLD_ICON} denars to {QUEST_GIVER.LINK}. {QUEST_GIVER_VILLAGE} and its locals are aware of your misdemeanor."/>
+    <string id="1q3FKY1s" text="Have you made your trip yet? I presume you were able to make a sale?"/>
+    <string id="1zdkXAwL" text="The market isn't what we expected. I am afraid I only made {GATHERED_DENARS}{GOLD_ICON} of {TOTAL_DENARS}{GOLD_ICON} that we agreed."/>
+    <string id="2bcNCnI3" text="{QUEST_GIVER.LINK} from {QUEST_GIVER.FACTION}, asked you to sell {?QUEST_GIVER.GENDER}her{?}his{\?} goods form him for at least {UNIT_PRICE}{GOLD_ICON} per load and return to him. He told you that any profit would make above this price is yours to keep."/>
+    <string id="2GMOnUIM" text="{QUEST_GIVER.LINK} expects your return to have {?QUEST_GIVER.GENDER}her{?}his{\?} share of the deal."/>
+    <string id="3Sk0BQ4n" text="I will buy the products from you for {TOTAL_GOLD}{GOLD_ICON}. This way we both will get what we desire."/>
+    <string id="41wb8QaV" text="I know I can not force you to pay you what you owe me. But I think you will find that a good name is worth more than a few loads of {SELECTED_ITEM}..."/>
+    <string id="4bDHBIr1" text="You have completed your end of the bargain. {QUEST_GIVER.LINK} now considers you as a trustworthy {?PLAYER.GENDER}tradeswoman{?}tradesman{\?}."/>
+    <string id="52lNazA1" text="I'm afraid that things came up. I was not able to make the sale"/>
+    <string id="6YBQrk3j" text="Companion should have one of these skills:"/>
+    <string id="7o4AfEhN" text="While you are resting, you hear news that a force led by {ATTACKER} has arrived outside of {DEFENDER} to raid it."/>
+    <string id="7RM3hKUG" text="You need to send a healthy companion for this quest."/>
+    <string id="8jyUn6mb" text="You sell me the goods at a discount?"/>
+    <string id="8w3FR6eV" text="I will assign a companion with {AlternativeSolutionNeededMenCount} good men for {RETURN_DAYS} days."/>
+    <string id="96m29Eb7" text="The Art of The Trade"/>
+    <string id="9d6WxRrj" text="Do you want to buy the goods yourself? Or will I retain ownership, and you just keep the extra profits? I am expecting to earn {TOTAL_DENARS}{GOLD_ICON} for {SELECTED_COUNT} loads of produce. If would like to buy it right away you can simply sell it yourself or do whatever you wish with it."/>
+    <string id="9jFqXvHy" text="Excellent! I knew you were an honest soul. Trust is a fine thing, isn't it? Perhaps we can do more business in the future."/>
+    <string id="a1xdJxMs" text="Companion should have all these skills:"/>
+    <string id="A310vHqJ" text="Healing rate increase for troops +{a0}%"/>
+    <string id="AdkSktd2" text="You have to send {NUMBER} {?MOUNTED}cavalry {?}{\?}troops to this quest."/>
+    <string id="aFDiKxhr" text="Our deal involved you getting your cut from the sales I made. No sale means no cut. I'm sure you understand"/>
+    <string id="AKdDSZoM" text="Yes. It's a good problem to have, though. As you know, I deal in {SELECTED_ITEM}. Production this year has been very good, and we can no longer make a profit on the local market. I cannot however, put together a caravan to sell it elsewhere. So, I propose a very simple deal."/>
+    <string id="aUXAh8cE" text="Very well, {PLAYER.NAME}. If you're willing to vouch for your companion, I'm sure this will work."/>
+    <string id="bbsN6hOo" text="Have you already sold that {SELECTED_ITEM}? If so, that seems awfully quick."/>
+    <string id="BK9ww4NU" text="{QUEST_GIVER.LINK} from {QUEST_GIVER.FACTION}, asked you to sell his goods form him for at least {UNIT_PRICE}{GOLD_ICON} per load and return to him. He told you that any profit would make above this price is yours to keep. You asked {COMPANION.LINK} to take {TROOP_COUNT} of your best men to go and take care of it. They should report back to you in {RETURN_DAYS} days."/>
+    <string id="bPPXiybO" text="I just happened to be around. Have no fear {QUEST_GIVER.NAME}, your goods are fine."/>
+    <string id="BZwKEIm5" text="{ISSUE_GIVER.LINK} wants you to sell {?ISSUE_GIVER.GENDER}her{?}his{\?} goods for a price above the global average."/>
+    <string id="Cg3hH8gN" text="You have to send {NUMBER} {?MOUNTED}cavalry {?}{\?}troops with at least tier {TIER} to this quest."/>
+    <string id="CYKhLnmw" text="One of my companions could do that."/>
+    <string id="dtzKfkrh" text="We never agreed on this. I am not paying you any more than {GATHERED_DENARS}{GOLD_ICON}, and you cannot force me."/>
+    <string id="ekSg8okD" text="I will be better once you return with the denars you owe me {PLAYER.NAME}."/>
+    <string id="EsNDadiR" text="You have completed your end of your bargain and made some denars simply by using your smarts."/>
+    <string id="FM0PSaFP" text="Leave."/>
+    <string id="fUvs4g40" text="Healing rate increase for heroes +{a0}%"/>
+    <string id="GaXEmoFy" text="Sold {SELECTED_ITEM} amount:"/>
+    <string id="gNHh9bvb" text="I am sorry that you did not manage to make a profit. But you are keeping your end of the bargain, and that is admirable."/>
+    <string id="gVad94Br" text="I was just checking in with you."/>
+    <string id="IfPnl0B6" text="You have lost some of the wares you were supposed to be selling. You can speak with {QUEST_GIVER.LINK} to pay for a compensation."/>
+    <string id="iYtzlRSN" text="I would rather be your middleman on this matter. I need to keep my money. You can have your men load up {SELECTED_ITEM}{?PLURAL}s{?}{\?} already."/>
+    <string id="jI251oj9" text="{?QUEST_GIVER.GENDER}She{?}He{\?} noted that {?QUEST_GIVER.GENDER}she{?}he{\?} has {SELECTED_COUNT} loads of {SELECTED_ITEM}. {?QUEST_GIVER.GENDER}She{?}He{\?} is expecting to earn {TOTAL_GOLD}{GOLD_ICON} denars from that."/>
+    <string id="jKHkGzUn" text="{SELECTED_ITEM_COUNT} {SELECTED_ITEM}{?PLURAL}s have been{?} has been{\?} added to your inventory."/>
+    <string id="JNS46jsG" text="King bonus"/>
+    <string id="lBaw3YAA" text="{SKILL_NAME} ({VALUE})"/>
+    <string id="LmTii9E2" text="It was a pleasure doing business with you. If only everyone was as honest as you."/>
+    <string id="MaXA5HJi" text="You received a message from {ISSUE_GIVER.LINK}. 'It was a pleasure doing business with you and your folks.'"/>
+    <string id="NaoYCmC6" text="Good. Needless to say, by not taking any money up front, I am trusting in your honesty in your ability to protect those goods. But I am sure that trust will not be misplaced."/>
+    <string id="NzIK0ZE8" text="I'll take you up on that. I sell find a market for your {SELECTED_ITEM}."/>
+    <string id="OIwtLKN3" text="I am a {?PLAYER.GENDER}woman{?}man{\?} of my word. I will raise some money to pay you. Wait for my return {QUEST_GIVER.LINK}."/>
+    <string id="PQt8lfTX" text="You have failed to return to the {QUEST_GIVER.LINK} in time. {QUEST_GIVER_VILLAGE} and its locals are aware of your misdemeanor."/>
+    <string id="pwnqk0Nj" text="Gathered denars from {SELECTED_ITEM}"/>
+    <string id="QlYUE00L" text="Well. We did have an agreement. I do expect you to pay the full amount."/>
+    <string id="rWnvnufw" text="That could work, if you have the money. But if you don't, I'm willing to take a chance on you. I reckon for {SELECTED_ITEM_COUNT} loads of {SELECTED_ITEM} you can probably find a market nearby where buyers will pay you a total of {TOTAL_GOLD}{GOLD_ICON}. Here's my offer. I loan you the product. You sell it at whatever price you like, and bring me back {TOTAL_GOLD}{GOLD_ICON} denars. I have little doubt you could find a market where you could get a better price than this, and make a profit."/>
+    <string id="RxjuaDum" text="I am glad of that. Don't make me wait too long. Some men say they will pay a debt, and you never see them again."/>
+    <string id="rYt43AWk" text="{QUEST_GIVER.LINK} accepted your offer to buy the products from an average price. You can now sell those for profits without any obligations to {?QUEST_GIVER.GENDER}her{?}him{\?}."/>
+    <string id="tf04Piaj" text="You told {?QUEST_GIVER.GENDER}her{?}him{\?} that you will sell the goods personally."/>
+    <string id="THD3C7xc" text="I have. Here is the {TOTAL_DENARS}{GOLD_ICON} denars just as we agreed."/>
+    <string id="w0FD9U98" text="{QUEST_GIVER.LINK}'s village is raided. Your agreement with {?QUEST_GIVER.GENDER}her{?}him{\?} is moot."/>
+    <string id="xjMAjshT" text="Excellent. Just make sure he is well guarded. Goods attract bandits, as I'm sure you know. I suppose {ALTERNATIVE_TROOP_AMOUNT} well-armed man would be enough."/>
+    <string id="z47GjqTZ" text="Yes, of course. This is the {REMAINING_DENARS}{GOLD_ICON} denars that I owe you."/>
   </strings>
 </base>

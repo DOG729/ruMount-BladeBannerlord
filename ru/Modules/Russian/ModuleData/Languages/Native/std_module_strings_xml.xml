@@ -610,7 +610,7 @@
     <string id="GD4aQgl7" text="Овца"/>
     <string id="gdraqMso" text="Вы около {SETTLEMENT_NAME}. Вам нельзя зайти внутрь."/>
     <string id="GDugjWao" text="Вот деньги {MONEY}{GOLD_ICON}. Просто возьми их и отпусти нас."/>
-    <string id="gflnRhhe" text="({PRIMARY_ROLE})"/>
+    <string id="gflnRhhe" text="({PRIMARY_ROLE}/{SECONDARY_ROLE})"/>
     <string id="gfQmYDRq" text="Как только Вы попытались заставить знать дать вам новобранцев, некоторые жители собирались, чтобы противостоять вам."/>
     <string id="gFtu0j4T" text="Стрелы"/>
     <string id="ggMmjk31" text="Недействительный"/>
@@ -1130,7 +1130,6 @@
     <string id="QgUej8DP" text="Нет Активного Задания"/>
     <string id="qhhLVJAC" text="&lt;б&gt;препараты&lt;/б&gt;"/>
     <string id="qIvDX0JR" text="Центр"/>
-    <string id="Qk6aHGNO" text="Нажмите 'Alt' для получения дополнительной информации."/>
     <string id="QLM6DWHB" text="Активный Задание(я)"/>
     <string id="qlw2LWgu" text="Двигаться в диапазоне"/>
     <string id="qM8daraD" text="Всего очков умений: {CURRENT_SKILL_POINTS}"/>
@@ -1655,5 +1654,10 @@
     <string id="settlementtrack" text="Track"/>
     <string id="u3c9M8vx" text="лукавство"/>
     <string id="FZBqNCvd" text="никто"/>
+    <string id="h8Bcd7NE" text="{FACTION} Выборы правителя"/>
+    <string id="K5uR5HVX" text="Нажмите '{EXTEND_KEY}' для получения дополнительной информации."/>
+    <string id="rqWJL27J" text="Всего золота"/>
+    <string id="s2vaPUdG" text="Spear Brace"/>
+    <string id="uFDiRV1Z" text="({PRIMARY_ROLE})"/>
   </strings>
 </base>
