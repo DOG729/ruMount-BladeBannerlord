@@ -908,7 +908,7 @@
     <string id="emH1yQAs" text="Средний бонус XP за день для войск уровня 1-2-3."/>
     <string id="emLBsWj6" text="Мне ужасно жаль. Нам практически невозможно пожениться."/>
     <string id="EMri2uIu" text="{NAME} Вор"/>
-    <string id="EMVLtu5L" text="{HERO.LINK} улучшил {?PLURAL}{GAINED_POINTS}навык{?}навык{\?} {SKILL_NAME} до {UPDATED_SKILL_LEVEL} (+{GAINED_POINTS})."/>
+    <string id="EMVLtu5L" text="{HERO.LINK} улучшил {?PLURAL}на {GAINED_POINTS} навык{?}навык{\?} {SKILL_NAME} до {UPDATED_SKILL_LEVEL} (+{GAINED_POINTS})."/>
     <string id="EmXai6dm" text="обесценивание денег"/>
     <string id="EnS6NwaH" text="Спасибо вам {?PLAYER.GENDER}моя леди{?}мой лорд{\?}. Я уверен, ваши люди позаботятся о проблеме."/>
     <string id="eNtRt6F5" text="Свой собственный клан"/>
