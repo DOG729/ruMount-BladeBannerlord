@@ -32,7 +32,6 @@
     <string id="5fa36d2798479803b4518a64beb4d732" text="Длина Оружия: "/>
     <string id="5Unqsx3N" text="Подтвердить"/>
     <string id="63Ic1Ahe" text="Стоимость: {UPGRADE_COST} (У вас недостаточно средств)"/>
-    <string id="68IlDbA2" text="Вам нужно обладать умением {PERK_NAME}, что бы улучшить отряд бандитов до военного отряда."/>
     <string id="6adabc1f82216992571c3e22abc164d7" text="Боезапас: "/>
     <string id="74dc1908cb0b990e80fb977b5a0ef10d" text="Скорость: "/>
     <string id="7h6cXdW7" text="Инженер"/>
@@ -330,5 +329,23 @@
     <string id="tYz4D8Or" text="Заключенный"/>
     <string id="uQgNPJnc" text="Управление войсками"/>
     <string id="OhNYkblK" text="Этот герой только что сбежал от похитителей и будет доступен через некоторое время."/>
+    <string id="0mqdFC2x" text="Weapon Crafted!"/>
+    <string id="a4GDfSel" text="Reset Tutorials"/>
+    <string id="BqLsZhhr" text="Select an item to refine"/>
+    <string id="DNXD37JL" text="Settlement's Days Until Food Runs Out"/>
+    <string id="EkFDvG7z" text="Settlement Food Stocks"/>
+    <string id="eoVW9z54" text="Average Morale"/>
+    <string id="I2sZ7K28" text="Are you sure want to reset tutorials?"/>
+    <string id="i9OsCshW" text="This kingdom decision is not relevant anymore."/>
+    <string id="Iefr8Fra" text="Tutorials have been reset."/>
+    <string id="laznt9ZK" text="Settlement Food Change"/>
+    <string id="OSsSBHKe" text="Settlement's Food"/>
+    <string id="oUz16Nav" text="Reset Tutorial"/>
+    <string id="Q8dhryRX" text="Parties' Food"/>
+    <string id="QBB0KQ2Z" text="Parties' Average Morale"/>
+    <string id="rUeWBOOi" text="Select an item to smelt"/>
+    <string id="rwKBR4NE" text="Average Days Until Food Runs Out"/>
+    <string id="Y7qbwrWE" text="{HERO_NAME}'s Skills"/>
+    <string id="zrhr4rDA" text="Are you sure you want to disband this army? This will result in relation loss."/>
   </strings>
 </base>

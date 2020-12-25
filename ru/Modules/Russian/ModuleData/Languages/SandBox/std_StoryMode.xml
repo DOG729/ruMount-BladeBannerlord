@@ -217,7 +217,6 @@
     <string id="CvBoRaFv" text="Вам удалось схватить нож в суматохе атаки. Вы убили налетчика, блокирующего ваш путь."/>
     <!--Здесь был Cas. Финальная версия!-->
     <string id="cYibaPhn" text="Варвары просто продолжали наступать и наступать. Я пробился с несколькими верными людьми и вернулся в столицу. Но я обнаружил, что Ареник оказался там раньше меня и сам объявил себя Императором. Он всегда был хитрым оратором."/>
-    <string id="d3cL1Tav" text="Прислушиваясь к совету {MENTOR.LINK}, вы создали свою имперскую фракцию."/>
     <string id="D4MuSwRB" text="Печальный день для клана Килд. Но мы отомстили."/>
     <string id="D9RoNGJg" text="Купите 2 мешка {GRAIN}{.s}. Нажмите &quot;Купить продукты&quot; - опцию в меню деревни чтобы купить продукты.."/>
     <string id="Db98U6fF" text="Защититесь от удара слева."/>
@@ -565,7 +564,6 @@
     <string id="SF7dqoEe" text="Конечно, высокомерие Нимра росло и росло. И тогда он нанес нам страшное оскорбление. Я не буду говорить что это за оскорбление, потому что это больше не важно. Мы его стерпели, как велят традиции. Вы можете спросить кого-то еще об этом."/>
     <string id="SFJFIaAD" text="Что же... Великая победа короля Каладога... Кто посмеет сказать что-нибудь, чтобы запятнать его сияние?"/>
     <string id="ShG19Xhi" text="Спасибо..."/>
-    <string id="sivYeb1B" text="Вы выполнили все условия для создания своего королевства. Поговорите с {MENTOR.LINK} чтобы продолжить."/>
     <string id="sJeYHMGG" text="Вы объединили Империю."/>
     <string id="sJoO1JzN" text="Когда строй имперцев распался, они дрогнули и ринулись к укреплениям. Оттуда в нас полетели дротики, камни и проклятый огонь. Мы должны были взбираться по лестнице, один за другим. Вадинслав был сражен булавой и упал. Тогда мой отец поднялся, пробился, сплотил нас и привел к победе."/>
     <string id="SmVwMrUM" text="Знамя Кальрадия - это часть легенды. Говорят, что оно реяло над головой Кальрадия Великого, который первым привел свой народ на эту землю, чтобы завоевать и разорить ее. Легенда гласит, что ни одну армию во главе с настоящим сыном Кальрадия не смогут одолеть в битве."/>
@@ -593,7 +591,6 @@
     <string id="tGEStbxb" text="Соплеменников"/>
     <!--Здесь был Cas. Финальная версия!-->
     <string id="TH6L7OXu" text="Тогда вы можете вернуться, когда вы примете решение.[sp:/Sounds/VO/mainquest/mntemp_q01_12.ogg]"/>
-    <string id="tI5L0wRB" text="Прислушиваясь к советам {MENTOR.LINK}, вы создали свое королевство, чтобы противостоять Империи."/>
     <string id="tI8ZLtoA" text="Создавать проекты"/>
     <string id="TIaVyqMx" text="Рад, что вы закончили приготовления. Теперь о вопросе, о котором я упоминал ранее... "/>
     <string id="TkgLEDRM" text="Купцов"/>
@@ -812,5 +809,10 @@
     <string id="ypDmy5Rn" text="Как мы можем доверять друг другу?"/>
     <string id="ZpcV9MZE" text="Вы спасли своих брата и сестру и решили казнить {RADAGOS.LINK}, потому что он стал причиной смерти ваших родителей."/>
     <string id="kqj1Wp0f" text="Вы решили сохранить Знамя Дракона в новом королевстве, которое вы создали."/>
+    <string id="BekWpXmR" text="Heeding the advice of {MENTOR.LINK}, you have created a kingdom to oppose the Empire. You can tell {?MENTOR.GENDER}her{?}him{\?} that you will support your own kingdom."/>
+    <string id="epB0x816" text="{PLAYER_LITTLE_SISTER.NAME} is the little sister of {PLAYER.LINK}. She has been abducted by bandits, who intend to sell her into slavery."/>
+    <string id="h68qCoz3" text="{PLAYER_LITTLE_BROTHER.NAME} is the little brother of {PLAYER.LINK}. He has been abducted by bandits, who intend to sell him into slavery."/>
+    <string id="nNavD2NO" text="You left the kingdom you have created. You can only support kingdoms that you are a part of."/>
+    <string id="UnjgFmnE" text="Heeding the advice of {MENTOR.LINK}, you have created an imperial faction. You can tell {?MENTOR.GENDER}her{?}him{\?} that you will support your own kingdom."/>
   </strings>
 </base>

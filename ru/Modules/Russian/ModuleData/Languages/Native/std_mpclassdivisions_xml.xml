@@ -8,7 +8,6 @@
     <string id="0Uvkm46I" text="Дает меч, эффективен при поединках"/>
     <string id="0yGhTKey" text="Дает дополнительные стрелы."/>
     <string id="14Lfo4sB" text="Усиленные дротики"/>
-    <string id="1dTipfgq" text="Заменяет Вульж на Билль, древковое оружие."/>
     <string id="1nZaud4o" text="Заменяет Менавлу на Длинную Менавлу. Длиннее, но медленнее."/>
     <string id="1xa1a0d2" text="Заменяет Щит на больший Щит."/>
     <string id="25f3yj3M" text="Длинный Меч"/>
@@ -48,7 +47,6 @@
     <string id="bsabIdYm" text="Двуручный Топор"/>
     <string id="bwLknWjn" text="Заменяет Обычные Дротики на Имперские Дротики, наносят больше урона, могут быть использованы в ближнем бою."/>
     <string id="bY9U7w1Q" text="Меч"/>
-    <string id="bzCoIgk7" text="Билль"/>
     <string id="bzdCMVuG" text="Кавалерийская Булава"/>
     <string id="bzr6vtXi" text="Тяжелая Менавла"/>
     <string id="C2XqmIAQ" text="Заменяет Изогнутый Лук на Составной Лук, наносит больше урона и точнее, но медленней."/>
@@ -201,6 +199,7 @@
     <string id="r1Jp5c72" text="Grants a Pilum, longer, good for harrassing, can be used in melee."/>
     <string id="rkqaCud5" text="Pilum"/>
     <string id="C9ufRSsL" text="Sword and Shield"/>
-    <string id="UWScBrli" text="Replaces the two handed weapon with a Sword and Shield combination."/>
+    <string id="4eFFdbbh" text="Replaces Voulge with Two Handed Sword, effective at dueling and thrusting, two handed."/>
+    <string id="FfpqIuV8" text="Replaces Voulge with a Sword and Shield combination. Grants versatility and protection."/>
   </strings>
 </base>

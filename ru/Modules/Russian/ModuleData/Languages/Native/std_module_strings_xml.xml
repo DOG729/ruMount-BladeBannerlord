@@ -646,7 +646,6 @@
     <string id="H0o13D7a" text="Магазины"/>
     <string id="H1emUb6k" text="Возраст:"/>
     <string id="H4rAiNlf" text="Ты поставил {BET_AMOUNT} на себя и выиграл в схватке. Вот твоя награда {REWARD_AMOUNT}{GOLD_ICON}."/>
-    <string id="h55xdL1l" text="MuTorere"/>
     <string id="h60wQVVX" text="Пика"/>
     <string id="h6AJXR2e" text="Вы уверены в отступлении вашей партии?"/>
     <string id="H9y9dLao" text="Вы можете сделать ставку, чтобы увеличить призовые. Каждый раунд шансы будут разные, и вы можете ставить {MAX_AMOUNT}&lt;img src=&quot;Icons\Coin@2x&quot;&gt; каждый раз."/>
@@ -1659,5 +1658,17 @@
     <string id="rqWJL27J" text="Всего золота"/>
     <string id="s2vaPUdG" text="Spear Brace"/>
     <string id="uFDiRV1Z" text="({PRIMARY_ROLE})"/>
+    <string id="5siAbi69" text="Mu Torere"/>
+    <string id="7pAZatbz" text="{?RULER.GENDER}Empress{?}Emperor{\?} {RULER.NAME}"/>
+    <string id="BbYFboh2" text="{RULER.NAME} {?RULER.GENDER}Begum{?}Beg{\?}"/>
+    <string id="jM9KGCIa" text="{?RULER.GENDER}Emira{?}Emir{\?} {RULER.NAME}"/>
+    <string id="lb13ceVM" text="{?RULER.GENDER}High Queen{?}High King{\?} {RULER.NAME}"/>
+    <string id="lqm9PfF1" text="{?RULER.GENDER}Knyaginya{?}Knyaz{\?} {RULER.NAME}"/>
+    <string id="nAaT19CC" text="{?RULER.GENDER}Archoness{?}Archon{\?} {RULER.NAME}"/>
+    <string id="nojcK4ia" text="{?RULER.GENDER}Grand Princess{?}Grand Prince{\?} {RULER.NAME}"/>
+    <string id="q6P6bdbC" text="Quick Talk"/>
+    <string id="rGNrtXSx" text="You have arrived at {SETTLEMENT} to defend the castle from attackers."/>
+    <string id="veiFupWz" text="{?RULER.GENDER}Baroness{?}Baron{\?} {RULER.NAME}"/>
+    <string id="X4qO3jBf" text="{?RULER.GENDER}Banmormaer{?}Mormaer{\?} {RULER.NAME}"/>
   </strings>
 </base>
