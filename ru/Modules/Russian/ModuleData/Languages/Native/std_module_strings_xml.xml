@@ -5,7 +5,7 @@
   </tags>
   <strings>
     <string id="02c5bQSM" text="Выбросить"/>
-    <string id="02E0oSJm" text="Нарушение правил! Ваш противник сражался вне рыцарского турнира. Его дисквалифицировали!"/>
+    <string id="02E0oSJm" text="Нарушение правил! Ваш противник сражался вне рыцарского турнира. {?OPPONENT_GENDER}она был исключена{?}он был исключен{\?}!"/>
     <string id="03mPaWum" text="Королевство"/>
     <string id="04GuLxE1" text="Вы не можете распустить свой отряд"/>
     <string id="082FNWAD" text="Черты характера"/>
@@ -204,7 +204,7 @@
     <string id="80hwCw7B" text="-{BONUS_AMOUNT}% сокращение народного ополчения во время восстаний"/>
     <string id="83Yt9rbK" text="Пробил брешь"/>
     <string id="87qtKk4K" text="Смотреть Раунд"/>
-    <!--Здесь фиксил Cas.-->
+    <!--Здесь фиксил Cas 2020.01.-->
     <string id="893hzVCQ" text="&lt;b&gt;Огненная баллиста&lt;/b&gt;{NEWLINE}Стреляет сосудами, наполненными греческим огнем, сочетает в себе смертельную мощь баллист с огнем."/>
     <string id="8apwrVjc" text="Дополнительный Участник Клана "/>
     <string id="8B7V0qdT" text="Вы проиграли бой!"/>
@@ -212,7 +212,6 @@
     <string id="8cY08v3s" text="Деревня со средним достатком. Люди и животные выглядят сытыми. Жители занимаются сезонными делами."/>
     <string id="8geYNpC9" text="Метательный {THRUST_DAMAGE_TYPE} Урон: "/>
     <string id="8HMyTKF6" text="Вландия"/>
-    <!--Здесь был Cas. Финальная версия!-->
     <string id="8Jb61k7G" text="(+{GAIN_AMOUNT} сплоченности)"/>
     <string id="8kVhiTmu" text="Следующий Уровень:"/>
     <string id="8l8xEu64" text="Купить и Надеть"/>
@@ -354,13 +353,11 @@
     <string id="Bg83jhCR" text="Город явно переживает не лучшие времена."/>
     <string id="bg8co4he" text="Убить{newline}Вы не сможете отменить это действие."/>
     <string id="bgjiFSHZ" text="Баттания"/>
-    <!--Здесь был Cas. Финальная версия!-->
     <string id="bGyrPe8c" text="Производство"/>
     <string id="bh2v8n4K" text="Одежда"/>
     <string id="BhGlPxqx" text="Можно только распустить мобильные партии"/>
     <string id="bIiBytSB" text="Лучники"/>
     <string id="bj0Ko5uX" text="Кальрадийская Империя находится в упадке. Еще до убийства императора Ареникоса, некогда единое королевство было разорвано политическим соперничеством. Сегодня эти фракции ведут открытую войну. И все же кальрадийцы перетерпят. Они технологически более развиты, чем их соседи, и их мастерство в инженерном деле проявляется не только в их акведуках, красивой архитектуре и массивных городских стенах. Это также делает их экспертами в осадном деле"/>
-    <!--Здесь был Cas. Финальная версия!-->
     <string id="bJ5SzaXp" text="Ранено"/>
     <string id="bjxBjKH2" text="моя леди"/>
     <string id="BkB9aOhw" text="Не могу открыть окно знамени прямо сейчас!"/>
@@ -403,7 +400,6 @@
     <string id="bzrOHiS8" text="Люди открыто ругать власть, как будто они чувствуют, что им нечего терять."/>
     <string id="C0llOApK" text="Армия {HERO}"/>
     <string id="c1Ag8YJS" text="Баттанийцы до сих пор помнят старые времена, когда леса простирались через всю северную Кальрадии, а Империи и ее городам еще предстояло нарушить их святость. Свирепые воины остаются верны своим традициям. Они раскрашивают свои лица, когда идут в бой, и даже их дворяне предпочитают сражаться пешими, используя большие топоры и двуручные мечи со смертоносной эффективностью."/>
-    <!--Здесь был Cas. Финальная версия!-->
     <string id="c1g7MC9D" text="Бонус Уровня Клана "/>
     <string id="c2pdihCB" text="Караваны"/>
     <string id="c3cdHImi" text="Захватывайте пешки противника, окружая их с обеих сторон. Если пешка перемещается между двумя пешками, принадлежащих разным сторонам, она не захватывается.{newline}На первых двух изображениях белые пешки захватываются черными. На последних двух – нет захваченных."/>
@@ -656,7 +652,6 @@
     <string id="HcAV8x7p" text="Член Партии"/>
     <string id="HCZ5XSEL" text="{?IS_POSITIVE}+{?}-{\?} {NUMBER}"/>
     <string id="HD2wzAxz" text="Стургиты являются потомками иностранных племен северной Кальрадии. По мере того, как империя расширялась в свои холодные леса, она обнаружила готовый рынок для роскошных мехов лесных животных, на которых они традиционно охотились. Стургийские вожди стали князьями, борясь за превосходство с помощью нордских наемников, которые мигрировали в их королевство. Они хорошие охотники и странники, путешествующие далеко в поисках возможностей как для торговли, так и для грабежа."/>
-    <!--Здесь был Cas. Финальная версия!-->
     <string id="hDktLs4a" text="Вы поступили мудро и с уважением. Вы можете пойти."/>
     <string id="HdTVkcII" text="Улучшайте отношения с людьми. Общайтесь с дворянами. Совершайте сделки."/>
     <string id="HEQ2zEei" text="Отменить"/>
@@ -667,7 +662,6 @@
     <string id="hJypvWMR" text="Обработка"/>
     <string id="HkfY3Ds5" text="Броня"/>
     <string id="HkZ4E94O" text="Кузаитская конфедерация степных племен вела кочевой образ жизни, но недавно поселилась на восточной границе Империи и постепенно переходит в аграрное общество с постоянными городскими центрами. Несмотря на это, они все еще сохраняют многие аспекты своей кочевой жизни, в том числе свою близость с лошадьми. Они мастера стрельбы из лука, стреляют, а затем скачут за пределы досягаемости."/>
-    <!--Здесь был Cas. Финальная версия!-->
     <string id="hL3JIQbd" text="Привести это формирование в бой."/>
     <string id="HmbvM9Na" text="Вы хотите пропустить текущую матч?"/>
     <string id="HMgrtLYa" text="Ваш чемпион проиграл дуэль. Ваша армия разочарована этим поражением. Ваша партия теряет боевой дух."/>
@@ -821,10 +815,8 @@
     <string id="kHC5EjDJ" text="Бонус Города"/>
     <string id="kHC5EjEJ" text="Небольшой Бонус Фракции "/>
     <string id="Khr5yETv" text="Асерайцы - это жители пустыни Нахаса, смесь кочевых бедуинов и оседлых фермеров оазисов. Они славятся своим искусством верховой езды и изучениями многих земель, а так же исследованиями в области медицины, благодаря тому, что они располагаются на одних из самых прибыльных торговых путях континента. Каждый клан отчаянно гордится своим происхождением и часто завидует другим, но когда их объединяет харизматический лидер, они становятся главной силой на юге."/>
-    <!--Здесь был Cas. Финальная версия!-->
     <string id="kIAsKjp1" text="Welcome to Mount&amp;Blade II (Russian by Dog729): Bannerlord Gamescom demo!{newline}This demo showcases the mid-game features of Bannerlord!{newline}You are free to resolve issues, conquer settlements, govern cities, join tournaments, trade or just hang around in the game world. {newline}Have fun and don't hesitate to ask if you have any questions."/>
     <string id="KiJd6Xik" text="Движение"/>
-    <!--Здесь был Cas. Финальная версия!-->
     <string id="KiVCv1Bx" text="Осаждает {SETTLEMENT_NAME}"/>
     <string id="KJDqOGEU" text="Мы планируем вернуться в отряд, чтобы сразиться в другой день"/>
     <string id="KkaVpLXd" text="Довести эту политику до голосования"/>
@@ -954,7 +946,6 @@
     <string id="N6QTvjMf" text="Пленные "/>
     <string id="N7w6zi0F" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} и {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}are{?}is{\?} pulling back."/>
     <string id="N84HlDaV" text="{NUMBER_OF} {ITEM} ({AMOUNT}{GOLD_ICON})"/>
-    <!--Здесь был Cas. Финальная версия!-->
     <string id="NaorUInI" text="Understrength Сторон"/>
     <string id="nbBgbwM2" text="In Queue: {NUMBER}"/>
     <string id="NBv29XpJ" text="Вы не можете распустить армию, а ты в эту армию."/>
@@ -963,9 +954,9 @@
     <string id="NF627oiX" text="Северная Империя"/>
     <string id="nfQhamAF" text="Скорость Поворота: "/>
     <string id="NgHSyQem" text="В Армии"/>
-    <string id="nHGm1wYg" text="Battle finished. Press {leave_key} to view results"/>
+    <string id="nHGm1wYg" text="Битва окончена. Нажмите {leave_key} для просмотра результатов"/>
     <string id="nHkQbLDc" text="Не может использоваться верхом"/>
-    <string id="nHSVy0ns" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} и {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}are{?}is{\?} flanking from {#IS_LEFT}{#}left{#}multiple sides{\#}{?IS_MIDDLE}middle{?}{\?}{?IS_RIGHT}right{?}{\?}."/>
+    <string id="nHSVy0ns" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} и {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}окружают{?}окружает{\?} {#IS_LEFT}{#}c левого{#}с нескольких сторон{\#}{?IS_MIDDLE}middle{?}{\?}{?IS_RIGHT}c правого{?}{\?} фланга."/>
     <string id="NiyNgXMe" text="Эта партия уже расформировании"/>
     <string id="njnMk5P1" text="Дезавуировать политику"/>
     <string id="nk0bADtq" text="Вы отклонили вызов на дуэль. Ваша армия уныние это проявление трусости. Ваша партия теряет боевой дух."/>
@@ -1289,12 +1280,12 @@
     <string id="UckVajhO" text="Получено известности: + {RENOWN}"/>
     <string id="ucyy9Sc5" text="{LEFT} / {RIGHT}"/>
     <string id="ufnnUxKb" text="Кожа"/>
-    <string id="uFuDwaYp" text="{HOUR} {?PLURAL}hours{?}hour{\?}"/>
+    <string id="uFuDwaYp" text="{HOUR} {?PLURAL}часы{?}час{\?}"/>
     <string id="ug4LiPbb" text="Оружие дальнего боя IV"/>
     <string id="ugJfuabA" text="Конный лучник"/>
     <string id="UgMbCUMO" text="мой отец {REFERING_HERO.LINK}"/>
     <string id="ugX2RRDY" text="Меня похитили и требовали выкуп"/>
-    <string id="Uh057UUb" text="Puluc"/>
+    <string id="Uh057UUb" text="Пулук"/>
     <string id="UI0q8rWw" text="Скот"/>
     <string id="uinDitbl" text="Мы должны разрушить стены."/>
     <string id="UIqPXN62" text="Закидывайте противника метательным оружием."/>
@@ -1348,7 +1339,6 @@
     <string id="vJmBi58H" text="Маршал"/>
     <string id="VJNJsdif" text="{COMPANION.LINK} присоединился к вашему отряду"/>
     <string id="vJOWy1QF" text="Кузаит"/>
-    <!--Здесь был Cas. Финальная версия!-->
     <string id="vLU6nNwp" text="Вы ставите {BET_AMOUNT} на {FIGHTER_NAME} и {?FIGHTER_GENDER}она{?}он{\?} выиграл бой. Вот ваша награда {REWARD_AMOUNT}{GOLD_ICON}."/>
     <string id="vmMqs3Ck" text="Благородный"/>
     <string id="vn7A8aXV" text="Вы находитесь снаружи {SETTLEMENT_NAME}. Ваше знамя развевается над воротами замка."/>
@@ -1548,7 +1538,6 @@
     <string id="zo5hQfll" text="Волки побеждают, если смогут убрать 5 овец с доски.{newline}{newline}Овцы побеждают, если смогут блокировать волков, чтобы те больше не могли делать ходы"/>
     <string id="zpaLDTI4" text="Плати и тогда сможете пройти."/>
     <string id="ZPaw3WuO" text="Вландийцы являются потомками авантюристов с запада, которые жили под властью Империи на протяжении столетий до формирования независимого королевства. С упадком имперской власти они превратились в хорошо организованное феодальное общество, возглавляемое группой воинственных дворянских семей, которые предпочитают сражаться пиками и копьями на лошадях."/>
-    <!--Здесь был Cas. Финальная версия!-->
     <string id="zqihwKAs" text="&lt;b&gt;Баллиста&lt;/b&gt;{NEWLINE}Стреляет болтами со смертельным эффектом. Эффективна против солдат."/>
     <string id="ZqWOb1jM" text="Вы находитесь за пределами города {SETTLEMENT_NAME}. Вы не можете войти, потому что вас разыскивает {FACTION_TERM}."/>
     <string id="ZR2bAa1p" text="Легкая Кавалерия"/>
@@ -1669,6 +1658,6 @@
     <string id="q6P6bdbC" text="Быстрый разговор"/>
     <string id="rGNrtXSx" text="Вы прибыли, чтобы защитить {SETTLEMENT} от нападавших."/>
     <string id="veiFupWz" text="{?RULER.GENDER}Баронесса{?}Барон{\?} {RULER.NAME}"/>
-    <string id="X4qO3jBf" text="{?RULER.GENDER}Banmormaer{?}Мормэр{\?} {RULER.NAME}"/>
+    <string id="X4qO3jBf" text="{?RULER.GENDER}Банмормэр{?}Мормэр{\?} {RULER.NAME}"/>
   </strings>
 </base>
