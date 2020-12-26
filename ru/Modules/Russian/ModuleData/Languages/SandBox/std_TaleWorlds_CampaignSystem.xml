@@ -1624,7 +1624,7 @@
     <string id="PQVZPO2a" text="Хорошо, {STR_SALUTATION}!"/>
     <string id="Pr9sQqJ8" text="Войска начинают сражение с бонусным здоровьем.{NEWLINE} (Лидерский навык отряда медицины-200) / 2."/>
     <string id="prcBBqMR" text="{HIDEOUT_DESCRIPTION} Вы видите вооруженных людей. Подслушав, вы распознали их беседы о налётах, выкупах и лучших местах, где можно подкараулить путешественников."/>
-    <string id="pRQxxcfj" text="{FIRST_NAME} Кошачьи Глазки"/>
+    <string id="pRQxxcfj" text="{HERO.FIRSTNAME} Кошачьи Глазки"/>
     <string id="pS7bgCl0" text="Войска дальнего боя получают на 5% больше опыта после боя."/>
     <string id="PstO2f5I" text="Зернохранилище"/>
     <string id="Pt2n5Cez" text="20% шанс избежать критической неудачи в убеждении"/>
@@ -3879,13 +3879,13 @@
     <string id="oumTabhS" text="One of the Family"/>
     <string id="ovnN3a4u" text="...rode very far afield"/>
     <string id="OY0Jwctd" text="Troops in your formation cause 10% more morale penalty when they kill an enemy"/>
-    <string id="Oy5dH7gZ" text="Elea"/>
+    <string id="Oy5dH7gZ" text="Элея"/>
     <string id="OZk856at" text="Increase loot amount by 1% for every skill point over 200"/>
     <string id="ozTYF4Ac" text="Your {?CHILD.GENDER}daughter{?}son{\?} found work with an artisan for a season, keeping {?CHILD.GENDER}her{?}his{\?} high birth a secret"/>
-    <string id="p0hcyZdp" text="Zenon"/>
-    <string id="p1eNH4BK" text="When stationary for a while (1 hour) increase sight range by 25%."/>
+    <string id="p0hcyZdp" text="Зенон"/>
+    <string id="p1eNH4BK" text="Если вы неподвижны некоторое время (1 час), увеличьте дальность обзора на 25%."/>
     <string id="P1o799N5" text="...competed in a tournament and won"/>
-    <string id="p3Aa9Fr9" text="2% movement speed bonus for steppes and plains"/>
+    <string id="p3Aa9Fr9" text="2% бонус к скорости передвижения для степей и равнин"/>
     <string id="P4pTTr1z" text="Belgaru"/>
     <string id="P5psUALd" text="You asked your {?CHILD.GENDER}daughter{?}son{\?}, before returning make sure that {?CHILD.GENDER}she{?}he{\?}"/>
     <string id="p71X2Z5d" text="50% chance to recover a mount from lost cavalry after battles."/>
@@ -3896,7 +3896,7 @@
     <string id="paUr9qce" text="Ryis"/>
     <string id="pCBkH35Q" text="Danos"/>
     <string id="peaGQ5SI" text="The steward's responsiblity, first and foremost, is to ensure that lands are workshops are well-maintained, seed and raw materials are stocked, and to assign the right number of hands to the right tasks."/>
-    <string id="pEFDJNJ6" text="When attacking, your troops have 5% more damage in simulated battles."/>
+    <string id="pEFDJNJ6" text="При атаке ваши войска наносят на 5% больше урона (в имитационных боях)."/>
     <string id="pFfqWRnf" text="Talent Magnet"/>
     <string id="pFSWDNaF" text="No morale penalty for disorganized state in battles, in sally out or when being attacked."/>
     <string id="Pg5enC8c" text="Contractors"/>
@@ -3930,7 +3930,7 @@
     <string id="qAn93jVN" text="Improviser"/>
     <string id="QBjwLLb4" text="Eventually it was time for your child to experience life outside your family estate"/>
     <string id="qBx8UbUt" text="Arenicos' Mules"/>
-    <string id="qD6qbbvH" text="Character heals %30 of lost health points after each battle"/>
+    <string id="qD6qbbvH" text="Персонаж восстанавливает 30% потерянных очков здоровья после каждого боя."/>
     <string id="QDpfYm4c" text="The caravan is moving to {SETTLEMENT_NAME}."/>
     <string id="qEh4gdjU" text="{QUEST_GIVER.LINK} was imprisoned and your agreement with {?QUEST_GIVER.GENDER}her{?}him{\?} was canceled. You can no longer deliver the {MOUNT_TYPE} to {?QUEST_GIVER.GENDER}her{?}him{\?}."/>
     <string id="QGIAbglw" text="Obron"/>
@@ -4025,14 +4025,14 @@
     <string id="T70o6ItZ" text="Bandits are 20% easier to convince to leave in peace while bartering"/>
     <string id="T9KaVzcC" text="Gerluchs"/>
     <string id="Ta0zl7o1" text="Gutlans"/>
-    <string id="taTbOAte" text="Polearm attacks that deal over 25 damage has %25 chance to dismount cavalry."/>
+    <string id="taTbOAte" text="Атаки древковым оружием, наносящие более 25 урона, имеют 25% шанс скинуть всадника с седла."/>
     <string id="tB0k6aZt" text="Progress"/>
     <string id="tbb7AZ4L" text="...treated an injury"/>
     <string id="TbBmjK8M" text="Desert Born"/>
-    <string id="TbkoiaEg" text="Bandit units in your party require 20% cheaper wage"/>
+    <string id="TbkoiaEg" text="Бандиты в вашем отряде требуют на 20% меньше заработной платы"/>
     <string id="tbQ5bUzD" text="Arenicos' Horses"/>
-    <string id="TbXWCRa0" text="15% decrease in sell price penalty for Animals."/>
-    <string id="TCtGVTTk" text="Troop wages are decreased by 25% while in an army."/>
+    <string id="TbXWCRa0" text="снижение штрафа цены продажи животных на 15%."/>
+    <string id="TCtGVTTk" text="Заработная плата солдат снижена на 25% в армии."/>
     <string id="tDNiLiRM" text="You have failed to win the tournament. "/>
     <string id="TEhwK74M" text="We are willing to pay {REWARD}{GOLD_ICON} denars for {REQUESTED_ANIMAL_AMOUNT} healthy and strong {?PLURAL}{SELECTED_ANIMAL}{.s}{?}{SELECTED_ANIMAL}{\?}. Unlike us, I'm sure you can travel distant villages easily and find the finest and cheapest ones there."/>
     <string id="TfwnulJG" text="...procured supplies"/>
@@ -4042,7 +4042,7 @@
     <string id="tJqWNH2H" text="Increase recruitment slot by 1 when recruiting from merchant notables."/>
     <string id="tkb4gwzY" text="Lorekeeper"/>
     <string id="TMaZ3Cly" text="Delinard"/>
-    <string id="Tn9g83ry" text="Enjoying your drink, {?PLAYER.GENDER}madam{?}sir{\?}?"/>
+    <string id="Tn9g83ry" text="Наслаждаясь напитком, {?PLAYER.GENDER}мадам{?}сир{\?}?"/>
     <string id="TNl9nD6p" text="The master artisan supervises the work of any smiths, carpenters or masons that you hire. He ensures that the buildings are in good repair and your weapons are well-maintained."/>
     <string id="tOlFcTJu" text="Your {?CHILD.GENDER}girl{?}boy{\?} experiments with smithing weapons, {?CHILD.GENDER}she{?}he{\?} becomes surprisingly good at it. {?CHILD.GENDER}She{?}He{\?} even comes up with totally new designs."/>
     <string id="tqDlfh7p" text="2% movement speed bonus during day time"/>
@@ -4086,8 +4086,8 @@
     <string id="UJYaonYM" text="Loyalty and Honor"/>
     <string id="uKc4le8Q" text="Patrols"/>
     <string id="uLjRHv9p" text="Nadea"/>
-    <string id="uLmNh3RQ" text="Increase simulation damage by 1% for every skill level over 200."/>
-    <string id="ULVc7QuF" text="Troops in your formation gain 2% increased movement speed in snowy and forest terrain battlefields."/>
+    <string id="uLmNh3RQ" text="Увеличивайте урон в симуляции(быстрый бой) 1% за каждый уровень навыка выше 200."/>
+    <string id="ULVc7QuF" text="Войска в вашем построении получают на 2% больше скорости передвижения на полях сражений в заснеженной и лесной местности."/>
     <string id="UMmY3eTo" text="Major Accomplishment"/>
     <string id="UPaP0B2L" text="Alchyla"/>
     <string id="uPTsPxX4" text="minstrel"/>
@@ -4116,7 +4116,7 @@
     <string id="VmI7l2i7" text="One day, your kid asks you, which skill was most useful to you in your life."/>
     <string id="vMT92Xzz" text="20% attrition against besieger siege engines."/>
     <string id="Vp8Pwou8" text="Horde Leader"/>
-    <string id="vPbx5vJQ" text="50% Better chance of success with disguise missions"/>
+    <string id="vPbx5vJQ" text="На 50% больше шансов на успех в миссиях где требуется маскировка"/>
     <string id="vpxBLXHH" text="The caravan got lost, and it was your child who spotted the landmarks to get it back on course"/>
     <string id="VRLbAaYe" text="Thank you for saving my business {?PLAYER.GENDER}madam{?}sir{\?}. Here is your payment."/>
     <string id="Vv2ednFa" text="Education"/>
@@ -4166,13 +4166,13 @@
     <string id="XFtVpYvh" text="Your child crafted {?CHILD.GENDER}her{?}his{\?} own suit of mail. The artisan said that he has never seen such dedication and patience in one so young."/>
     <string id="xg8habbc" text="Alagur"/>
     <string id="xgIDGakc" text="Recruitment costs are reduced by 15%."/>
-    <string id="XjbPBIct" text="Increase troop wounded recovery ratio by 20% while in an army."/>
+    <string id="XjbPBIct" text="Увеличьте коэффициент восстановления раненых на 20% в армии."/>
     <string id="XKxeaF0I" text="Dalidos"/>
-    <string id="xLbfPMKR" text="Troops in your party start battles with +5 battle morale."/>
+    <string id="xLbfPMKR" text="Войска в вашей группе начинают сражения с боевым духом +5."/>
     <string id="XMTD2clw" text="Rhoe"/>
     <string id="xmUio4im" text="{?CHILD.GENDER}She{?}He{\?} sits on the saddle so comfortably, like {?CHILD.GENDER}she{?}he{\?} was born on it. "/>
     <string id="xoARIHde" text="In Best Light"/>
-    <string id="XpIxj8Nb" text="Bandit prisoners can be recruited to party 30% faster"/>
+    <string id="XpIxj8Nb" text="Заключенных бандитов можно нанимать в группу на 30% быстрее."/>
     <string id="xPRuDJCu" text="Guide Your Tutor"/>
     <string id="xQ0aBavD" text="Back off, stranger, unless you want trouble."/>
     <string id="XQkY7jkL" text="Pick Them Of The Walls"/>
@@ -4238,6 +4238,6 @@
     <string id="ZZ7Q3VOG" text="Thank you my {?PLAYER.GENDER}lady{?}lord{\?}. I am indeed honored."/>
     <string id="zzOxYsv1" text="Each troop in the garrison gains +5 xp per day"/>
     <string id="ZZvdmmn4" text="Your troops receive 25% less morale penalty from casualties when using Shield Wall, Square, Skein or Column formations."/>
-    <string id="zZvU1ANu" text="Increase speed bonus effect to damage by 50% while on foot"/>
+    <string id="zZvU1ANu" text="На 50% увеличивает эффективность урона от бонуса скорости"/>
   </strings>
 </base>
