@@ -1583,14 +1583,14 @@
     <string id="dd7Owiys" text="Заключить мир с {FACTION}"/>
     <string id="empiremembers" text="Империя"/>
     <string id="ErnykQEH" text="Производит"/>
-    <string id="exhusbandbrotherinlaw" text="Former brother-in-law"/>
-    <string id="exhusbandfatherinlaw" text="Former father-in-law"/>
-    <string id="exhusbandmotherinlaw" text="Former mother-in-law"/>
-    <string id="exhusbandsisterinlaw" text="Former sister-in-law"/>
-    <string id="exwifebrotherinlaw" text="Former brother-in-law"/>
-    <string id="exwifefatherinlaw" text="Former father-in-law"/>
-    <string id="exwifemotherinlaw" text="Former mother-in-law"/>
-    <string id="exwifesisterinlaw" text="Former sister-in-law"/>
+    <string id="exhusbandbrotherinlaw" text="Бывший деверь"/>
+    <string id="exhusbandfatherinlaw" text="Бывший свёкр"/>
+    <string id="exhusbandmotherinlaw" text="Бывшая свекровь"/>
+    <string id="exhusbandsisterinlaw" text="Бывшая золовка"/>
+    <string id="exwifebrotherinlaw" text="Бывший шурин"/>
+    <string id="exwifefatherinlaw" text="Бывший тесть"/>
+    <string id="exwifemotherinlaw" text="Бывшая тёща"/>
+    <string id="exwifesisterinlaw" text="Бывшая свояченица"/>
     <string id="forgeverb" text="Ковка"/>
     <string id="fQ2RLaOa" text="Клан не владеет вотчиной"/>
     <string id="G5yvspkZ" text="Отступление не возможно, дуэль продолжается!"/>
@@ -1600,10 +1600,10 @@
     <string id="guardnoun" text="Охрана"/>
     <string id="homesettlement" text="Дом"/>
     <string id="hometab" text="Главная"/>
-    <string id="husbandbrotherinlaw" text="brother-in-law"/>
-    <string id="husbandfatherinlaw" text="father-in-law"/>
-    <string id="husbandmotherinlaw" text="mother-in-law"/>
-    <string id="husbandsisterinlaw" text="sister-in-law"/>
+    <string id="husbandbrotherinlaw" text="деверь"/>
+    <string id="husbandfatherinlaw" text="свёкр"/>
+    <string id="husbandmotherinlaw" text="свекровь"/>
+    <string id="husbandsisterinlaw" text="золовка"/>
     <string id="ioKwRFcj" text="Рассмотрите возможность заключения мира (Поддержка: {SUPPORT}%)"/>
     <string id="izKWEAbY" text="Клан не имеет дополнительных доходов"/>
     <string id="JAFIo7cM" text=":"/>
@@ -1625,10 +1625,10 @@
     <string id="smithingverb" text="Кузнечное дело"/>
     <string id="tnZ7BfO9" text="Предложение мира"/>
     <string id="vqHDX6hf" text="+{BONUS_AMOUNT} повышение лояльности к поселению"/>
-    <string id="wifebrotherinlaw" text="brother-in-law"/>
-    <string id="wifefatherinlaw" text="father-in-law"/>
-    <string id="wifemotherinlaw" text="mother-in-law"/>
-    <string id="wifesisterinlaw" text="sister-in-law"/>
+    <string id="wifebrotherinlaw" text="шурин"/>
+    <string id="wifefatherinlaw" text="тесть"/>
+    <string id="wifemotherinlaw" text="тёща"/>
+    <string id="wifesisterinlaw" text="свояченица"/>
     <string id="XCz81XYm" text="Потребляет"/>
     <string id="XgioIHv6" text="Принять существующее решение"/>
     <string id="4U6x48yQ" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} и {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}возглавляют{?}возглавляет{\?} битву."/>
