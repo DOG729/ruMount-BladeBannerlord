@@ -26,7 +26,7 @@
     <string id="0I6xdead" text="налогообложение землевладельцев на их собственность"/>
     <string id="0i8RgslK" text="Или, быть может, один из ваших спутников наряду с {COMPANION_NEED_GOLD_AMOUNT}{GOLD_ICON} золота и с небольшой помощью {ALTERNATIVE_TROOP_AMOUNT} людей сможет всё провернуть.."/>
     <string id="0JxFiVPt" text="Персонаж может использовать более эффективный метод производства древесного угля, который производит 3 единицы древесного угля из 2 единиц древесины."/>
-    <string id="0M6ApEr2" text="Surely you know that {FIRST_NAME} is {RELATIONSHIP} as well as my liege, and will always be able to count on my loyalty."/>
+    <string id="0M6ApEr2" text="Surely you know that {HERO.FIRSTNAME} is {RELATIONSHIP} as well as my liege, and will always be able to count on my loyalty."/>
     <string id="0mK6MIJW" text="Продолжай, дитя мое."/>
     <string id="0mKYUNb8" text="Права На Охоту "/>
     <string id="0mVwnCES" text="Я должен кое-что сказать. Ваши люди говорят, что их зарплаты удерживают. Мы должны позаботиться, чтобы этого больше не произошло."/>
@@ -135,7 +135,7 @@
     <string id="3cQs44Et" text="Увеличение отношения с противоположным полом на 20%"/>
     <string id="3cw5pRFM" text="Я не думал, что я мог бы жениться на Дева. Но это интригует. Скажи мне, Ты убивал людей в бою?"/>
     <string id="3Ditaq1M" text="Бонус Процветания Империи "/>
-    <string id="3gbgjJfZ" text="Честно, что вы думаете о вашем вассале, {FIRST_NAME}?"/>
+    <string id="3gbgjJfZ" text="Честно, что вы думаете о вашем вассале, {HERO.FIRSTNAME}?"/>
     <string id="3gXc2ZzJ" text="Вам нужно более дикое прошлое"/>
     <string id="3IBVEOwh" text="Я все еще думаю, что мы может быть не готовы еще."/>
     <string id="3j6Ec63l" text="Странствующие Слухи"/>
@@ -192,7 +192,7 @@
     <string id="55CsWKbg" text="Некоторые королевства, особенно те, которые произошли от города-государства или племени, имели народные собрания, на которые большинство его членов имели право присутствовать. Их полномочия часто были ограничены, поскольку они могли встречаться только периодически, но все же давали общественности право участвовать в управлении государством."/>
     <string id="563qB3ar" text="Я могу только надеяться, что если они узнают мою преданность, они примут меня."/>
     <string id="59ijHPtR" text="Да. Это очень много, но я могу заплатить."/>
-    <string id="5a0NhbOA" text="Ваш сеньор, {FIRST_NAME}, не стоит вашей верности."/>
+    <string id="5a0NhbOA" text="Ваш сеньор, {HERO.FIRSTNAME}, не стоит вашей верности."/>
     <string id="5acLha5Q" text="Караванщик"/>
     <string id="5Adr6toM" text="{MENU_TEXT}"/>
     <string id="5ao0RdRT" text="Ну, я не отрицаю, что в тебе есть что-то такое, к чему меня тянет."/>
@@ -535,7 +535,7 @@
     <string id="bjJs0eeB" text="Милорд, отмечу, что вы еще не женились."/>
     <string id="BJxJwCc5" text="Спасибо, {?PLAYER.GENDER}мадам{?}сэр{\?}. Разбойникам было бы неразумно связываться с вами."/>
     <string id="bJZJI867" text="Брак"/>
-    <string id="bKsb7tcr" text="Давайте честно, что вы думаете о нашем вассале {FIRST_NAME}?"/>
+    <string id="bKsb7tcr" text="Давайте честно, что вы думаете о нашем вассале {HERO.FIRSTNAME}?"/>
     <string id="BkTiRPT4" text="Тренировочные поля"/>
     <string id="BktSNgY4" text="Мы против этого предложения"/>
     <string id="bL5YPUbd" text="Повышение на 20% опыта для войск из сражений."/>
@@ -2189,7 +2189,7 @@
     <string id="Ysjh2GF2" text="Преследуем эту лошадь. я приведу {?TARGET_HERO.GENDER}живой{?}живым{\?}."/>
     <string id="ySmxkiKH" text="Поехали!"/>
     <string id="yT6XN4Mr" text="Сады"/>
-    <string id="YTAdoNHW" text="{FIRST_NAME} из деревни {VILLAGE_NAME}"/>
+    <string id="YTAdoNHW" text="{HERO.FIRSTNAME} из деревни {VILLAGE_NAME}"/>
     <string id="YtC0993C" text="+1 влияния в день за каждый отряд союзных лордов, которые не находятся в том же городе или армии, что и вы."/>
     <string id="ytdZutjw" text="Я буду готова щедро платить за каждый день Караван на дороге. Это будет больше, чем я обычно платить за охранники каравана, но вы похожи на человека, кому отправить сообщение, чтобы эти абреки, что мои караваны не связываться."/>
     <string id="yTOVeqYe" text="Декларация о мире"/>
@@ -4021,7 +4021,7 @@
     <string id="6M3mbAHQ" text="{HERO.FIRSTNAME} Роза"/>
     <string id="6qssnVgo" text="{HERO.FIRSTNAME} {?HERO.GENDER}Гранатовая{?}Гранатовый{\?}"/>
     <string id="6tBhhNaC" text="{HERO.FIRSTNAME} Гнилой зуб"/>
-    <string id="6zxo4AU9" text="Это большая честь, ваша {?PLAYER.GENDER}милость{?}светлость{\?}. Есть минутка? Я могу оказать вам услугу."/>
+    <string id="6zxo4AU9" text="Это большая честь, ваша {?PLAYER.GENDER}миледи{?}милорд{\?}. Есть минутка? Я могу оказать вам услугу."/>
     <string id="75vJc53f" text="Унхорсер"/>
     <string id="7h3wBoIt" text="{?HERO.GENDER}Кровавая{?}Кровавый{\?} {HERO.FIRSTNAME}"/>
     <string id="7uzvI8e8" text="Расходы бюджета фракции"/>
