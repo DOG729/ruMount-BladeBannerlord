@@ -3995,181 +3995,181 @@
     <string id="ZZvdmmn4" text="Your troops receive 25% less morale penalty from casualties when using Shield Wall, Square, Skein or Column formations."/>
     <string id="zZvU1ANu" text="На 50% увеличивает эффективность урона от бонуса скорости"/>
     <string id="0B6HlgnN" text="{HERO.FIRSTNAME} the Lizard"/>
-    <string id="1gMfbcaO" text="{HERO.FIRSTNAME} of the Staff"/>
-    <string id="1Tft1d4A" text="{HERO.FIRSTNAME} the Boulder"/>
-    <string id="22tbyEYI" text="You received {COUNT} {ITEM} from {PARTY_NAME}."/>
-    <string id="2EzfAklA" text="You gave {COUNT} {ITEM} to {HERO.NAME}."/>
-    <string id="2PVm7NON" text="Partners in Crime"/>
-    <string id="2wixoeOF" text="Hairy {HERO.FIRSTNAME}"/>
-    <string id="36ZmyM8V" text="{HERO.FIRSTNAME} of the Harvest"/>
-    <string id="3EL0wY1h" text="Tell me about the details."/>
-    <string id="3JOd0l1N" text="{HERO.FIRSTNAME} the Spider"/>
-    <string id="3NROvpcO" text="Slowhand {HERO.FIRSTNAME}"/>
-    <string id="3qjJzjZb" text="{HERO.FIRSTNAME} the Beetle"/>
-    <string id="3raSG4Mi" text="{HERO.FIRSTNAME} of the Covenant"/>
-    <string id="3TIbxe5d" text="{HERO.FIRSTNAME} the Brewer"/>
-    <string id="3WYVggyD" text="{HERO.FIRSTNAME} the {?COASTAL}Mariner{?}Horsetrader{\?}"/>
-    <string id="4ATx01zS" text="{HERO.FIRSTNAME} the Rock"/>
-    <string id="4RWpqxwE" text="{HERO.FIRSTNAME} the Broker"/>
-    <string id="4t5zOiVF" text="{HERO.FIRSTNAME} of the Pillar"/>
-    <string id="5aDpzB1F" text="My men will deliver your goods on time don't worry."/>
-    <string id="5utDJYUv" text="{HERO.FIRSTNAME} the Knife"/>
-    <string id="6ALN43LY" text="{HERO.FIRSTNAME} of the Bell"/>
-    <string id="6gjSupBN" text="{HERO.FIRSTNAME} Mutton-pie"/>
-    <string id="6GmsZ7AG" text="You gave {COUNT} {ITEM} to {PARTY_NAME}."/>
-    <string id="6jrl3Rbb" text="{HERO.FIRSTNAME} Fishsauce"/>
-    <string id="6M3mbAHQ" text="{HERO.FIRSTNAME} of the Rose"/>
-    <string id="6qssnVgo" text="{HERO.FIRSTNAME} of the Pomegranate"/>
-    <string id="6tBhhNaC" text="{HERO.FIRSTNAME} Rottentooth"/>
-    <string id="6zxo4AU9" text="This is quite the honor, your {?PLAYER.GENDER}ladyship{?}lordship{\?}. Do have a minute? I may be able to do you a service."/>
-    <string id="75vJc53f" text="Unhorser"/>
-    <string id="7h3wBoIt" text="Bloody {HERO.FIRSTNAME}"/>
-    <string id="7uzvI8e8" text="Kingdom Budget Expenses"/>
-    <string id="8llksa4h" text="If so, you'll need a man with good understanding of trade. Also you will need at least {NUMBER_OF_TROOPS} fighting men to protect the goods while taking them to market and back."/>
-    <string id="8trsbRav" text="{HERO.FIRSTNAME} the {?HERO.GENDER}Widow{?}Orphan{\?}"/>
-    <string id="9Sa3bzlE" text="{HERO.FIRSTNAME} the Anvil"/>
-    <string id="9zJNjWes" text="{SETTLEMENT} was raided. Your agreement with {QUEST_GIVER.LINK} was canceled."/>
-    <string id="A5Gw3GNn" text="{HERO.FIRSTNAME} the Malady"/>
-    <string id="aa1lM2MV" text="{HERO.FIRSTNAME} the Angel"/>
-    <string id="AhiGlNRG" text="{HERO.FIRSTNAME} the {?NORTHERN}Furtrader{?}Incensetrader{\?}"/>
-    <string id="aIaRIsw4" text="Scabby {HERO.FIRSTNAME}"/>
-    <string id="ajePb62s" text="Quicksilver {HERO.FIRSTNAME}"/>
-    <string id="aqp9ZtXb" text="{HERO.FIRSTNAME} the Wart"/>
-    <string id="asePjBVy" text="{HERO.FIRSTNAME} the {?HERO.GENDER}Freedwoman{?}Freedman{\?}"/>
-    <string id="awCsv4UM" text="Tiny {HERO.FIRSTNAME}"/>
-    <string id="AZbJuZwF" text="{HERO.FIRSTNAME} Knucklebones"/>
-    <string id="BC4BC0ZC" text="{HERO.FIRSTNAME} the Spicetrader"/>
-    <string id="BGJpwxvm" text="We do have some problems, {?PLAYER.GENDER}madame{?}sir{\?}. A sickness passed through here last month. Praise the Heavens, only a few people died, but many were weakened and we couldn't get much work done. Now we need to hire some laborers from nearby settlements to make up the shortfall, but we don't have the tools for them. We're in a bit of a rush - do you think you could find tools for us?"/>
-    <string id="Bk62qb7O" text="Ironskull {HERO.FIRSTNAME}"/>
-    <string id="BOp61V4A" text="{QUEST_GIVER.LINK} told you that {?QUEST_GIVER.GENDER}she{?}he{\?} needs {._}{REQUIRED_ITEM} for {?QUEST_GIVER.GENDER}her{?}his{\?} village. {?QUEST_GIVER.GENDER}She{?}He{\?} asked you to bring {ITEM_COUNT} {._}{REQUIRED_ITEM} to {?QUEST_GIVER.GENDER}her{?}him{\?}. {PAYMENT_DESCRIPTION}"/>
-    <string id="bP3XdKK3" text="{HERO.FIRSTNAME} of the Dawn"/>
-    <string id="bqXpBNvF" text="Cinnamon {HERO.FIRSTNAME}"/>
-    <string id="Bsp30p3g" text="{HERO.FIRSTNAME} the Cooper"/>
-    <string id="bu2rmgY1" text="{HERO.FIRSTNAME} of the Willow-Tree"/>
-    <string id="ByRAgJy4" text="Housing Costs"/>
-    <string id="c7cdMWA3" text="Buttermilk {HERO.FIRSTNAME}"/>
-    <string id="chiIHo4b" text="Mangy {HERO.FIRSTNAME}"/>
-    <string id="CpafrIbY" text="{HERO.FIRSTNAME} the Miller"/>
-    <string id="CQWKrd0a" text="{HERO.FIRSTNAME} of the Spinning-Wheel"/>
-    <string id="daXZlOBi" text="We need {NUMBER_OF_ITEM} {?NUMBER_OF_ITEM&gt;1}units{?}unit{\?} of {._}{ITEM} in {NUMBER_OF_DAYS} days. We can offer {PAYMENT}{GOLD_ICON} for the tools and your services. What do you say?"/>
-    <string id="DCF2JOiJ" text="Stonehead {HERO.FIRSTNAME}"/>
-    <string id="dJVjbgyu" text="Any news about our tools {?PLAYER.GENDER}madame{?}sir{\?}?"/>
-    <string id="ELxhTMuy" text="Excellent. But please hurry - we need to put the men we hired to work right away. Good luck."/>
-    <string id="EnaT6Ma3" text="{HERO.FIRSTNAME} the Cat"/>
-    <string id="enZbJasV" text="When you have any amount of criminal rating you suffer 50% less trade penalty."/>
-    <string id="eQzskygV" text="{?QUEST_GIVER.GENDER}She{?}He{\?} will make payment as {EXCHANGE_ITEM_COUNT} {?EXCHANGE_ITEM_COUNT&gt;1}units{?}unit{\?} of {._}{EXCHANGE_ITEM} when the task is done."/>
-    <string id="EUJlNTrf" text="Pretty {HERO.FIRSTNAME}"/>
-    <string id="fh1auwJW" text="{HERO.FIRSTNAME} the {?HERO.GENDER}She-Wolf{?}Stallion{\?}"/>
-    <string id="FMbQeBfN" text="Increase the health of every mount in your party by 15."/>
-    <string id="FrLta5zf" text="{HERO.FIRSTNAME} the Fist"/>
-    <string id="FSa61zD4" text="{HERO.FIRSTNAME} the Hammer"/>
-    <string id="fYe25aEt" text="{HERO.FIRSTNAME} of the Well"/>
-    <string id="fZXEqTIP" text="{HERO.FIRSTNAME} of the Plough"/>
-    <string id="G6BC8HXY" text="{HERO.FIRSTNAME} of the Leavening"/>
-    <string id="g7a7vk3S" text="Troops in your party gain +5 hitpoints."/>
-    <string id="gbAztaSq" text="{HERO.FIRSTNAME} the Gutting-Knife"/>
-    <string id="ggGmjgIS" text="I think I can handle this myself."/>
-    <string id="glTzcivI" text="{HERO.FIRSTNAME} of the Spring"/>
-    <string id="gnuojd9u" text="{VILLAGE} Needs Tools"/>
-    <string id="GRAh1Nzw" text="Your troops get +1 hit point for every 2 skill points above 200 medicine skill."/>
-    <string id="gSmXyxue" text="{HERO.FIRSTNAME} the Tanner"/>
-    <string id="iCSVZj2e" text="{HERO.FIRSTNAME} the {?NORTHERN}Far-Farer{?}Caravanser{\?}"/>
-    <string id="JiAmC0NZ" text="{HERO.FIRSTNAME} the Mule"/>
-    <string id="Jin8cj45" text="{HERO.FIRSTNAME} the Minter"/>
-    <string id="jXTshvhV" text="You couldn't fully bring {ITEM} to {?QUEST_GIVER.GENDER}her{?}him{\?} on time."/>
-    <string id="JxUrkzd1" text="Thank you. I hope your men can get us the tools on time. Good luck."/>
-    <string id="K4MRSU6i" text="Sleepy {HERO.FIRSTNAME}"/>
-    <string id="KDOFexQb" text="{HERO.FIRSTNAME} the Chandler"/>
-    <string id="kiJxwqVh" text="{HERO.FIRSTNAME} the Wheeler"/>
-    <string id="KiUVswtx" text="{HERO.FIRSTNAME} the Mercer"/>
-    <string id="kJlOvZEm" text="Boss {HERO.FIRSTNAME}"/>
-    <string id="KQ1js10G" text="{HERO.FIRSTNAME} the Appraiser"/>
-    <string id="L6N2YLa6" text="{HERO.FIRSTNAME} the Finger"/>
-    <string id="lkLNrscj" text="{HERO.FIRSTNAME} the {?HERO.GENDER}Maid{?}Steward{\?}"/>
-    <string id="lwLhrGWV" text="{HERO.FIRSTNAME} Flatcakes"/>
-    <string id="M8PXWpyV" text="Collected {ITEM}"/>
-    <string id="MaK0r9as" text="{HERO.FIRSTNAME} the Cudgel"/>
-    <string id="MRJ06SU7" text="{HERO.FIRSTNAME} the Thorn"/>
-    <string id="N6DvC4hN" text="{HERO.FIRSTNAME} of the Mirror"/>
-    <string id="NH5N3kP5" text="No governor"/>
-    <string id="nNUZOwhb" text="Redeye {HERO.FIRSTNAME}"/>
-    <string id="npuC7IBM" text="{HERO.FIRSTNAME} the Dyer"/>
-    <string id="NTPVzs9z" text="Poxy {HERO.FIRSTNAME}"/>
-    <string id="nunbdOY1" text="{HERO.FIRSTNAME} the Supplier"/>
-    <string id="Oq3OFXyC" text="Lucky {HERO.FIRSTNAME}"/>
-    <string id="PakhagOy" text="Your clan is now at war with {QUEST_GIVER.LINK}'s lord. Your agreement with {QUEST_GIVER.LINK} was canceled."/>
-    <string id="pbDr5JFs" text="{HERO.FIRSTNAME} the Steward"/>
-    <string id="pL3s39hv" text="Clever {HERO.FIRSTNAME}"/>
-    <string id="PMio7set" text="Marital Status"/>
-    <string id="qezuzVuY" text="{HERO.FIRSTNAME} the Goat"/>
-    <string id="qhe6SGa3" text="{HERO.FIRSTNAME} Stewbones"/>
-    <string id="qIAgh9VL" text="Not Married"/>
-    <string id="qmwv27To" text="{HERO.FIRSTNAME} the Mouse"/>
-    <string id="QskefraA" text="{HERO.FIRSTNAME} of the Ram"/>
-    <string id="QUFmBtbk" text="{HERO.FIRSTNAME} of the Sandal"/>
-    <string id="qycE7IO0" text="{QUEST_GIVER.LINK} told you that {?QUEST_GIVER.GENDER}she{?}he{\?} needs {._}{ITEM} for {?QUEST_GIVER.GENDER}her{?}his{\?} village. You asked your companion {COMPANION.LINK} and {NEEDED_MEN_COUNT} of your men to deliver {NUMBER_OF_ITEM} {?NUMBER_OF_ITEM&gt;1}units{?}unit{\?} of {._}{ITEM} to {QUEST_GIVER.LINK}. They will rejoin your party in {ALTERNATIVE_SOLUTION_DURATION} days."/>
-    <string id="r9Tp4UGy" text="Honeytongue {HERO.FIRSTNAME}"/>
-    <string id="rFESkhK0" text="{HERO.FIRSTNAME} the Slicer"/>
-    <string id="SdK678BT" text="{HERO.FIRSTNAME} of the Cavern"/>
-    <string id="SydDh9jf" text="You received {COUNT} {ITEM} from {HERO.NAME}."/>
-    <string id="T3x9hVg9" text="{HERO.FIRSTNAME} of the Chalice"/>
-    <string id="t968gMty" text="{HERO.FIRSTNAME} the {?HERO.GENDER}Lady{?}Bastard{\?}"/>
-    <string id="TAlERbfz" text="Increase the armor provided by civillian body armors by 10."/>
-    <string id="TaouqUu7" text="{HERO.FIRSTNAME} of the Steps"/>
-    <string id="Td2RGRBn" text="Headman in the village requested tools to increase production."/>
-    <string id="tI8aoxXC" text="{HERO.FIRSTNAME} the Needle"/>
-    <string id="TJKi43Hv" text="{HERO.FIRSTNAME} of the Scroll"/>
-    <string id="tkaEZNpB" text="Of course. But… please hurry, {?PLAYER.GENDER}madame{?}sir{\?}. We can't afford to pay the hired men to sit around. We don't have much money to spare, {?PLAYER.GENDER}madame{?}sir{\?}."/>
-    <string id="TOGBPjmO" text="{HERO.FIRSTNAME} of the Seal"/>
-    <string id="Tp4X51vX" text="Maybe my men can handle this for you."/>
-    <string id="TrewB5c7" text="Now your {?IS_MAP_FACTION}clan{?}kingdom{\?} is at war with the {QUEST_GIVER.LINK}'s lord. Your agreement with {QUEST_GIVER.LINK} becomes invalid."/>
-    <string id="TrGGbtS4" text="{HERO.FIRSTNAME} of the Dove"/>
-    <string id="TtaEimaV" text="{HERO.FIRSTNAME} of the Bridge"/>
-    <string id="tTFUSJoe" text="{HERO.FIRSTNAME} the Smith"/>
-    <string id="TVRbkuhC" text="{HERO.FIRSTNAME} of the Trident"/>
-    <string id="TW4iKHCt" text="{HERO.FIRSTNAME} Foulbreath"/>
-    <string id="TX48zCzF" text="{HERO.FIRSTNAME} the Carpenter"/>
-    <string id="tx7iJMnc" text="{HERO.FIRSTNAME} the Silkvendor"/>
-    <string id="tzuN76ma" text="{HERO.FIRSTNAME} of the Axe"/>
-    <string id="u9LBrZnr" text="{HERO.FIRSTNAME} the Shark"/>
-    <string id="u9PPxTNL" text="Save Error!"/>
-    <string id="UAXaL9ro" text="Leadfoot {HERO.FIRSTNAME}"/>
-    <string id="UBk50qwW" text="{HERO.FIRSTNAME} of the Mound"/>
-    <string id="uBT9fuIi" text="Snake-eyes {HERO.FIRSTNAME}"/>
-    <string id="ubZmYdMn" text="Rancid {HERO.FIRSTNAME}"/>
-    <string id="ujDbk6Qa" text="{HERO.FIRSTNAME} the {?HERO.GENDER}Widow{?}Widow-maker{\?}"/>
-    <string id="ULWYVuVw" text="I'm still looking for your goods."/>
-    <string id="uO99raT7" text="Snotnose {HERO.FIRSTNAME}"/>
-    <string id="UuypR3B4" text="{HERO.FIRSTNAME} of the Gourd"/>
-    <string id="uwmfgcM3" text="We need {NUMBER_OF_ITEM} {?NUMBER_OF_ITEM&gt;1}units{?}unit{\?} of {._}{ITEM} in {NUMBER_OF_DAYS} days. The problem is village is short on denars so we can make the payment in kind - with {NUMBER_OF_EXCHANGE_ITEM} {?NUMBER_OF_EXCHANGE_ITEM&gt;1}units{?}unit{\?} of {._}{EXCHANGE_ITEM}. What do you say?"/>
-    <string id="uyTmrmCW" text="{HERO.FIRSTNAME} of the Reeds"/>
-    <string id="VJEM0IcV" text="Let's discuss the details then."/>
-    <string id="vp0FClX1" text="{HERO.FIRSTNAME} the Cargomaster"/>
-    <string id="VtjMGTWH" text="{HERO.FIRSTNAME} the Scorpion"/>
-    <string id="W0w0Eunx" text="Your companion {COMPANION.LINK} has delivered {ISSUE_GIVER.LINK}'s goods as you promised."/>
-    <string id="w290a2DV" text="{HERO.FIRSTNAME} the {?IMPERIAL}Sutler{?}Goodstrader{\?}"/>
-    <string id="wTyq7LaM" text="Silkworm Farm"/>
-    <string id="wuMJobac" text="{HERO.FIRSTNAME} the Factor"/>
-    <string id="WzBo28iT" text="{HERO.FIRSTNAME} the Scythe"/>
-    <string id="xdmhzukY" text="{HERO.FIRSTNAME} of the Hearth"/>
-    <string id="xeawD38S" text="Married"/>
-    <string id="xTtHdTsS" text="Poison {HERO.FIRSTNAME}"/>
-    <string id="xudfzjgJ" text="Little {HERO.FIRSTNAME}"/>
-    <string id="xWbSbNqy" text="Infantry in your party increase melee weapon skills by 30 while in shield wall formation."/>
-    <string id="y4vyNZxg" text="{HERO.FIRSTNAME} Sourwine"/>
-    <string id="Y7tozytM" text="Hello, {?PLAYER.GENDER}madam{?}sir{\?}. You have the bearing of a warrior .Do have a minute? We may have interests in common."/>
-    <string id="yF3cBat5" text="Thank you {?PLAYER.GENDER}madame{?}sir{\?}. Here is what we promised."/>
-    <string id="yG0JIiaS" text="{HERO.FIRSTNAME} the Jackal"/>
-    <string id="ynwbmuoG" text="{HERO.FIRSTNAME} the Viper"/>
-    <string id="ytqqEyFw" text="You brought {NUMBER_OF_ITEM} {?NUMBER_OF_ITEM&gt;1}units{?}unit{\?} of {ITEM} to {?QUEST_GIVER.GENDER}her{?}him{\?} as promised."/>
-    <string id="yvXNvh2B" text="Yes, I brought your tools."/>
-    <string id="YYYBGdh5" text="{HERO.FIRSTNAME} of the Lamp"/>
-    <string id="YYyoYwH2" text="{HERO.FIRSTNAME} of the Pasture"/>
-    <string id="Z48lYHBl" text="{HERO.FIRSTNAME} the Lamb"/>
-    <string id="z8LbFyNA" text="Dogface {HERO.FIRSTNAME}"/>
-    <string id="zE3sKAb2" text="{HERO.FIRSTNAME} the Turner"/>
-    <string id="zo13Dkoh" text="Crushfinger {HERO.FIRSTNAME}"/>
-    <string id="ZOTBiLiS" text="{?QUEST_GIVER.GENDER}She{?}He{\?} will pay you {PAYMENT}{GOLD_ICON} when the task is done."/>
-    <string id="zrDWbEJR" text="{HERO.FIRSTNAME} of the Gate"/>
+    <string id="1gMfbcaO" text="{HERO.FIRSTNAME} Прислуга"/>
+    <string id="1Tft1d4A" text="{HERO.FIRSTNAME} Валун"/>
+    <string id="22tbyEYI" text="Вы получили {COUNT} {ITEM} от {PARTY_NAME}."/>
+    <string id="2EzfAklA" text="Вы дали {COUNT} {ITEM} {HERO.NAME}."/>
+    <string id="2PVm7NON" text="Партнеры в преступлении"/>
+    <string id="2wixoeOF" text="{?HERO.GENDER}Волосатая{?}Волосатый{\?} {HERO.FIRSTNAME}"/>
+    <string id="36ZmyM8V" text="{HERO.FIRSTNAME} {?HERO.GENDER}Сборщица{?}Сборщик{\?}"/>
+    <string id="3EL0wY1h" text="Расскажите мне о деталях."/>
+    <string id="3JOd0l1N" text="{HERO.FIRSTNAME} {?HERO.GENDER}Паучиха{?}Паук{\?}"/>
+    <string id="3NROvpcO" text="{?HERO.GENDER}Медленнорукая{?}Медленнорукий{\?} {HERO.FIRSTNAME}"/>
+    <string id="3qjJzjZb" text="{HERO.FIRSTNAME} {?HERO.GENDER}Жучара{?}Жук{\?}"/>
+    <string id="3raSG4Mi" text="{HERO.FIRSTNAME} Завет"/>
+    <string id="3TIbxe5d" text="{HERO.FIRSTNAME} Пивовар"/>
+    <string id="3WYVggyD" text="{HERO.FIRSTNAME} {?COASTAL}Моряк{?}Конный торговец{\?}"/>
+    <string id="4ATx01zS" text="{HERO.FIRSTNAME} Скала"/>
+    <string id="4RWpqxwE" text="{HERO.FIRSTNAME} Брокер"/>
+    <string id="4t5zOiVF" text="{HERO.FIRSTNAME} Опора"/>
+    <string id="5aDpzB1F" text="Мои люди доставят ваш товар вовремя, не волнуйтесь."/>
+    <string id="5utDJYUv" text="{HERO.FIRSTNAME} Ножик"/>
+    <string id="6ALN43LY" text="{HERO.FIRSTNAME} {?HERO.GENDER}Звонкая{?}Звонкий{\?}"/>
+    <string id="6gjSupBN" text="{HERO.FIRSTNAME} “Бараний пирог”"/>
+    <string id="6GmsZ7AG" text="Вы дали {COUNT} {ITEM} {PARTY_NAME}."/>
+    <string id="6jrl3Rbb" text="{HERO.FIRSTNAME} “Рыбный соус”"/>
+    <string id="6M3mbAHQ" text="{HERO.FIRSTNAME} Роза"/>
+    <string id="6qssnVgo" text="{HERO.FIRSTNAME} {?HERO.GENDER}Гранатовая{?}Гранатовый{\?}"/>
+    <string id="6tBhhNaC" text="{HERO.FIRSTNAME} Гнилой зуб"/>
+    <string id="6zxo4AU9" text="Это большая честь, ваша {?PLAYER.GENDER}милость{?}светлость{\?}. Есть минутка? Я могу оказать вам услугу."/>
+    <string id="75vJc53f" text="Унхорсер"/>
+    <string id="7h3wBoIt" text="{?HERO.GENDER}Кровавая{?}Кровавый{\?} {HERO.FIRSTNAME}"/>
+    <string id="7uzvI8e8" text="Расходы бюджета фракции"/>
+    <string id="8llksa4h" text="В таком случае вам понадобится человек с хорошим пониманием торговли. Также вам понадобится определенное количество бойцов, чтобы защитить товары при доставке их на рынок и обратно, {NUMBER_OF_TROOPS} должно хватить."/>
+    <string id="8trsbRav" text="{HERO.FIRSTNAME} {?HERO.GENDER}Вдова{?}Сирота{\?}"/>
+    <string id="9Sa3bzlE" text="{HERO.FIRSTNAME} Наковальня"/>
+    <string id="9zJNjWes" text="{SETTLEMENT} находится под набегом. Ваше соглашение с {QUEST_GIVER.LINK} отменено."/>
+    <string id="A5Gw3GNn" text="{HERO.FIRSTNAME} {?HERO.GENDER}Расстроенная{?}Расстроенный{\?}"/>
+    <string id="aa1lM2MV" text="{HERO.FIRSTNAME} Ангел"/>
+    <string id="AhiGlNRG" text="{HERO.FIRSTNAME} {?NORTHERN}Торговец мехом{?}Торговец благовониями{\?}"/>
+    <string id="aIaRIsw4" text="{?HERO.GENDER}Подлая{?}Подлый{\?} {HERO.FIRSTNAME}"/>
+    <string id="ajePb62s" text="{?HERO.GENDER}Ртутная{?}Ртутный{\?} {HERO.FIRSTNAME}"/>
+    <string id="aqp9ZtXb" text="{HERO.FIRSTNAME} Бородавка"/>
+    <string id="asePjBVy" text="{HERO.FIRSTNAME} {?HERO.GENDER}Свободная{?}Свободный{\?}"/>
+    <string id="awCsv4UM" text="{?HERO.GENDER}Крохотная{?}Крохотный{\?} {HERO.FIRSTNAME}"/>
+    <string id="AZbJuZwF" text="{HERO.FIRSTNAME} Костяшки"/>
+    <string id="BC4BC0ZC" text="{HERO.FIRSTNAME} Торговец специями"/>
+    <string id="BGJpwxvm" text="У нас есть проблемы, {?PLAYER.GENDER}мадам{?}сир{\?}. В прошлом месяце здесь прошла болезнь. Слава Небесам, умерло всего несколько человек, но многие были ослаблены, и мы не смогли выполнить много работы. Теперь нам нужно нанять рабочих из близлежащих поселений, чтобы восполнить дефицит, но у нас нет для них инструментов. Мы немного торопимся - как вы думаете, сможете ли вы найти для нас инструменты?"/>
+    <string id="Bk62qb7O" text="Железный череп {HERO.FIRSTNAME}"/>
+    <string id="BOp61V4A" text="{QUEST_GIVER.LINK} {?QUEST_GIVER.GENDER}сказала{?}сказала{\?} вам, что {?QUEST_GIVER.GENDER}ей{?}ему{\?} нужно {._}{REQUIRED_ITEM} для {?QUEST_GIVER.GENDER}ее{?}его{\?} деревни. {?QUEST_GIVER.GENDER}Она просила{?}Он просил{\?} вас принести {ITEM_COUNT} {._}{REQUIRED_ITEM} {?QUEST_GIVER.GENDER}ей{?}ему{\?}. {PAYMENT_DESCRIPTION}"/>
+    <string id="bP3XdKK3" text="{HERO.FIRSTNAME} Рассвет"/>
+    <string id="bqXpBNvF" text="Корица {HERO.FIRSTNAME}"/>
+    <string id="Bsp30p3g" text="{HERO.FIRSTNAME} Бондарь"/>
+    <string id="bu2rmgY1" text="{HERO.FIRSTNAME} Ива"/>
+    <string id="ByRAgJy4" text="Стоимость жилья"/>
+    <string id="c7cdMWA3" text="Пахта {HERO.FIRSTNAME}"/>
+    <string id="chiIHo4b" text="{?HERO.GENDER}Паршивая{?}Паршивый{\?} {HERO.FIRSTNAME}"/>
+    <string id="CpafrIbY" text="{HERO.FIRSTNAME} Мельник"/>
+    <string id="CQWKrd0a" text="{HERO.FIRSTNAME} {?HERO.GENDER}Прядильщица{?}Прядильщик{\?}"/>
+    <string id="daXZlOBi" text="Нам нужно {._}{ITEM}, {NUMBER_OF_ITEM} {?NUMBER_OF_ITEM>1}единиц{?}единица{\?}, в течение {NUMBER_OF_DAYS} дней. Мы можем предложить {PAYMENT}{GOLD_ICON} за инструменты и ваши услуги. Что вы скажете?"/>
+    <string id="DCF2JOiJ" text="Каменная голова {HERO.FIRSTNAME}"/>
+    <string id="dJVjbgyu" text="Есть новости о наших инструментах {?PLAYER.GENDER}мадам{?}сир{\?}?"/>
+    <string id="ELxhTMuy" text="Превосходно. Поторопитесь, необходимо, чтобы те кого мы наняли сразу же начали работать. Удачи!"/>
+    <string id="EnaT6Ma3" text="{HERO.FIRSTNAME} {?HERO.GENDER}Кошка{?}Кот{\?}"/>
+    <string id="enZbJasV" text="Когда у вас есть криминальный рейтинг, вы получаете на 50% меньше торгового штрафа."/>
+    <string id="eQzskygV" text="{?QUEST_GIVER.GENDER}Она предложила{?}Он предложил{\?} {._}{EXCHANGE_ITEM} {EXCHANGE_ITEM_COUNT} {?EXCHANGE_ITEM_COUNT>1}единицы{?}единица{\?} в качестве оплаты, когда задача будет выполнена."/>
+    <string id="EUJlNTrf" text="Симпатяшко {HERO.FIRSTNAME}"/>
+    <string id="fh1auwJW" text="{HERO.FIRSTNAME} {?HERO.GENDER}Волчица{?}Жеребец{\?}"/>
+    <string id="FMbQeBfN" text="Увеличит здоровье каждого верхового животного в вашем отряде на 15."/>
+    <string id="FrLta5zf" text="{HERO.FIRSTNAME} Кулак"/>
+    <string id="FSa61zD4" text="{HERO.FIRSTNAME} Молот"/>
+    <string id="fYe25aEt" text="{HERO.FIRSTNAME} {?HERO.GENDER}Хорошая{?}Хороший{\?}"/>
+    <string id="fZXEqTIP" text="{HERO.FIRSTNAME} с Плугов"/>
+    <string id="G6BC8HXY" text="{HERO.FIRSTNAME} {?HERO.GENDER}Квашенная{?}Квашенный{\?}"/>
+    <string id="g7a7vk3S" text="Войска в вашем отряде получат +5 здоровья."/>
+    <string id="gbAztaSq" text="{HERO.FIRSTNAME} {?HERO.GENDER}Потрошительница{?}Потрошитель{\?}"/>
+    <string id="ggGmjgIS" text="Я думаю, что справлюсь с этим, самостоятельно."/>
+    <string id="glTzcivI" text="{HERO.FIRSTNAME} {?HERO.GENDER}Весенняя{?}Весенний{\?}"/>
+    <string id="gnuojd9u" text="{VILLAGE} нуждается в инструментах"/>
+    <string id="GRAh1Nzw" text="Ваши войска получат +1 очко здоровья за каждые 2 очка навыка выше 200."/>
+    <string id="gSmXyxue" text="{HERO.FIRSTNAME} {?HERO.GENDER}Дубильщица{?}Дубильщик{\?}"/>
+    <string id="iCSVZj2e" text="{HERO.FIRSTNAME} {?NORTHERN}Далёкий{?}Каравансер{\?}"/>
+    <string id="JiAmC0NZ" text="{HERO.FIRSTNAME} Мул"/>
+    <string id="Jin8cj45" text="{HERO.FIRSTNAME} {?HERO.GENDER}Чеканщица{?}Чеканщик{\?}"/>
+    <string id="jXTshvhV" text="Вы не могли полностью довести {ITEM} к {?QUEST_GIVER.GENDER}ней{?}нему{\?} во время."/>
+    <string id="JxUrkzd1" text="Спасибо. Надеюсь, ваши люди вовремя доставят нам инструменты. Удачи."/>
+    <string id="K4MRSU6i" text="{?HERO.GENDER}Сонная{?}Сонный{\?} {HERO.FIRSTNAME}"/>
+    <string id="KDOFexQb" text="{HERO.FIRSTNAME} {?HERO.GENDER}Лавочница{?}Лавочник{\?}"/>
+    <string id="kiJxwqVh" text="{HERO.FIRSTNAME} Колесный мастер"/>
+    <string id="KiUVswtx" text="{HERO.FIRSTNAME} Мерсер"/>
+    <string id="kJlOvZEm" text="Босс {HERO.FIRSTNAME}"/>
+    <string id="KQ1js10G" text="{HERO.FIRSTNAME} {?HERO.GENDER}Оценщица{?}Оценщик{\?}"/>
+    <string id="L6N2YLa6" text="{HERO.FIRSTNAME} Палец"/>
+    <string id="lkLNrscj" text="{HERO.FIRSTNAME} {?HERO.GENDER}Горничная{?}Управляющий{\?}"/>
+    <string id="lwLhrGWV" text="{HERO.FIRSTNAME} Лепешки"/>
+    <string id="M8PXWpyV" text="Собрано {ITEM}"/>
+    <string id="MaK0r9as" text="{HERO.FIRSTNAME} Дубина"/>
+    <string id="MRJ06SU7" text="{HERO.FIRSTNAME} {?HERO.GENDER}Колючая{?}Колючий{\?}"/>
+    <string id="N6DvC4hN" text="{HERO.FIRSTNAME} {?HERO.GENDER}Зеркальная{?}Зеркальный{\?}"/>
+    <string id="NH5N3kP5" text="Нет губернатора"/>
+    <string id="nNUZOwhb" text="{?HERO.GENDER}Красноглазая{?}Красноглазый{\?} {HERO.FIRSTNAME}"/>
+    <string id="npuC7IBM" text="{HERO.FIRSTNAME} {?HERO.GENDER}Красильщица{?}Красильщик{\?}"/>
+    <string id="NTPVzs9z" text="{?HERO.GENDER}Никудышная{?}Никудышный{\?} {HERO.FIRSTNAME}"/>
+    <string id="nunbdOY1" text="{HERO.FIRSTNAME} Снабженец"/>
+    <string id="Oq3OFXyC" text="{?HERO.GENDER}Счастливица{?}Счастливчик{\?} {HERO.FIRSTNAME}"/>
+    <string id="PakhagOy" text="{QUEST_GIVER.LINK} и ваш клан в состояние войны. {QUEST_GIVER.LINK} отменяет свое соглашение."/>
+    <string id="pbDr5JFs" text="{HERO.FIRSTNAME} {?HERO.GENDER}Управляющая{?}Управляющий{\?}"/>
+    <string id="pL3s39hv" text="{?HERO.GENDER}Умная{?}Умный{\?} {HERO.FIRSTNAME}"/>
+    <string id="PMio7set" text="Семейный статус"/>
+    <string id="qezuzVuY" text="{HERO.FIRSTNAME} {?HERO.GENDER}Настоящая коза{?}Реальный козел{\?"/>
+    <string id="qhe6SGa3" text="{HERO.FIRSTNAME} из Горячих костей"/>
+    <string id="qIAgh9VL" text="Не в браке"/>
+    <string id="qmwv27To" text="{HERO.FIRSTNAME} Крыса"/>
+    <string id="QskefraA" text="{HERO.FIRSTNAME} Баран"/>
+    <string id="QUFmBtbk" text="{HERO.FIRSTNAME} из Сандалии"/>
+    <string id="qycE7IO0" text="{QUEST_GIVER.LINK} {?QUEST_GIVER.GENDER}сказала{?}сказал{\?} вам, что {?QUEST_GIVER.GENDER}ей{?}ему{\?} нужно {._}{ITEM} для {?QUEST_GIVER.GENDER}ее{?}его{\?} деревни. Вы спросили своего компаньона {COMPANION.LINK} и {NEEDED_MEN_COUNT} ваших людей доставить {NUMBER_OF_ITEM} {?NUMBER_OF_ITEM>1}единицы{?}единица{\?} {._}{ITEM} к {?QUEST_GIVER.GENDER}ней{?}нему{\?}. Они присоединятся к вашему отряду через {ALTERNATIVE_SOLUTION_DURATION} дней."/>
+    <string id="r9Tp4UGy" text="Медовый язык {HERO.FIRSTNAME}"/>
+    <string id="rFESkhK0" text="{HERO.FIRSTNAME} {?HERO.GENDER}Нарезчица{?}Нарезчик{\?}"/>
+    <string id="SdK678BT" text="{HERO.FIRSTNAME} из Пещеры"/>
+    <string id="SydDh9jf" text="Вы получили {COUNT} {ITEM} от {HERO.NAME}."/>
+    <string id="T3x9hVg9" text="{HERO.FIRSTNAME} из Чаши"/>
+    <string id="t968gMty" text="{HERO.FIRSTNAME} {?HERO.GENDER}Леди{?}Ублюдок{\?}"/>
+    <string id="TAlERbfz" text="Увеличит броню гражданской экипировки на 10."/>
+    <string id="TaouqUu7" text="{HERO.FIRSTNAME} из Шагающих"/>
+    <string id="Td2RGRBn" text="Старейшина деревни просит инструменты для увеличения производства."/>
+    <string id="tI8aoxXC" text="{HERO.FIRSTNAME} Игла"/>
+    <string id="TJKi43Hv" text="{HERO.FIRSTNAME} из Свитка"/>
+    <string id="tkaEZNpB" text="Конечно. Но... поторопитесь, пожалуйста, {?PLAYER.GENDER}мадам{?}сир{\?}. Мы не можем позволить себе платить наемным людям, чтобы они сидели без дела. У нас нет лишних денег, {?PLAYER.GENDER}мадам{?}сир{\?}."/>
+    <string id="TOGBPjmO" text="{HERO.FIRSTNAME} из Тюленей"/>
+    <string id="Tp4X51vX" text="Может быть, мои люди справятся с этим для вас."/>
+    <string id="TrewB5c7" text="В данный момент {?IS_MAP_FACTION}ваш клан{?}ваша фракция{\?} и {QUEST_GIVER.LINK} в состояние войны. {QUEST_GIVER.LINK} и его соглашение с вами более не действительно."/>
+    <string id="TrGGbtS4" text="{HERO.FIRSTNAME} из Голубей"/>
+    <string id="TtaEimaV" text="{HERO.FIRSTNAME} из Мостовых"/>
+    <string id="tTFUSJoe" text="{HERO.FIRSTNAME} Кузнец"/>
+    <string id="TVRbkuhC" text="{HERO.FIRSTNAME} из Трезубца"/>
+    <string id="TW4iKHCt" text="{HERO.FIRSTNAME} Зловонное дыхание"/>
+    <string id="TX48zCzF" text="{HERO.FIRSTNAME} Плотник"/>
+    <string id="tx7iJMnc" text="{HERO.FIRSTNAME} Продавец шелка"/>
+    <string id="tzuN76ma" text="{HERO.FIRSTNAME} из Топора"/>
+    <string id="u9LBrZnr" text="{HERO.FIRSTNAME} Акула"/>
+    <string id="u9PPxTNL" text="Ошибка сохранения!"/>
+    <string id="UAXaL9ro" text="Ведущая стопа {HERO.FIRSTNAME}"/>
+    <string id="UBk50qwW" text="{HERO.FIRSTNAME} из Холмов"/>
+    <string id="uBT9fuIi" text="{?HERO.GENDER}Змееглазая{?}Змееглазый{\?} {HERO.FIRSTNAME}"/>
+    <string id="ubZmYdMn" text="{?HERO.GENDER}Прогорклая{?}Прогорклый{\?} {HERO.FIRSTNAME}"/>
+    <string id="ujDbk6Qa" text="{HERO.FIRSTNAME} {?HERO.GENDER}Вдова{?}Создатель вдов{\?}"/>
+    <string id="ULWYVuVw" text="Я все еще ищу ваш товар."/>
+    <string id="uO99raT7" text="{?HERO.GENDER}Сопливая{?}Сопливый{\?} {HERO.FIRSTNAME}"/>
+    <string id="UuypR3B4" text="{HERO.FIRSTNAME} из Тыквы"/>
+    <string id="uwmfgcM3" text="Нам нужно {._}{ITEM}, {NUMBER_OF_ITEM} {?NUMBER_OF_ITEM>1}единиц{?}единица{\?} в течение {NUMBER_OF_DAYS} дней. Проблема в том, что в деревне не хватает динар, поэтому мы можем произвести оплату в натуральной форме - {._}{EXCHANGE_ITEM} {NUMBER_OF_EXCHANGE_ITEM} {?NUMBER_OF_EXCHANGE_ITEM>1}единиц{?}единица{\?} . Что скажете?"/>
+    <string id="uyTmrmCW" text="{HERO.FIRSTNAME} из Камышей"/>
+    <string id="VJEM0IcV" text="Тогда давайте обсудим детали."/>
+    <string id="vp0FClX1" text="{HERO.FIRSTNAME} Мастер грузов"/>
+    <string id="VtjMGTWH" text="{HERO.FIRSTNAME} Скорпион"/>
+    <string id="W0w0Eunx" text="Ваш компаньон {COMPANION.LINK} {?COMPANION.GENDER}доставила{?}доставил{\?} товар как было обещано. {ISSUE_GIVER.LINK} {?ISSUE_GIVER.GENDER}рада{?}рад{\?} этому."/>
+    <string id="w290a2DV" text="{HERO.FIRSTNAME} {?IMPERIAL}Маркетант{?}Торговец товарами{\?}"/>
+    <string id="wTyq7LaM" text="Ферма шелкопряда"/>
+    <string id="wuMJobac" text="{HERO.FIRSTNAME} Фактор"/>
+    <string id="WzBo28iT" text="{HERO.FIRSTNAME} Коса"/>
+    <string id="xdmhzukY" text="{HERO.FIRSTNAME} из Очага"/>
+    <string id="xeawD38S" text="В браке"/>
+    <string id="xTtHdTsS" text="{?HERO.GENDER}Ядовитая{?}Ядовитый{\?} {HERO.FIRSTNAME}"/>
+    <string id="xudfzjgJ" text="{?HERO.GENDER}Маленькая{?}Маленький{\?} {HERO.FIRSTNAME}"/>
+    <string id="xWbSbNqy" text="Пехота в вашем отряде увеличивает навыки владения оружием ближнего боя на 30, находясь в строю «стена щитов»."/>
+    <string id="y4vyNZxg" text="{HERO.FIRSTNAME} Кислое вино"/>
+    <string id="Y7tozytM" text="Здравствуйте, {?PLAYER.GENDER}мадам{?}сир{\?}. У вас манеры воина. Есть минутка? У нас могут быть общие интересы."/>
+    <string id="yF3cBat5" text="Спасибо {?PLAYER.GENDER}мадам{?}сир{\?}. Вот как мы обещали."/>
+    <string id="yG0JIiaS" text="{HERO.FIRSTNAME} {?HERO.GENDER}Шакалиха{?}Шакал{\?}"/>
+    <string id="ynwbmuoG" text="{HERO.FIRSTNAME} {?HERO.GENDER}Гадюка{?}Гад{\?}"/>
+    <string id="ytqqEyFw" text="Вы принесли {NUMBER_OF_ITEM} {?NUMBER_OF_ITEM>1}единиц{?}единицу{\?} {ITEM} к {?QUEST_GIVER.GENDER}ней{?}нему{\?} как обещали."/>
+    <string id="yvXNvh2B" text="Да, я {?PLAYER.GENDER}принесла{?}принес{\?} ваши инструменты."/>
+    <string id="YYYBGdh5" text="{HERO.FIRSTNAME} из Ламп"/>
+    <string id="YYyoYwH2" text="{HERO.FIRSTNAME} с Пастбищ"/>
+    <string id="Z48lYHBl" text="{HERO.FIRSTNAME} {?HERO.GENDER}Овечка{?}Ягненок{\?}"/>
+    <string id="z8LbFyNA" text="Собачья морда {HERO.FIRSTNAME}"/>
+    <string id="zE3sKAb2" text="{HERO.FIRSTNAME} Тёрнер"/>
+    <string id="zo13Dkoh" text="Пальцелом {HERO.FIRSTNAME}"/>
+    <string id="ZOTBiLiS" text="{?QUEST_GIVER.GENDER}Она{?}Он{\?} заплатит вам {PAYMENT}{GOLD_ICON} когда задача будет выполнена."/>
+    <string id="zrDWbEJR" text="{HERO.FIRSTNAME} из Гате"/>
   </strings>
 </base>
