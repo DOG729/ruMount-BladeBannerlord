@@ -25,7 +25,6 @@
     <string id="IwhpeT8C" text="Уровень : {PLAYER_LEVEL}"/>
     <string id="IXwOaa98" text="Размер отряда"/>
     <string id="JAFIo7cM" text=":"/>
-    <string id="kJtNMYum" text="Несоответствие модуля"/>
     <string id="L9GnQvsq" text="Ставка: {BETTED_DENARS}"/>
     <string id="LBNzsqyb" text="Владения"/>
     <string id="lh0so0uX" text="Хотите загрузить сохраненную игру другими модулями?"/>
@@ -52,5 +51,9 @@
     <string id="deleteaction" text="Удалить"/>
     <string id="nVGqjtaa" text="Campaign {ID}"/>
     <string id="uncategorized_save" text="Uncategorized"/>
+    <string id="7AFlpaem" text="{STR1} {STR2}"/>
+    <string id="gDKhs4lD" text="{A0} has died on the battlefield."/>
+    <string id="ol0rBSrb" text="{STR1}{newline}{STR2}"/>
+    <string id="r7xdYj4q" text="Module Mismatch"/>
   </strings>
 </base>

@@ -30,7 +30,6 @@
     <string id="3oUbmqJY" text="Синхронизирует игру с частотой обновления монитора. Устраняет эффекты разрыва.{newline}Половинная синхронизация выдает только половину частоты кадров от частоты обновления монитора"/>
     <string id="3P7eDKEY" text="Экипировать предмет 4"/>
     <string id="3sRdGQou" text="Выйти"/>
-    <string id="3V0bvyLC" text="{STR1}{STR2}"/>
     <string id="3YwMXbAT" text="Ускорить время на глобальной карте."/>
     <string id="44akzqlm" text="Стрелка Вправо"/>
     <string id="45yEpDdE" text="Масштабирование экрана"/>
@@ -427,7 +426,6 @@
     <string id="wYicqUa9" text="Время на карты нормальное"/>
     <string id="X5cSNxHf" text="5"/>
     <string id="x7kYOUfi" text="Громкость эффектов"/>
-    <string id="x7OgHYfc" text="{LEFT}"/>
     <string id="x7qfk550" text="Q"/>
     <string id="xEquRfRF" text="10"/>
     <string id="xnGGas4h" text="Инвертировать ось Y для управления камерой."/>
@@ -539,5 +537,15 @@
     <string id="Vea6bRUO" text="Enable interface elements that report players damage and casualities in center bottom."/>
     <string id="vJ41v8zh" text="Friendly Troops Banner Opacity"/>
     <string id="ZKg3DqbQ" text="Determines the opacity of the banners shown on top of the friendly troops."/>
+    <string id="pialOblr" text="Order Hold"/>
+    <string id="qDVoGsb9" text="Hold to give orders with a gamepad."/>
+    <string id="qNPmVDmU" text="Sets the NVIDIA DLSS method if applicable. "/>
+    <string id="sCjtEbTF" text="These modules have been removed from the game:"/>
+    <string id="t0vgSn7D" text="Select Next Group"/>
+    <string id="TbCbHxeF" text="Toggle Group Selection"/>
+    <string id="Uc1n5MRj" text="NVIDIA DLSS"/>
+    <string id="vJDxgaOZ" text="These modules' versions are different:"/>
+    <string id="WVpVmbzC" text="These modules are new in the game:"/>
+    <string id="ZoDugJHP" text="Select Previous Group"/>
   </strings>
 </base>

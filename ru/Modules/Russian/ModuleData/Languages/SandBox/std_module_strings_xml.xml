@@ -57,5 +57,8 @@
     <string id="yKJ9c8IV" text="Enable Right Side Circle Map Notifications"/>
     <string id="SrkDqNdb" text="Enable Tutorial Popups"/>
     <string id="t47EzcbW" text="Enable Tutorial"/>
+    <string id="irBV6UE4" text="{MINUTE} {?IS_PLURAL}minutes{?}minute{\?}"/>
+    <string id="k0nSlwe9" text="Auto Save Interval"/>
+    <string id="yLa9ftit" text="Sets the interval of time between autosaves."/>
   </strings>
 </base>
