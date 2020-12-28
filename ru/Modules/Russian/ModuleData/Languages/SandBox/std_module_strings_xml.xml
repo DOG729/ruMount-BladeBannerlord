@@ -51,14 +51,14 @@
     <string id="hR6Zo6pD" text="Богатый"/>
     <string id="NaMPa4ML" text="Авторитарный"/>
     <string id="veterandifficulty" text="Ветеран"/>
-    <string id="9l5RgXiU" text="Choose if circle map notifications will be shown on the right side on campaign map."/>
+    <string id="9l5RgXiU" text="Выбрав эту опцию, на карте кампании будут отображаться уведомления о заключение мира, войне, сборе армий, голосование фракции."/>
     <string id="aEnXxe0a" text="Вы можете зажать ({LEAVE_AREA_KEY}) для выхода из текущей области."/>
     <string id="lfDzgLTa" text="{PROFESSION} в {LOCATION}"/>
-    <string id="yKJ9c8IV" text="Enable Right Side Circle Map Notifications"/>
-    <string id="SrkDqNdb" text="Enable Tutorial Popups"/>
-    <string id="t47EzcbW" text="Enable Tutorial"/>
+    <string id="yKJ9c8IV" text="Включить уведомления на карте кампании"/>
+    <string id="SrkDqNdb" text="Включить всплывающие окна обучение"/>
+    <string id="t47EzcbW" text="Включить обучение"/>
     <string id="irBV6UE4" text="{MINUTE} {?IS_PLURAL}minutes{?}minute{\?}"/>
-    <string id="k0nSlwe9" text="Auto Save Interval"/>
-    <string id="yLa9ftit" text="Sets the interval of time between autosaves."/>
+    <string id="k0nSlwe9" text="Интервал автосохранения"/>
+    <string id="yLa9ftit" text="Устанавливает интервал времени между автосохранениями."/>
   </strings>
 </base>
