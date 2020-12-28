@@ -314,7 +314,7 @@
     <string id="7Vw6iYNI" text="{?CHARACTER.GENDER}Она умерла{?}Он умер{\?} при рождении в {YEAR}г в возрасте {CHARACTER.AGE}. {?CHARACTER.GENDER}У нее{?}У него{\?} после этого пошла репутация {REPUTATION}"/>
     <string id="7WlQ0Twr" text="{WEAPON} в {SETTLEMENT} побило пару солдат {BESIEGER}!"/>
     <string id="7ZqusnEa" text="Персонаж может производить необработанное железо более эффективно, получая 3 единицы необработанного железа из 1 единицы железной руды."/>
-    <string id="81qgJ7fW" text="Каждый прибыльный магазин, которым вы владеете, приносит +1 известность в день"/>
+    <string id="81qgJ7fW" text="Каждая прибыльная мастерская, которой вы владеете, приносит +1 известность в день"/>
     <string id="83iwPPVH" text="Сильный кузнец"/>
     <string id="84vpd3LI" text="Армию Разогнали"/>
     <string id="85kgOyBj" text="После мучительных дней в заточении в темнице, вы обнаруживаете, что есть шанс выбраться из нее и сбежать из поселения!"/>
@@ -1565,7 +1565,7 @@
     <string id="oYJCP3mt" text="Вы не смогли остановить дезертиров. Дезертиров опустошают деревни и оставили."/>
     <string id="oYUAuLO7" text="Вы поклялись не нападать."/>
     <string id="OzyrsZZK" text="Вы пробились сквозь нападающих, чтобы сбежать из поселения. Когда через некоторое время ваши силы перегруппировываются, вы быстро подсчитываете и видите, что потеряли следующее: {CASUALTIES}.{OTHER_CASUALTIES}"/>
-    <string id="p1buAbOQ" text="Урожай был плохой, и крысы съели многих из наших магазинов. Мы можем съесть и подтянуть несколько ремней, но если у нас нет семенного зерна на завод, мы будем голодать в следующем году."/>
+    <string id="p1buAbOQ" text="Урожай был плохим, и крысы съели большую часть наших запасов. Мы можем меньше есть и затянуть пояса, но если у нас не останется зерна для посадки, мы будем голодать в следующем году."/>
     <string id="p1Y3EU5O" text="Тренировка Ополчения"/>
     <string id="p2rTaKo8" text="У вас нет прав на престол. Даже в маловероятном случае, что другие последуют за вами, другой узурпатор будет просто подняться, чтобы победить вас."/>
     <string id="P2VNGJDa" text="Вымогательство дезертирами в {SETTLEMENT}"/>
@@ -3588,7 +3588,7 @@
     <string id="EvB1yamR" text="Some forms of entertainment, like trick knife throws, are useful on the battlefield as well."/>
     <string id="eVTnUmSB" text="Price of Loyalty"/>
     <string id="Ew69yN84" text="Juthys"/>
-    <string id="eWa2Rcla" text="У ваших магазинов на 20% ниже стоимость обслуживания."/>
+    <string id="eWa2Rcla" text="У ваших мастерских на 20% ниже стоимость обслуживания."/>
     <string id="EX5cZDLH" text="Tight Formations"/>
     <string id="EZR23u6f" text="Recover governed villages 30% faster."/>
     <string id="f0abqIAz" text="Gang leaders in your settlement offer you 1 more recruitment slot."/>
@@ -3713,7 +3713,7 @@
     <string id="jmIeMFlV" text="All organizations and institutions are practically machines. And your {?CHILD.GENDER}daughter{?}son{\?} have to have an understanding of know how its all working together."/>
     <string id="jNMxOWTK" text="Talbar"/>
     <string id="JNO1Idby" text="...assisted the smith"/>
-    <string id="jPcULnsk" text="Ваши магазины мастерские 5000 динар, когда город захвачен врагом"/>
+    <string id="jPcULnsk" text="Ваши мастерские 5000 динар, когда город захвачен врагом"/>
     <string id="JQLBeL7V" text="Gearth"/>
     <string id="JQligd8z" text="The council of the {KINGDOM} has chosen {KING.NAME} as the new ruler."/>
     <string id="JRJTlmG3" text="Minstrels frequently sing of nature and the hunt and are often great travellers, skilled at living rough on the land. Your child was encouraged to accompany the ministrel on his roamings."/>
