@@ -616,7 +616,7 @@
     <string id="gKbGZObs" text="общий запас"/>
     <string id="GKO2ogal" text="Коррупция"/>
     <string id="gKzLAjXr" text="Обратите внимание на то, как сплоченность вашей армии снизилась до минимума, и, довольно вероятно, ваша армия распадется.{newline}Вы можете нажать на кнопку управления армией, чтобы повысить вашу сплоченность."/>
-    <string id="GNkrUdwb" text="Твоя помощь была очень кстати, незнакомец. Мое имя {NPC.LINK}. Могу я узнать твоё?"/>
+    <string id="GNkrUdwb" text="Твоя помощь была очень кстати, незнакомец. Мое имя {CONVERSATION_CHARACTER.LINK}. Могу я узнать твоё?"/>
     <string id="GnWy8WAW" text="Лояльность:"/>
     <string id="gNzXoCrq" text="Можешь идти, букашка."/>
     <string id="GopVkA1q" text="Бандит"/>
@@ -663,7 +663,7 @@
     <string id="HmbvM9Na" text="Вы хотите пропустить текущую матч?"/>
     <string id="HMgrtLYa" text="Ваш чемпион проиграл дуэль. Ваша армия разочарована этим поражением. Ваша партия теряет боевой дух."/>
     <string id="hMIjbLjt" text="мадам"/>
-    <string id="hmlUJaDa" text="Неплохая встреча {PLAYER.LINK}. Мое имя {NPC.LINK} и я навсегда в долгу перед тобой. Если есть что-нить, в чем я могу тебе помочь, просто дай мне знать..."/>
+    <string id="hmlUJaDa" text="Неплохая встреча {PLAYER.LINK}. Мое имя {CONVERSATION_CHARACTER.LINK} и я навсегда в долгу перед тобой. Если есть что-нить, в чем я могу тебе помочь, просто дай мне знать..."/>
     <string id="HNBAw1uO" text="{PARTY} получила {AMOUNT_TO_ADD} известности. Известность {CLAN} теперь {NEW_RENOWN}."/>
     <string id="HNqy4Ctc" text="Нельзя исключить спутника, который отбыл по поручению."/>
     <string id="ho5EndaV" text="Решение"/>
@@ -747,7 +747,7 @@
     <string id="j9Weia10" text="Легкий"/>
     <string id="jbQ3LYBl" text="император"/>
     <string id="JbTCDDb0" text="Болт"/>
-    <string id="jCbYaCcg" text="Наконец-то мы встретились, {PLAYER.LINK}. Я {NPC.LINK}. Спасибо за помощь, и, я надеюсь, мы встретимся вновь."/>
+    <string id="jCbYaCcg" text="Наконец-то мы встретились, {PLAYER.LINK}. Я {CONVERSATION_CHARACTER.LINK}. Спасибо за помощь, и, я надеюсь, мы встретимся вновь."/>
     <string id="Jd0Kq9lD" text="Щит"/>
     <string id="jd4ULLGr" text="Активные Задания"/>
     <string id="JdNTRtpJ" text="Поддерживайте высокий боевой дух вашего отряда. Собирайте и возглавляйте армии."/>
