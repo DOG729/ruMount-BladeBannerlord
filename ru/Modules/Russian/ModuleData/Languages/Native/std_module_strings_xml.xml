@@ -1612,13 +1612,13 @@
     <string id="LJ6Krlbr" text="Разведка"/>
     <string id="lockverb" text="Замок"/>
     <string id="mountnoun" text="Маунт"/>
-    <string id="NaAA5kjG" text="Попробуйте помириться, получая дань {TRIBUTE} в день. (Поддержка: {SUPPORT}%)"/>
+    <string id="NaAA5kjG" text="Рассмотрите возможность заключения мира. Вы будете получать дань в размере {TRIBUTE} в день. (Поддержка: {SUPPORT}%)"/>
     <string id="NbgeKwVr" text="Мастерские"/>
     <string id="oTGDxKW7" text="Объявить войну {FACTION}"/>
     <string id="policypropose" text="Предложить"/>
     <string id="PYaUEZzn" text="Рассмотрите возможность объявления войны (Поддержка: {SUPPORT}%)"/>
-    <string id="rangedtroop" text="Дальнебойный"/>
-    <string id="RdsbyNE2" text="Попробуйте помириться, отдавая дань {TRIBUTE} в день. (Поддержка: {SUPPORT}%)"/>
+    <string id="rangedtroop" text="Стрелки"/>
+    <string id="RdsbyNE2" text="Рассмотрите возможность заключения мира. Вы будете выплачивать дань в размере {TRIBUTE} в день. (Поддержка: {SUPPORT}%)"/>
     <string id="rHSjMjWX" text="Принять Решение"/>
     <string id="siegeevent" text="Осада"/>
     <string id="smeltverb" text="Плавка"/>
@@ -1634,7 +1634,7 @@
     <string id="4U6x48yQ" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} и {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}возглавляют{?}возглавляет{\?} битву."/>
     <string id="KafFddmO" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} и {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}защищают{?}защищает{\?} генерала."/>
     <string id="settlementtrack" text="Track"/>
-    <string id="u3c9M8vx" text="лукавство"/>
+    <string id="u3c9M8vx" text="архонесса"/>
     <string id="FZBqNCvd" text="никто"/>
     <string id="h8Bcd7NE" text="{FACTION} Выборы правителя"/>
     <string id="K5uR5HVX" text="Нажмите '{EXTEND_KEY}' для получения дополнительной информации."/>
@@ -1645,10 +1645,10 @@
     <string id="7pAZatbz" text="{?RULER.GENDER}Императрица{?}Император{\?} {RULER.NAME}"/>
     <string id="BbYFboh2" text="{RULER.NAME} {?RULER.GENDER}Бекум{?}Бек{\?}"/>
     <string id="jM9KGCIa" text="{?RULER.GENDER}Эмира{?}Эмир{\?} {RULER.NAME}"/>
-    <string id="lb13ceVM" text="{?RULER.GENDER}Высшая королева{?}Высший король{\?} {RULER.NAME}"/>
+    <string id="lb13ceVM" text="{?RULER.GENDER}Верховная королева{?}Верховный король{\?} {RULER.NAME}"/>
     <string id="lqm9PfF1" text="{?RULER.GENDER}Княгиня{?}Князь{\?} {RULER.NAME}"/>
     <string id="nAaT19CC" text="{?RULER.GENDER}Архонисса{?}Архонт{\?} {RULER.NAME}"/>
-    <string id="nojcK4ia" text="{?RULER.GENDER}Великая принцесса{?}Великий князь{\?} {RULER.NAME}"/>
+    <string id="nojcK4ia" text="{?RULER.GENDER}Великая княгиня{?}Великий князь{\?} {RULER.NAME}"/>
     <string id="rGNrtXSx" text="Вы прибыли, чтобы защитить {SETTLEMENT} от нападавших."/>
     <string id="veiFupWz" text="{?RULER.GENDER}Баронесса{?}Барон{\?} {RULER.NAME}"/>
     <string id="X4qO3jBf" text="{?RULER.GENDER}Банмормэр{?}Мормэр{\?} {RULER.NAME}"/>
