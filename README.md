@@ -31,6 +31,7 @@
 * BROadu$
 * Halynsky
 * Artess999
+* PupuseG
 
 # Используете наш русификатор за основу?
 1. в SubModule.xml обязательно оставить автора;
