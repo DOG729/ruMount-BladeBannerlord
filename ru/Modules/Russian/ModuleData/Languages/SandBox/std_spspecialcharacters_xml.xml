@@ -25,9 +25,9 @@
     <string id="azCSz9QH" text="из Сокрытой Длани"/>
     <string id="bgH96Pqw" text="{HERO.FIRSTNAME} Виноторговец"/>
     <string id="bpw8fOs5" text="из Каракергитов"/>
-    <string id="bvjFhiDr" text="Ученый"/>
+    <string id="bvjFhiDr" text="{HERO.FIRSTNAME} Ученый"/>
     <string id="C1CM5ejx" text="{HERO.FIRSTNAME} Торговец вином"/>
-    <string id="c5Kjcxsa" text="Странник"/>
+    <string id="c5Kjcxsa" text="{HERO.FIRSTNAME} Странник"/>
     <string id="CePmep0z" text="Браконьер"/>
     <string id="cP1o8eUs" text="из Джаввалов"/>
     <string id="CQOlMayc" text="Сирота"/>
@@ -42,72 +42,72 @@
     <string id="HexR178w" text="{HERO.FIRSTNAME} Караванщик"/>
     <string id="hrMatilh" text="Кузнец"/>
     <string id="iDxUTViN" text="{HERO.FIRSTNAME} Измеритель"/>
-    <string id="IgOTjF4i" text="из Гулямов"/>
-    <string id="IVnvHF8S" text="из Элефтериев"/>
-    <string id="Ivx4uJVp" text="Безмолвный"/>
-    <string id="j2nVPqIX" text="Ястреб"/>
-    <string id="jepZ0btT" text="Уверенный в себе соперник"/>
-    <string id="jG3duO7A" text="из Избранных"/>
-    <string id="jKAhAoVb" text="из Лесных Людей"/>
-    <string id="JL8RBEu3" text="из Бени Зилэл"/>
-    <string id="Kcax8j1W" text="{HERO.FIRSTNAME} Освободившаяся"/>
-    <string id="KkStFl12" text="из Ульфхеднаров"/>
-    <string id="KnTl4ESh" text="Угонщик скота"/>
+    <string id="IgOTjF4i" text="из Гилманов"/>
+    <string id="IVnvHF8S" text="из Элефтхеройцев"/>
+    <string id="Ivx4uJVp" text="{HERO.FIRSTNAME} Безмолвный"/>
+    <string id="j2nVPqIX" text="{HERO.FIRSTNAME} Ястреб"/>
+    <string id="jepZ0btT" text="Уверенный соперник"/>
+    <string id="jG3duO7A" text="из Выбранных"/>
+    <string id="jKAhAoVb" text="из Лесного народа"/>
+    <string id="JL8RBEu3" text="из Бану-зилальцев"/>
+    <string id="Kcax8j1W" text="{HERO.FIRSTNAME} Свободная"/>
+    <string id="KkStFl12" text="из Вольчьих шкур"/>
+    <string id="KnTl4ESh" text="{HERO.FIRSTNAME} Платок"/>
     <string id="KphYbafC" text="Смелый соперник"/>
-    <string id="KTObbG71" text="Заблудший"/>
-    <string id="KY2zbWkj" text="Стремительный"/>
-    <string id="LmlL8fVu" text="Кровавый топор"/>
+    <string id="KTObbG71" text="{HERO.FIRSTNAME} Обиженная"/>
+    <string id="KY2zbWkj" text="{HERO.FIRSTNAME} Стремительная"/>
+    <string id="LmlL8fVu" text="{HERO.FIRSTNAME} Кровавый топор"/>
     <string id="mcbREzPt" text="из Хранителей"/>
-    <string id="mtBA7sfk" text="Выносливый соперник"/>
-    <string id="muC2SGlM" text="из Отбросов"/>
+    <string id="mtBA7sfk" text="Сложный претендент"/>
+    <string id="muC2SGlM" text="{HERO.FIRSTNAME} из Потерянных"/>
     <string id="NfObPWYk" text="{HERO.FIRSTNAME} Благодетель"/>
-    <string id="nqE62lQW" text="Чернозуб"/>
-    <string id="NSaetzNJ" text="Углежог"/>
-    <string id="ntkipfCV" text="Шумный"/>
-    <string id="NWuGUi4p" text="Львица"/>
-    <string id="OArAImbM" text="с Холмов"/>
-    <string id="OFWvD0xe" text="Гиена"/>
-    <string id="OIXub6bS" text="Одинокий"/>
+    <string id="nqE62lQW" text="{HERO.FIRSTNAME} Чернозуб"/>
+    <string id="NSaetzNJ" text="{HERO.FIRSTNAME} Угольщик"/>
+    <string id="ntkipfCV" text="{HERO.FIRSTNAME} Громкий"/>
+    <string id="NWuGUi4p" text="{HERO.FIRSTNAME} Леопард"/>
+    <string id="OArAImbM" text="{HERO.FIRSTNAME} из Холмов"/>
+    <string id="OFWvD0xe" text="{HERO.FIRSTNAME} Гиена"/>
+    <string id="OIXub6bS" text="{HERO.FIRSTNAME} Одинокая"/>
     <string id="oJJPZOKf" text="Викрам"/>
     <string id="OzjuQYGH" text="из Сколдерброды"/>
     <string id="pTuZB1Hj" text="Железнобрюхий"/>
     <string id="pZSAdyC0" text="Мясник"/>
-    <string id="q5QjQyde" text="Безумный"/>
+    <string id="q5QjQyde" text="{HERO.FIRSTNAME} Безумный"/>
     <string id="qeNv4ftk" text="{HERO.FIRSTNAME} Посредник"/>
     <string id="QGcgQDqK" text="из Братства"/>
     <string id="Qm5cstq3" text="Улук"/>
     <string id="qP11ARtb" text="{HERO.FIRSTNAME} Сирота"/>
-    <string id="qslA0bVb" text="Красный"/>
-    <string id="QWbgE4bw" text="Стальной глаз"/>
-    <string id="QyQPJJ9B" text="Проклятый"/>
+    <string id="qslA0bVb" text="{HERO.FIRSTNAME} Красный"/>
+    <string id="QWbgE4bw" text="{HERO.FIRSTNAME} Стальной глаз"/>
+    <string id="QyQPJJ9B" text="{HERO.FIRSTNAME} Проклятый"/>
     <string id="qzpdvbhm" text="{HERO.FIRSTNAME} Торговец шелком"/>
     <string id="R0NM6lfm" text="Рокель"/>
-    <string id="rgdi5Sxa" text="Принц"/>
-    <string id="rtsnnL2J" text="Дева щита"/>
-    <string id="sdzaip5J" text="Знающий"/>
-    <string id="seS9ZZUW" text="Серый сокол"/>
+    <string id="rgdi5Sxa" text="{HERO.FIRSTNAME} Принц"/>
+    <string id="rtsnnL2J" text="{HERO.FIRSTNAME} Дубощит"/>
+    <string id="sdzaip5J" text="{HERO.FIRSTNAME} Все-Знающий"/>
+    <string id="seS9ZZUW" text="Серый сокол {HERO.FIRSTNAME}"/>
     <string id="sk64gxdw" text="Достойный соперник"/>
     <string id="t9e34kgH" text="Головорез"/>
     <string id="TXUOeT7L" text="{HERO.FIRSTNAME} Чеканщик"/>
-    <string id="TyxXbqVw" text="Сокол"/>
+    <string id="TyxXbqVw" text="{HERO.FIRSTNAME} Сокол"/>
     <string id="VKhh9i1l" text="из Озерных щук"/>
     <string id="vmwCdada" text="Джихан"/>
-    <string id="vtXRptVa" text="Золотой"/>
-    <string id="W7aa22Yl" text="Череполом"/>
+    <string id="vtXRptVa" text="Золотой {HERO.FIRSTNAME}"/>
+    <string id="W7aa22Yl" text="{HERO.FIRSTNAME} Череполом"/>
     <string id="waA4ph2S" text="{HERO.FIRSTNAME} Добытчик соли"/>
     <string id="WNyWySAH" text="из озерных щук"/>
-    <string id="WU5GnkvR" text="Рыба"/>
-    <string id="WvwWX4me" text="Большая бочка"/>
+    <string id="WU5GnkvR" text="{HERO.FIRSTNAME} Рыба"/>
+    <string id="WvwWX4me" text="{HERO.FIRSTNAME} Большая бочка"/>
     <string id="X2TtXlAq" text="Пресцила"/>
     <string id="x95hX9Qv" text="{HERO.FIRSTNAME} Торговец благовониями"/>
-    <string id="XBJtv4mD" text="Торговец специями"/>
-    <string id="xTQPfmS9" text="Бык"/>
-    <string id="XuxARPTM" text="Злопамятный"/>
-    <string id="ykTARD4b" text="Изгнанник"/>
-    <string id="yr5pa0hs" text="Ивовая кора"/>
-    <string id="ZCc3VFat" text="Седовласый"/>
+    <string id="XBJtv4mD" text="{HERO.FIRSTNAME} Торговец специями"/>
+    <string id="xTQPfmS9" text="{HERO.FIRSTNAME} Бык"/>
+    <string id="XuxARPTM" text="{HERO.FIRSTNAME} Злопамятный"/>
+    <string id="ykTARD4b" text="{HERO.FIRSTNAME} Изгнанник"/>
+    <string id="yr5pa0hs" text="{HERO.FIRSTNAME} Ивовая кора"/>
+    <string id="ZCc3VFat" text="{HERO.FIRSTNAME} Седовласый"/>
     <string id="zXiMWnbX" text="{HERO.FIRSTNAME} Наследница"/>
-    <string id="zXjdb1zT" text="Белобородый"/>
+    <string id="zXjdb1zT" text="{HERO.FIRSTNAME} Белобородый"/>
     <string id="nDtjEazo" text="Снайпер"/>
     <string id="zCQaPTOK" text="Наемник"/>
   </strings>
