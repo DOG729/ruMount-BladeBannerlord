@@ -2766,8 +2766,8 @@
     <string id="Arwl4bAi" text="Повышает боевой дух каждого отряда 1–3 уровня на 10%."/>
     <string id="AsjB3siS" text="Войска дальнего боя в управляемом гарнизоне обеспечивают на 20% больше безопасности."/>
     <string id="aT0uYDuo" text="Снайпер"/>
-    <string id="B0YOpGsZ" text="Any news about my prisoners?"/>
-    <string id="b1lsZNxE" text="You failed to deliver enough prisoners in time. {QUEST_GIVER.LINK} must be disappointed."/>
+    <string id="B0YOpGsZ" text="Есть новости о моих заключенных?"/>
+    <string id="b1lsZNxE" text="Вы не успели доставить достаточно заключенных. {QUEST_GIVER.LINK}, должно быть, разочарован."/>
     <string id="b4BX9Fr5" text="Управляемые поселения получают +1 ополчение в день."/>
     <string id="b9NaTqyr" text="Дополнительная защита защитника"/>
     <string id="BajgWS2n" text="Войска в вашем формировании с арбалетом получают на 3% меньше урона от дальних атак."/>
@@ -2819,7 +2819,7 @@
     <string id="grgnisK4" text="Ответный огонь"/>
     <string id="H2zjWQLk" text="Войска с луком в вашей группе получают небольшое количество опыта каждый день."/>
     <string id="h7zHLPX5" text="Увеличьте визуальную дальность обзора на карте на 10%."/>
-    <string id="h83ZU95t" text="Deep Quivers"/>
+    <string id="h83ZU95t" text="Глубокие колчаны"/>
     <string id="Hl33qopv" text="Управляемые поселения, связанные с деревнями, имеют +5% производства."/>
     <string id="HM2XzVr7" text="Конные войска в вашем формировании нагоняют страх, вызывая на 5% больше штрафа боевого духа, когда они убивают врагов на расстоянии."/>
     <string id="HM60zpIf" text="Ваши войска дальнего боя получают +1 к опыту каждый день."/>
@@ -3234,7 +3234,7 @@
     <string id="9y3X0MQg" text="Loose Formations"/>
     <string id="9zdy5pLv" text="Было легко увязнуть в теориях метания камней, и сборки осадных башен. Но вашего ребенка интересовало больше, почему одни осады удачные, а другие нет."/>
     <string id="a2ajWcI3" text="Viria"/>
-    <string id="a3ZCe7Re" text="Your child learned to treat the mangled fingers and concussions without which no siege is complete."/>
+    <string id="a3ZCe7Re" text="Ваш ребенок научился лечить искалеченные пальцы и сотрясения мозга, без которых никакая осада не обходится."/>
     <string id="a4XGmdd9" text="Lady's Knight Out"/>
     <string id="a6qaFH7L" text="Herena"/>
     <string id="a7iyhqNR" text="На 10% увеличена грузоподъемность войск."/>
@@ -3243,7 +3243,7 @@
     <string id="AccBcEIt" text="Zoana"/>
     <string id="acp2IcMs" text="Crotor"/>
     <string id="AcYxyuDL" text="5% бонус к скорости передвижения в пустынях и дюнах"/>
-    <string id="Adah5bay" text="The most powerful weapons require years of practice and conditioning to use properly. Their wielders need to start early."/>
+    <string id="Adah5bay" text="Чтобы правильно использовать самое мощное оружие, требуются годы практики и тренировок. Их владельцам нужно начинать рано."/>
     <string id="AdK4Ilzw" text="Chalia"/>
     <string id="aeLgc0cU" text="Acthon"/>
     <string id="aEt1kqxm" text="{PEACEMAKER_RULER.NAME} of the {KINGDOM_CONSIDERING_PEACE} has decided to make peace with the {KINGDOM}, with his {?PEACEMAKER_RULER.GENDER}her{?}his{\?} council evenly divided on the matter."/>
@@ -3607,7 +3607,7 @@
     <string id="MdHxq5EM" text="Ваш хозяин был из тех, кто любит вести переговоры с седла в погоне за оленями."/>
     <string id="MGr3FJEs" text="Мастер по оружию"/>
     <string id="MhRF64eR" text="Яростный атакующий"/>
-    <string id="mhUmO65C" text="Moving while overburdened gives +1 passive xp to all troops to all troops daily."/>
+    <string id="mhUmO65C" text="Перемещение в перегруженном состоянии дает +1 пассивного опыта всем войскам ежедневно."/>
     <string id="mIfHAazB" text="Повышение эффективности проекта более чем на 20%. "/>
     <string id="MISEi5Bh" text="Увеличит максимальное дальность обнаружения следов на 20%"/>
     <string id="mjgyGxjK" text="It's a {?CHILD.GENDER}girl{?}boy{\?}!  The Heavens have blessed your family with a healthy child. When you look at {?CHILD.GENDER}her{?}him{\?} you can already see that {?CHILD.GENDER}she{?}he{\?} has your..."/>
@@ -3652,7 +3652,7 @@
     <string id="O3M6gHgb" text="...managed the logistics of travel"/>
     <string id="O5dgeoss" text="Sound Reserves"/>
     <string id="OBaoqrlV" text="the Huntsman"/>
-    <string id="oBl6SxeJ" text="{ISSUE_OWNER.LINK} wants you to participate in a tournament in her name."/>
+    <string id="oBl6SxeJ" text="{ISSUE_OWNER.LINK} хочет, чтобы вы приняли участие в турнире от ее имени."/>
     <string id="ODpmvGFf" text="Дополнительные +4 морали в начале битвы, когда вы атакуете."/>
     <string id="Oe1NdVLe" text="{RULER.NAME} chose not to expel the {CLAN} clan from the {KINGDOM} with {?RULER.GENDER}her{?}his{\?} council evenly split on the matter."/>
     <string id="oE5etyy0" text="Mounted weapon speed &amp; reload penalty: {a0} %"/>
@@ -3842,12 +3842,12 @@
     <string id="uceH8ee5" text="...skirmished from a distance"/>
     <string id="uci5ucDK" text="{?CHILD.GENDER}She{?}He{\?} is at home in the wilderness. Moves like a cat, and have very keen ears and eyes."/>
     <string id="uCyAnus4" text="Zostios"/>
-    <string id="uD2H841d" text="a good eye and a steady hand"/>
+    <string id="uD2H841d" text="хороший глаз и твердая рука"/>
     <string id="ud6rhXbn" text="Mostiros"/>
-    <string id="uDELy6a3" text="Your child helped plan a small expedition in pursuit of a group of brigands."/>
-    <string id="udkbYEu0" text="Repairing buildings"/>
+    <string id="uDELy6a3" text="Ваш ребенок помог спланировать небольшую экспедицию в погоню за группой разбойников."/>
+    <string id="udkbYEu0" text="Ремонт зданий"/>
     <string id="uf6N6aUI" text="...did honest work"/>
-    <string id="UFce0iyy" text="The caravan survived the battle without your help. You failed to keep your promise to {QUEST_GIVER.LINK}."/>
+    <string id="UFce0iyy" text="Караван пережил битву без вашей помощи. Вы не сдержали обещание, данное {QUEST_GIVER.LINK}."/>
     <string id="UH7NH6Ap" text="One of the entourage was thrown from a horse on the road. Your child set the broken bone and ensures it heals cleanly."/>
     <string id="uHJltZ5D" text="Self Made Man"/>
     <string id="UJYaonYM" text="Loyalty and Honor"/>
@@ -4051,13 +4051,13 @@
     <string id="chiIHo4b" text="{?HERO.GENDER}Паршивая{?}Паршивый{\?} {HERO.FIRSTNAME}"/>
     <string id="CpafrIbY" text="{HERO.FIRSTNAME} Мельник"/>
     <string id="CQWKrd0a" text="{HERO.FIRSTNAME} {?HERO.GENDER}Прядильщица{?}Прядильщик{\?}"/>
-    <string id="daXZlOBi" text="Нам нужно {._}{ITEM}, {NUMBER_OF_ITEM} {?NUMBER_OF_ITEM>1}единиц{?}единица{\?}, в течение {NUMBER_OF_DAYS} дней. Мы можем предложить {PAYMENT}{GOLD_ICON} за инструменты и ваши услуги. Что вы скажете?"/>
+    <string id="daXZlOBi" text="Нам нужно {._}{ITEM}, {NUMBER_OF_ITEM} {?NUMBER_OF_ITEM&gt;1}единиц{?}единица{\?}, в течение {NUMBER_OF_DAYS} дней. Мы можем предложить {PAYMENT}{GOLD_ICON} за инструменты и ваши услуги. Что вы скажете?"/>
     <string id="DCF2JOiJ" text="Каменная голова {HERO.FIRSTNAME}"/>
     <string id="dJVjbgyu" text="Есть новости о наших инструментах {?PLAYER.GENDER}мадам{?}сир{\?}?"/>
     <string id="ELxhTMuy" text="Превосходно. Поторопитесь, необходимо, чтобы те кого мы наняли сразу же начали работать. Удачи!"/>
     <string id="EnaT6Ma3" text="{HERO.FIRSTNAME} {?HERO.GENDER}Кошка{?}Кот{\?}"/>
     <string id="enZbJasV" text="Когда у вас есть криминальный рейтинг, вы получаете на 50% меньше торгового штрафа."/>
-    <string id="eQzskygV" text="{?QUEST_GIVER.GENDER}Она предложила{?}Он предложил{\?} {._}{EXCHANGE_ITEM} {EXCHANGE_ITEM_COUNT} {?EXCHANGE_ITEM_COUNT>1}единицы{?}единица{\?} в качестве оплаты, когда задача будет выполнена."/>
+    <string id="eQzskygV" text="{?QUEST_GIVER.GENDER}Она предложила{?}Он предложил{\?} {._}{EXCHANGE_ITEM} {EXCHANGE_ITEM_COUNT} {?EXCHANGE_ITEM_COUNT&gt;1}единицы{?}единица{\?} в качестве оплаты, когда задача будет выполнена."/>
     <string id="EUJlNTrf" text="Симпатяшко {HERO.FIRSTNAME}"/>
     <string id="fh1auwJW" text="{HERO.FIRSTNAME} {?HERO.GENDER}Волчица{?}Жеребец{\?}"/>
     <string id="FMbQeBfN" text="Увеличит здоровье каждого верхового животного в вашем отряде на 15."/>
@@ -4107,7 +4107,7 @@
     <string id="qmwv27To" text="{HERO.FIRSTNAME} Крыса"/>
     <string id="QskefraA" text="{HERO.FIRSTNAME} Баран"/>
     <string id="QUFmBtbk" text="{HERO.FIRSTNAME} из Сандалии"/>
-    <string id="qycE7IO0" text="{QUEST_GIVER.LINK} {?QUEST_GIVER.GENDER}сказала{?}сказал{\?} вам, что {?QUEST_GIVER.GENDER}ей{?}ему{\?} нужно {._}{ITEM} для {?QUEST_GIVER.GENDER}ее{?}его{\?} деревни. Вы спросили своего компаньона {COMPANION.LINK} и {NEEDED_MEN_COUNT} ваших людей доставить {NUMBER_OF_ITEM} {?NUMBER_OF_ITEM>1}единицы{?}единица{\?} {._}{ITEM} к {?QUEST_GIVER.GENDER}ней{?}нему{\?}. Они присоединятся к вашему отряду через {ALTERNATIVE_SOLUTION_DURATION} дней."/>
+    <string id="qycE7IO0" text="{QUEST_GIVER.LINK} {?QUEST_GIVER.GENDER}сказала{?}сказал{\?} вам, что {?QUEST_GIVER.GENDER}ей{?}ему{\?} нужно {._}{ITEM} для {?QUEST_GIVER.GENDER}ее{?}его{\?} деревни. Вы спросили своего компаньона {COMPANION.LINK} и {NEEDED_MEN_COUNT} ваших людей доставить {NUMBER_OF_ITEM} {?NUMBER_OF_ITEM&gt;1}единицы{?}единица{\?} {._}{ITEM} к {?QUEST_GIVER.GENDER}ней{?}нему{\?}. Они присоединятся к вашему отряду через {ALTERNATIVE_SOLUTION_DURATION} дней."/>
     <string id="r9Tp4UGy" text="Медовый язык {HERO.FIRSTNAME}"/>
     <string id="rFESkhK0" text="{HERO.FIRSTNAME} {?HERO.GENDER}Нарезчица{?}Нарезчик{\?}"/>
     <string id="SdK678BT" text="{HERO.FIRSTNAME} из Пещеры"/>
@@ -4141,7 +4141,7 @@
     <string id="ULWYVuVw" text="Я все еще ищу ваш товар."/>
     <string id="uO99raT7" text="{?HERO.GENDER}Сопливая{?}Сопливый{\?} {HERO.FIRSTNAME}"/>
     <string id="UuypR3B4" text="{HERO.FIRSTNAME} из Тыквы"/>
-    <string id="uwmfgcM3" text="Нам нужно {._}{ITEM}, {NUMBER_OF_ITEM} {?NUMBER_OF_ITEM>1}единиц{?}единица{\?} в течение {NUMBER_OF_DAYS} дней. Проблема в том, что в деревне не хватает динар, поэтому мы можем произвести оплату в натуральной форме - {._}{EXCHANGE_ITEM} {NUMBER_OF_EXCHANGE_ITEM} {?NUMBER_OF_EXCHANGE_ITEM>1}единиц{?}единица{\?} . Что скажете?"/>
+    <string id="uwmfgcM3" text="Нам нужно {._}{ITEM}, {NUMBER_OF_ITEM} {?NUMBER_OF_ITEM&gt;1}единиц{?}единица{\?} в течение {NUMBER_OF_DAYS} дней. Проблема в том, что в деревне не хватает динар, поэтому мы можем произвести оплату в натуральной форме - {._}{EXCHANGE_ITEM} {NUMBER_OF_EXCHANGE_ITEM} {?NUMBER_OF_EXCHANGE_ITEM&gt;1}единиц{?}единица{\?} . Что скажете?"/>
     <string id="uyTmrmCW" text="{HERO.FIRSTNAME} из Камышей"/>
     <string id="VJEM0IcV" text="Тогда давайте обсудим детали."/>
     <string id="vp0FClX1" text="{HERO.FIRSTNAME} Мастер грузов"/>
@@ -4161,7 +4161,7 @@
     <string id="yF3cBat5" text="Спасибо {?PLAYER.GENDER}мадам{?}сир{\?}. Вот как мы обещали."/>
     <string id="yG0JIiaS" text="{HERO.FIRSTNAME} {?HERO.GENDER}Шакалиха{?}Шакал{\?}"/>
     <string id="ynwbmuoG" text="{HERO.FIRSTNAME} {?HERO.GENDER}Гадюка{?}Гад{\?}"/>
-    <string id="ytqqEyFw" text="Вы принесли {NUMBER_OF_ITEM} {?NUMBER_OF_ITEM>1}единиц{?}единицу{\?} {ITEM} к {?QUEST_GIVER.GENDER}ней{?}нему{\?} как обещали."/>
+    <string id="ytqqEyFw" text="Вы принесли {NUMBER_OF_ITEM} {?NUMBER_OF_ITEM&gt;1}единиц{?}единицу{\?} {ITEM} к {?QUEST_GIVER.GENDER}ней{?}нему{\?} как обещали."/>
     <string id="yvXNvh2B" text="Да, я {?PLAYER.GENDER}принесла{?}принес{\?} ваши инструменты."/>
     <string id="YYYBGdh5" text="{HERO.FIRSTNAME} из Ламп"/>
     <string id="YYyoYwH2" text="{HERO.FIRSTNAME} с Пастбищ"/>
