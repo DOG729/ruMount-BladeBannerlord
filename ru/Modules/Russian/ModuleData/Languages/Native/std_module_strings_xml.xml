@@ -892,7 +892,7 @@
     <string id="M9p0vPad" text="Я знаю, как вас зовут... {COMMENT_STRING_MAIN}"/>
     <string id="m9vD3VlN" text="Эта партия не будет расти или уменьшаться в размерах. Он будет пытаться удержать его размер, как это."/>
     <string id="MaBSSg7I" text="Таран"/>
-    <string id="MacceKIX" text="{RELATION_TEXT} из {NAME}"/>
+    <string id="MacceKIX" text="{RELATION_TEXT} {NAME}"/>
     <string id="mAxXKaXp" text="Сброс"/>
     <string id="mbS0DkUo" text="Рейд"/>
     <string id="mbT1uNPa" text="Кинжал"/>
@@ -1658,9 +1658,9 @@
     <string id="owTlJjJc" text="Brother-in-law"/>
     <string id="pMb8Pe12" text="Daughter-in-law"/>
     <string id="toK51MD4" text="Visit"/>
-    <string id="U7etPQA2" text="{HERO.FIRSTNAME} the {JOB_NAME}"/>
+    <string id="U7etPQA2" text="{HERO.FIRSTNAME} {JOB_NAME}"/>
     <string id="uhcIXeba" text="You are discarding items. Are you sure?"/>
-    <string id="Vqu67a3b" text="Raw Silk"/>
+    <string id="Vqu67a3b" text="Шёлк-сырец"/>
     <string id="zE6OFPRu" text="Settlement Tax"/>
   </strings>
 </base>
