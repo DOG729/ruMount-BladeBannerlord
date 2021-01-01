@@ -1469,7 +1469,7 @@
     <string id="YifFZaG7" text="Командир отряда"/>
     <string id="Yj0cQVLH" text="Атака!"/>
     <string id="YJaNtktT" text="Завербовать всех"/>
-    <string id="yjXoftYs" text="Последний раз видели {?IS_TODAY}сегодня{?}{DAY_VALUE} {?IS_MORE_THAN_ONE_DAY}суток {?}день {\?} назад{\?} {?IS_IN_SETTLEMENT}в{?}возле{\?} {SETTLEMENT}."/>
+    <string id="yjXoftYs" text="Последний раз видели {?IS_IN_SETTLEMENT}в{?}возле{\?} {SETTLEMENT} {?IS_TODAY}сегодня{?}{DAY_VALUE} {?IS_MORE_THAN_ONE_DAY}дней{?}день{\?} назад{\?}." />
     <string id="YK3nXtoM" text="Друзья"/>
     <string id="YkagFP1z" text="Моя мать {REFERING_HERO.LINK}"/>
     <string id="ykZLXKH3" text="Известность: {RENOWN}"/>
