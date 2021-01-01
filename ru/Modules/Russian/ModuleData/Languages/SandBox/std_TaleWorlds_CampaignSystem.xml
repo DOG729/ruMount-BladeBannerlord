@@ -525,7 +525,7 @@
     <string id="bhoCBIWB" text="уполномочив правителя иметь частного телохранителя"/>
     <string id="Bhtt6XPv" text="Зарплаты ваших людей запаздывают. Это не та компания, в которой бы мне хотелось сражаться."/>
     <string id="bHZyublA" text="В общем... Я рад возможности провести время вместе."/>
-    <string id="BI7QxubQ" text="У вас нет спутников для отправки."/>
+    <string id="BI7QxubQ" text="У вас нет спутников или членов семьи для отправки."/>
     <string id="bIiBytSB" text="Лучники"/>
     <string id="bItEf0WN" text="Вы должны быть {?PLAYER.GENDER}леди{?}лордом{\?}  этого поселения."/>
     <string id="bIWDtytH" text="{ETHNIC_TERM}"/>
@@ -3994,7 +3994,7 @@
     <string id="zzOxYsv1" text="Каждый солдат в гарнизоне получает +5 опыта в день"/>
     <string id="ZZvdmmn4" text="Ваши войска получают на 25% меньше морального штрафа от потерь при использовании формаций «Стена щитов», «Квадрат», «Вразброс» или «Колонна»."/>
     <string id="zZvU1ANu" text="На 50% увеличивает эффективность урона от бонуса скорости"/>
-    <string id="0B6HlgnN" text="{HERO.FIRSTNAME} the Lizard"/>
+    <string id="0B6HlgnN" text="{HERO.FIRSTNAME} Ящер"/>
     <string id="1gMfbcaO" text="{HERO.FIRSTNAME} Прислуга"/>
     <string id="1Tft1d4A" text="{HERO.FIRSTNAME} Валун"/>
     <string id="22tbyEYI" text="Вы получили {COUNT} {ITEM} от {PARTY_NAME}."/>
@@ -4167,7 +4167,7 @@
     <string id="YYyoYwH2" text="{HERO.FIRSTNAME} с Пастбищ"/>
     <string id="Z48lYHBl" text="{HERO.FIRSTNAME} {?HERO.GENDER}Овечка{?}Ягненок{\?}"/>
     <string id="z8LbFyNA" text="Собачья морда {HERO.FIRSTNAME}"/>
-    <string id="zE3sKAb2" text="{HERO.FIRSTNAME} Тёрнер"/>
+    <string id="zE3sKAb2" text="{HERO.FIRSTNAME} Гончар"/>
     <string id="zo13Dkoh" text="Пальцелом {HERO.FIRSTNAME}"/>
     <string id="ZOTBiLiS" text="{?QUEST_GIVER.GENDER}Она{?}Он{\?} заплатит вам {PAYMENT}{GOLD_ICON} когда задача будет выполнена."/>
     <string id="zrDWbEJR" text="{HERO.FIRSTNAME} из Гате"/>
