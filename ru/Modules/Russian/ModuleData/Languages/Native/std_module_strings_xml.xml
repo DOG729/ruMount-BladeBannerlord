@@ -861,7 +861,7 @@
     <string id="lihYjOSc" text="штук"/>
     <string id="lj8XH6O7" text="Сейчас нет доступа к меню королевства!"/>
     <string id="LJwKdMdw" text="Дождитесь пока оппонент встаёт в позицию"/>
-    <string id="LL6GkIfg" text="If you can beat {OPPONENT_COUNT_1} opponents before going down, you'll earn {PRIZE_1}{GOLD_ICON}. You'll get {PRIZE_2}{GOLD_ICON} for striking down at least {OPPONENT_COUNT_2} opponents, {PRIZE_3}{GOLD_ICON} if you can defeat {OPPONENT_COUNT_3} opponents, and {PRIZE_4}{GOLD_ICON} if you can survive long enough to beat {OPPONENT_COUNT_4} opponents. If you can manage to be the last fighter standing, you'll earn the great prize of the fights, {PRIZE_5}{GOLD_ICON}. Sounds good, eh?[rb:trivial]"/>
+    <string id="LL6GkIfg" text="Если вы сможете победить {OPPONENT_COUNT_1} противников до падения, вы получите {PRIZE_1}{GOLD_ICON}. Вы получите {PRIZE_2}{GOLD_ICON} за поражение как минимум {OPPONENT_COUNT_2} противников, {PRIZE_3}{GOLD_ICON}, если сможете победить {OPPONENT_COUNT_3} противников, и {PRIZE_4}{GOLD_ICON}, если сможете выжить достаточно долго, чтобы победить противников: {OPPONENT_COUNT_4}. Если вам удастся стать последним выжившим бойцом, вы получите главный приз в боях - {PRIZE_5}{GOLD_ICON}. Звучит хорошо, а?[rb:trivial]"/>
     <string id="Ll90uaxu" text="Удачных Осад"/>
     <string id="LmwhFv5p" text="Мясо"/>
     <string id="lnKAqDVM" text="Защищать ключевые позиции"/>
@@ -899,7 +899,7 @@
     <string id="Mc8ojOGn" text="Очаги"/>
     <string id="MciIqod6" text="Диван Лэнс"/>
     <string id="mDbaNQay" text="Ездить вперед и пытаться ударить противника!"/>
-    <string id="MeQmoYb4" text="You don't have a high enough relation to acquire this troop. {newline} You have {REL1}. You need {REL2}."/>
+    <string id="MeQmoYb4" text="У вас недостаточно высокого отношения, чтобы приобрести этот отряд. {newline} У вас есть {REL1}. Вам нужен {REL2}."/>
     <string id="MFLAvq4Z" text="Есть бандиты внутри этого места. Вы хотите напасть на них?"/>
     <string id="MfnYoLdc" text="Расходы"/>
     <string id="MGv4Uabd" text="You bet {BET_AMOUNT} on yourself but you have been defeated."/>
@@ -913,7 +913,7 @@
     <string id="MmNF7sW7" text="Moving pawns is only possible by capturing pawns from your opponent.{newline}Capturing is done by orthoginally jumping over 1 or more opposing pawns."/>
     <string id="Mms9bbhY" text="{DAY_NUM} {?DAY_NUM==1}day{?}days{\?}"/>
     <string id="mNr84Xm1" text="Не могу открыть окно клана прямо сейчас!"/>
-    <string id="mPaQzgS0" text="Good to see you here, {PLAYER.LINK}."/>
+    <string id="mPaQzgS0" text="Рад видеть тебя здесь, {PLAYER.LINK}."/>
     <string id="MpDMaBE9" text="Поносит нас? Мы будем пить из твоего черепа!"/>
     <string id="MPZ40lEk" text="Называя Новорожденного"/>
     <string id="MqCH7R4A" text="Безопасности"/>
@@ -942,7 +942,7 @@
     <string id="N7w6zi0F" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} и {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}are{?}is{\?} pulling back."/>
     <string id="N84HlDaV" text="{NUMBER_OF} {ITEM} ({AMOUNT}{GOLD_ICON})"/>
     <string id="NaorUInI" text="Understrength Сторон"/>
-    <string id="nbBgbwM2" text="In Queue: {NUMBER}"/>
+    <string id="nbBgbwM2" text="В очереди: {NUMBER}"/>
     <string id="NBv29XpJ" text="Вы не можете распустить армию, а ты в эту армию."/>
     <string id="nDNOn5o2" text="Оборудование"/>
     <string id="NeWvHjCw" text="Огонь Баллисты"/>
@@ -1659,7 +1659,7 @@
     <string id="pMb8Pe12" text="Daughter-in-law"/>
     <string id="toK51MD4" text="Visit"/>
     <string id="U7etPQA2" text="{HERO.FIRSTNAME} {JOB_NAME}"/>
-    <string id="uhcIXeba" text="You are discarding items. Are you sure?"/>
+    <string id="uhcIXeba" text="Вы выбрасываете предметы. Вы уверены?"/>
     <string id="Vqu67a3b" text="Шёлк-сырец"/>
     <string id="zE6OFPRu" text="Settlement Tax"/>
   </strings>
