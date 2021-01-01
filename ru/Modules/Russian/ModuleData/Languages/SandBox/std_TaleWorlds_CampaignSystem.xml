@@ -2560,7 +2560,7 @@
     <string id="JiHaL6IV" text="Армия расформирована, и ваша миссия отменена."/>
     <string id="jjNSVzx3" text="Что тебе нужно, Господи?"/>
     <string id="JKqsYaBj" text="Удобство обращения для одноручного оружия увеличено на 20%."/>
-    <string id="jkYQmtIF" text="У вас должно быть не менее {GOLD_AMOUNT}{GOLD_ICON} денаров, чтобы оплатить расходы заранее."/>
+    <string id="jkYQmtIF" text="У вас должно быть не менее {GOLD_AMOUNT}{GOLD_ICON} динаров, чтобы оплатить расходы заранее."/>
     <string id="JmrERaq4" text="Войска в строю, которым вы руководите, получают +5 опыта за каждого убитого вами врага."/>
     <string id="joBeQXGd" text="Снижает стоимость найма пехоты на 20%."/>
     <string id="jpBpwgAs" text="Поселения"/>
@@ -2709,7 +2709,7 @@
     <string id="YErURO5l" text="Ваши разведчики вернулись из {SETTLEMENT}. Согласно их отчету, в гарнизоне {SETTLEMENT} есть {GARRISON_SIZE} человек, а стены слишком высоки, и их трудно сломать."/>
     <string id="YF6PPWlT" text="Отлично. Я уверен, что ваши люди привезут моего {MOUNT_TYPE} как можно скорее."/>
     <string id="yGxjOnYb" text="Собрано зерна"/>
-    <string id="YHG17dqZ" text="Для этого подойдет один из ваших товарищей, умеющий торговаться и ездить верхом. Стоимость {MOUNT_TYPE_CAPITAL} не должна превышать {REQUIRED_GOLD_AMOUNT}{GOLD_ICON} денаров, и оплата должна производиться вами. Вам также понадобится кавалерия, чтобы доставить {MOUNT_TYPE_LOWER}. Когда вы закончите работу, вас будут ждать {REWARD_GOLD_AMOUNT} {GOLD_ICON} денаров."/>
+    <string id="YHG17dqZ" text="Для этого подойдет один из ваших товарищей, умеющий торговаться и ездить верхом. Стоимость {MOUNT_TYPE_CAPITAL} не должна превышать {REQUIRED_GOLD_AMOUNT}{GOLD_ICON} динаров, и оплата должна производиться вами. Вам также понадобится кавалерия, чтобы доставить {MOUNT_TYPE_LOWER}. Когда вы закончите работу, вас будут ждать {REWARD_GOLD_AMOUNT} {GOLD_ICON} динаров."/>
     <string id="YnimoRlg" text="Путь копья"/>
     <string id="YsGSgaba" text="Количество ваших городов или замков должно быть не менее {SETTLEMENT_COUNT}"/>
     <string id="ytvDsThh" text="Также, вся пехота ближнего боя в вашей группе получает на 5% больше опыта после битвы."/>
@@ -2987,7 +2987,7 @@
     <string id="DjYcaHTw" text="Войска в в вашем строю наносят на 5% больше урона от метательного оружия вражеской кавалерии."/>
     <string id="GAHAay6b" text="Когда вы держите метательное оружие, вы получаете на 10% меньше урона от дальних атак."/>
     <string id="Gn3KBN8L" text="Сбивание"/>
-    <string id="GQ96SX4M" text="{QUEST_GIVER.LINK} сказал вам что {?QUEST_GIVER.GENDER}она{?}он{\?} нуждается {MOUNT_TYPE} в {?QUEST_GIVER.GENDER}её{?}его{\?} группе. {?QUEST_GIVER.GENDER}Она{?}Он{\?} попросил(а) привести {MOUNT_COUNT} {MOUNT_NAME}{.s} к {?QUEST_GIVER.GENDER}ней{?}нему{\?}. {?QUEST_GIVER.GENDER}Она{?}он{\?} заплатит вам {REWARD_GOLD}{GOLD_ICON} денаров когда задача будет выполнена."/>
+    <string id="GQ96SX4M" text="{QUEST_GIVER.LINK} сказал вам что {?QUEST_GIVER.GENDER}она{?}он{\?} нуждается {MOUNT_TYPE} в {?QUEST_GIVER.GENDER}её{?}его{\?} группе. {?QUEST_GIVER.GENDER}Она{?}Он{\?} попросил(а) привести {MOUNT_COUNT} {MOUNT_NAME}{.s} к {?QUEST_GIVER.GENDER}ней{?}нему{\?}. {?QUEST_GIVER.GENDER}Она{?}он{\?} заплатит вам {REWARD_GOLD}{GOLD_ICON} динаров когда задача будет выполнена."/>
     <string id="GVltJbbv" text="Игра сохранена."/>
     <string id="h1juSIZx" text="Войска под вашим командованием имеют +30 навыка метательного оружия."/>
     <string id="HVxvToRR" text="Пехота получает +15 ко всем навыкам управления, дальнобойные войска получают +15 ко всем навыкам выносливости"/>
