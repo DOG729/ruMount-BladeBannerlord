@@ -4,15 +4,15 @@
     <tag language="Русский"/>
   </tags>
   <strings>
-    <string id="1OZBZZCi" text="Кабан"/>
-    <string id="2U2Hy2Su" text="Прекрасноволосый"/>
+    <string id="1OZBZZCi" text="Кабан {HERO.FIRSTNAME}"/>
+    <string id="2U2Hy2Su" text="{HERO.FIRSTNAME} Распрекрасный"/>
     <string id="3F8NEunR" text="{HERO.FIRSTNAME} Красильщик"/>
-    <string id="3wzexaA7" text="Волчица"/>
+    <string id="3wzexaA7" text="Волчица {HERO.FIRSTNAME}"/>
     <string id="4AKXWSGU" text="{HERO.FIRSTNAME} Торговец шерстью"/>
-    <string id="4GIoPUen" text="Мечник"/>
+    <string id="4GIoPUen" text="{HERO.FIRSTNAME} Мечник"/>
     <string id="58vdP9Ef" text="{HERO.FIRSTNAME} Кладовщик"/>
-    <string id="6CAbkgS4" text="Мастер по телегам"/>
-    <string id="7apnGFz7" text="Мрак"/>
+    <string id="6CAbkgS4" text="Мастер по телегам {HERO.FIRSTNAME}"/>
+    <string id="7apnGFz7" text="{HERO.FIRSTNAME} из Мрака"/>
     <string id="7hrmlfxh" text="Из Легиона"/>
     <string id="7kMLQcAd" text="{HERO.FIRSTNAME} Собиратель слухов"/>
     <string id="7lg12a57" text="Храбрый"/>
@@ -108,7 +108,7 @@
     <string id="ZCc3VFat" text="{HERO.FIRSTNAME} Седовласый"/>
     <string id="zXiMWnbX" text="{HERO.FIRSTNAME} Наследница"/>
     <string id="zXjdb1zT" text="{HERO.FIRSTNAME} Белобородый"/>
-    <string id="nDtjEazo" text="Снайпер"/>
+    <string id="nDtjEazo" text="{HERO.FIRSTNAME} Снайпер"/>
     <string id="zCQaPTOK" text="Наемник"/>
   </strings>
 </base>
