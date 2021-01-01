@@ -26,7 +26,7 @@
     <string id="0I6xdead" text="налогообложение землевладельцев на их собственность"/>
     <string id="0i8RgslK" text="Или, быть может, один из ваших спутников наряду с {COMPANION_NEED_GOLD_AMOUNT}{GOLD_ICON} золота и с небольшой помощью {ALTERNATIVE_TROOP_AMOUNT} людей сможет всё провернуть.."/>
     <string id="0JxFiVPt" text="Персонаж может использовать более эффективный метод производства древесного угля, который производит 3 единицы древесного угля из 2 единиц древесины."/>
-    <string id="0M6ApEr2" text="Surely you know that {HERO.FIRSTNAME} is {RELATIONSHIP} as well as my liege, and will always be able to count on my loyalty."/>
+    <string id="0M6ApEr2" text="Конечно вы знаете что {HERO.FIRSTNAME} является {RELATIONSHIP} так же как и мой вассал, и всегда сможет рассчитывать на мою преданность."/>
     <string id="0mK6MIJW" text="Продолжай, дитя мое."/>
     <string id="0mKYUNb8" text="Права На Охоту "/>
     <string id="0mVwnCES" text="Я должен кое-что сказать. Ваши люди говорят, что их зарплаты удерживают. Мы должны позаботиться, чтобы этого больше не произошло."/>
@@ -86,7 +86,7 @@
     <string id="27yneDGL" text="Захват противника."/>
     <string id="2AGIxoUN" text="{MOTHER} из вашего клана только что узнала, что она беременна."/>
     <string id="2ApU6iCB" text="Я найду для вас {TOTAL_COUNT} групп из разбойников."/>
-    <string id="2ATI9qVM" text="Скорость древковым оружием: +{a0} %"/>
+    <string id="2ATI9qVM" text="Скорость древковым оружием: +{a0}%"/>
     <string id="2aW6NC3Q" text="Давай обсудим окончательные условия нашего брака."/>
     <string id="2awf1tei" text="Налог"/>
     <string id="2bKgL66e" text="{COURTSHIP_DECLINE_REACTION}"/>
@@ -367,7 +367,6 @@
     <string id="9YHjPkb8" text="Заставить нотаблей выдать вам рекрутов."/>
     <string id="9YKV4SNH" text="ограничивает действия кредитора по сбору долгов"/>
     <string id="a0MVffcN" text="Переулок"/>
-    <!--Здесь был Cas. Фикс недочётов!-->
     <string id="a0UTO8tW" text="{ISSUE_OWNER.LINK}, правитель {ISSUE_SETTLEMENT} попросил вас доставить {GRAIN_AMOUNT} единиц зерна {?QUEST_GIVER.GENDER} ей {?} ему {\?} для использования в качестве семян. В противном случае крестьяне не смогут сеять поля и будут голодать в наступающем сезоне. Вы согласились отправить вам спутника {COMPANION.NAME} вместе с 20ю людьми, чтобы найти семена и вернуться в деревню. Ваши люди должны вернуться через {RETURN_DAYS} дней."/>
     <string id="A1LHEGX4" text="Ледокол"/>
     <string id="a1n2zCaD" text="Я хочу узнать, что именно вам от меня нужно."/>
@@ -525,7 +524,7 @@
     <string id="bhoCBIWB" text="уполномочив правителя иметь частного телохранителя"/>
     <string id="Bhtt6XPv" text="Зарплаты ваших людей запаздывают. Это не та компания, в которой бы мне хотелось сражаться."/>
     <string id="bHZyublA" text="В общем... Я рад возможности провести время вместе."/>
-    <string id="BI7QxubQ" text="У вас нет спутников для отправки."/>
+    <string id="BI7QxubQ" text="У вас нет спутников или членов семьи для отправки."/>
     <string id="bIiBytSB" text="Лучники"/>
     <string id="bItEf0WN" text="Вы должны быть {?PLAYER.GENDER}леди{?}лордом{\?}  этого поселения."/>
     <string id="bIWDtytH" text="{ETHNIC_TERM}"/>
@@ -923,7 +922,6 @@
     <string id="GhPGpR90" text="тарелка с финиками"/>
     <string id="GIkvhuCC" text="Может быть, кто - то из ваших людей, кто знает кое-что о разведке, возьмет с собой {TROOP_AMOUNT} хороших бойцов, сможет справиться с этими отбросами. Что скажете?"/>
     <string id="GIljHGh9" text="20% бонус к скорости строительства городских проектов, осадных орудий и ремонту стен."/>
-    <!--Здесь был Cas. Финальная версия!-->
     <string id="gjGb044I" text="Я надеюсь, что они будут..."/>
     <string id="GlfwOWre" text="Вы получили сообщение от {ISSUE_OWNER.LINK}; Оно гласит: "/>
     <string id="GlRZN1J5" text="Я дал клятву {CURRENT_LIEGE.LINK} - но ни одна клятва не заставит меня служить мягкотелому лидеру."/>
@@ -1244,7 +1242,6 @@
     <string id="lbrOAvKj" text="Дальность обнаружения +{a0} %"/>
     <string id="Lbs2bNlg" text="{KINGDOM} начинает {POLICY_DESCRIPTION} ({POLICY}). {POLICY_SUPPORT}"/>
     <string id="LbTETjZu" text="Я хочу, что бы вы их сокрушили. Отправляйтесь в {VILLAGE} и убейте их всех."/>
-    <!--Здесь был Cas. Фикс недочётов!-->
     <string id="LcppL68A" text="признавая права, которыми пользуются все свободные мужчины и женщины королевства"/>
     <string id="LDhU5urT" text="Так вот как это бывает, не так ли? Прямо сейчас - я заставлю одного из них истекать кровью, прежде чем упаду.[if:idle_angry][rb:very_negative]"/>
     <string id="lDJUL4lZ" text="Я думаю, что мы возможно видим мир немного иначе."/>
@@ -3649,7 +3646,7 @@
     <string id="NXOOJs2X" text="Патрус"/>
     <string id="O0V5aDCz" text="...guided the caravan"/>
     <string id="O20OVCj0" text="Уменьшите бартерный штраф на 10% за обмен пленными."/>
-    <string id="O3M6gHgb" text="...managed the logistics of travel"/>
+    <string id="O3M6gHgb" text="...управлял логистикой путешествия"/>
     <string id="O5dgeoss" text="Sound Reserves"/>
     <string id="OBaoqrlV" text="the Huntsman"/>
     <string id="oBl6SxeJ" text="{ISSUE_OWNER.LINK} хочет, чтобы вы приняли участие в турнире от ее имени."/>
@@ -3994,7 +3991,7 @@
     <string id="zzOxYsv1" text="Каждый солдат в гарнизоне получает +5 опыта в день"/>
     <string id="ZZvdmmn4" text="Ваши войска получают на 25% меньше морального штрафа от потерь при использовании формаций «Стена щитов», «Квадрат», «Вразброс» или «Колонна»."/>
     <string id="zZvU1ANu" text="На 50% увеличивает эффективность урона от бонуса скорости"/>
-    <string id="0B6HlgnN" text="{HERO.FIRSTNAME} the Lizard"/>
+    <string id="0B6HlgnN" text="{HERO.FIRSTNAME} Ящер"/>
     <string id="1gMfbcaO" text="{HERO.FIRSTNAME} Прислуга"/>
     <string id="1Tft1d4A" text="{HERO.FIRSTNAME} Валун"/>
     <string id="22tbyEYI" text="Вы получили {COUNT} {ITEM} от {PARTY_NAME}."/>
@@ -4167,7 +4164,7 @@
     <string id="YYyoYwH2" text="{HERO.FIRSTNAME} с Пастбищ"/>
     <string id="Z48lYHBl" text="{HERO.FIRSTNAME} {?HERO.GENDER}Овечка{?}Ягненок{\?}"/>
     <string id="z8LbFyNA" text="Собачья морда {HERO.FIRSTNAME}"/>
-    <string id="zE3sKAb2" text="{HERO.FIRSTNAME} Тёрнер"/>
+    <string id="zE3sKAb2" text="{HERO.FIRSTNAME} Гончар"/>
     <string id="zo13Dkoh" text="Пальцелом {HERO.FIRSTNAME}"/>
     <string id="ZOTBiLiS" text="{?QUEST_GIVER.GENDER}Она{?}Он{\?} заплатит вам {PAYMENT}{GOLD_ICON} когда задача будет выполнена."/>
     <string id="zrDWbEJR" text="{HERO.FIRSTNAME} из Гате"/>
