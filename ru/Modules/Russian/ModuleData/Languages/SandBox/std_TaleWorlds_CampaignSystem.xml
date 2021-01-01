@@ -2135,7 +2135,7 @@
     <string id="Y07OcP1T" text="Скорость лошади: +{a0}"/>
     <string id="Y20AQIvo" text="{PRISONER.NAME} был взят в плен {CAPTOR_NAME}!"/>
     <string id="y3cP8Etv" text="Задание Отменено: {QUEST_TITLE}"/>
-    <string id="Y3lGJT8H" text="{PARTY} не будет нападать на {FACTION} в течение {DURATION} {?DURATION&gt;1}дней{?}дня{\?}."/>
+    <string id="Y3lGJT8H" text="{PARTY} не будет нападать на {FACTION} в течение {DURATION} {?DURATION>1}дней{?}дня{\?}."/>
     <string id="y3xguaCc" text="Ставь на первое место свои интересы и благо королевства. Слишком многое поставлено на карту ради этого."/>
     <string id="Yac7bSU3" text="Расскажи мне еще раз, чем вы занимаетесь."/>
     <string id="ybb0ToHE" text="Мы будем защищать наши земли!"/>
@@ -4051,13 +4051,13 @@
     <string id="chiIHo4b" text="{?HERO.GENDER}Паршивая{?}Паршивый{\?} {HERO.FIRSTNAME}"/>
     <string id="CpafrIbY" text="{HERO.FIRSTNAME} Мельник"/>
     <string id="CQWKrd0a" text="{HERO.FIRSTNAME} {?HERO.GENDER}Прядильщица{?}Прядильщик{\?}"/>
-    <string id="daXZlOBi" text="Нам нужно {._}{ITEM}, {NUMBER_OF_ITEM} {?NUMBER_OF_ITEM&gt;1}единиц{?}единица{\?}, в течение {NUMBER_OF_DAYS} дней. Мы можем предложить {PAYMENT}{GOLD_ICON} за инструменты и ваши услуги. Что вы скажете?"/>
+    <string id="daXZlOBi" text="Нам нужно {._}{ITEM}, {NUMBER_OF_ITEM} {?NUMBER_OF_ITEM>1}единиц{?}единица{\?}, в течение {NUMBER_OF_DAYS} дней. Мы можем предложить {PAYMENT}{GOLD_ICON} за инструменты и ваши услуги. Что вы скажете?"/>
     <string id="DCF2JOiJ" text="Каменная голова {HERO.FIRSTNAME}"/>
     <string id="dJVjbgyu" text="Есть новости о наших инструментах {?PLAYER.GENDER}мадам{?}сир{\?}?"/>
     <string id="ELxhTMuy" text="Превосходно. Поторопитесь, необходимо, чтобы те кого мы наняли сразу же начали работать. Удачи!"/>
     <string id="EnaT6Ma3" text="{HERO.FIRSTNAME} {?HERO.GENDER}Кошка{?}Кот{\?}"/>
     <string id="enZbJasV" text="Когда у вас есть криминальный рейтинг, вы получаете на 50% меньше торгового штрафа."/>
-    <string id="eQzskygV" text="{?QUEST_GIVER.GENDER}Она предложила{?}Он предложил{\?} {._}{EXCHANGE_ITEM} {EXCHANGE_ITEM_COUNT} {?EXCHANGE_ITEM_COUNT&gt;1}единицы{?}единица{\?} в качестве оплаты, когда задача будет выполнена."/>
+    <string id="eQzskygV" text="{?QUEST_GIVER.GENDER}Она предложила{?}Он предложил{\?} {._}{EXCHANGE_ITEM} {EXCHANGE_ITEM_COUNT} {?EXCHANGE_ITEM_COUNT>1}единицы{?}единица{\?} в качестве оплаты, когда задача будет выполнена."/>
     <string id="EUJlNTrf" text="Симпатяшко {HERO.FIRSTNAME}"/>
     <string id="fh1auwJW" text="{HERO.FIRSTNAME} {?HERO.GENDER}Волчица{?}Жеребец{\?}"/>
     <string id="FMbQeBfN" text="Увеличит здоровье каждого верхового животного в вашем отряде на 15."/>
@@ -4107,7 +4107,7 @@
     <string id="qmwv27To" text="{HERO.FIRSTNAME} Крыса"/>
     <string id="QskefraA" text="{HERO.FIRSTNAME} Баран"/>
     <string id="QUFmBtbk" text="{HERO.FIRSTNAME} из Сандалии"/>
-    <string id="qycE7IO0" text="{QUEST_GIVER.LINK} {?QUEST_GIVER.GENDER}сказала{?}сказал{\?} вам, что {?QUEST_GIVER.GENDER}ей{?}ему{\?} нужно {._}{ITEM} для {?QUEST_GIVER.GENDER}ее{?}его{\?} деревни. Вы спросили своего компаньона {COMPANION.LINK} и {NEEDED_MEN_COUNT} ваших людей доставить {NUMBER_OF_ITEM} {?NUMBER_OF_ITEM&gt;1}единицы{?}единица{\?} {._}{ITEM} к {?QUEST_GIVER.GENDER}ней{?}нему{\?}. Они присоединятся к вашему отряду через {ALTERNATIVE_SOLUTION_DURATION} дней."/>
+    <string id="qycE7IO0" text="{QUEST_GIVER.LINK} {?QUEST_GIVER.GENDER}сказала{?}сказал{\?} вам, что {?QUEST_GIVER.GENDER}ей{?}ему{\?} нужно {._}{ITEM} для {?QUEST_GIVER.GENDER}ее{?}его{\?} деревни. Вы спросили своего компаньона {COMPANION.LINK} и {NEEDED_MEN_COUNT} ваших людей доставить {NUMBER_OF_ITEM} {?NUMBER_OF_ITEM>1}единицы{?}единица{\?} {._}{ITEM} к {?QUEST_GIVER.GENDER}ней{?}нему{\?}. Они присоединятся к вашему отряду через {ALTERNATIVE_SOLUTION_DURATION} дней."/>
     <string id="r9Tp4UGy" text="Медовый язык {HERO.FIRSTNAME}"/>
     <string id="rFESkhK0" text="{HERO.FIRSTNAME} {?HERO.GENDER}Нарезчица{?}Нарезчик{\?}"/>
     <string id="SdK678BT" text="{HERO.FIRSTNAME} из Пещеры"/>
@@ -4141,7 +4141,7 @@
     <string id="ULWYVuVw" text="Я все еще ищу ваш товар."/>
     <string id="uO99raT7" text="{?HERO.GENDER}Сопливая{?}Сопливый{\?} {HERO.FIRSTNAME}"/>
     <string id="UuypR3B4" text="{HERO.FIRSTNAME} из Тыквы"/>
-    <string id="uwmfgcM3" text="Нам нужно {._}{ITEM}, {NUMBER_OF_ITEM} {?NUMBER_OF_ITEM&gt;1}единиц{?}единица{\?} в течение {NUMBER_OF_DAYS} дней. Проблема в том, что в деревне не хватает динар, поэтому мы можем произвести оплату в натуральной форме - {._}{EXCHANGE_ITEM} {NUMBER_OF_EXCHANGE_ITEM} {?NUMBER_OF_EXCHANGE_ITEM&gt;1}единиц{?}единица{\?} . Что скажете?"/>
+    <string id="uwmfgcM3" text="Нам нужно {._}{ITEM}, {NUMBER_OF_ITEM} {?NUMBER_OF_ITEM>1}единиц{?}единица{\?} в течение {NUMBER_OF_DAYS} дней. Проблема в том, что в деревне не хватает динар, поэтому мы можем произвести оплату в натуральной форме - {._}{EXCHANGE_ITEM} {NUMBER_OF_EXCHANGE_ITEM} {?NUMBER_OF_EXCHANGE_ITEM>1}единиц{?}единица{\?} . Что скажете?"/>
     <string id="uyTmrmCW" text="{HERO.FIRSTNAME} из Камышей"/>
     <string id="VJEM0IcV" text="Тогда давайте обсудим детали."/>
     <string id="vp0FClX1" text="{HERO.FIRSTNAME} Мастер грузов"/>
@@ -4161,7 +4161,7 @@
     <string id="yF3cBat5" text="Спасибо {?PLAYER.GENDER}мадам{?}сир{\?}. Вот как мы обещали."/>
     <string id="yG0JIiaS" text="{HERO.FIRSTNAME} {?HERO.GENDER}Шакалиха{?}Шакал{\?}"/>
     <string id="ynwbmuoG" text="{HERO.FIRSTNAME} {?HERO.GENDER}Гадюка{?}Гад{\?}"/>
-    <string id="ytqqEyFw" text="Вы принесли {NUMBER_OF_ITEM} {?NUMBER_OF_ITEM&gt;1}единиц{?}единицу{\?} {ITEM} к {?QUEST_GIVER.GENDER}ней{?}нему{\?} как обещали."/>
+    <string id="ytqqEyFw" text="Вы принесли {NUMBER_OF_ITEM} {?NUMBER_OF_ITEM>1}единиц{?}единицу{\?} {ITEM} к {?QUEST_GIVER.GENDER}ней{?}нему{\?} как обещали."/>
     <string id="yvXNvh2B" text="Да, я {?PLAYER.GENDER}принесла{?}принес{\?} ваши инструменты."/>
     <string id="YYYBGdh5" text="{HERO.FIRSTNAME} из Ламп"/>
     <string id="YYyoYwH2" text="{HERO.FIRSTNAME} с Пастбищ"/>
