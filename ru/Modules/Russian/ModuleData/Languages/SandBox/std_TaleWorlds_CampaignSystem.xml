@@ -948,7 +948,7 @@
     <string id="GwAZMQ8b" text="Размер отряда правителя увеличивается на 80{newline}Правящий клан получает 1 влияние в день{newline}Не правящие кланы теряют 0,2 влияния в день"/>
     <string id="gYByVHQy" text="Добрый день, {?PLAYER.GENDER}мадам{?}сир{\?}. Чем могу помочь?"/>
     <string id="GyI86plp" text="Не волнуйтесь. Я гарантирую, что ваша собственность будет возвращена, если это законно, как вы говорите...[ib:closed]"/>
-    <string id="gywyEgZa" text="{HIDEOUT_DESCRIPTION} There seems to be no one inside."/>
+    <string id="gywyEgZa" text="{HIDEOUT_DESCRIPTION} Кажется, внутри никого нет."/>
     <string id="GyZHauax" text="{QUEST_GIVER.LINK}, сельский землевладелец {?QUEST_GIVER.GENDER}рассказала вам {?}рассказал вам {\?} о своих с селянами из {TARGET_SETTLEMENT}. Вероятно, {?QUEST_GIVER.GENDER}она купила{?}он купил{\?} право на использование пастбищ поблизости. Но сельчане отказываются убираться и создают проблемы для {?QUEST_GIVER.GENDER}ее{?}его{\?} пастухов. {?QUEST_GIVER.GENDER}Она{?}Он{\?} просит вас очистить пастбище, чтобы пастухи могли спокойно пасти стада. Вы согласились сами выполнить эту работу, и к вам присоединилась группа пастухов."/>
     <string id="GZwNgIon" text="Объявить войну {OTHER_FACTION}"/>
     <string id="Gzx35bRY" text="Если вы не собираетесь в сторону {TARGET_SETTLEMENT}, может быть, вы могли бы попросить кого-нибудь из ваших людей забрать мои товары и вернуть прибыль? Для этого потребуются не больше {ALTERNATIVE_SOLUTION_MEN_AMOUNT} men and one of your trusted lieutenants with decent grasp of trade. They can go and be back in about {RETURN_DAYS} days."/>
@@ -1494,7 +1494,7 @@
     <string id="Pa1ZtapI" text="Ладно. Ладно. Мы едем."/>
     <string id="pa7oiQb1" text="Идем в темницу (чит)"/>
     <string id="paelEWj1" text="Форум"/>
-    <string id="PaG0Blui" text="Become a mercenary for {TARGET_FACTION}"/>
+    <string id="PaG0Blui" text="Станьте наемником для {TARGET_FACTION}"/>
     <string id="PAwDV08b" text="Врачебная клятва"/>
     <string id="PB5iowxh" text="Кочевые традиции"/>
     <string id="pBAx7jTM" text="С кем ты хочешь встретиться?"/>
@@ -1711,8 +1711,8 @@
     <string id="RuHaC2Ck" text="Щитовые деньги "/>
     <string id="rutgr1VF" text="Или если вы сможете - то ненадолго назначьте спутника, они смогут остаться здесь и обучать людей. Я также дам вам провизий, денег на расходы и за ваши услуги."/>
     <string id="ruU70rFl" text="Вы растворяетесь в кустах. Противник остановился ненадолго и видимо что-то почуял, но продолжил преследование в другом месте {CASUALTIES_AND_LOST_BAGGAGE}"/>
-    <string id="RUZHJMQO" text="Bow Damage: +{a0} %"/>
-    <string id="rv6hk8X2" text="{HERO_BEING_PROPOSED_TO.NAME} to marry {HERO_TO_MARRY.NAME}"/>
+    <string id="RUZHJMQO" text="Урон лука: +{a0} %"/>
+    <string id="rv6hk8X2" text="{HERO_BEING_PROPOSED_TO.NAME} выходит замуж за {HERO_TO_MARRY.NAME}"/>
     <string id="RVas571P" text="Новорожденный"/>
     <string id="RVas572P" text="Разгромленный"/>
     <string id="RVDojUOM" text="Земли вокруг {SETTLEMENT_LINK} принадлежат в основном {LORD.LINK}, {FACTION_OFFICIAL} из {FACTION_TERM}. {PROSPERITY_INFO}"/>
@@ -1745,7 +1745,7 @@
     <string id="SCaWkKF1" text="Вот всё, что мы пообещали:  {GOLD_REWARD}{GOLD_ICON} динар. Надеюсь пролитие крови стоило того."/>
     <string id="scJ2eVhS" text="Как ранее уже говорил... [default, should not appear]"/>
     <string id="sd15CQHI" text="Вы придумали план по отвлечению осадных войск, чтобы проникнуть через ворота крепости, где вас должна впустить охрана. Вы и большинство ваших людей могут пройти с вами, но {POSSIBLE_CASUALTIES} {?PLURAL}человек{?}человек{\?} будут утеряны."/>
-    <string id="SfKrjKuO" text="Thrown weapon accuracy: +{a0} %"/>
+    <string id="SfKrjKuO" text="Точность метательного оружия: +{a0} %"/>
     <string id="SgtTaqG0" text="Это ошибка, о которой вы рано или поздно пожалеете."/>
     <string id="Shal1Prg" text="Вы пали. Бандиты быстро обыскали ваше тело на наличие монет и бесследно исчезли. Они оставили вас еле живым. К счастью, какие-то проходившие рядом городские люди, нашли вас у дороги и поняли, что вы не еще один нищий. Они относят вас в ближайший трактир, где залечивают вам раны."/>
     <string id="shihxzUN" text="Хвала небесам... {LORD.LINK} встретил {OTHER_SIDE} и показал им кузькину мать. Может сейчас наступит конец этой войне."/>
@@ -2106,7 +2106,7 @@
     <string id="Xmtlrrmf" text="Спасибо. Не забудьте предупредить своих людей, что эти преступники не обычные контрабандисты, Удачи вам."/>
     <string id="XN7BX0qP" text="Максимальная сложность лука который можно использовать: {a0}"/>
     <string id="xNyKVMHx" text="{JOIN_SIEGE_TEXT}. Вы решаете..."/>
-    <string id="XO3SOlZx" text="Simulation advantage: +{a0} %"/>
+    <string id="XO3SOlZx" text="Преимущество моделирования: +{a0} %"/>
     <string id="xoTWC8Sm" text="Бонус Проекта "/>
     <string id="xphDIy70" text="{STR_SALUTATION} скоро спасет тебя, обещаю."/>
     <string id="XphY9cNV" text="Дуэлянт"/>
@@ -2211,7 +2211,7 @@
     <string id="yYTotiqW" text="Поговорить..."/>
     <string id="yyz111nn" text="Стражники говорят, что они не могут впускать кого попало."/>
     <string id="yZWBDAG0" text="Вы известны как человек чести. Можете называть меня таким же."/>
-    <string id="Z0CoeojG" text="Thrown weapon speed: +{a0} %"/>
+    <string id="Z0CoeojG" text="Скорость метательного оружия: +{a0} %"/>
     <string id="z0WacPaW" text="Нет, справедливость требует от вас заплатить за все ваши преступления."/>
     <string id="z1RHDsOG" text="Остановиться в поселении"/>
     <string id="Z212GSiV" text="Оставить Пленных"/>
@@ -2560,7 +2560,7 @@
     <string id="JiHaL6IV" text="Армия расформирована, и ваша миссия отменена."/>
     <string id="jjNSVzx3" text="Что тебе нужно, Господи?"/>
     <string id="JKqsYaBj" text="Обработка одноручного оружия, которым вы владеете, увеличена на 20%.."/>
-    <string id="jkYQmtIF" text="You need to have at least {GOLD_AMOUNT}{GOLD_ICON} denars to pay for the expenses beforehand."/>
+    <string id="jkYQmtIF" text="У вас должно быть не менее {GOLD_AMOUNT}{GOLD_ICON} денаров, чтобы оплатить расходы заранее."/>
     <string id="JmrERaq4" text="Войска в строю, которым вы руководите, получают +5 опыта за каждого убитого вами врага."/>
     <string id="joBeQXGd" text="Снижает стоимость найма пехоты на 20%."/>
     <string id="jpBpwgAs" text="Поселения"/>
@@ -2624,7 +2624,7 @@
     <string id="QcECvqaN" text="Пехотные войска в строю, которым вы руководите, увеличивают свой урон по щитам на 15%."/>
     <string id="qDcqDybV" text="Ваши (одноручные) атаки ближнего боя игнорируют 10% брони врагов."/>
     <string id="qDJmqZrJ" text="Пехотные войска получают на 4% меньше урона в ближнем бою при построении - стена щитов."/>
-    <string id="qfjRGjM4" text="Your scouts started to gather information about {SETTLEMENT}."/>
+    <string id="qfjRGjM4" text="Ваши разведчики начали собирать информацию о {SETTLEMENT}."/>
     <string id="QGigAhFW" text="Вы состоите в браке с {YOUNG_HERO.LINK} молодой дворянин, которому вы согласились быть наставником. {QUEST_GIVER.LINK} отменил ваш договор с наставничества и пожелал вам длительного брака"/>
     <string id="qjuiWN4K" text="{PLAYER.NAME}, вы должны ждать с нами в деревне, чтобы устроить засаду дезертирам"/>
     <string id="QLLeHRWw" text="Пастухи {QUEST_SETTLEMENT}"/>
@@ -3655,7 +3655,7 @@
     <string id="oBl6SxeJ" text="{ISSUE_OWNER.LINK} хочет, чтобы вы приняли участие в турнире от ее имени."/>
     <string id="ODpmvGFf" text="Дополнительные +4 морали в начале битвы, когда вы атакуете."/>
     <string id="Oe1NdVLe" text="{RULER.NAME} chose not to expel the {CLAN} clan from the {KINGDOM} with {?RULER.GENDER}her{?}his{\?} council evenly split on the matter."/>
-    <string id="oE5etyy0" text="Mounted weapon speed &amp; reload penalty: {a0} %"/>
+    <string id="oE5etyy0" text="Скорость установленного оружия и штраф за перезарядку: {a0} %"/>
     <string id="ohpwPJNL" text="Ребенок уже начинает проявлять способности в..."/>
     <string id="OhSI6rXA" text="...преследовали и преследовали"/>
     <string id="oHwFpTEw" text="Прирост опыта войск во время симуляции боя (автобой) увеличивается на 20%."/>
