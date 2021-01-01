@@ -525,27 +525,27 @@
     <string id="USKys6FV" text="Показать мышь"/>
     <string id="ACIFg43o" text="Choose how to perform blocks. Auto will default to &quot;By Mouse Movement&quot; in Multiplayer."/>
     <string id="altgamekey" text="Alt"/>
-    <string id="2EnLU2ZC" text="Change UI Scaling"/>
-    <string id="9bHr3oNj" text="Crosshair that shows when using a ranged weapon."/>
-    <string id="ayYYRfPP" text="Report Personal Damage"/>
+    <string id="2EnLU2ZC" text="Изменить масштаб пользовательского интерфейса"/>
+    <string id="9bHr3oNj" text="Прицел, который отображается при использовании оружия дальнего боя."/>
+    <string id="ayYYRfPP" text="Сообщения о личном уроне"/>
     <string id="CfjTvLNl" text="Finalize Chat"/>
-    <string id="gu2JU5zq" text="Crosshair Type"/>
-    <string id="JZFXI1LK" text="UI Scale"/>
+    <string id="gu2JU5zq" text="Тип прицела"/>
+    <string id="JZFXI1LK" text="Масштаб пользовательского интерфейса"/>
     <string id="O9ed2AWr" text="Finalize message if chat box is active. Otherwise, activate chat box."/>
     <string id="qmplQd0Q" text="Three Part"/>
     <string id="u6QCWQvu" text="Four Part"/>
-    <string id="Vea6bRUO" text="Enable interface elements that report players damage and casualities in center bottom."/>
-    <string id="vJ41v8zh" text="Friendly Troops Banner Opacity"/>
-    <string id="ZKg3DqbQ" text="Determines the opacity of the banners shown on top of the friendly troops."/>
+    <string id="Vea6bRUO" text="Включите элементы интерфейса, которые сообщают о повреждениях и жертвах игроков в центре внизу."/>
+    <string id="vJ41v8zh" text="Прозрачность знамени дружественных войск"/>
+    <string id="ZKg3DqbQ" text="Определяет прозрачность знамен, отображаемых поверх дружественных войск."/>
     <string id="pialOblr" text="Order Hold"/>
-    <string id="qDVoGsb9" text="Hold to give orders with a gamepad."/>
-    <string id="qNPmVDmU" text="Sets the NVIDIA DLSS method if applicable. "/>
-    <string id="sCjtEbTF" text="These modules have been removed from the game:"/>
-    <string id="t0vgSn7D" text="Select Next Group"/>
-    <string id="TbCbHxeF" text="Toggle Group Selection"/>
+    <string id="qDVoGsb9" text="Удерживайте, чтобы отдавать приказы с помощью геймпада."/>
+    <string id="qNPmVDmU" text="Устанавливает метод NVIDIA DLSS, если применимо."/>
+    <string id="sCjtEbTF" text="Эти модули были удалены из игры:"/>
+    <string id="t0vgSn7D" text="Выбрать следующую группу"/>
+    <string id="TbCbHxeF" text="Переключить выбор группы"/>
     <string id="Uc1n5MRj" text="NVIDIA DLSS"/>
-    <string id="vJDxgaOZ" text="These modules' versions are different:"/>
-    <string id="WVpVmbzC" text="These modules are new in the game:"/>
-    <string id="ZoDugJHP" text="Select Previous Group"/>
+    <string id="vJDxgaOZ" text="Версии этих модулей различаются:"/>
+    <string id="WVpVmbzC" text="Эти модули новые в игре:"/>
+    <string id="ZoDugJHP" text="Выбрать предыдущую группу"/>
   </strings>
 </base>
