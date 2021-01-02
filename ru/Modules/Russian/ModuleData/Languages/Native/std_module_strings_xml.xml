@@ -571,7 +571,7 @@
     <string id="Fp68NbYO" text="Королевства"/>
     <string id="fpdXZ0fl" text="Подбор"/>
     <string id="FpI5JMZq" text="Транзакции были отменены"/>
-    <string id="fpP2s7hX" text="+{BONUS_AMOUNT} бонус к производству деревни"/>
+    <string id="fpP2s7hX" text="+{BONUS_AMOUNT} бонус к росту деревни."/>
     <string id="fQAGU9GW" text="Щедрость:"/>
     <string id="FqwHAxuM" text="Двуручное древковое"/>
     <string id="frBQ9mbP" text="Южная Империя"/>
@@ -673,7 +673,7 @@
     <string id="hSsS5xAa" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} и {?}{\?}{TROOP_NAMES_END} ждут прибытия остальных осадных машин."/>
     <string id="HuCClZqT" text="Плата"/>
     <string id="hVmamTJX" text="Повышайте боевой дух отряда разнообразием провизии (Квартирмейстер). Улучшайте благосостояние поселения и создавайте проекты (Губернатор). Проводите время в своих поселениях (Лидер клана)."/>
-    <string id="HWSKCne0" text="Ускорение +50 строительства на 1 день. стоит 500&lt;img src=&quot;Icons\Coin@2x&quot;&gt;"/>
+    <string id="HWSKCne0" text="Ускорение строительства на {BOOST}. Стоит {COST}&lt;img src=&quot;Icons\Coin@2x&quot;&gt; в день"/>
     <string id="Hx47TGrA" text="Тяжелый"/>
     <string id="hYgmzZJX" text="Динаров"/>
     <string id="HYVQKIhh" text="Защищающиеся"/>
@@ -815,7 +815,7 @@
     <string id="KiJd6Xik" text="Движение"/>
     <string id="KiVCv1Bx" text="Осаждает {SETTLEMENT_NAME}"/>
     <string id="KJDqOGEU" text="Мы планируем вернуться в отряд, чтобы сразиться в другой день"/>
-    <string id="KkaVpLXd" text="Довести эту политику до голосования"/>
+    <string id="KkaVpLXd" text="Вынести эту политику на рассмотрение (Поддержка: {SUPPORT}%)"/>
     <string id="klZnvb15" text="Персонаж"/>
     <string id="kM1Y8XT0" text="Вы не разочаруетесь, {?PLAYER.GENDER}мадам{?}сэр{\?}. Вы во всей Кальрадии не найдете воинов лучше.[rb:very_positive]"/>
     <string id="koX9okuG" text="Нисколько"/>
@@ -1059,7 +1059,7 @@
     <string id="pn9KNMxb" text="Вы оказались во вражеской ловушке. Но ваши люди не в состоянии бороться. Ваш единственный вариант - это сдаться."/>
     <string id="PNZmPprx" text="Двуручный Меч"/>
     <string id="pOCOS8um" text="Ребенок"/>
-    <string id="porKAP64" text="Поставьте снова эту политику на голосование"/>
+    <string id="porKAP64" text="Рассмотрите возможность отмены этой политики ({SUPPORT}%)"/>
     <string id="PpPbWYPB" text="Может быть наемником"/>
     <string id="pPRYdrk7" text="Управление армией"/>
     <string id="pq48aN8d" text="Мораль: {reg1}"/>
@@ -1416,7 +1416,7 @@
     <string id="xgO3cCgR" text="Перегруженный"/>
     <string id="xgwjHi1p" text="Отклонить"/>
     <string id="xHc1xhG8" text="Устраните врага внутри замка."/>
-    <string id="XJ6EG3Pa" text="+{BONUS_AMOUNT} бонус к запасам продовольствия"/>
+    <string id="XJ6EG3Pa" text="+{BONUS_AMOUNT} бонус к лимиту продовольствия"/>
     <string id="xKa6TwEX" text="Остаётся в {SETTLEMENT_NAME}"/>
     <string id="XnsAbUE3" text="Распустить"/>
     <string id="xo2zvOir" text="Ваш противник не может сделать ни одного хода. Пропуск хода."/>

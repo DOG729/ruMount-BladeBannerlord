@@ -258,7 +258,7 @@
     <string id="aRPLW15x" text="Спасибо. Я знал, что ты {?PLAYER.GENDER}разумная женщина{?}разумный мужчина{\?}."/>
     <string id="asVE53ac" text="Дочь вернулась к {QUEST_GIVER.LINK}. {?QUEST_GIVER.GENDER}Она счастлива{?}Он счастлив{\?}.{?QUEST_GIVER.GENDER}Она вручила{?}Он вручил{\?} Вам большей кошель с{BASE_REWARD}{GOLD_ICON}."/>
     <string id="aSZvZRYC" text="Преступник убил родственника {TARGET_NOTABLE.NAME}. {QUEST_GIVER.NAME} предлагает вам большую сумму денег, но {TARGET_NOTABLE.NAME} жаждет возмездия."/>
-    <string id="AuMLELpp" text="Хорошо, давайте наберем больше людей, я могу заплатить {AMOUNT}{GOLD_ICON}, чтобы создать караван с {NUMBER_OF_MEN} охранниками."/>
+    <string id="AuMLELpp" text="Хорошо, давайте наберем стражу получше, я могу заплатить {AMOUNT}{GOLD_ICON}, чтобы организовать караван."/>
     <string id="aupbQveh" text="{?NPC.GENDER}Мадам{?}Сир{\?},Мне нужно больше времени, чтобы обдумать это."/>
     <string id="av0bRae8" text="Кто заключен здесь?"/>
     <string id="avk9kNn1" text="Забавно, что граница земель {NOTABLE.FIRSTNAME} каждый раз все ближе и ближе."/>
@@ -353,7 +353,7 @@
     <string id="D33fIGQe" text="Неважно."/>
     <string id="d4t6oUCn" text="О вашем положении в клане..."/>
     <string id="d94FO3tS" text="Если подумать, то такое соглашение не в моих интересах."/>
-    <string id="DaBzJkIz" text="Я могу увеличить число людей, но стоимость пропорционально увеличится."/>
+    <string id="DaBzJkIz" text="Я могу собрать стражу получше, но стоимость пропорционально увеличится."/>
     <string id="dav5rmDd" text="{QUEST_GIVER.LINK}, главарь банды из {SETTLEMENT} {?QUEST_GIVER.GENDER}рассказала{?}рассказал{\?} о банде, пытающейся закрепиться в городе. {?QUEST_GIVER.GENDER}Она попросила{?}Он попросил{\?} вернуться через {DAY_COUNT} дней, чтобы {?QUEST_GIVER.GENDER}она успела{?}он успел{\?} приготовь своих людей к драке."/>
     <string id="DBTOhVl0" text="Правильно, босс, вы никогда не должны упускать хорошие инвестиции."/>
     <string id="dC6YhgPP" text="А. Хорошее совпадение."/>
