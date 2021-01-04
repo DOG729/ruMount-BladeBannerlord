@@ -382,22 +382,22 @@
     <string id="nx5W7jN0" text="Получено усиленный урон древковым оружием!"/>
     <string id="OzifZbSB" text="Тип боя"/>
     <string id="RDsOaEtS" text="Дополнительный урон от перков и эффектов: {MODIFIED_DAMAGE}"/>
-    <string id="scoreboardkick" text="Kick"/>
+    <string id="scoreboardkick" text="Исключить"/>
     <string id="siegemultiplayergametype" text="Осада"/>
     <string id="xhnV76OL" text="Skala Landing"/>
     <string id="YNkPy4ta" text="Клановый бой"/>
     <string id="fJHsYtKu" text="Echerion"/>
     <string id="IBAaKSbp" text="Port at Omor"/>
-    <string id="0HTNYQz2" text="Toggle"/>
+    <string id="0HTNYQz2" text="Переключить"/>
     <string id="8vXHhxPr" text="Переключить AI"/>
-    <string id="EZRnvPJS" text="Face This Direction"/>
-    <string id="GQOS4d9g" text="Toggle Facing"/>
+    <string id="EZRnvPJS" text="Следить за этим направлением"/>
+    <string id="GQOS4d9g" text="Разрешить/запретить стоять лицом"/>
     <string id="iBk2wbn3" text="Форма"/>
     <string id="Ke7eAS5B" text="Бонус за умение"/>
-    <string id="KiJd6Xik" text="Movement"/>
-    <string id="Ok03egKG" text="Move To Position"/>
-    <string id="uGM8DWrm" text="Mount"/>
+    <string id="KiJd6Xik" text="Движение"/>
+    <string id="Ok03egKG" text="Передвинуться на указанную позицию"/>
+    <string id="uGM8DWrm" text="Оседлать"/>
     <string id="UJaQuEpD" text="Toggle Mount"/>
-    <string id="V1kxYbRp" text="Toggle Fire"/>
+    <string id="V1kxYbRp" text="Разрешить/запретить огонь"/>
   </strings>
 </base>
