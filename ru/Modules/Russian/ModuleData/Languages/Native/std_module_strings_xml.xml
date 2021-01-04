@@ -1633,7 +1633,7 @@
     <string id="XgioIHv6" text="Принять существующее решение"/>
     <string id="4U6x48yQ" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} и {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}возглавляют{?}возглавляет{\?} битву."/>
     <string id="KafFddmO" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} и {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}защищают{?}защищает{\?} генерала."/>
-    <string id="settlementtrack" text="Track"/>
+    <string id="settlementtrack" text="Отслеживать"/>
     <string id="u3c9M8vx" text="архонесса"/>
     <string id="FZBqNCvd" text="никто"/>
     <string id="h8Bcd7NE" text="{FACTION} Выборы правителя"/>
@@ -1652,7 +1652,7 @@
     <string id="rGNrtXSx" text="Вы прибыли, чтобы защитить {SETTLEMENT} от нападавших."/>
     <string id="veiFupWz" text="{?RULER.GENDER}Баронесса{?}Барон{\?} {RULER.NAME}"/>
     <string id="X4qO3jBf" text="{?RULER.GENDER}Банмормэр{?}Мормэр{\?} {RULER.NAME}"/>
-    <string id="bh9U2fsZ" text="Son-in-law"/>
+    <string id="bh9U2fsZ" text="Зять"/>
     <string id="engineeringskill" text="Инженерия"/>
     <string id="IQ4bSdf5" text="Sister-in-law"/>
     <string id="owTlJjJc" text="Brother-in-law"/>
@@ -1661,6 +1661,6 @@
     <string id="U7etPQA2" text="{HERO.FIRSTNAME} {JOB_NAME}"/>
     <string id="uhcIXeba" text="Вы выбрасываете предметы. Вы уверены?"/>
     <string id="Vqu67a3b" text="Шёлк-сырец"/>
-    <string id="zE6OFPRu" text="Settlement Tax"/>
+    <string id="zE6OFPRu" text="Налог с поселения"/>
   </strings>
 </base>
