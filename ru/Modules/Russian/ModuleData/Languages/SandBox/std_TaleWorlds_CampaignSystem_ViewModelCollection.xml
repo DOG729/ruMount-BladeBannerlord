@@ -18,14 +18,14 @@
     <string id="2nN1QuxZ" text="Это задание будет провалено,если вы не успеете вовремя."/>
     <string id="3025020b83b218707499f0de3135ed0a" text="Маневр: "/>
     <string id="305cf7f98458b22e9af72b60a131714f" text="Броня для лошади: "/>
-    <string id="345a87fcc69f626ae3916939ef2fc135" text="Скорость Взмаха: "/>
+    <string id="345a87fcc69f626ae3916939ef2fc135" text="Скорость удара: "/>
     <string id="3CpNUnVl" text="Отменить"/>
     <string id="3F0y3ugx" text="Успех!"/>
     <string id="3sxtCWPe" text="Покинуть Королевство"/>
     <string id="43HYUImy" text="{SETTLEMENT} находится в осаде"/>
     <string id="4cU98rkg" text="Переплавка"/>
     <string id="4U9EnZt5" text="Критический Успех!"/>
-    <string id="4uMWNDoi" text="Скорость Укола: "/>
+    <string id="4uMWNDoi" text="Скорость укола: "/>
     <string id="5bzk75Ql" text="Сражается с {TARGET_PARTY}."/>
     <string id="5dCR9ixM" text="Вы можете продать эту мастерскую за {AMOUNT} динаров."/>
     <string id="5dec16fa0be433ade3c4cb0074ef366d" text="Точность: "/>
@@ -74,7 +74,7 @@
     <string id="d2K6gMsZ" text="Отправить воинов. Нужен как минимум один спутник."/>
     <string id="DAmdTxuC" text="Управление армией"/>
     <string id="DNq9bdvV" text="{THRUST_DAMAGE_FACTOR}"/>
-    <string id="dO95yR9b" text="Колющий урон: "/>
+    <string id="dO95yR9b" text="Урон уколом: "/>
     <string id="Dqydb21E" text=" {PARTY_SIZE}"/>
     <string id="e8390c3480028e34c370c7b60ebc41e2" text="Класс Лошади: "/>
     <string id="ebbyLN2i" text="Поселения"/>
@@ -185,7 +185,7 @@
     <string id="q1J4a8rr" text="Обучение"/>
     <string id="QBPrRdQJ" text="Врач"/>
     <string id="qBq70qDq" text="Текущий Проект"/>
-    <string id="QeToaiLt" text="Рубящий урон "/>
+    <string id="QeToaiLt" text="Урон ударом: "/>
     <string id="QGyoSLeY" text="Направляется в поселение"/>
     <string id="qKUjgS6r" text="Поселение"/>
     <string id="QlbkxoSp" text=" {TOOLTIP_TROOPS} ({PARTY_SIZE})"/>
@@ -211,7 +211,7 @@
     <string id="Srr4rOSq" text="Передать всех пленников"/>
     <string id="SVJlOYCB" text="В отряде меньше людей,чем 40% от максимального размера отряда"/>
     <string id="sVsaWZjg" text="Передать все войска"/>
-    <string id="sVZaIPoQ" text="Скорость взмаха: "/>
+    <string id="sVZaIPoQ" text="Скорость удара: "/>
     <string id="SzuCFlNq" text="Ничего не выбрано."/>
     <string id="t1lSXN9O" text="Знамя вашего клана понесли в бой"/>
     <string id="t3tq0eoW" text="Отряды"/>
