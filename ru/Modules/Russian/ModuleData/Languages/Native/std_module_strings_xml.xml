@@ -91,7 +91,7 @@
     <string id="3qFPyJtB" text="Ожидание в {SETTLEMENT_NAME}"/>
     <string id="3sRdGQou" text="Уйти"/>
     <string id="3sWa2Hmt" text="мой сын {REFERING_HERO.LINK}"/>
-    <string id="3syV6ymi" text="дробящего"/>
+    <string id="3syV6ymi" text="Дроб."/>
     <string id="3tJq5QyQ" text="{HEALTHY_NUM}+{WOUNDED_NUM}р"/>
     <string id="3TXGG01D" text="Хорошее решение, {?PLAYER.GENDER}madam{?}sir{\?}. Мои парни знают, как держать свое слово и зарабатывать свои деньги.[rb:very_positive]"/>
     <string id="3uR8wLko" text="наш вассал {REFERING_HERO.LINK}"/>
@@ -191,7 +191,7 @@
     <string id="7mRN2br0" text="Командование формацией было передано герою {HERO_NAME}."/>
     <string id="7MWaMaez" text="Вот что у нас есть: {ITEM_LIST}. Забирайте все это, но оставьте нас в живых."/>
     <string id="7oJ9gIeT" text="У торговца не хватает денег."/>
-    <string id="7sUhWG0E" text="Колющий Урон: "/>
+    <string id="7sUhWG0E" text="Урон уколом: "/>
     <string id="7sZMMYbe" text="Минорные Фракции"/>
     <string id="7t1daAel" text="Плохое решение, друг.[if:idle_furious][ib:aggressive][rb:very_negative]"/>
     <string id="7vdgxtwo" text="IV"/>
@@ -209,7 +209,7 @@
     <string id="8B7V0qdT" text="Вы проиграли бой!"/>
     <string id="8bSHlWBL" text="В настоящее время в городе не проводится турнир."/>
     <string id="8cY08v3s" text="Деревня со средним достатком. Люди и животные выглядят сытыми. Жители занимаются сезонными делами."/>
-    <string id="8geYNpC9" text="Метательный {THRUST_DAMAGE_TYPE} Урон: "/>
+    <string id="8geYNpC9" text="Урон снаряда ({THRUST_DAMAGE_TYPE})"/>
     <string id="8HMyTKF6" text="Вландия"/>
     <string id="8Jb61k7G" text="(+{GAIN_AMOUNT} сплоченности)"/>
     <string id="8kVhiTmu" text="Следующий Уровень:"/>
@@ -252,7 +252,7 @@
     <string id="a3uKkLez" text="{LORD.LINK} находится около {SETTLEMENT_NAME}"/>
     <string id="a47CpGXN" text="Уровни Мощности "/>
     <string id="a5j1v7tM" text="Мы слышали, что случилось с другими, которые отказались присоединяться к вашему делу. У нас нет желания закончить как они, как и нет желания бороться с вами. Мы будем носить ваши цвета до тех пор, пока вам это будет угодно."/>
-    <string id="a6D6Ga2F" text="Оружие Достигло: "/>
+    <string id="a6D6Ga2F" text="Досягаемость оружия:"/>
     <string id="A7dcz7Yr" text="Оружие Ближнего Боя II"/>
     <string id="a8zwLVKj" text="Сила"/>
     <string id="aa5tNRb9" text="Шанс Критического Успеха "/>
@@ -331,7 +331,7 @@
     <string id="baHmYsx3" text="Двуручное Оружие"/>
     <string id="baIUUw1c" text="Потратить свое собственное влияние, чтобы увеличить влияние выбранного клана"/>
     <string id="BANC61K5" text="Предыдущий Персонаж"/>
-    <string id="bB4602W2" text="Колющий {THRUST_DAMAGE_TYPE} Урон: "/>
+    <string id="bB4602W2" text="Урон уколом ({THRUST_DAMAGE_TYPE}):"/>
     <string id="bBXGPgwe" text="моя дочь {REFERING_HERO.LINK}"/>
     <string id="bC5aMfG0" text="Деревни"/>
     <string id="bcmlu1ml" text="{?ASKED_LORD.GENDER}Она{?}он{\?} находится в плену у {PRISON_PARTY_LEADER.LINK}."/>
@@ -480,7 +480,7 @@
     <string id="DTRwTvT4" text="Конный лучник воюет"/>
     <string id="DTt1aeSj" text="{?IS_POSITIVE}+{?}-{\?}{ITEM_AMOUNT} {ITEM_TYPE}"/>
     <string id="DTWem4V1" text="этот склад"/>
-    <string id="DU9SofaW" text="Режущий"/>
+    <string id="DU9SofaW" text="Руб."/>
     <string id="DuFg1avZ" text="Следующий уровень на: {NEXT_SKILL_POINTS}"/>
     <string id="Duoo5R2P" text="Мастер Арены "/>
     <string id="DvecWeGT" text="Зима {DAY}, {YEAR}"/>
@@ -947,7 +947,7 @@
     <string id="nDNOn5o2" text="Оборудование"/>
     <string id="NeWvHjCw" text="Огонь Баллисты"/>
     <string id="NF627oiX" text="Северная Империя"/>
-    <string id="nfQhamAF" text="Скорость Поворота: "/>
+    <string id="nfQhamAF" text="Скорость удара: "/>
     <string id="NgHSyQem" text="В Армии"/>
     <string id="nHGm1wYg" text="Битва окончена. Нажмите {leave_key} для просмотра результатов"/>
     <string id="nHkQbLDc" text="Не может использоваться верхом"/>
@@ -1014,7 +1014,7 @@
     <string id="OSZUvWbG" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} и {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL} {?} {\?}  готовы."/>
     <string id="ot2M62R8" text="+{BONUS_AMOUNT} xp бонус гарнизонным войскам"/>
     <string id="OtP3heba" text="Вы победили вашего оппонента и выиграли!"/>
-    <string id="ou9asw1a" text="Режущий {SWING_DAMAGE_TYPE} Урон: "/>
+    <string id="ou9asw1a" text="Урон ударом ({SWING_DAMAGE_TYPE}):"/>
     <string id="OviaJ1tA" text="Другие"/>
     <string id="oVSS2Lp5" text="Снаряжение Лошади III"/>
     <string id="OWCoBElc" text="Вас взяли в плен {PARTY_NAME}."/>
@@ -1286,7 +1286,7 @@
     <string id="UIqPXN62" text="Закидывайте противника метательным оружием."/>
     <string id="UjL7jVYF" text="Мораль"/>
     <string id="um1Z5swc" text="леди {REFERING_HERO.LINK}"/>
-    <string id="Umb8XsZH" text="колющего"/>
+    <string id="Umb8XsZH" text="Кол."/>
     <string id="uN5gwV05" text="Умершего"/>
     <string id="un7poy9x" text="Предварительный просмотр"/>
     <string id="uOqdr7FM" text="Поздравляем! Вы одержали победу над противником!"/>
@@ -1344,7 +1344,7 @@
     <string id="VpCa9ATa" text="Правильно. Ты же мертв.[if:idle_furious][ib:aggressive][rb:very_negative]"/>
     <string id="VpKIzJxz" text="Ну вот, путешественник. Мы только что высадились в этих землях, надеясь на удачу с набегами и грабежами, у тебя разве не зоркий глаз?"/>
     <string id="vpx7Pa7v" text="Предложение"/>
-    <string id="VPYazFVH" text="Скорость тяги: "/>
+    <string id="VPYazFVH" text="Скорость укола: "/>
     <string id="VqpmXU1m" text="Стреляйте в противников из арбалета."/>
     <string id="VRdy76RQ" text="Схватка"/>
     <string id="VSZGbSEO" text="Нет подходящих товаров."/>
@@ -1477,7 +1477,7 @@
     <string id="YNPYmO4g" text="{DAY_PREPARATION_TIME} {?PLURAL_DAYS}суток{?}день{\?} {HOUR_PREPARATION_TIME} {?PLURAL_HOURS}часов{?}час{\?}"/>
     <string id="YO0x7ZAo" text="Лояльность"/>
     <string id="yOJAiSf4" text="Нет формирования"/>
-    <string id="YOSEIvyf" text="Обращение: "/>
+    <string id="YOSEIvyf" text="Удобство:"/>
     <string id="yQiDdDPY" text="Легкая Лошадь"/>
     <string id="yQTBY9ie" text="Ювелирные изделия"/>
     <string id="yrlPHYpa" text="Выбор умения для улучшения"/>
@@ -1488,7 +1488,7 @@
     <string id="YSM0lxns" text="Стоимость"/>
     <string id="ytlsMCCn" text="{DESERTER_COUNT} {?PLURAL}солдатов{?}солдат{\?} дезертировали из {PARTY}."/>
     <string id="ytYPOCZ8" text="{NUMBER}% Завершено"/>
-    <string id="YukbQgHJ" text="Скорость Полета: "/>
+    <string id="YukbQgHJ" text="Скорость снаряда: "/>
     <string id="yUo269Us" text="Спасибо за помощь, незнакомец. Мы еще не встретились правильно, у нас? Как тебя зовут?"/>
     <string id="YVGtcLHF" text="Конница"/>
     <string id="YvwQL9aa" text="Вес: "/>
