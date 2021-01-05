@@ -6,7 +6,7 @@
   <strings>
     <string id="3CpNUnVl" text="Отмена"/>
     <string id="5zeL8sa9" text="Вы получили {A0} влияния."/>
-    <string id="6qYaQkDD" text="{COUNT} + {PRISONER_COUNT}p"/>
+    <string id="6qYaQkDD" text="{COUNT} + {PRISONER_COUNT}п"/>
     <string id="7WdWK2Dt" text="Сохранить игру"/>
     <string id="8OkPHu4f" text="Нет"/>
     <string id="9NuttOBC" text="Загрузить"/>
@@ -14,7 +14,7 @@
     <string id="Ahy035gM" text="Стоимость постройки"/>
     <string id="azJulvrp" text="{?IS_BETTING}Вы потеряете {BET_AMOUNT}{GOLD_ICON} если вы сдадитесь.{newline}{?}{\?}Вы действительно хотите сдаться?"/>
     <string id="bV75iwKa" text="Сохранить"/>
-    <string id="CiIWjF3f" text="+{PRISONERAMOUNT}p"/>
+    <string id="CiIWjF3f" text="+{PRISONERAMOUNT}п"/>
     <string id="eiWQoW9j" text="Вы получили {A0} к известности."/>
     <string id="eL8nhkhQ" text="Создать новый слот для сохранения"/>
     <string id="eTw2aNV5" text="+"/>
