@@ -191,7 +191,7 @@
     <string id="7mRN2br0" text="Командование формацией было передано герою {HERO_NAME}."/>
     <string id="7MWaMaez" text="Вот что у нас есть: {ITEM_LIST}. Забирайте все это, но оставьте нас в живых."/>
     <string id="7oJ9gIeT" text="У торговца не хватает денег."/>
-    <string id="7sUhWG0E" text="Урон уколом: "/>
+    <string id="7sUhWG0E" text="Колющий урон: "/>
     <string id="7sZMMYbe" text="Минорные Фракции"/>
     <string id="7t1daAel" text="Плохое решение, друг.[if:idle_furious][ib:aggressive][rb:very_negative]"/>
     <string id="7vdgxtwo" text="IV"/>
@@ -331,7 +331,7 @@
     <string id="baHmYsx3" text="Двуручное Оружие"/>
     <string id="baIUUw1c" text="Потратить свое собственное влияние, чтобы увеличить влияние выбранного клана"/>
     <string id="BANC61K5" text="Предыдущий Персонаж"/>
-    <string id="bB4602W2" text="Урон уколом ({THRUST_DAMAGE_TYPE}):"/>
+    <string id="bB4602W2" text="Колющий урон ({THRUST_DAMAGE_TYPE}):"/>
     <string id="bBXGPgwe" text="моя дочь {REFERING_HERO.LINK}"/>
     <string id="bC5aMfG0" text="Деревни"/>
     <string id="bcmlu1ml" text="{?ASKED_LORD.GENDER}Она{?}он{\?} находится в плену у {PRISON_PARTY_LEADER.LINK}."/>
