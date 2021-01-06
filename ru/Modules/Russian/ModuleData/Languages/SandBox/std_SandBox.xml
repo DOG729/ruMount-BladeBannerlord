@@ -1208,7 +1208,7 @@
     <string id="OB37sx91" text="Не пропадай, хорошо? Приходи ко мне снова.[rb:positive]"/>
     <string id="oiMs17Oh" text="Очень хорошо. Вы знаете, где меня найти."/>
     <string id="PlhbjNOE" text="Только знайте... Мои услуги стоят недёшево, и мне нужны {GOLD_AMOUNT}{GOLD_ICON} наперёд, или сделке не бывать.[rb:trivial]"/>
-    <string id="sbugaHdU" text="Точно. Ну тогда, ура."/>
+    <string id="sbugaHdU" text="Хорошо. Ну тогда, до встречи."/>
     <string id="sy5Hbp04" text="Лёгкой дороги вам, миледи. Я надеюсь скоро увидеть вас снова."/>
     <string id="uolvICE4" text="Скоро мы сможем поговорить вновь, миледи.[rb:positive]"/>
     <string id="V5Kygicn" text="{?NPC.GENDER}Была рада{?}Был рад{\?}. Приходите ко мне, если вам что-то понадобится."/>
@@ -1256,7 +1256,7 @@
     <string id="urCXu9Fc" text="Что ж, я мог бы попробовать купить это у него, но я уверен, что он поднимет цену. Мне нужно было бы взять с собой нескольких суровых ублюдков, чтобы показать ему, насколько глупо не принять разумное предложение. Один из ваших товарищей с {ALTERNATIVE_SOLUTION_NEEDED_MAN_COUNT} мужчинами сделает свое дело."/>
     <string id="uUhtKnfA" text="Inn and Out"/>
     <string id="WrnvRayQ" text="Давайте просто избавим себя от некоторых проблем, и я просто заплачу вам эту сумму."/>
-    <string id="XvkSbY6N" text="Я вижу вашу ставку. Давай играть."/>
+    <string id="XvkSbY6N" text="Я вижу вашу ставку. Давайте играть."/>
     <string id="ye4oqBFB" text="Вы проиграли настольную игру и не смогли помочь  {QUEST_GIVER.LINK}. &quot;Спасибо за попытку, {PLAYER.NAME}, но мне кажется, что выбрал не того человека для этого дела.&quot;"/>
     <string id="zlFSIvD5" text="Нет-нет. Я вижу это ловушка. Ты победил. До свидания."/>
     <string id="5vidJxyT" text="Возвращайтесь, когда передумаете."/>
@@ -1276,7 +1276,7 @@
     <string id="kB65SzbF" text="Yes."/>
     <string id="O15PyNUK" text="С помощью вашего навыка разведки вы смогли проследить их следы."/>
     <string id="xil9kixq" text="{QUEST_GIVER.LINK} is attacking the rival gang leader and asked for you to join. Do you want to join the fight ?"/>
-    <string id="YdwLnWa1" text="Direction of daughter and rogue"/>
+    <string id="YdwLnWa1" text="Направление дочери и похитителя"/>
     <string id="znDzVxVJ" text="No."/>
     <string id="0fp67gxl" text="Хорошего дня."/>
     <string id="1xyj3HW0" text="I just have a minute here, {?PLAYER.GENDER}madame{?}sir{\?}. I need to get back to the loom. How can I help you?"/>
@@ -1348,8 +1348,8 @@
     <string id="yIpqMu9U" text="It's not worth it. Even if they pay you, you will have the grudge of a powerful clan forever."/>
     <string id="yN4imaGo" text="Your {?PLAYER.GENDER}ladyship{?}lordship{\?}... This is quite the honor. Do you play {GAME_NAME}? It's the traditional pastime of the {CULTURE_NAME}, and I am reckoned a master. If you wish to play a game, please, take a seat and we'll start."/>
     <string id="YTaM6G1E" text="It seems the village has been raided a short while ago. You found nothing but smoke, fire and crying people."/>
-    <string id="YtS3cgto" text="What are you planning to do?"/>
-    <string id="YuLLsAUb" text="You don't have {GOLD_AMOUNT}{GOLD_ICON}."/>
+    <string id="YtS3cgto" text="Что планируете делать?"/>
+    <string id="YuLLsAUb" text="У вас нет {GOLD_AMOUNT}{GOLD_ICON}."/>
     <string id="Z9sp21rl" text="{QUEST_GIVER.LINK} a lord from {QUEST_GIVER_CLAN} clan asked you to free {?QUEST_GIVER.GENDER}her{?}his{\?} relative. The young man is currently held by {TARGET_HERO.LINK} a local gang leader because of his debts. {?QUEST_GIVER.GENDER}Lady{?}Lord{\?} {QUEST_GIVER.LINK} has given you enough gold to settle {?QUEST_GIVER.GENDER}her{?}his{\?} debts but {?QUEST_GIVER.GENDER}she{?}he{\?} encourages you to keep the money to yourself and make an example of these criminals so no one would dare to hold a nobleman again. You have sent {COMPANION.LINK} and {NEEDED_MEN_COUNT} men to take care of the situation for you. They should be back in {ALTERNATIVE_SOLUTION_DURATION} days."/>
   </strings>
 </base>
