@@ -669,7 +669,7 @@
     <string id="D33fIGQe" text="Неважно."/>
     <string id="D3W9Qi0Z" text="Все лорды играют официальную роль в совете."/>
     <string id="d5ztuP3P" text="Это слишком много."/>
-    <string id="D6YLpUQa" text="кантоны"/>
+    <string id="D6YLpUQa" text="Кантоны"/>
     <string id="d8qjwKza" text="Держать строй"/>
     <string id="dA8RGoQ1" text="Вы прибыли в  {SETTLEMENT_LINK}. {KEEP_INFO}"/>
     <string id="dbG3PGXL" text="Я рад, что вы так думаете? Кроме боя, вы узнали что-нибудь особенное?"/>
@@ -1036,7 +1036,7 @@
     <string id="iazij7fO" text="Хранит запасы пищи, так что поселение имеет больше продуктов питания. Увеличивает продовольственное снабжение."/>
     <string id="ib2SMG9b" text="Обезболивающие"/>
     <string id="IBhZGxxm" text="тарелку оливок"/>
-    <string id="IBlJ42MN" text="Военные Корона"/>
+    <string id="IBlJ42MN" text="Военная корона"/>
     <string id="Ibm1A68t" text="Стражники передали ваше оружие обратно."/>
     <string id="IBXfCLMp" text="Я, конечно, тоже надеюсь, {?PLAYER.GENDER}леди{?}лорд{\?}! Опять же, я хочу поблагодарить вас за все, и прежде чем я уйду, пожалуйста, примите этот подарок в качестве смиренной благодарности!"/>
     <string id="iBZc9RbE" text="Будем ждать всех"/>
@@ -1224,7 +1224,7 @@
     <string id="l3ALRD7c" text="Вы просто холуй богатого ублюдка ."/>
     <string id="L4Se89I6" text="Отказать ему, ждать лучшего предложения."/>
     <string id="l549ODcw" text="К сожалению. Я не могу сделать это прямо сейчас."/>
-    <string id="l5kDEI6N" text="Имперские Города"/>
+    <string id="l5kDEI6N" text="Города императора"/>
     <string id="l5YipTe3" text="{SETTLEMENT} под осадой. {SIEGE_LEADER} командует осадой."/>
     <string id="L700FNht" text="Доставлено {RAW_MATERIAL}"/>
     <string id="L7AN6ybY" text="Чего вы хотите от нас?"/>
@@ -2687,7 +2687,7 @@
     <string id="WVobv24n" text="Только небеса спасут нас если {QUEST_GIVER.NAME} не сможет получить в свои руки больше зерна."/>
     <string id="wVyqTlpS" text="Войску нужны припасы"/>
     <string id="WXDcmG0f" text="Увеличить набор ополченцев в населенных пунктах на 1."/>
-    <string id="WXPGv7Si" text="Your couch lance attacks deal triple damage against shields."/>
+    <string id="WXPGv7Si" text="Атаки вашего копья наносят тройной урон щитам."/>
     <string id="WyXs70nc" text="Увеличивает урон от двуручного оружия на 20%, когда ваше здоровье ниже 50%."/>
     <string id="x0cNi9lk" text="Стоимость найма пехоты снижена на 20%"/>
     <string id="x3TO0gkN" text="Есть ли прогресс в выполнении задания, которое я вам дал?"/>
@@ -2893,7 +2893,7 @@
     <string id="R71hUTU2" text="Вербовать войска дальнего боя на 20% дешевле."/>
     <string id="RDKNUawJ" text="Войска в вашем формировании получают +5% к точности стрельбы из луков."/>
     <string id="retWZcQ0" text="Ваши атаки из арбалетов игнорируют 10% брони врагов."/>
-    <string id="rl4fgGfh" text="Увеличьте скорость campaign на 2%."/>
+    <string id="rl4fgGfh" text="Увеличит скорость на карте кампании на 2%."/>
     <string id="rOWyAHPo" text="Занимайся своим делом, староста."/>
     <string id="RQd005zy" text="Луки в снаряжении не замедлят вас."/>
     <string id="rsKhbZpJ" text="Смертельный выстрел"/>
@@ -3230,23 +3230,23 @@
     <string id="9xyXdX4I" text="Тарос"/>
     <string id="9y3X0MQg" text="Loose Formations"/>
     <string id="9zdy5pLv" text="Было легко увязнуть в теориях метания камней, и сборки осадных башен. Но вашего ребенка интересовало больше, почему одни осады удачные, а другие нет."/>
-    <string id="a2ajWcI3" text="Viria"/>
+    <string id="a2ajWcI3" text="Вириа"/>
     <string id="a3ZCe7Re" text="Ваш ребенок научился лечить искалеченные пальцы и сотрясения мозга, без которых никакая осада не обходится."/>
     <string id="a4XGmdd9" text="Lady's Knight Out"/>
     <string id="a6qaFH7L" text="Herena"/>
     <string id="a7iyhqNR" text="На 10% увеличена грузоподъемность войск."/>
     <string id="a9g0Lvmq" text="...hunted down bandits"/>
     <string id="AajL4Oza" text="Население города потребляет на 5% меньше еды."/>
-    <string id="AccBcEIt" text="Zoana"/>
-    <string id="acp2IcMs" text="Crotor"/>
+    <string id="AccBcEIt" text="Зоана"/>
+    <string id="acp2IcMs" text="Кротор"/>
     <string id="AcYxyuDL" text="5% бонус к скорости передвижения в пустынях и дюнах"/>
     <string id="Adah5bay" text="Чтобы правильно использовать самое мощное оружие, требуются годы практики и тренировок. Их владельцам нужно начинать рано."/>
-    <string id="AdK4Ilzw" text="Chalia"/>
-    <string id="aeLgc0cU" text="Acthon"/>
+    <string id="AdK4Ilzw" text="Чалина"/>
+    <string id="aeLgc0cU" text="Актон"/>
     <string id="aEt1kqxm" text="{PEACEMAKER_RULER.NAME} of the {KINGDOM_CONSIDERING_PEACE} has decided to make peace with the {KINGDOM}, with his {?PEACEMAKER_RULER.GENDER}her{?}his{\?} council evenly divided on the matter."/>
     <string id="aExKdXmx" text="We need {REQUESTED_ANIMAL_AMOUNT} {?PLURAL}{SELECTED_ANIMAL}{.s}{?}{SELECTED_ANIMAL}{\?}. To be honest our village is poor and our coffers are empty. We can make payment only as meat - the meat of the old animals that we'll slaughter as soon as you bring us the new ones. We can offer {MEAT_AMOUNT} meat, will you accept that, {?PLAYER.GENDER}madam{?}sir{\?}?"/>
-    <string id="aezwJGvY" text="Chenon"/>
-    <string id="afaCdojS" text="Coaching"/>
+    <string id="aezwJGvY" text="Шенон"/>
+    <string id="afaCdojS" text="Коучинг"/>
     <string id="aguyQPl8" text="{ATTRIBUTE1} и {ATTRIBUTE2}"/>
     <string id="AgXLN2dq" text="Polearms, you said. Even the most skilled swordsman or the strongest axe-wielder is to a lancer as the rabbit is to the eagle."/>
     <string id="AhyaNGD9" text="Сократите потребление пищи партиями во время осады на 10%."/>
