@@ -15,13 +15,13 @@
     <string id="7apnGFz7" text="{HERO.FIRSTNAME} из Мрака"/>
     <string id="7hrmlfxh" text="Из Легиона"/>
     <string id="7kMLQcAd" text="{HERO.FIRSTNAME} Собиратель слухов"/>
-    <string id="7lg12a57" text="Храбрый"/>
+     <string id="7lg12a57" text="{HERO.FIRSTNAME} Храбрый"/>
     <string id="8mCL2HhJ" text="{HERO.FIRSTNAME} Торговец медью"/>
-    <string id="8o5SDCCJ" text="Акула"/>
+    <string id="8o5SDCCJ" text="{HERO.FIRSTNAME} Акула"/>
     <string id="aDiMMgLH" text="{HERO.FIRSTNAME} Прислужник"/>
-    <string id="aE8abvsQ" text="Удачливый"/>
-    <string id="agS5lIg7" text="Безродный"/>
-    <string id="akALDUs0" text="Лонгнайф"/>
+    <string id="aE8abvsQ" text="{HERO.FIRSTNAME} Счастливчик"/>
+    <string id="agS5lIg7" text="{HERO.FIRSTNAME} Безродный"/>
+    <string id="akALDUs0" text="{HERO.FIRSTNAME} Лонгнайф"/>
     <string id="azCSz9QH" text="из Сокрытой Длани"/>
     <string id="bgH96Pqw" text="{HERO.FIRSTNAME} Виноторговец"/>
     <string id="bpw8fOs5" text="из Каракергитов"/>
@@ -30,17 +30,17 @@
     <string id="c5Kjcxsa" text="{HERO.FIRSTNAME} Странник"/>
     <string id="CePmep0z" text="Браконьер"/>
     <string id="cP1o8eUs" text="из Джаввалов"/>
-    <string id="CQOlMayc" text="Сирота"/>
-    <string id="cud22JY1" text="Хирург"/>
+    <string id="CQOlMayc" text="{HERO.FIRSTNAME} Босяк"/>
+    <string id="cud22JY1" text="{HERO.FIRSTNAME} Хирург"/>
     <string id="eobXmmLg" text="Из Компании"/>
     <string id="fJmGKlaO" text="Конокрад"/>
     <string id="FtpxQYf0" text="{HERO.FIRSTNAME} Говорун"/>
-    <string id="G8mawcBV" text="Целитель"/>
+    <string id="G8mawcBV" text="{HERO.FIRSTNAME} Знахарь"/>
     <string id="gED0ZMhi" text="Илай"/>
     <string id="GwGMjnEA" text="{HERO.FIRSTNAME} Торговец лошадьми"/>
     <string id="H5Uuazxj" text="{HERO.FIRSTNAME} Оценщик"/>
     <string id="HexR178w" text="{HERO.FIRSTNAME} Караванщик"/>
-    <string id="hrMatilh" text="Кузнец"/>
+    <string id="hrMatilh" text="{HERO.FIRSTNAME} Кузнец"/>
     <string id="iDxUTViN" text="{HERO.FIRSTNAME} Измеритель"/>
     <string id="IgOTjF4i" text="из Гилманов"/>
     <string id="IVnvHF8S" text="из Элефтхеройцев"/>
