@@ -1259,19 +1259,11 @@
     <string id="XvkSbY6N" text="Я вижу вашу ставку. Давайте играть."/>
     <string id="ye4oqBFB" text="Вы проиграли настольную игру и не смогли помочь  {QUEST_GIVER.LINK}. &quot;Спасибо за попытку, {PLAYER.NAME}, но мне кажется, что выбрал не того человека для этого дела.&quot;"/>
     <string id="zlFSIvD5" text="Нет-нет. Я вижу это ловушка. Ты победил. До свидания."/>
-    <string id="5vidJxyT" text="Возвращайтесь, когда передумаете."/>
-    <string id="5WnCQhW1" text="Это все?"/>
     <string id="BnoSOi3r" text="На самом деле..."/>
-    <string id="BvHn6C96" text="Я не хочу менять свою внешность прямо сейчас."/>
     <string id="F9Xjbchh" text="Спасибо."/>
-    <string id="lmG7uRK2" text="Хорошо."/>
     <string id="QMaYa25R" text="Если ты осмелитесь даже дышать против {TARGET_NOTABLE.LINK}, это будет твой последний вздох. Я понятно выразился?"/>
     <string id="RYJdU43V" text="Недостаточно золота"/>
-    <string id="sYrVt3yz" text="Желаете сменить стрижку?"/>
-    <string id="tCpKDdE5" text="Хорошо, хорошего дня."/>
     <string id="vGnY4KBO" text="Меня очень мало волнуют твои угрозы. Я веду дела с {TARGET_NOTABLE.LINK}."/>
-    <string id="w2FU03sb" text="Да, пожалуйста. ({GOLD_COST} {GOLD_ICON})"/>
-    <string id="z8HaxXz7" text="Выглядите превосходно!"/>
     <string id="gOWebWiK" text="Их направление отмечено стрелкой на карте кампании."/>
     <string id="kB65SzbF" text="Yes."/>
     <string id="O15PyNUK" text="С помощью вашего навыка разведки вы смогли проследить их следы."/>
@@ -1351,5 +1343,16 @@
     <string id="YtS3cgto" text="Что планируете делать?"/>
     <string id="YuLLsAUb" text="У вас нет {GOLD_AMOUNT}{GOLD_ICON}."/>
     <string id="Z9sp21rl" text="{QUEST_GIVER.LINK} a lord from {QUEST_GIVER_CLAN} clan asked you to free {?QUEST_GIVER.GENDER}her{?}his{\?} relative. The young man is currently held by {TARGET_HERO.LINK} a local gang leader because of his debts. {?QUEST_GIVER.GENDER}Lady{?}Lord{\?} {QUEST_GIVER.LINK} has given you enough gold to settle {?QUEST_GIVER.GENDER}her{?}his{\?} debts but {?QUEST_GIVER.GENDER}she{?}he{\?} encourages you to keep the money to yourself and make an example of these criminals so no one would dare to hold a nobleman again. You have sent {COMPANION.LINK} and {NEEDED_MEN_COUNT} men to take care of the situation for you. They should be back in {ALTERNATIVE_SOLUTION_DURATION} days."/>
+    <string id="2aXYYNBG" text="Come to have your hair cut, {?PLAYER.GENDER}my lady{?}my lord{\?}? A new look for a new day?"/>
+    <string id="9pgOGq7X" text="Log"/>
+    <string id="akqJbZpH" text="Marvellous! You cut a splendid appearance, {?PLAYER.GENDER}my lady{?}my lord{\?}, if you don't mind my saying. Most splendid."/>
+    <string id="BusYGTrN" text="Excellent! Have a good day, then, {?PLAYER.GENDER}my lady{?}my lord{\?}."/>
+    <string id="GvLZKQ1U" text="Sofa"/>
+    <string id="M3K8wUOO" text="So... Does this please you, {?PLAYER.GENDER}my lady{?}my lord{\?}?"/>
+    <string id="oPUVNuhN" text="I'll keep you in mind"/>
+    <string id="Q7wBRXtR" text="Yes, I have.( {GOLD_COST} {GOLD_ICON})"/>
+    <string id="xPAAZAaI" text="My hair is fine as it is, thank you."/>
+    <string id="yLIZlaS1" text="Very well. Do come back when you're ready, {?PLAYER.GENDER}my lady{?}my lord{\?}."/>
+    <string id="zTF4bJm0" text="Yes, it's fine."/>
   </strings>
 </base>

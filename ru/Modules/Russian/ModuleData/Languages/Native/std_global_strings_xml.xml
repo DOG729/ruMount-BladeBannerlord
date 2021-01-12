@@ -330,7 +330,6 @@
     <string id="r9tGsO4Z" text="Игре требуется перезагрузка"/>
     <string id="RaijrIxP" text="Взаимодействовать"/>
     <string id="rbz1Bwbv" text="Инвентарь"/>
-    <string id="RdARXWNw" text="Множитель вертикального движения Мыши"/>
     <string id="Rh7aDJ3n" text="Окно знамени"/>
     <string id="Rhl5E2ut" text="Задает тип теней."/>
     <string id="rNiESgEo" text="]"/>
@@ -435,7 +434,6 @@
     <string id="XrUGC7H4" text="Backspace"/>
     <string id="xuOz73hl" text="Выберите, будет ли видна кровь в боях."/>
     <string id="xZ84ujuu" text="Сколько звуков могут быть воспроизведены сразу. Более низкие значения позволяет снизить загрузку процессора, более высокие значения обеспечивает лучшую атмосферу."/>
-    <string id="y4fZ1Gn7" text="Установите множитель вертикального движения мыши, по сравнению с горизонтальным движением."/>
     <string id="y7dx24ih" text="Поверните камеру чтобы изменить направление движения лошади от первого лица."/>
     <string id="YAHs7wBa" text="Выберите приказ 8"/>
     <string id="YDccwh2x" text="Общая громкость"/>
@@ -547,5 +545,57 @@
     <string id="vJDxgaOZ" text="Версии этих модулей различаются:"/>
     <string id="WVpVmbzC" text="Эти модули новые в игре:"/>
     <string id="ZoDugJHP" text="Выбрать предыдущую группу"/>
+    <string id="02Qqpama" text="Roll the Camera Right (Clockwise)"/>
+    <string id="3awgWrma" text="Benchmark"/>
+    <string id="48faf387" text="Roll Camera Left"/>
+    <string id="5TYDm7Vv" text="Camera Follow Mode"/>
+    <string id="6d56kv7p" text="Vertical Movement Scale for Direction Gestures"/>
+    <string id="9HdllyAZ" text="Start the Bannerlord Benchmark."/>
+    <string id="aAAl11qM" text="Switch between locking and unlocking the view to the enemy currently focused at. Press longer to see the detailed display."/>
+    <string id="ajKnHI1s" text="Take Picture"/>
+    <string id="AyqxxMbu" text="Toggle Mouse"/>
+    <string id="b00385oX" text="Map Open Encyclopedia"/>
+    <string id="BbqPaoAF" text="Decrease FocusEnd"/>
+    <string id="bGZeJJAH" text="Roll the Camera Left (Counterclockwise)"/>
+    <string id="bJsEMBk9" text="Increase FocusEnd"/>
+    <string id="bWycDiz0" text="Toggle Info Bar"/>
+    <string id="Co9aqFIB" text="Toggle Camera Follow Mode"/>
+    <string id="cryvNnsO" text="Order visuals that are visible while giving orders in battles."/>
+    <string id="CyMFuiHx" text="Decrease FocusStart"/>
+    <string id="D0Ps9ddi" text="Hide UI"/>
+    <string id="dTyINo1B" text="Lock target"/>
+    <string id="dV5ar9eP" text="Max (1000)"/>
+    <string id="DYcLYL6E" text="Bar"/>
+    <string id="EyYqpm5b" text="Set your vertical movement multiplier for direction gestures, compared to horizontal movement. Does not affect camera movement."/>
+    <string id="G17kWzwi" text="Very High (600)"/>
+    <string id="G9oAjFL7" text="Very Low (200)"/>
+    <string id="Iam02fhz" text="Low (300)"/>
+    <string id="ihAadMd5" text="Open Encyclopedia on the campaign map"/>
+    <string id="IjLcnwpz" text="Increase Camera Focus"/>
+    <string id="iZAwcZSV" text="Track Settlement"/>
+    <string id="Kh8qRccB" text="Reset changes"/>
+    <string id="KL8cGTao" text="Radial"/>
+    <string id="kNpWwJcc" text="High (500)"/>
+    <string id="L992LXVF" text="Toggle Camera Follow Mode. Toggle between &quot;Focus on player&quot; or &quot;Free cam&quot;"/>
+    <string id="lG7AlfxK" text="Map Track Settlement"/>
+    <string id="mAxXKaXp" text="Reset"/>
+    <string id="Mja6xKiX" text="Order Visuals Type"/>
+    <string id="O5j0ChFf" text="Increase FocusStart"/>
+    <string id="P2zN2brG" text="Increase Focus"/>
+    <string id="PBzbWfGF" text="Lock Target"/>
+    <string id="q8xBD0Q2" text="Map Extend Info Bar"/>
+    <string id="qDhDbZKh" text="Track Settlement currently hovered over settlement"/>
+    <string id="RqDlastU" text="Decrease Focus"/>
+    <string id="rS6nO0wb" text="Toggle Vignette"/>
+    <string id="uGEcLaqw" text="Roll Camera Right"/>
+    <string id="v1dyEwZn" text="Extend Info Bar"/>
+    <string id="VdGuZAoK" text="Hide the User Inferface"/>
+    <string id="VklN5Wm6" text="Photo Mode"/>
+    <string id="X1nFnomy" text="Medium (400)"/>
+    <string id="XCB1SGxZ" text="Start Benchmark"/>
+    <string id="xDuL9yQH" text="Toggle Mouse Visibility"/>
+    <string id="xJpOH8DU" text="Open Encyclopedia"/>
+    <string id="XldS0fkN" text="Change Camera Follow Mode"/>
+    <string id="YirOUaIV" text="Decrease Camera Focus"/>
   </strings>
 </base>
