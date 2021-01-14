@@ -1659,15 +1659,15 @@
     <string id="uhcIXeba" text="Вы выбрасываете предметы. Вы уверены?"/>
     <string id="Vqu67a3b" text="Шёлк-сырец"/>
     <string id="zE6OFPRu" text="Налог с поселения"/>
-    <string id="7MSuWxaY" text="{CHILD.NAME} has reached the age of {CHILD.AGE} and {?CHILD.GENDER}she{?}he{\?} needs your guidance."/>
+    <string id="7MSuWxaY" text="{CHILD.NAME} достиг возраста {CHILD.AGE} и {?CHILD.GENDER}ей{?}ему{\?} нужно ваше наставление."/>
     <string id="8byRf9zO" text="General"/>
     <string id="ebbyLN2i" text="Города"/>
     <string id="fEJQcb4U" text="Loyalty Drift"/>
-    <string id="If65Vm9h" text="Child Education"/>
-    <string id="kVLfRWjE" text="+{BONUS_AMOUNT}% reduce at garrison wages."/>
+    <string id="If65Vm9h" text="Обучение ребенка"/>
+    <string id="kVLfRWjE" text="На {BONUS_AMOUNT}% уменьшено жалованье гарнизона."/>
     <string id="ljcHO6PW" text="Security Drift"/>
-    <string id="Nfm5lLWv" text="{CHILD.NAME} needs your immediate attention!"/>
-    <string id="NqtTPVzn" text="Attributes"/>
-    <string id="Z8LeI4ho" text="Bodyguard"/>
+    <string id="Nfm5lLWv" text="{CHILD.NAME} требует вашего немедленного внимания!"/>
+    <string id="NqtTPVzn" text="Атрибуты"/>
+    <string id="Z8LeI4ho" text="Телохранители"/>
   </strings>
 </base>
