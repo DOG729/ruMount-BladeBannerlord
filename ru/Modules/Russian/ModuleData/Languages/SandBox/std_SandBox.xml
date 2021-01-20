@@ -1259,97 +1259,100 @@
     <string id="XvkSbY6N" text="Я вижу вашу ставку. Давайте играть."/>
     <string id="ye4oqBFB" text="Вы проиграли настольную игру и не смогли помочь  {QUEST_GIVER.LINK}. &quot;Спасибо за попытку, {PLAYER.NAME}, но мне кажется, что выбрал не того человека для этого дела.&quot;"/>
     <string id="zlFSIvD5" text="Нет-нет. Я вижу это ловушка. Ты победил. До свидания."/>
-    <string id="5vidJxyT" text="Возвращайтесь, когда передумаете."/>
-    <string id="5WnCQhW1" text="Это все?"/>
     <string id="BnoSOi3r" text="На самом деле..."/>
-    <string id="BvHn6C96" text="Я не хочу менять свою внешность прямо сейчас."/>
     <string id="F9Xjbchh" text="Спасибо."/>
-    <string id="lmG7uRK2" text="Хорошо."/>
     <string id="QMaYa25R" text="Если ты осмелитесь даже дышать против {TARGET_NOTABLE.LINK}, это будет твой последний вздох. Я понятно выразился?"/>
     <string id="RYJdU43V" text="Недостаточно золота"/>
-    <string id="sYrVt3yz" text="Желаете сменить стрижку?"/>
-    <string id="tCpKDdE5" text="Хорошо, хорошего дня."/>
     <string id="vGnY4KBO" text="Меня очень мало волнуют твои угрозы. Я веду дела с {TARGET_NOTABLE.LINK}."/>
-    <string id="w2FU03sb" text="Да, пожалуйста. ({GOLD_COST} {GOLD_ICON})"/>
-    <string id="z8HaxXz7" text="Выглядите превосходно!"/>
     <string id="gOWebWiK" text="Их направление отмечено стрелкой на карте кампании."/>
-    <string id="kB65SzbF" text="Yes."/>
+    <string id="kB65SzbF" text="Да."/>
     <string id="O15PyNUK" text="С помощью вашего навыка разведки вы смогли проследить их следы."/>
-    <string id="xil9kixq" text="{QUEST_GIVER.LINK} is attacking the rival gang leader and asked for you to join. Do you want to join the fight ?"/>
+    <string id="xil9kixq" text="{QUEST_GIVER.LINK} нападает на лидера конкурирующей банды и просит вас присоединиться. Вы хотите присоединиться?"/>
     <string id="YdwLnWa1" text="Направление дочери и похитителя"/>
-    <string id="znDzVxVJ" text="No."/>
+    <string id="znDzVxVJ" text="Нет."/>
     <string id="0fp67gxl" text="Хорошего дня."/>
-    <string id="1xyj3HW0" text="I just have a minute here, {?PLAYER.GENDER}madame{?}sir{\?}. I need to get back to the loom. How can I help you?"/>
-    <string id="1YGgXOB7" text="Meh... Do you think ruling the streets of a city is easy? You underestimate us. Now about the money."/>
-    <string id="2WnruiBw" text="I know of one starting up at {CLOSEST_TOURNAMENT}. You should be able to get there if you move quickly enough.[rb:trivial]"/>
-    <string id="4pkfkSbe" text="Sorry about the smell in here, {?PLAYER.GENDER}madame{?}sir{\?}. Tanning's like that, sorry to say. How can I help you?"/>
-    <string id="4zf1lg6L" text="I can send one of my companions instead."/>
-    <string id="5a6KlSXt" text="I have a problem. {PRODIGAL_SON.LINK}, one of the youngsters of my clan has gone to the town to have fun, drinking, wenching and occasional gambling. Like we all did in our younger days but it seems, he is gone out of line. Now he sends news that he owes a large sum of money to {TARGET_HERO.LINK}, one of the local crime bosses in the city of {SETTLEMENT}. The criminal scum holds him as a “guest” in his house until someone pays his debt."/>
-    <string id="5puy0Jle" text="{ISSUE_OWNER.NAME} asks the player to aid a young clan member. He is supposed to have huge gambling debts so the gang leaders holds him as a hostage. You are asked to retrieve him any way possible."/>
-    <string id="7k03GxZ1" text="It's great doing business with you. I'll order my men to release him immediately."/>
-    <string id="7kqz1LlI" text="Prodigal son of {CLAN}"/>
-    <string id="a6hwSEAK" text="Your horse is turned into a {MODIFIED_NAME}, since it got seriously injured."/>
-    <string id="adbQR9j0" text="I got my gold, you got your boy. Now leave me alone..."/>
-    <string id="aKbyJsho" text="On second thought, I will deal with these scum personally."/>
-    <string id="alruamIW" text="Hmm... You may be right. Its not worth it. I'll release the boy immediately."/>
-    <string id="AwZhx2tT" text="I will be back."/>
-    <string id="axLR9bQo" text="You have defeated the thugs that held {PRODIGAL_SON.LINK} as {QUEST_GIVER.LINK} has asked you to. {?QUEST_GIVER.GENDER}Lady{?}Lord{\?} {QUEST_GIVER.LINK} soon sends {?QUEST_GIVER.GENDER}her{?}his{\?} best regards and a sum of {REWARD}{GOLD_ICON} as a reward."/>
-    <string id="aYMW8bWi" text="Talk to her"/>
-    <string id="bQnVtegC" text="Good, even better. You can find the house easily when you go to the {SETTLEMENT} and walk around the town square. Or you could just speak to this scum gang leader {TARGET_HERO.LINK} and make {?TARGET_HERO.GENDER}her{?}him{\?} understand and get my boy released. Good luck. I await good news."/>
-    <string id="CWbAoGRu" text="Yes, I don't care how you solve it. Just solve it any way you like. I could send some {NEEDED_MEN_COUNT} men on a mission of {ALTERNATIVE_SOLUTION_DURATION} days with a companion who knows how to handle the thugs, but I would rather not. It would be inappropriate marching in with our clan colors waving around and trashing criminals in another lord's territory."/>
-    <string id="CXw9a1i5" text="{QUEST_GIVER.LINK} a {?QUEST_GIVER.GENDER}lady{?}lord{\?} from {QUEST_GIVER_CLAN} clan asked you to go to {SETTLEMENT} to free {?QUEST_GIVER.GENDER}her{?}his{\?} relative. The young man is currently held by {TARGET_HERO.LINK} a local gang leader because of his debts. {?QUEST_GIVER.GENDER}Lady{?}Lord{\?} {QUEST_GIVER.LINK} has suggested to make an example off these criminals so no one would dare to hold a nobleman again. {?QUEST_GIVER.GENDER}She{?}He{\?} said you can find the house that the young nobleman is held easily in the town square."/>
-    <string id="d5a8xQos" text="You have failed to defeat the thugs that keep {QUEST_GIVER.LINK}'s relative captive. After your assault you learn that they move the boy to a more secure place. Now its impossible to find him. {QUEST_GIVER.LINK} will have to deal with {TARGET_HERO.LINK} himself now. {?QUEST_GIVER.GENDER}She{?}He{\?} won't be happy to hear this."/>
-    <string id="dmijPqWn" text="You have failed to extract {QUEST_GIVER.LINK}'s relative captive in time. They have moved the boy to a more secure place. Its impossible to find him now. {QUEST_GIVER.LINK} will have to deal with {TARGET_HERO.LINK} himself now. {?QUEST_GIVER.GENDER}She{?}He{\?} won't be happy to hear this."/>
-    <string id="dwNquUNr" text="My father? Oh, thank god! I saw terrible things. They took my beloved one and slew many innocents without hesitation."/>
-    <string id="DYq30shK" text="Thank you, {?PLAYER.GENDER}milady{?}sir{\?}."/>
-    <string id="edoXFdmg" text="You have found {QUEST_GIVER.NAME}'s daughter."/>
-    <string id="eKLH9fOb" text="May I be of service, {?PLAYER.GENDER}your ladyship{?}your lordship{\?}?"/>
-    <string id="evIohG6b" text="Thank you but no need. Once we are out of here I can manage to return on my own. I appreciate your efforts. I'll tell everyone on my clan of your heroism."/>
-    <string id="EZ19JOGj" text="{MENTOR.NAME}'s House"/>
-    <string id="FgSIsasF" text="Yes, you are right. I shall be on my way..."/>
-    <string id="HtAr22re" text="Try to forget all about these and return to your father's house."/>
-    <string id="I979VDEn" text="Yes, did you bring {GOLD_AMOUNT}{GOLD_ICON}? That's what he owes... With an interest of course."/>
-    <string id="IboStvbL" text="Here is the money, now release him!"/>
-    <string id="iRupMGI0" text="Calm down! Your father has sent me to find you."/>
-    <string id="IXnvQ8kG" text="{COMPANION.LINK} and the men you sent with {?COMPANION.GENDER}her{?}him{\?} safely returns with the news of success. {QUEST_GIVER.LINK} is happy and sends you {?QUEST_GIVER.GENDER}her{?}his{\?} regards with {REWARD}{GOLD_ICON} the money he promised."/>
-    <string id="ixRofhHl" text="Do I know you?"/>
-    <string id="Jss9UqZC" text="I'll go right away"/>
-    <string id="K5DgDU2a" text="I am here for the boy, whose name is {PRODIGAL_SON.LINK}"/>
-    <string id="K8TSoRSD" text="Did {?QUEST_GIVER.GENDER}Lady{?}Lord{\?} {QUEST_GIVER.LINK} sent you to rescue me?"/>
-    <string id="keLJvk37" text="I just have a minute, {?PLAYER.GENDER}madame{?}sir{\?}. I need to check on a batch. How can I help you?"/>
-    <string id="kqXxvtwQ" text="Don't worry I'll free him."/>
-    <string id="KTgOXBPN" text="Hot in here, eh {?PLAYER.GENDER}madame{?}sir{\?}? So, how can I help you?"/>
-    <string id="ln3bGyIO" text="Yes I'm here to take you back."/>
-    <string id="lUjCslGK" text="Hope you don't mind the smoke in here, {?PLAYER.GENDER}madame{?}sir{\?}. Got to keep the kilns hot. How can I help you?"/>
-    <string id="mDXzDXKY" text="I am sure you are trusting competent men to bring our boy back."/>
-    <string id="Mr2rt8g8" text="Prodigal son of {CLAN_NAME}"/>
-    <string id="MTxuTZDA" text="I'll be here, your {?PLAYER.GENDER}ladyship{?}lordship{\?}.[rb:positive]"/>
-    <string id="NVvfxdIc" text="You best talk to the boss."/>
-    <string id="nZhPS83J" text="You lost your horse and its harness."/>
-    <string id="O2GBEzci" text="Do you have any idea about how stupid it is to kidnap a nobleman's son?"/>
-    <string id="OybG76Kf" text="Thank you for saving me, sir. I won't forget what you did here today."/>
-    <string id="PBZZrK90" text="Yes... Please go on."/>
-    <string id="PGsbb0KP" text="This house is near the town square in {SETTLEMENT}. I need someone to go there and extract my clansman. It would be easy to pay off the debt of course but what I really want you to do is give a good threshing to these scum who think they are hard. Make an example of them so everyone understands the idiocy of holding a nobleman's relative in captive."/>
-    <string id="pinSMuMe" text="Well, there's one starting up at {CLOSEST_TOURNAMENT}, then another at {NEXT_CLOSEST_TOURNAMENT}. You should probably be able to get to either of those, if you move quickly.[ib:hip][rb:very_positive]"/>
-    <string id="PRiOVcO9" text="Careful around here, {?PLAYER.GENDER}madame{?}sir{\?}. Don't want to get your hands caught in the press. How can I help you?"/>
-    <string id="puN51FOi" text="What do you mean?"/>
-    <string id="PuuVGOyM" text="I will send {NEEDED_MEN_COUNT} of my men with one of my lieutenants for {ALTERNATIVE_SOLUTION_DURATION} days to help you."/>
-    <string id="qsJxhNGZ" text="Safe travels {?PLAYER.GENDER}milady{?}sir{\?}."/>
-    <string id="Rb7g1U2s" text="You have convinced {TARGET_HERO.LINK} to release {PRODIGAL_SON.LINK}. Soon after, {?QUEST_GIVER.GENDER}Lady{?}Lord{\?} {QUEST_GIVER.LINK} sends {?QUEST_GIVER.GENDER}her{?}his{\?} best regards and a sum of {REWARD}{GOLD_ICON} as a reward."/>
-    <string id="skMoB7c6" text="You have paid the debt that {PRODIGAL_SON.LINK} owes. True to his word {TARGET_HERO.LINK} releases the boy immediately. Soon after, {?QUEST_GIVER.GENDER}Lady{?}Lord{\?} {QUEST_GIVER.LINK} sends {?QUEST_GIVER.GENDER}her{?}his{\?} best regards and a sum of {REWARD}{GOLD_ICON} as a reward."/>
-    <string id="tGI135jv" text="Ah - I don't know of any right now. That's a bit unusual though. Must be the wars.[ib:warrior][rb:unsure]"/>
-    <string id="TkYk5yxn" text="Yes? Go already. Get our boy back."/>
-    <string id="TnZ9Mynm" text="Right... So, {?PLAYER.GENDER}madame{?}sir{\?}, how can I help you?"/>
-    <string id="UBFS1JLj" text="I have no problem with the boy anymore, okay? Just leave me alone."/>
-    <string id="VuqZuSe2" text="Your clan is now at war with the {QUEST_GIVER.LINK}'s faction. Your agreement has been canceled."/>
-    <string id="vW6kBki9" text="Your clan is now at war with {QUEST_GIVER.LINK}'s realm. Your agreement with {QUEST_GIVER.LINK} is canceled."/>
-    <string id="vWudlbhd" text="Look, these men who deal in politics are not like you and me, they've earned their place by crushing people like you for generations. Don't mess with them."/>
-    <string id="ygPtmIfy" text="They have agents to do their dirty work and will send them after you. Your street thugs cannot hope to deal with them."/>
-    <string id="yIpqMu9U" text="It's not worth it. Even if they pay you, you will have the grudge of a powerful clan forever."/>
-    <string id="yN4imaGo" text="Your {?PLAYER.GENDER}ladyship{?}lordship{\?}... This is quite the honor. Do you play {GAME_NAME}? It's the traditional pastime of the {CULTURE_NAME}, and I am reckoned a master. If you wish to play a game, please, take a seat and we'll start."/>
-    <string id="YTaM6G1E" text="It seems the village has been raided a short while ago. You found nothing but smoke, fire and crying people."/>
+    <string id="1xyj3HW0" text="У меня есть минутка, {?PLAYER.GENDER}мадам{?}сэр{\?}, пока я не вернулся к станку. Чем я могу помочь вам?"/>
+    <string id="1YGgXOB7" text="Хех... Думаешь управлять улицами города просто? Вы недооцениваете нас. Теперь о деньгах."/>
+    <string id="2WnruiBw" text="Я слышал что один скоро начнется в {CLOSEST_TOURNAMENT}. Вы еще успеете, если поторопитесь.[rb:trivial]"/>
+    <string id="4pkfkSbe" text="Извиняюсь за запах, {?PLAYER.GENDER}мадам{?}сэр{\?}. Дубление кожи всегда так воняет. Чем я могу помочь?"/>
+    <string id="4zf1lg6L" text="Я могу вместо этого отправить одного из своих спутников."/>
+    <string id="5a6KlSXt" text="У меня проблема. {PRODIGAL_SON.LINK}, один из моих молодых ребят клана пошел в город повеселиться, выпить, патрахаться и сыграть в азартные игры. Как и все мы в молодости, но похоже он пересек черту. Теперь он присылает мне новости, что он задолжал крупную сумму денег {TARGET_HERO.LINK}, одному из криминальных авторитетов в {SETTLEMENT}. Эта мразь держит его в качестве &quot;гостя&quot; у себя дома, пока кто-то не выплатит долг."/>
+    <string id="5puy0Jle" text="{ISSUE_OWNER.NAME} просит помочь молодому члену клана. Предположительно он проиграл крупную сумму, которую не смог оплатить, и теперь находится в заложниках. Вас просят вернуть его любым возможным способом."/>
+    <string id="7k03GxZ1" text="С вами приятно иметь дело. Я прикажу своим людям немедленно освободить его."/>
+    <string id="7kqz1LlI" text="Блудный сын {CLAN}"/>
+    <string id="a6hwSEAK" text="Ваша лошадь теперь {MODIFIED_NAME}, из-за серьезной травмы."/>
+    <string id="adbQR9j0" text="Долг оплачен, парень твой. Теперь оставь меня..."/>
+    <string id="aKbyJsho" text="Если подумать, я могу разобаться с этой мразью сам."/>
+    <string id="alruamIW" text="Хмм... Возможно ты прав. Это того не стоит. Я немедленно отпущу парня."/>
+    <string id="AwZhx2tT" text="Я вернусь."/>
+    <string id="axLR9bQo" text="Вы победили головорезов, которые держали {PRODIGAL_SON.LINK}, как того просил {QUEST_GIVER.LINK}. {?QUEST_GIVER.GENDER}Леди{?}Лорд{\?} {QUEST_GIVER.LINK} скоро передаст награду в {REWARD}{GOLD_ICON} с наилудшими пожеланиями."/>
+    <string id="aYMW8bWi" text="Поговорить с ней"/>
+    <string id="bQnVtegC" text="Хорошо, и даже лучше. Вы легко сможете найти тот дом, прогулявшись по улицам {SETTLEMENT}. Или вы могли бы поговорить с {TARGET_HERO.LINK} и заставить {?TARGET_HERO.GENDER}её{?}его{\?} освободить моего мальчика. Удачи. Буду ждать хороших новостей."/>
+    <string id="CWbAoGRu" text="Да, меня не волнует как вы это решите. Сделайте как вам угодно. Я бы мог отправить {NEEDED_MEN_COUNT} бойцов на {ALTERNATIVE_SOLUTION_DURATION} дней с тем, кто знает как справится с головорезами, но я бы предпочел этого не делать. Было бы не уместно ходить, размахивая флагами нашего клана и громить преступников на территории другого лорда."/>
+    <string id="CXw9a1i5" text="{?QUEST_GIVER.GENDER}Леди{?}Лорд{\?} {QUEST_GIVER.LINK} из {QUEST_GIVER_CLAN} попросил вас пойти в {SETTLEMENT} и освободить {?QUEST_GIVER.GENDER}её{?}его{\?} родственника. Молодого человека удерживает за долги главарь местной банды {TARGET_HERO.LINK}. {?QUEST_GIVER.GENDER}Леди{?}Лорд{\?} {QUEST_GIVER.LINK} предложил наказать их, чтобы никто не осмелился снова удерживать дворянина. {?QUEST_GIVER.GENDER}Она{?}Он{\?} сказал, что, прогулявшись по городской площади, вы сможете легко найти дом в котором держат молодого дворянина."/>
+    <string id="d5a8xQos" text="Вам не удалось победить бандитов, удерживающих родственника {QUEST_GIVER.LINK}. После нападения вы узнаете, что мальчика переводят в более безопасное место. Теперь нет возможности найти его. {QUEST_GIVER.LINK} придется самому разбираться с {TARGET_HERO.LINK}. {?QUEST_GIVER.GENDER}Она{?}Он{\?} будет не рад{?QUEST_GIVER.GENDER}а{?}{\?} услышать такое."/>
+    <string id="dmijPqWn" text="Вам не удалось во время вытащить из плена родственника {QUEST_GIVER.LINK}. Его переведут в более безопасное место. Теперь нет возможности найти его. {QUEST_GIVER.LINK} придется самому разбираться с {TARGET_HERO.LINK}. {?QUEST_GIVER.GENDER}Она{?}Он{\?} будет не рад{?QUEST_GIVER.GENDER}а{?}{\?} услышать такое."/>
+    <string id="dwNquUNr" text="Мой отец? Ох, слава богу! Я повидала ужасные вещи. Они забрали моего возлюбленного и без колебаний убили многих невинных."/>
+    <string id="DYq30shK" text="Спасибо, {?PLAYER.GENDER}миледи{?}сэр{\?}."/>
+    <string id="edoXFdmg" text="Вы нашли дочь {QUEST_GIVER.NAME}."/>
+    <string id="eKLH9fOb" text="Могу я быть полезным, ваша светлость?"/>
+    <string id="evIohG6b" text="Спасибо, но в этом нет необходимости. Как только мы выберемся отсюда, я смогу вернуться самостоятельно. Я ценю ваши старания и расскажу всем в моем клане о вашем героизме."/>
+    <string id="EZ19JOGj" text="{MENTOR.NAME} дом"/>
+    <string id="FgSIsasF" text="Да, ты прав. Я буду в пути..."/>
+    <string id="HtAr22re" text="Постарайтесь забыть обо всем этом и вернуться в дом своего отца."/>
+    <string id="I979VDEn" text="Да, вы принесли {GOLD_AMOUNT}{GOLD_ICON}? Это его долг... С процентами, разумеется."/>
+    <string id="IboStvbL" text="Вот деньги, теперь отпустите его!"/>
+    <string id="iRupMGI0" text="Успокойся! Ваш отец послал меня найти вас."/>
+    <string id="IXnvQ8kG" text="{COMPANION.LINK} и люди, которых вы послали с {?COMPANION.GENDER}ней{?}ним{\?} благополучно вернулись с хорошими новостями. {QUEST_GIVER.LINK} счастлив и шлет вам свою благодарность вместе с {REWARD}{GOLD_ICON} деньгами которые обещал."/>
+    <string id="ixRofhHl" text="Я тебя знаю?"/>
+    <string id="Jss9UqZC" text="Я пойду прямо сейчас"/>
+    <string id="K5DgDU2a" text="Я здесь ради {PRODIGAL_SON.LINK}"/>
+    <string id="K8TSoRSD" text="Это {?QUEST_GIVER.GENDER}Леди{?}Лорд{\?} {QUEST_GIVER.LINK} послал тебя спасти меня?"/>
+    <string id="keLJvk37" text="У меня есть минутка, {?PLAYER.GENDER}мадам{?}сэр{\?}, пока я не начну проверять партию. Чем я могу помочь?"/>
+    <string id="kqXxvtwQ" text="Не волнуйся, я его освобожу."/>
+    <string id="KTgOXBPN" text="Жарковато тут, да {?PLAYER.GENDER}мадам{?}сэр{\?}? Итак, чем я могу помочь?"/>
+    <string id="ln3bGyIO" text="Да, я здесь чтобы вернуть тебя."/>
+    <string id="lUjCslGK" text="Надеюсь вы не против дыма тут, {?PLAYER.GENDER}мадам{?}сэр{\?}. Нужно держать печи горячими. Чем могу помочь?"/>
+    <string id="mDXzDXKY" text="Я уверен, что вы доверите возвращение моего мальчика надежным людям."/>
+    <string id="Mr2rt8g8" text="Блудный сын {CLAN_NAME}"/>
+    <string id="MTxuTZDA" text="Я буду тут, ваша светлость.[rb:positive]"/>
+    <string id="NVvfxdIc" text="Лучше поговори с боссом."/>
+    <string id="nZhPS83J" text="Вы потеряли лошадь и её упряжь."/>
+    <string id="O2GBEzci" text="Вы хоть представляете, на сколько глупо похищать сына дворянина?"/>
+    <string id="OybG76Kf" text="Спасибо что спасли меня. Я не забуду, что вы сделали здесь сегодня."/>
+    <string id="PBZZrK90" text="Да... Пожалуйста, продолжайте."/>
+    <string id="PGsbb0KP" text="Этот дом находится недалеко от городской площади в {SETTLEMENT}. Мне нужно, чтобы кто-нибудь отправился туда и вытащил моего члена клана. Конечно, выплатить долг было бы легко, но я действительно хочу, чтобы вы преподали хороший урок этим подонкам, которые думают, что им все позволено. Сделайте из них пример, чтобы все понимали идиотизм захвата в плен родственника дворянина."/>
+    <string id="pinSMuMe" text="Чтож, один начинается в {CLOSEST_TOURNAMENT}, и еще один в {NEXT_CLOSEST_TOURNAMENT}. Вы сможете попасть на один из них, если поторопитесь.[ib:hip][rb:very_positive]"/>
+    <string id="PRiOVcO9" text="Будте осторожны, {?PLAYER.GENDER}мадам{?}сэр{\?}. Не хочу чтобы ваши руки попали под пресс. Чем я могу помочь?"/>
+    <string id="puN51FOi" text="Что вы имеете в виду?"/>
+    <string id="PuuVGOyM" text="Я пошлю {NEEDED_MEN_COUNT} своих людей с одним из спутников на {ALTERNATIVE_SOLUTION_DURATION} дней, чтобы помочь вам."/>
+    <string id="qsJxhNGZ" text="Безопасных путешествий {?PLAYER.GENDER}миледи{?}сэр{\?}."/>
+    <string id="Rb7g1U2s" text="Вы убедили {TARGET_HERO.LINK} выпустить {PRODIGAL_SON.LINK}. Вскоре после этого, {?QUEST_GIVER.GENDER}Леди{?}Лорд{\?} {QUEST_GIVER.LINK} с наилудшими пожеланиями шлет награду в {REWARD}{GOLD_ICON}."/>
+    <string id="skMoB7c6" text="Вы выплатили долг за {PRODIGAL_SON.LINK}. {TARGET_HERO.LINK} держит слово и немедленно отпускает парня. Вскоре после этого, {?QUEST_GIVER.GENDER}Леди{?}Лорд{\?} {QUEST_GIVER.LINK} с наилудшими пожеланиями шлет награду в {REWARD}{GOLD_ICON}."/>
+    <string id="tGI135jv" text="Ах - Я не слышал ни об одном. Это немного необычно. Возможно из-за войн.[ib:warrior][rb:unsure]"/>
+    <string id="TkYk5yxn" text="Да? Иди уже. Верни нашего мальчика."/>
+    <string id="TnZ9Mynm" text="Точно... Итак, {?PLAYER.GENDER}мадам{?}сэр{\?}, чем могу помочь?"/>
+    <string id="UBFS1JLj" text="У меня больше нет проблем с мальчиком, хорошо? Просто оставь меня в покое."/>
+    <string id="VuqZuSe2" text="Ваш клан теперь находится в состоянии войны с фракцией {QUEST_GIVER.LINK}. Ваше соглашение было отменено."/>
+    <string id="vW6kBki9" text="Ваш клан теперь находится в состоянии войны с королевством {QUEST_GIVER.LINK}. Ваше соглашение с {QUEST_GIVER.LINK} было отменено."/>
+    <string id="vWudlbhd" text="Послушай, эти люди, занимающиеся политикой, не такие как мы с вами, они добились своего положения сокрушая таких как ты на протяжении поколений. Не связывайся с ними."/>
+    <string id="ygPtmIfy" text="У них есть люди, которые выполняют грязную работу, и они отправят их за вами. Ваши уличные головорезы не смогут справиться с ними."/>
+    <string id="yIpqMu9U" text="Это того не стоит. Даже если они заплатят вам, вы останетесь врагом могущественного клана."/>
+    <string id="yN4imaGo" text="Ваша светлость... Это большая честь. Вы играете в {GAME_NAME}? Это традиционное времяпрепровождение {CULTURE_NAME}, и меня считают мастером. Если вы хотите сыграть, пожалуйста присаживайтесь и мы начнем."/>
+    <string id="YTaM6G1E" text="Похоже, на деревню недавно был совершен набег. Вы не находите ничего, кроме плачущих людей и дымящегося пепла."/>
     <string id="YtS3cgto" text="Что планируете делать?"/>
     <string id="YuLLsAUb" text="У вас нет {GOLD_AMOUNT}{GOLD_ICON}."/>
-    <string id="Z9sp21rl" text="{QUEST_GIVER.LINK} a lord from {QUEST_GIVER_CLAN} clan asked you to free {?QUEST_GIVER.GENDER}her{?}his{\?} relative. The young man is currently held by {TARGET_HERO.LINK} a local gang leader because of his debts. {?QUEST_GIVER.GENDER}Lady{?}Lord{\?} {QUEST_GIVER.LINK} has given you enough gold to settle {?QUEST_GIVER.GENDER}her{?}his{\?} debts but {?QUEST_GIVER.GENDER}she{?}he{\?} encourages you to keep the money to yourself and make an example of these criminals so no one would dare to hold a nobleman again. You have sent {COMPANION.LINK} and {NEEDED_MEN_COUNT} men to take care of the situation for you. They should be back in {ALTERNATIVE_SOLUTION_DURATION} days."/>
+    <string id="Z9sp21rl" text="{QUEST_GIVER.LINK} лорд из клана {QUEST_GIVER_CLAN} просит вас освободить {?QUEST_GIVER.GENDER}её{?}его{\?} родственника. Молодого человека удерживает за долги главарь местной банды по имени {TARGET_HERO.LINK}. {?QUEST_GIVER.GENDER}Леди{?}Лорд{\?} {QUEST_GIVER.LINK} дал вам достаточно золота для оплаты {?QUEST_GIVER.GENDER}её{?}его{\?} долгов, но {?QUEST_GIVER.GENDER}она{?}он{\?} просит оставить деньги себе и преподать урок этим преступникам, чтобы больше никто не осмелился удерживать дворянина. Вы отправили {COMPANION.LINK} и {NEEDED_MEN_COUNT} человек позаботится о ситуации за вас. Они должны вернуться через {ALTERNATIVE_SOLUTION_DURATION} дней."/>
+    <string id="2aXYYNBG" text="Пришли подстричься, {?PLAYER.GENDER}миледи{?}милорд{\?}? Новый день, новый внешний вид?"/>
+    <string id="9pgOGq7X" text="Бревно"/>
+    <string id="akqJbZpH" text="Замечательно! Вы великолепно выглядите, {?PLAYER.GENDER}миледи{?}милорд{\?}, если вам интересно мое мнение. Вы великолепны."/>
+    <string id="BusYGTrN" text="Превосходно! Тогда, хорошего дня, {?PLAYER.GENDER}миледи{?}милорд{\?}."/>
+    <string id="GvLZKQ1U" text="Диван"/>
+    <string id="M3K8wUOO" text="Итак... Вам нравится это, {?PLAYER.GENDER}миледи{?}милорд{\?}?"/>
+    <string id="oPUVNuhN" text="Буду иметь ввиду"/>
+    <string id="Q7wBRXtR" text="Да, у меня есть.( {GOLD_COST} {GOLD_ICON})"/>
+    <string id="xPAAZAaI" text="Моя прическа и так в порядке, спасибо."/>
+    <string id="yLIZlaS1" text="Отлично. Возвращайтес, когда будете готовы, {?PLAYER.GENDER}миледи{?}милорд{\?}."/>
+    <string id="zTF4bJm0" text="Да, в порядке."/>
   </strings>
 </base>

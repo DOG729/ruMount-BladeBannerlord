@@ -123,7 +123,6 @@
     <string id="4ol7MhA5" text="Вы оказались в ловушке врагов. Но ваши люди не в состоянии воевать."/>
     <string id="4rRsmX8i" text="Хорошо. Иногда лучше стричь овец, чем съесть их."/>
     <string id="4Skg9QhO" text="Требушет"/>
-    <string id="4smaJqhw" text="Аннексировать"/>
     <string id="4WD0kJSR" text="Аррр.. Тебе лучше не играть с нами."/>
     <string id="4wYguFLZ" text="Решение проблемы"/>
     <string id="4Y5T7wp1" text="Нельзя выгнать членов семьи из клана."/>
@@ -407,7 +406,6 @@
     <string id="C6n2tZlQ" text="мой союзник {REFERING_HERO.LINK}"/>
     <string id="c7bVbjD7" text="Как вы пожелаете. Отныне мы будем сражаться за вас."/>
     <string id="C9EDof32" text="Нет Выбранной Армии"/>
-    <string id="C9pxqWY8" text="Ожидается, что ваш юнит: {BEHAVIOUR_NAME_BEGIN}{?IS_PLURAL} и {?}{\?}{BEHAVIOUR_NAME_END}{?IS_GENERAL_SIDE} с {SIDE_STRING}{?}{\?}"/>
     <string id="caadBNhn" text="Осадная Башня (Уровень 3)"/>
     <string id="caFEBWSY" text="Ваш соперник окружил вас. Вы проиграли."/>
     <string id="cAgI2lPn" text="Управляющий поселением {SETTLEMENT_NAME}"/>
@@ -883,7 +881,6 @@
     <string id="LZhRP3PM" text="Ждать других осадных машин"/>
     <string id="Lzmtqif5" text="Размер Армии "/>
     <string id="lznqF0oO" text="Расформирование"/>
-    <string id="M03MNN3T" text="Мерлон"/>
     <string id="M2b5mtAE" text="Спутник"/>
     <string id="m2YKBbdI" text="Привет, Маленькая потерянная овца. Мы волки в горах, и мы хотели бы на минутку..."/>
     <string id="m6A7RLby" text="Коварный"/>
@@ -1469,7 +1466,7 @@
     <string id="YifFZaG7" text="Командир отряда"/>
     <string id="Yj0cQVLH" text="Атака!"/>
     <string id="YJaNtktT" text="Завербовать всех"/>
-    <string id="yjXoftYs" text="Последний раз видели {?IS_IN_SETTLEMENT}в{?}возле{\?} {SETTLEMENT} {?IS_TODAY}сегодня{?}{DAY_VALUE} {?IS_MORE_THAN_ONE_DAY}дней{?}день{\?} назад{\?}." />
+    <string id="yjXoftYs" text="Последний раз видели {?IS_IN_SETTLEMENT}в{?}возле{\?} {SETTLEMENT} {?IS_TODAY}сегодня{?}{DAY_VALUE} {?IS_MORE_THAN_ONE_DAY}дней{?}день{\?} назад{\?}."/>
     <string id="YK3nXtoM" text="Друзья"/>
     <string id="YkagFP1z" text="Моя мать {REFERING_HERO.LINK}"/>
     <string id="ykZLXKH3" text="Известность: {RENOWN}"/>
@@ -1662,5 +1659,15 @@
     <string id="uhcIXeba" text="Вы выбрасываете предметы. Вы уверены?"/>
     <string id="Vqu67a3b" text="Шёлк-сырец"/>
     <string id="zE6OFPRu" text="Налог с поселения"/>
+    <string id="7MSuWxaY" text="{CHILD.NAME} достиг возраста {CHILD.AGE} и {?CHILD.GENDER}ей{?}ему{\?} нужно ваше наставление."/>
+    <string id="8byRf9zO" text="General"/>
+    <string id="ebbyLN2i" text="Города"/>
+    <string id="fEJQcb4U" text="Loyalty Drift"/>
+    <string id="If65Vm9h" text="Обучение ребенка"/>
+    <string id="kVLfRWjE" text="На {BONUS_AMOUNT}% уменьшено жалованье гарнизона."/>
+    <string id="ljcHO6PW" text="Security Drift"/>
+    <string id="Nfm5lLWv" text="{CHILD.NAME} требует вашего немедленного внимания!"/>
+    <string id="NqtTPVzn" text="Атрибуты"/>
+    <string id="Z8LeI4ho" text="Телохранители"/>
   </strings>
 </base>
