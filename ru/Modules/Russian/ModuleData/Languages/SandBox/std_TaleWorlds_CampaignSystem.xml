@@ -3340,7 +3340,7 @@
     <string id="IU63oxWD" text="Джеминон"/>
     <string id="IULW8h03" text="Конечно."/>
     <string id="J1nh9YiN" text="Атилон"/>
-    <string id="J53hpSzc" text="Ваши убийства двуручным оружием на 20% выше влияют на мораль вражеских войск."/>
+    <string id="J53hpSzc" text="Ваши убийства двуручным оружием на 20% сильнее влияют на мораль вражеских войск."/>
     <string id="j9MBwnWI" text="Что ж... Вы работаете на того торговца в городе? Это нормально, когда богатый народ торгует браконьерскими шкурами, но если мы это делем, то приходят вооруженные люди, чтобы выследить нас."/>
     <string id="jbAtOsIy" text="Потогонные"/>
     <string id="JDfnPFsW" text="{PEACEMAKER_RULER.NAME} из {KINGDOM_CONSIDERING_PEACE} решает не воевать против фракции {KINGDOM}, несмотря на возражение {?PEACEMAKER_RULER.GENDER}ее{?}его{\?} совета."/>
@@ -3543,7 +3543,7 @@
     <string id="t4kOTpwY" text="Повышение морали на 10 во время осадных атак и обороны."/>
     <string id="T5rM9XgO" text="Лидер масс"/>
     <string id="T70o6ItZ" text="Бандитов на 20% легче убедить уйти с миром при обмене"/>
-    <string id="taTbOAte" text="Атаки древковым оружием, которые наносят более 25 урона, имеют 25% шанс выбить всадника из седла."/>
+    <string id="taTbOAte" text="Атаки древковым оружием, которые наносят более 25% урона, имеют 25% шанс выбить всадника из седла."/>
     <string id="TbBmjK8M" text="Рожден пустыней"/>
     <string id="TbkoiaEg" text="Бандитские войска в вашем отряде требуют на 20% меньше заработной платы"/>
     <string id="tbQ5bUzD" text="Лошади Ареникоса"/>
@@ -3905,7 +3905,7 @@
     <string id="5BEGa9ZS" text="Choose a Skill"/>
     <string id="5pGCtBhd" text="You asked that your child be schooled over the next few years in all the treatises that can be found on human body, its ailments, and their treatments."/>
     <string id="5vosR2YO" text="The host was the kind of man who likes to do his negotiations from the saddle in pursuit of deer, and {CHILD.NAME} joined in every expedition."/>
-    <string id="6aiNd5W0" text="You can deflect arrows with two handed swords while blocking."/>
+    <string id="6aiNd5W0" text="При блокировании двуручным мечом вы можете отражать стрелы."/>
     <string id="6apaXF8k" text="You wanted this child to learn most from those who worked with their hands for a living. You asked an artisan in your employ to teach {?CHILD.GENDER}her{?}him{\?}..."/>
     <string id="6ba4n9n6" text="We are waiting for your good news {?PLAYER.GENDER}my lady{?}sir{\?}."/>
     <string id="6EaKsRtu" text="Accidents are inevitable, and {?PLAYER_CHILD}your{?}the{\?} child isn't bothered by the sight of blood. {?CHILD.GENDER}She{?}He{\?} acts quickly to staunch bleeding and prevent infection."/>
@@ -4036,7 +4036,7 @@
     <string id="gp1qYbgb" text="Your {?IS_BATTANIA_OR_KHUZAIT}lorekeeper{?}scholar{\?} is happy with the child's progress. He informs you that {?CHILD.GENDER}she{?}he{\?} shows some natural talent in {SKILL}."/>
     <string id="gqUtaPRM" text="The huntsman organizes hunts and keeps watch for poachers and thieves. Your child should learn how to handle hunting bows and crossbows and the basics of scouting and tracking."/>
     <string id="GvSVxyO0" text="Your steward is happy with the child's progress. He informs you that {?CHILD.GENDER}she{?}he{\?} shows some natural talent in {SKILL}."/>
-    <string id="gW4Qmn73" text="Polearm thrust attacks have 30% more chance to knock opponents back."/>
+    <string id="gW4Qmn73" text="Колющие атаки древковым оружием с шансом 30% отталкивают врага."/>
     <string id="GX0B9ngI" text="{CHILD.NAME} spends time by {?CHILD.GENDER}herself{?}himself{\?} as well, frequently..."/>
     <string id="h1GdWZjk" text="avoids chores."/>
     <string id="h7aX2GOw" text="This child is quite strong, grabbing whatever {?CHILD.GENDER}she{?}he{\?} likes climbing out of {?CHILD.GENDER}her{?}his{\?} cradle whenever {?CHILD.GENDER}her{?}his{\?} caretaker's back is turned."/>
@@ -4116,7 +4116,7 @@
     <string id="lZSu0iOo" text="{CHILD.NAME} is now at an age when it is customary to assign a well-born child a tutor. You decided to entrust {?CHILD.GENDER}her{?}him{\?} to your... "/>
     <string id="m4kr4RXD" text="{?CHILD.GENDER}her{?}his{\?} strength."/>
     <string id="m7iBf6fQ" text="Pick an Attribute"/>
-    <string id="MbRZSiuq" text="Arrow Deflection"/>
+    <string id="MbRZSiuq" text="Отражение стрел"/>
     <string id="MdjZ56VR" text="{?CHILD.GENDER}She{?}He{\?} sits on the saddle so comfortably, like {?CHILD.GENDER}she{?}he{\?} was born on it."/>
     <string id="MgPubWOa" text="The epics are full of men and women who preferred words to the sword, and who could win the friendship of allies and the admiration of enemies."/>
     <string id="MHsa7s99" text="learned to construct siege engines."/>
@@ -4226,7 +4226,7 @@
     <string id="VTzvlEV8" text="Sparring with total strangers, including some who would happily break {?CHILD.GENDER}her{?}his{\?} teeth if {?CHILD.GENDER}she{?}he{\?} let them, was a new and valuable experience for {CHILD.NAME}."/>
     <string id="VVBx07cK" text="The siege engines needed gears and bracings, and the master assigned {?PLAYER_CHILD}your{?}the{\?} child to assist in forging them."/>
     <string id="W6ajyrga" text="Everytime a project is finished increase prosperity by 100."/>
-    <string id="WAbqnair" text="Two handed weapon attacks that deal over 25% damage have 30% chance to knock opponents down."/>
+    <string id="WAbqnair" text="Атаки двуручным оружием, наносящие более 25% урона, могут опрокинуть врага с шансом 30%."/>
     <string id="WBCt4M0J" text="Increase max granary food storage capacity by 100."/>
     <string id="WD6soDM1" text="It was a minor skirmish but a clear victory nonetheless. {CHILD.NAME} wasn't just there when the commander came up with the winning strategy but also took part in executing it."/>
     <string id="webjbgTa" text="trained really hard."/>
