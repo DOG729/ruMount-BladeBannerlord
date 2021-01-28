@@ -3340,7 +3340,7 @@
     <string id="IU63oxWD" text="Джеминон"/>
     <string id="IULW8h03" text="Конечно."/>
     <string id="J1nh9YiN" text="Атилон"/>
-    <string id="J53hpSzc" text="Ваши убийства двуручным оружием на 20% выше влияют на мораль вражеских войск."/>
+    <string id="J53hpSzc" text="Ваши убийства двуручным оружием на 20% сильнее влияют на мораль вражеских войск."/>
     <string id="j9MBwnWI" text="Что ж... Вы работаете на того торговца в городе? Это нормально, когда богатый народ торгует браконьерскими шкурами, но если мы это делем, то приходят вооруженные люди, чтобы выследить нас."/>
     <string id="jbAtOsIy" text="Потогонные"/>
     <string id="JDfnPFsW" text="{PEACEMAKER_RULER.NAME} из {KINGDOM_CONSIDERING_PEACE} решает не воевать против фракции {KINGDOM}, несмотря на возражение {?PEACEMAKER_RULER.GENDER}ее{?}его{\?} совета."/>
@@ -3543,7 +3543,7 @@
     <string id="t4kOTpwY" text="Повышение морали на 10 во время осадных атак и обороны."/>
     <string id="T5rM9XgO" text="Лидер масс"/>
     <string id="T70o6ItZ" text="Бандитов на 20% легче убедить уйти с миром при обмене"/>
-    <string id="taTbOAte" text="Атаки древковым оружием, которые наносят более 25 урона, имеют 25% шанс выбить всадника из седла."/>
+    <string id="taTbOAte" text="Атаки древковым оружием, которые наносят более 25% урона, имеют 25% шанс выбить всадника из седла."/>
     <string id="TbBmjK8M" text="Рожден пустыней"/>
     <string id="TbkoiaEg" text="Бандитские войска в вашем отряде требуют на 20% меньше заработной платы"/>
     <string id="tbQ5bUzD" text="Лошади Ареникоса"/>
@@ -3870,7 +3870,7 @@
     <string id="0FIbRZsi" text="You can not help but notice how people are put at ease by {?PLAYER_CHILD}your {?CHILD.GENDER}daughter{?}son{\?}{?}the {?CHILD.GENDER}girl{?}boy{\?}{\?} and seek {?CHILD.GENDER}her{?}his{\?} company."/>
     <string id="0vWaNd1m" text="At the same time, {?CHILD.GENDER}she{?}he{\?} shows {?PLAYER_IS_MOTHER}your{?}{?CHILD.GENDER}her{?}his{\?} mother's{\?}...."/>
     <string id="0XOii9tg" text="The noble did not let {CHILD.NAME} go hand-to-hand with other warriors, but the young {?CHILD.GENDER}woman{?}man{\?} joined the archers as they traded shots with enemy scouts."/>
-    <string id="13GCPNo5" text="Increased hit chance to siege engines by 10% during campaign siege."/>
+    <string id="13GCPNo5" text="Шанс попадания по осадным орудиям увеличен на 10% во время осады на карте кампании."/>
     <string id="1BFk0wAV" text="defeats an enemy."/>
     <string id="1Ehm6o1d" text="shooting at targets."/>
     <string id="1KWhhurv" text="Your tutor throws up his hands in the air at {CHILD.NAME}'s ability to lie {?CHILD.GENDER}her{?}his{\?} way out of trouble, but can't help but admire it a little."/>
@@ -3889,7 +3889,7 @@
     <string id="3hFT34l1" text="{?PLAYER_CHILD}Your{?}The{\?} child helps out the local physician, binding and cleaning wounds and, when the master is absent, prescribing remedies."/>
     <string id="3iED3Ca9" text="To craft a tactic one must first have an idea of what has worked in the past and what has failed, and any commander should know the course and outcome of as many battles as possible."/>
     <string id="3lDTSlpU" text="Even the most skilled swordsman or the strongest axe-wielder is to a lancer as the rabbit is to the eagle."/>
-    <string id="3ML4EkWY" text="Foreman"/>
+    <string id="3ML4EkWY" text="Прораб"/>
     <string id="3O1Pg3Ie" text="At {?CHILD.GENDER}her{?}his{\?} 14th birthday you gave {CHILD.NAME} a special present. You have seen {?CHILD.GENDER}her{?}him{\?} treasure it and believe it will shape who {?CHILD.GENDER}she{?}he{\?} is. You gave {?CHILD.GENDER}her{?}him{\?}..."/>
     <string id="3ZZtAYXm" text="The young {?CHILD.GENDER}woman{?}man{\?} learned to treat the mangled fingers and concussions without which no siege is complete."/>
     <string id="43zzbI1J" text="enemy incursions"/>
@@ -3901,11 +3901,11 @@
     <string id="4VxFPTT0" text="got bloodied."/>
     <string id="53xrtZst" text="Before {CHILD.NAME} left, you asked the lord to make sure that the young {?CHILD.GENDER}woman{?}man{\?}..."/>
     <string id="54PfOh98" text="making {?CHILD.GENDER}her{?}his{\?} own toys."/>
-    <string id="57TDG2Ta" text="Torsion Engines"/>
+    <string id="57TDG2Ta" text="Торсионные механизмы"/>
     <string id="5BEGa9ZS" text="Choose a Skill"/>
     <string id="5pGCtBhd" text="You asked that your child be schooled over the next few years in all the treatises that can be found on human body, its ailments, and their treatments."/>
     <string id="5vosR2YO" text="The host was the kind of man who likes to do his negotiations from the saddle in pursuit of deer, and {CHILD.NAME} joined in every expedition."/>
-    <string id="6aiNd5W0" text="You can deflect arrows with two handed swords while blocking."/>
+    <string id="6aiNd5W0" text="При блокировании двуручным мечом вы можете отражать стрелы."/>
     <string id="6apaXF8k" text="You wanted this child to learn most from those who worked with their hands for a living. You asked an artisan in your employ to teach {?CHILD.GENDER}her{?}him{\?}..."/>
     <string id="6ba4n9n6" text="We are waiting for your good news {?PLAYER.GENDER}my lady{?}sir{\?}."/>
     <string id="6EaKsRtu" text="Accidents are inevitable, and {?PLAYER_CHILD}your{?}the{\?} child isn't bothered by the sight of blood. {?CHILD.GENDER}She{?}He{\?} acts quickly to staunch bleeding and prevent infection."/>
@@ -3929,7 +3929,7 @@
     <string id="8alDLq0s" text="not to be too choosy about travelling companions."/>
     <string id="8mk6gwvh" text="You told {?CHILD.GENDER}her{?}him{\?} that a good eye can spot dangers from afar, and a steady hand can take them down before they get close."/>
     <string id="8Yiwt1z6" text="Early Childhood"/>
-    <string id="9arDDOOK" text="Settlement provides 1 extra catapult at the beginning of the siege."/>
+    <string id="9arDDOOK" text="Поселение получает 1 дополнительную катапульту в начале осады."/>
     <string id="9BoHka98" text="The young {?CHILD.GENDER}woman{?}man{\?} pursued enemy scouts while avoiding their main force. There was little fighting but a great deal of riding."/>
     <string id="9m5M3Yf9" text="Some nobles may consider it vulgar and common, but the art of acrobatics is demanding and often has very practical applications."/>
     <string id="9mWxhzDG" text="procured supplies."/>
@@ -3944,24 +3944,24 @@
     <string id="aCMZafK5" text="The fight was over a minor insult, and only to the first blood. But you're still relieved that the first blood in question belonged to the other youth."/>
     <string id="aCO0Md8z" text="When {?CHILD.GENDER}she{?}he{\?} was ambused on patrol, {CHILD.NAME} fought the attackers off with sheer willpower."/>
     <string id="aeWZRHy3" text="takes charge."/>
-    <string id="AgJAfEEZ" text="Salvager"/>
+    <string id="AgJAfEEZ" text="Сборщик"/>
     <string id="aiBQo2MR" text="an outbreak of unrest"/>
     <string id="aKaGaOQx" text="{CLAN_LEADER.NAME}'s Clan"/>
-    <string id="aPbpBJq5" text="Prison Architect"/>
+    <string id="aPbpBJq5" text="Тюремный архитектор"/>
     <string id="auCinAKs" text="never tires out."/>
-    <string id="auIRGa2V" text="Stonecutters"/>
+    <string id="auIRGa2V" text="Камнетёсы"/>
     <string id="AWuEV99O" text="unleashes {?CHILD.GENDER}her{?}his{\?} fighting spirit."/>
     <string id="aZjz2GfX" text="Master-at-arms"/>
     <string id="bai3aiDB" text="as an envoy."/>
     <string id="bCZbgrLU" text="The smith came down sick and the young {?CHILD.GENDER}woman{?}man{\?} had to quickly learn how to craft horseshoes and nails."/>
     <string id="bdYtcgyB" text="never back down from a challenge."/>
     <string id="biqBLGwa" text="You told the artisan to make sure that {?PLAYER_CHILD}your{?}the{\?} child works hard, and that {?CHILD.GENDER}she{?}he{\?} swings the hammer for hours in the blazing heat of the forge. It tempers the soul, you believe."/>
-    <string id="bIS4kqmf" text="Dreadful Sieger"/>
+    <string id="bIS4kqmf" text="Кошмар осажденных"/>
     <string id="bnPgkPv2" text="Towers, domes and gates are wonders that we must never take for granted."/>
     <string id="brixvCjC" text="guided the caravan."/>
     <string id="bTj16PqR" text="Every well-born youth wants to see the center of it all, where the lords and ladies gather in splendor to converse and connive. You invited the child to see the spectacle first hand, and provided the elegant clothes {?CHILD.GENDER}she{?}he{\?}'d need to be part of it. "/>
     <string id="bUNitf5F" text="Урон стенам во время осады увеличен на 25%."/>
-    <string id="BWafzwTr" text="Each time you build a siege machine, troops in your party gain 5 experience instead flat xp value to whole party."/>
+    <string id="BWafzwTr" text="Каждый раз, когда вы строите осадную машину, войска в вашем отряде получают по 5 опыта вместо фиксированного опыта для всего отряда."/>
     <string id="BWdrwU59" text="На 20% увеличивает точность баллисты на карте кампании."/>
     <string id="bwYRMGIN" text="a treatise on siegecraft."/>
     <string id="bx6Jhhui" text="The artisan should make sure that the child knows the basics of smithing, fletching and pole-turning, and that men who work with their hands take pride in their work."/>
@@ -3974,7 +3974,7 @@
     <string id="ClrrVHcM" text="Набор в армию заключенных не являющихся бандитами на 30% быстрее."/>
     <string id="cnbeJh6Y" text="After many tries {?CHILD.GENDER}she{?}he{\?} successfully beat {?CHILD.GENDER}her{?}his{\?} tutor, fair and square, during sparring."/>
     <string id="CNYoZKyf" text="dabbled in intrigue."/>
-    <string id="cOS8cdib" text="Mangonels и требушеты при осадной бомбардировке перезаряжаются на 25% быстрее."/>
+    <string id="cOS8cdib" text="Катапульты и требушеты при осадной бомбардировке перезаряжаются на 25% быстрее."/>
     <string id="CpcWqufH" text="The young {?CHILD.GENDER}woman{?}man{\?} was placed in command of a small group of militiamen, including some nearly twice {?CHILD.GENDER}her{?}his{\?} age, and earned their respect."/>
     <string id="cpLFQzx0" text="Huntsman"/>
     <string id="cr2jmYxg" text="You remember poring over the hand-drawn schematics of mangonels and towers for hours, imagining that one day you might build one of these awesome instruments of destruction yourself."/>
@@ -3987,7 +3987,7 @@
     <string id="d2KpUKxc" text="The master-at-arms is responsible for the training and discipline of your troops. With his help {?PLAYER_CHILD}your{?}the{\?} child should grow to be a strong warrior."/>
     <string id="DcoDtW2A" text="Choose a Gift"/>
     <string id="DfbYtRyj" text="You had second thoughts about giving {?PLAYER_CHILD}your{?}the{\?} child such a spirited animal, but {?CHILD.GENDER}she{?}he{\?} lept upon its back and galloped like the wind across your pastures."/>
-    <string id="dFLbbXDm" text="Your troops deal 10% more damage to shields."/>
+    <string id="dFLbbXDm" text="Ваши войска наносят на 10% больше урона щитам."/>
     <string id="DiE5Mh2J" text="learned to inspire the soldiers."/>
     <string id="DlRMT7XD" text="Well, {?PLAYER.GENDER}my lady{?}sir{\?}, you'll never get all those outlaws, but if word gets around that you took down some of the most vicious ones - let's say {TOTAL_COUNT} bands of brigands - robbing us wouldn't seem so lucrative. Maybe the rest would go bother someone else... Do you think you can help us?"/>
     <string id="dObod6IZ" text="do some honest work."/>
@@ -3996,21 +3996,21 @@
     <string id="DuaVp7UH" text="Увеличьте скорость набора заключенных ближнего боя на 50%."/>
     <string id="dYO8piOM" text="Yes, my {?PLAYER.GENDER}lady{?}lord{\?}. It is good of you to ask. A group of deserters is camped out near here. They come every few weeks, demanding food and money. They've killed two villagers who resisted them."/>
     <string id="E90ArBnZ" text="fell in with the wrong crowd."/>
-    <string id="ea78JOZK" text="Каждое ополчение увеличивает скорость постройки осадных орудий на 0,1%. (оборона)"/>
-    <string id="eCkC7Grp" text="Defensive siege engines have 30% more hit points."/>
+    <string id="ea78JOZK" text="Каждый ополченец увеличивает скорость постройки осадных орудий на 0,1%. (оборона)"/>
+    <string id="eCkC7Grp" text="Защитные осадные сооружения на 30% прочнее."/>
     <string id="ed5JVSQm" text="You asked the huntsman to spend as much time as possible outdoors, accustomizing the child to the dangers and hardships of the wild. You asked him to teach the child..."/>
     <string id="egXc7J72" text="Caravan guards are not elite troops, and may slack off if not held to a high standard of discipline. {CHILD.NAME} made sure that they stayed sober and alert."/>
-    <string id="ekavTnTp" text="Scaffolds"/>
-    <string id="elKQc0O6" text="Engineering Guilds"/>
+    <string id="ekavTnTp" text="Строительные леса"/>
+    <string id="elKQc0O6" text="Гильдии инженеров"/>
     <string id="EP0gEG0L" text="win a race."/>
     <string id="ePNba38W" text="Armies win battles, but farms and towns win wars."/>
-    <string id="eSNa0skd" text="Troops under the formation you control have their armor values increased by 5."/>
+    <string id="eSNa0skd" text="У воинов в вашем строю показатели брони на 5 выше."/>
     <string id="ETfx08db" text="see as much of the world as {?CHILD.GENDER}she{?}he{\?} could."/>
     <string id="eXLxHSls" text="leads men into enemy territory."/>
     <string id="EXwX0zrx" text="The young {?CHILD.GENDER}woman{?}man{\?} faced a rival clan's outrider in single combat, and handed him a defeat that he wouldn't forget."/>
     <string id="EzbzOsJo" text="burnish {?CHILD.GENDER}her{?}his{\?} social skills."/>
     <string id="ezfehKrT" text="as an apprentice."/>
-    <string id="F58CwbzF" text="Вероятность попадания осадных орудий дальнего боя при бомбардировке поселений на 25% ниже. (оборона)"/>
+    <string id="F58CwbzF" text="Вероятность поражения ваших осадных орудий при бомбардировке на 25% меньше."/>
     <string id="fbsFZWhb" text="Rebels in {SETTLEMENT} have taken the ownership of the settlement."/>
     <string id="FbzyR6hL" text="На 25% увеличена скорость строительства для городских проектов."/>
     <string id="FekWDIUm" text="{?CHILD.GENDER}She{?}He{\?} helped plan a small expedition in pursuit of a group of brigands."/>
@@ -4030,13 +4030,13 @@
     <string id="GDsI6daq" text="Provides a warden to the castle who maintains discipline and law."/>
     <string id="gHgUwteP" text="natural disasters"/>
     <string id="Gitd3DN8" text="a thirst for knowledge."/>
-    <string id="gkAHdFul" text="Шанс побега заключенного из подземелий снижен на 25%."/>
+    <string id="gkAHdFul" text="Шанс побега заключенного из темницы снижен на 25%."/>
     <string id="gkuS35ly" text="caring for your horses."/>
     <string id="GOt2uRcJ" text="In adolescence, {?CHILD.GENDER}she{?}he{\?} began to take on serious responsibilities and compete with adults as a near-equal. {?CHILD.GENDER}She{?}He{\?} managed to..."/>
     <string id="gp1qYbgb" text="Your {?IS_BATTANIA_OR_KHUZAIT}lorekeeper{?}scholar{\?} is happy with the child's progress. He informs you that {?CHILD.GENDER}she{?}he{\?} shows some natural talent in {SKILL}."/>
     <string id="gqUtaPRM" text="The huntsman organizes hunts and keeps watch for poachers and thieves. Your child should learn how to handle hunting bows and crossbows and the basics of scouting and tracking."/>
     <string id="GvSVxyO0" text="Your steward is happy with the child's progress. He informs you that {?CHILD.GENDER}she{?}he{\?} shows some natural talent in {SKILL}."/>
-    <string id="gW4Qmn73" text="Polearm thrust attacks have 30% more chance to knock opponents back."/>
+    <string id="gW4Qmn73" text="Колющие атаки древковым оружием с шансом 30% отталкивают врага."/>
     <string id="GX0B9ngI" text="{CHILD.NAME} spends time by {?CHILD.GENDER}herself{?}himself{\?} as well, frequently..."/>
     <string id="h1GdWZjk" text="avoids chores."/>
     <string id="h7aX2GOw" text="This child is quite strong, grabbing whatever {?CHILD.GENDER}she{?}he{\?} likes climbing out of {?CHILD.GENDER}her{?}his{\?} cradle whenever {?CHILD.GENDER}her{?}his{\?} caretaker's back is turned."/>
@@ -4044,14 +4044,14 @@
     <string id="HaAjWFrt" text="You told {?CHILD.GENDER}her{?}him{\?} that understanding people's motivations and turning them to your advantage is the difference between a warrior and a king."/>
     <string id="hB72eE6b" text="Horses are among your clan's most valuable assets, so you encouraged your steward to take the child along on his frequent inspections of the stables."/>
     <string id="HBZS0bug" text="Choose a Focus"/>
-    <string id="hC47p0t2" text="Ranged siege engines have 10% more hit points (In mission as well)."/>
+    <string id="hC47p0t2" text="Дальнобойные осадные машины на 10% прочнее (В миссии тоже)."/>
     <string id="hes54oh0" text="joins in a tournament."/>
     <string id="hfaw7Xx9" text="helping the artisan."/>
     <string id="hGheavqY" text="{?PLAYER_CHILD}Your{?}This{\?} child spends most of {?CHILD.GENDER}her{?}his{\?} free time fighting imaginary monsters with {?CHILD.GENDER}her{?}his{\?} wooden toy sword."/>
-    <string id="hHHEW1HN" text="Battlements"/>
+    <string id="hHHEW1HN" text="Бойницы"/>
     <string id="hjOxidJj" text="The young {?CHILD.GENDER}woman{?}man{\?} will spent her time at a diplomatic mission, where {?CHILD.GENDER}she{?}he{\?} will have chance to interact with people from foreign lands."/>
     <string id="hjR0Jvh1" text="fighting mock battles."/>
-    <string id="hKP7E6lQ" text="Every 1 skill point over 250 increase siege engine campaign damage by 1%."/>
+    <string id="hKP7E6lQ" text="Каждое очко навыка после 250 увеличивает на 1% урон осадных орудий на карте кампании."/>
     <string id="hrlBxgzs" text="enjoy the pleasures of the hunt."/>
     <string id="hYTcXbyS" text="led a patrol."/>
     <string id="i2qOUBF4" text="The child will win any game that involves throwing and aiming, and the local crows have learned to keep their distance lest they want to be hit by a stone."/>
@@ -4059,7 +4059,7 @@
     <string id="IaJ4lhzx" text="Very Low Security"/>
     <string id="ib6ltlM0" text="Yes... We've always had trouble with bandits, but recently we've had a lot more than our share. The hills outside of town are infested. A lot of us are afraid to take their goods to market. Some have been murdered. People tell me, 'I'm getting so desperate, maybe I'll turn bandit myself.' It's bad..."/>
     <string id="igkNYcSI" text="The young {?CHILD.GENDER}woman{?}man{\?} tells you how engineers have become an unofficial guild that transcends borders. Even men on opposite sides of a siege are known to discuss the technical details of their craft."/>
-    <string id="IJof7vUp" text="50% increased build speed for castle projects."/>
+    <string id="IJof7vUp" text="Увеличивает на 50% скорость постройки проектов в замках."/>
     <string id="ijootCu7" text="It was easy to get bogged down in the details of hurling rocks and assembling towers, but {CHILD.NAME} kept a keen eye on why some sieges succeeded and others failed."/>
     <string id="Il7pDS8i" text="People remark on how much {?PLAYER_CHILD}your{?}the{\?} baby resembles {?CHILD.GENDER}her{?}his{\?} parents. {CHILD.NAME} definitely has {?PLAYER_IS_FATHER}your{?}{?CHILD.GENDER}her{?}his{\?} father's{\?}..."/>
     <string id="IMaTTgPJ" text="defeat {?CHILD.GENDER}her{?}his{\?} fencing instructor."/>
@@ -4069,7 +4069,7 @@
     <string id="ISoR0vaR" text="{ATR_1} and {ATR_2}"/>
     <string id="iSppZBje" text="You don't need to know the full story of the child's escapades in the {?IS_BATTANIA}bard{?}minstrel{\?}'s company, but the {?IS_BATTANIA}bard{?}minstrel{\?} does inform you that {?CHILD.GENDER}she{?}he{\?} shows some natural talent in {SKILL}."/>
     <string id="ItS9F61H" text="You told {CHILD.NAME} that any young noble worth {?CHILD.GENDER}her{?}his{\?} salt should be able to bring down a deer from fifty paces away, or hit a rabbit on the run."/>
-    <string id="iz8m2Ct4" text="30% faster build rate for fortification, aquaduct and barracks projects."/>
+    <string id="iz8m2Ct4" text="Укрепления, акведуки и казармы строятся На 30% быстрее."/>
     <string id="J80YXzR2" text="is fascinated by riddles."/>
     <string id="Jc1YXXjN" text="an influx of wild beasts"/>
     <string id="jdl8G8JS" text="Clan Issues"/>
@@ -4093,7 +4093,7 @@
     <string id="KiOBbxr3" text="In addition to {?CHILD.GENDER}her{?}his{\?} parents traits, this baby also shows promising {ATR_1} and {ATR_2}."/>
     <string id="KjR0HhJv" text="skirmished from a distance."/>
     <string id="KN6khbSl" text="Clan Influence"/>
-    <string id="KODafKT7" text="Architectural Commissions"/>
+    <string id="KODafKT7" text="Архитектурные комиссии"/>
     <string id="ksXTQXOX" text="craft a weapon."/>
     <string id="KVDMVbT1" text="This child started speaking earlier than most of {?CHILD.GENDER}her{?}his{\?} peers and can even string together simple sentences."/>
     <string id="kwgCnueo" text="Your master artisan is happy with the child's progress. He informs you that {?CHILD.GENDER}she{?}he{\?} shows some natural talent in {SKILL}."/>
@@ -4108,15 +4108,15 @@
     <string id="lF41sN5r" text="You see the glint of mischief on {?CHILD.GENDER}her{?}his{\?} smiling face. Any sweet left unattended in the kitchen for even a few minutes is quickly stolen."/>
     <string id="LfJhIQpb" text="With a few sticks and a bit of twine, {?CHILD.GENDER}she{?}he{\?} can make recognizable animals, weapons or dolls."/>
     <string id="LJsckbyF" text="{?PLAYER_CHILD}Your{?}This{\?} child spends hours exploring the edges of the estate, following animal tracks and looking for edible plants."/>
-    <string id="lLaIzlr4" text="Increase campaign map mangonel and trebuchet accuracy by 10%."/>
+    <string id="lLaIzlr4" text="Увеличивает точность катапульт и требушетов на 10% на карте кампании."/>
     <string id="lsddqaAx" text="did some honest work."/>
     <string id="ltbU06Fi" text="become a crack shot."/>
     <string id="LUro3Sqr" text="While spending time with {?PLAYER_CHILD}your{?}the{\?} child, you notice that {?CHILD.GENDER}she{?}he{\?} shows real ability in {RANDOM_OUTCOME}."/>
-    <string id="Lv2pbg8c" text="Camp Building"/>
+    <string id="Lv2pbg8c" text="Обустройство лагеря"/>
     <string id="lZSu0iOo" text="{CHILD.NAME} is now at an age when it is customary to assign a well-born child a tutor. You decided to entrust {?CHILD.GENDER}her{?}him{\?} to your... "/>
     <string id="m4kr4RXD" text="{?CHILD.GENDER}her{?}his{\?} strength."/>
     <string id="m7iBf6fQ" text="Pick an Attribute"/>
-    <string id="MbRZSiuq" text="Arrow Deflection"/>
+    <string id="MbRZSiuq" text="Отражение стрел"/>
     <string id="MdjZ56VR" text="{?CHILD.GENDER}She{?}He{\?} sits on the saddle so comfortably, like {?CHILD.GENDER}she{?}he{\?} was born on it."/>
     <string id="MgPubWOa" text="The epics are full of men and women who preferred words to the sword, and who could win the friendship of allies and the admiration of enemies."/>
     <string id="MHsa7s99" text="learned to construct siege engines."/>
@@ -4127,14 +4127,14 @@
     <string id="mU45Th70" text="We're off to hunt them now."/>
     <string id="MUaFiBva" text="{CHILD.NAME} paid close attention to the experienced engineers and became competent in a profession where small mistakes can have deadly consequences."/>
     <string id="MX7toYav" text="{CHILD.NAME} joined a hunting pursuit in pursuit of a pack of wolves who had been ravaging the local livestock. {?CHILD.GENDER}She{?}He{\?} tracked and took down one of the beasts with an arrow."/>
-    <string id="mzDsT7lV" text="Military Planner"/>
+    <string id="mzDsT7lV" text="Военный планировщик"/>
     <string id="mzu6exTe" text="an outbreak of plague"/>
     <string id="N0eHkPV2" text="A craftsman makes parts and an engineer fits them together. The best artisans learn to do both."/>
     <string id="N1WyvVHY" text="You instructed the child to pay close attention to how the steward exerts authority."/>
     <string id="N62qjb8s" text="as an aide."/>
-    <string id="N9lA0KwA" text="Troops under the formation you control deal 5% more melee damage."/>
+    <string id="N9lA0KwA" text="Войска в вашем сторю наносят на 5% больше урона в ближнем бою."/>
     <string id="Nn8bmGUX" text="You make sure that the child would be taught the deeds of the leaders of your people, and memorize the rhetoric they used to inspire their followers."/>
-    <string id="Nr1GPYSr" text="Siegeworks"/>
+    <string id="Nr1GPYSr" text="Осадные работы"/>
     <string id="nyatGUkU" text="socialized with other engineers."/>
     <string id="O9amiAiB" text="joined a hunting party."/>
     <string id="o9XKbana" text="helped the artisan."/>
@@ -4145,11 +4145,11 @@
     <string id="OrbOwQGB" text="Sometimes you spot {?PLAYER_CHILD}your{?}the{\?} child carving a piece of wood into a face or a fantastic beast, and you could not help but notice the subtle mastery of {?CHILD.GENDER}her{?}his{\?} hands."/>
     <string id="p5Wo8rNb" text="won a duel."/>
     <string id="pb8fmbVl" text="You asked your {?IS_BATTANIA_OR_KHUZAIT}lorekeeper{?}scholar{\?} to focus particularly on the art of..."/>
-    <string id="pFGhJxyN" text="Siege Engineer"/>
+    <string id="pFGhJxyN" text="Осадный инженер"/>
     <string id="PgN4BFNs" text="enjoyed the high life."/>
     <string id="pHbnAZtt" text="trade like a veteran merchant."/>
     <string id="pHmz4GZN" text="Everything is easier when people are pleased by your presence. Proper grace and etiquette will be useful even among enemies."/>
-    <string id="pjCp7PlB" text="Every unique project in settlement provides a %1 bonus to prosperity gain."/>
+    <string id="pjCp7PlB" text="Каждый уникальный проект в поселении увеличивает на 1% прирост процветания."/>
     <string id="plYfFg4A" text="learned how a victory is won."/>
     <string id="PpuRM82X" text="The sword is the weapon of the noble warrior. It is useful both in the battlefield and in court, where it symbolizes a wearer's willingness to fight to protect {?CHILD.GENDER}her{?}his{\?} honor."/>
     <string id="pQSBdHC7" text="The child has exceptional coordination for someone {?CHILD.GENDER}her{?}his{\?} age, and can catch a tossed ball and eat by {?CHILD.GENDER}herself{?}himself{\?}."/>
@@ -4158,18 +4158,18 @@
     <string id="qbLkFkWr" text="Usually when there is work to be done this child is nowhere to be found. You've learned some of {?CHILD.GENDER}her{?}his{\?} hiding places, but {?CHILD.GENDER}she{?}he{\?} always seems to find more."/>
     <string id="QbwNmxrn" text="You told {?CHILD.GENDER}her{?}him{\?} that skill and brains are all very well, but in many situations there is no substitute for sheer brute might."/>
     <string id="qfzkMuLj" text="Artisan"/>
-    <string id="qjvDsu8u" text="Metallurgy"/>
+    <string id="qjvDsu8u" text="Металлургия"/>
     <string id="qNxdWLFY" text="So you want me to hunt them down?"/>
     <string id="QPv1b7f8" text="I haven't had the time yet."/>
     <string id="QuffbfeU" text="The child asks any adults {?CHILD.GENDER}she{?}he{\?} sees to ask {?CHILD.GENDER}her{?}him{\?} one of the riddles that are loved by your people, and never gives up until it is solved."/>
     <string id="QVZMiaV2" text="helping recover stolen goods."/>
-    <string id="r4uMbbKN" text="Ranged troops have 50% more ammunition when besieging."/>
+    <string id="r4uMbbKN" text="У войск дальнего боя на 50% больше боеприпасов при осаде."/>
     <string id="R7A3aPwi" text="A neighboring noble's brutish son took an interest in persecuting {CHILD.NAME}, but the young {?CHILD.GENDER}woman{?}man{\?} gave him reason to look elsewhere for his prey."/>
     <string id="rB96005A" text="The steward is in charge of running the day-to-day affairs of your estate. {?PLAYER_CHILD}Your{?}The{\?} child should learn early how people and supplies are managed."/>
-    <string id="RC8Vb3El" text="Reduce the casualties from bombardments."/>
+    <string id="RC8Vb3El" text="Снижает потери от бомбардировок."/>
     <string id="rcoueCmk" text="Adolescence"/>
     <string id="RhJdnAQY" text="enjoy the high life."/>
-    <string id="rkKMB9qK" text="Wall hit points are increased by 25%."/>
+    <string id="rkKMB9qK" text="Прочность стен выше на 25%."/>
     <string id="RkQjllml" text="Given even a few minutes of free time, {?PLAYER_CHILD}your{?}this{\?} child will line up targets and shoot them with {?CHILD.GENDER}her{?}his{\?} home-made bow."/>
     <string id="Rmbd2OkI" text="You are usually away from your estate, but when you are able to spend time with {CHILD.NAME}, you encouraged {?CHILD.GENDER}her{?}him{\?} to develop..."/>
     <string id="RUjPcZhF" text="{?PLAYER_CHILD}Your{?}The{\?} child is rarely even winded after {?CHILD.GENDER}her{?}his{\?} daily exercises."/>
@@ -4188,14 +4188,14 @@
     <string id="SGVW6NXR" text="assisted the smith."/>
     <string id="smdvQWvu" text="{?PLAYER_CHILD}Your{?}This{\?} child loves animals of all kinds. You know that one day {?CHILD.GENDER}she{?}he{\?} will be a great rider."/>
     <string id="SnEjsXsH" text="defeated an enemy."/>
-    <string id="SNsAlN4R" text="Masterwork"/>
+    <string id="SNsAlN4R" text="Шедевр"/>
     <string id="SSavEblm" text="chased and was chased."/>
-    <string id="sTCBMmGl" text="Can craft Fire versions of siege engines."/>
+    <string id="sTCBMmGl" text="Можно строить огненные версии осадных машин."/>
     <string id="SUNKjdZ9" text="Choose a Task"/>
     <string id="SXbW99CH" text="treated injuries."/>
     <string id="T0LaDdAs" text="It is important that the child of the clan learns about the goods and their prices, that kind of understanding will be useful for all {?CHILD.GENDER}her{?}his{\?} life."/>
     <string id="T3vJp4PG" text="Whoever grasps how prices work can pluck silver out of thin air."/>
-    <string id="ta2z0bEv" text="Camp preparation is 20% faster."/>
+    <string id="ta2z0bEv" text="Строительство осадного лагеря на 20% быстрее."/>
     <string id="TaAHFZfd" text="You asked your head of expedition to make sure that your {?CHILD.GENDER}daughter{?}son{\?}..."/>
     <string id="taJOTFrb" text="Despite its tender age, the baby already starts to show some aptitude in {ATR_1} and {ATR_2}."/>
     <string id="taKIDPxj" text="Embassies carry gifts and attract bandits. Fighting them off made the trip much more exciting than {?CHILD.GENDER}she{?}he{\?} had expected."/>
@@ -4205,7 +4205,7 @@
     <string id="tMkMi5C7" text="wins wrestling matches."/>
     <string id="tMUla7vz" text="{?CHILD.GENDER}She{?}He{\?} is light but strong, and can outrun almost all of {?CHILD.GENDER}her{?}his{\?} peers."/>
     <string id="TPMrjd5m" text="30% шанс в день, вылечить хромую лошадь."/>
-    <string id="tw5y78XY" text="Increase equipped crossbow damage by 3."/>
+    <string id="tw5y78XY" text="Увеличивает урон вашего арбалета на 3."/>
     <string id="TyvEmZbC" text="{CHILD.NAME} is usually the one who decides what games {?CHILD.GENDER}her{?}his{\?} friends will play, and leads them on imaginary adventures around the estate."/>
     <string id="tyzzUNN7" text="You instructed the artisan to teach your the child the basics of managing a workshop."/>
     <string id="U9nsz7pg" text="Before {CHILD.NAME} left, you asked the siege engineer to make sure that the young {?CHILD.GENDER}woman{?}man{\?}..."/>
@@ -4213,7 +4213,7 @@
     <string id="UGda4FDZ" text="{CHILD.NAME} found work with an artisan for a season, keeping {?CHILD.GENDER}her{?}his{\?} high birth a secret."/>
     <string id="uixuohBp" text="Settlement Projects"/>
     <string id="ulFmGvtj" text="an interest in people."/>
-    <string id="uM4i676z" text="Your troops deal 5% increased damage with crossbows."/>
+    <string id="uM4i676z" text="Ваши войска наносят на 5% больше урона арбалетами."/>
     <string id="UpgqdJC0" text="a trip to your realm's court."/>
     <string id="UuQDXIFD" text="hunts down bandits."/>
     <string id="UYdvhdDl" text="When cargo went missing, the young {?CHILD.GENDER}woman{?}man{\?} made the inquiries at the local black market that were necessary to get it back."/>
@@ -4225,9 +4225,9 @@
     <string id="vsFVlFa4" text="assists the smiths."/>
     <string id="VTzvlEV8" text="Sparring with total strangers, including some who would happily break {?CHILD.GENDER}her{?}his{\?} teeth if {?CHILD.GENDER}she{?}he{\?} let them, was a new and valuable experience for {CHILD.NAME}."/>
     <string id="VVBx07cK" text="The siege engines needed gears and bracings, and the master assigned {?PLAYER_CHILD}your{?}the{\?} child to assist in forging them."/>
-    <string id="W6ajyrga" text="Everytime a project is finished increase prosperity by 100."/>
-    <string id="WAbqnair" text="Two handed weapon attacks that deal over 25% damage have 30% chance to knock opponents down."/>
-    <string id="WBCt4M0J" text="Increase max granary food storage capacity by 100."/>
+    <string id="W6ajyrga" text="При завершении городского проекта процветание увеличивается на 100."/>
+    <string id="WAbqnair" text="Атаки двуручным оружием, наносящие более 25% урона, могут опрокинуть врага с шансом 30%."/>
+    <string id="WBCt4M0J" text="Увеличивает ёмкость зернохранилища на 100."/>
     <string id="WD6soDM1" text="It was a minor skirmish but a clear victory nonetheless. {CHILD.NAME} wasn't just there when the commander came up with the winning strategy but also took part in executing it."/>
     <string id="webjbgTa" text="trained really hard."/>
     <string id="WJSapWab" text="{?CHILD.GENDER}She{?}He{\?} had a chance to fight in a few minor skirmishes without getting seriously injured."/>
@@ -4243,8 +4243,8 @@
     <string id="XDafe4Bg" text="The {?IS_BATTANIA}bard{?}minstrel{\?} will take the child along on his adventures in town and you've indicated that you'll turn a blind eye, considering it a useful skill to know how to get in and out of trouble."/>
     <string id="XFZcqNBB" text="battled brigands."/>
     <string id="xHstOUBx" text="You made sure your artisan taught this child to recognize quality work, as well as its worth in denars."/>
-    <string id="xIDEjHyf" text="Скорость сборки осадных орудий ближнего воздействия увеличена на 10%.."/>
-    <string id="XixNAaD5" text="Improved Tools"/>
+    <string id="xIDEjHyf" text="Скорость сборки осадных орудий ближнего воздействия увеличена на 10%."/>
+    <string id="XixNAaD5" text="Улучшенные Инструменты"/>
     <string id="XMaeSoRq" text="never let down {?CHILD.GENDER}her{?}his{\?} guard."/>
     <string id="XsQ5rabf" text="The first thing that a steward must know is to how to count add numbers together. "/>
     <string id="XTmpkNNg" text="socializes with other engineers."/>
@@ -4257,15 +4257,15 @@
     <string id="yHB4plew" text="The {?IS_BATTANIA}bard{?}minstrel{\?} sings and plays the lute, shawm or the vielle, and chants epic poems of daring deeds and impossible romances. They are also known to show their wards a bit about the seemier side of life."/>
     <string id="yJ0XRD9g" text="Eventually it was time for {?PLAYER_CHILD}your{?}the{\?} child to travel far from home. You sent the young {?CHILD.GENDER}woman{?}man{\?} away..."/>
     <string id="Yk3xrawy" text="When {?CHILD.GENDER}she{?}he{\?} returns, {CHILD.NAME} tells you the story of how {?CHILD.GENDER}she{?}he{\?} {RANDOM_OUTCOME} That event increased {?CHILD.GENDER}her{?}his{\?} skill in {SKILL}."/>
-    <string id="YkAV0SgY" text="Increase recuitment slot by 1 when recuiting from artisan notables."/>
+    <string id="YkAV0SgY" text="Ремесленники в вашем поселении предлагают вам еще 1 слот для вербовки."/>
     <string id="ymt7Ol6x" text="{?CHILD.GENDER}She{?}He{\?} seems to have limitless energy, continuing with games long after all the other children have taken a break."/>
     <string id="Ymw2PKBo" text="Steward"/>
     <string id="YVyId3wX" text="dealt with business partners."/>
-    <string id="YwhAlz5n" text="Carpenters"/>
+    <string id="YwhAlz5n" text="Плотники"/>
     <string id="yym5kCG5" text="After a particularly hard winter your tenants began to murmur about rising up and seizing your granaries. {CHILD.NAME} convinced them to be patient and wait for relief."/>
-    <string id="yzybG5rl" text="Apprenticeship"/>
+    <string id="yzybG5rl" text="Стажировка"/>
     <string id="z50GdIa3" text="learns to inspire the soldiers."/>
-    <string id="Z9Rey6LC" text="Clockwork"/>
+    <string id="Z9Rey6LC" text="Как Часы"/>
     <string id="ZfRmHMJJ" text="{QUEST_TARGET.LINK} has lost the struggle against {?QUEST_TARGET.GENDER}her{?}his{\?} rivals and decided to left the realm. Your agreement with {QUEST_GIVER.LINK} has been canceled and your service is no longer needed to solve the issue."/>
     <string id="ZjWDqx2Y" text="You trusted the child of the clan to the master-at-arms, an experienced warrior who no longer rides to the battlefield but has forgotten none of his skills. You had him to focus on..."/>
     <string id="ZkkHPpT7" text="Your child excels at any task that requires {?CHILD.GENDER}her{?}him{\?} to use {?CHILD.GENDER}her{?}his{\?} hands."/>
