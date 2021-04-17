@@ -44,7 +44,6 @@
     <string id="9slDj5wr" text="Изменить производство"/>
     <string id="a241aacb1780599430c79fd9f667b67f" text="Спутников: "/>
     <string id="a8nRxITn" text="В плену у {PARTY_NAME}"/>
-    <string id="aadiCuDe" text="{COMPLETION_PERCENT} (Приблизительно {DAYS} дней до завершения)"/>
     <string id="AcMayd1p" text="Убегает от {TARGET_PARTY}"/>
     <string id="aE4ZRbB6" text=" {HEALTH}%"/>
     <string id="aFYwbosi" text="Этот персонаж уже является лидером отряда."/>
@@ -91,7 +90,6 @@
     <string id="fI7a7RoE" text="Максимальный вес"/>
     <string id="FjJi1DJb" text="Этот герой уже является частью другого отряда"/>
     <string id="fOSGakix" text="Вы не можете управлять армией, пока находитесь в плену."/>
-    <string id="G6cCjixe" text="{COMPLETION_PERCENT} (Приблизительно {DAYS} дней до завершения)"/>
     <string id="g9VIbA9s" text="Сержант"/>
     <string id="GCaYjA5W" text="Вы должны быть лидером клана,что бы переименовать его."/>
     <string id="gduqxfck" text="У вас нет всех необходимых материалов!"/>
@@ -364,5 +362,18 @@
     <string id="NxEy5Nbt" text="High risk of rebellion"/>
     <string id="Rvr1bcu8" text="Next"/>
     <string id="WXAaWZVf" text="Previous"/>
+    <string id="0TauthlH" text="Never (%{PERCENTAGE})"/>
+    <string id="8eYtra7T" text="Determine the game difficulty"/>
+    <string id="fz2kQjFS" text="Choose your character's culture:"/>
+    <string id="GwA9oUBC" text="Your skill focus determines the rate your skill increases with practice"/>
+    <string id="K6GYskvJ" text="Culture:"/>
+    <string id="lkJfq1ap" text="Owned settlements remain under your control but nobles will dislike this dishonorable act and the kingdom will declare war on you."/>
+    <string id="MaHMOzL2" text="Character Culture"/>
+    <string id="mHVmrwRQ" text="Enter your name"/>
+    <string id="PUjDWe5j" text="Culture"/>
+    <string id="raD9MK3O" text="Difficulty"/>
+    <string id="txjiykNa" text="Review"/>
+    <string id="wMiLUTNY" text="Are you sure you want to smelt this weapon? It is locked in the inventory."/>
+    <string id="ZjaSde0X" text="Owned settlements are returned to the kingdom. This will avert a war and nobles will dislike you less for abandoning your fealty."/>
   </strings>
 </base>

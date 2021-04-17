@@ -229,7 +229,6 @@
     <string id="JXdwIX8Q" text="Установить толщину следов от снарядов оружия дальнего боя."/>
     <string id="jZs8I1Uq" text="Включает зернистость пленки."/>
     <string id="JZYQGUF3" text="Двойное нажатие назад: быстрая остановка"/>
-    <string id="k3CLKsrz" text="Движением мыши"/>
     <string id="k3LajvfJ" text="Открывает экран редактирования знамени"/>
     <string id="k4E1gylQ" text="Задает количество эффекта резкости."/>
     <string id="k7gJYLLj" text="Numpad 8"/>
@@ -383,7 +382,6 @@
     <string id="ucyy9Sc5" text="{LEFT} / {RIGHT}"/>
     <string id="UFHqkvah" text="Интерактивная трава"/>
     <string id="UixNc11t" text="Защищайтесь от атак оружием или щитом."/>
-    <string id="UjX1E56u" text="Обратным движением Мыши"/>
     <string id="ukw0Zi1X" text="["/>
     <string id="UNmUcizM" text="Выбрать приказ 3"/>
     <string id="Uojm77jP" text="Качество освещения"/>
@@ -404,7 +402,6 @@
     <string id="VAtNIoKC" text="L"/>
     <string id="Ve99pCSo" text="Симуляция тканей"/>
     <string id="VE9TavSl" text="Устанавливает качество декалей."/>
-    <string id="Vpy2qEcN" text="С помощью клавиш движения"/>
     <string id="vT3yIxmO" text="Numpad 4"/>
     <string id="vXvmeGhm" text="Тип теней"/>
     <string id="VzSerzva" text="Правый Shift"/>
@@ -517,10 +514,8 @@
     <string id="xboxYbutton" text="Y Button"/>
     <string id="z6ezjlkX" text="Shift"/>
     <string id="controlgamekey" text="Control"/>
-    <string id="mS1cpD6w" text="Включить мышь при открытом табло."/>
     <string id="PmbKYDON" text="Cheer"/>
     <string id="s5EnYLUp" text="Cheer on click. Open Cheer wheel on hold."/>
-    <string id="USKys6FV" text="Показать мышь"/>
     <string id="ACIFg43o" text="Choose how to perform blocks. Auto will default to &quot;By Mouse Movement&quot; in Multiplayer."/>
     <string id="altgamekey" text="Alt"/>
     <string id="2EnLU2ZC" text="Изменить масштаб пользовательского интерфейса"/>
@@ -553,15 +548,11 @@
     <string id="9HdllyAZ" text="Start the Bannerlord Benchmark."/>
     <string id="aAAl11qM" text="Switch between locking and unlocking the view to the enemy currently focused at. Press longer to see the detailed display."/>
     <string id="ajKnHI1s" text="Take Picture"/>
-    <string id="AyqxxMbu" text="Toggle Mouse"/>
     <string id="b00385oX" text="Map Open Encyclopedia"/>
-    <string id="BbqPaoAF" text="Decrease FocusEnd"/>
     <string id="bGZeJJAH" text="Roll the Camera Left (Counterclockwise)"/>
-    <string id="bJsEMBk9" text="Increase FocusEnd"/>
     <string id="bWycDiz0" text="Toggle Info Bar"/>
     <string id="Co9aqFIB" text="Toggle Camera Follow Mode"/>
     <string id="cryvNnsO" text="Order visuals that are visible while giving orders in battles."/>
-    <string id="CyMFuiHx" text="Decrease FocusStart"/>
     <string id="D0Ps9ddi" text="Hide UI"/>
     <string id="dTyINo1B" text="Lock target"/>
     <string id="dV5ar9eP" text="Максимум (1000)"/>
@@ -580,12 +571,9 @@
     <string id="lG7AlfxK" text="Map Track Settlement"/>
     <string id="mAxXKaXp" text="Сброс"/>
     <string id="Mja6xKiX" text="Order Visuals Type"/>
-    <string id="O5j0ChFf" text="Увеличить фокус старта"/>
-    <string id="P2zN2brG" text="Увеличить фокус"/>
     <string id="PBzbWfGF" text="Lock Target"/>
     <string id="q8xBD0Q2" text="Map Extend Info Bar"/>
     <string id="qDhDbZKh" text="Track Settlement currently hovered over settlement"/>
-    <string id="RqDlastU" text="Уменьшить фокус"/>
     <string id="rS6nO0wb" text="Toggle Vignette"/>
     <string id="uGEcLaqw" text="Roll Camera Right"/>
     <string id="v1dyEwZn" text="Extend Info Bar"/>
@@ -593,9 +581,33 @@
     <string id="VklN5Wm6" text="Фото режим"/>
     <string id="X1nFnomy" text="Средняя (400)"/>
     <string id="XCB1SGxZ" text="Start Benchmark"/>
-    <string id="xDuL9yQH" text="Toggle Mouse Visibility"/>
     <string id="xJpOH8DU" text="Open Encyclopedia"/>
     <string id="XldS0fkN" text="Change Camera Follow Mode"/>
     <string id="YirOUaIV" text="Decrease Camera Focus"/>
+    <string id="0HNrwVGG" text="By Movement"/>
+    <string id="1JlzQIXE" text="Disabled"/>
+    <string id="2p3Llq2x" text="Enable Network Alert Icons"/>
+    <string id="3CN7LUCf" text="Toggle Cursor Visibility"/>
+    <string id="6Jcchu9g" text="Enable cursor while scoreboard is open."/>
+    <string id="8FbEybTx" text="Enable network alert icons.{newline}1. Latency{newline}2. Packet Loss{newline}3. Poor Server Performance"/>
+    <string id="aGb5H9Ni" text="Muffles the sound sources behind obstacles. Forced ON in Multiplayer."/>
+    <string id="AP9bKYTb" text="Toggle Cursor"/>
+    <string id="bfis1Rqj" text="Enable death location indicators that show where your teammates die."/>
+    <string id="CBwEl28t" text="Enable Death Location Indicator"/>
+    <string id="DGRmXCg4" text="Only Icons (Only in SP)"/>
+    <string id="dkYmFAk2" text="Track Attacked Settlements"/>
+    <string id="eDRzvYz5" text="Enable auto tracking settlements when attacked."/>
+    <string id="FJbTiPsa" text="Disable Sound in Background"/>
+    <string id="hwzQGpYa" text="Sound Occlusion"/>
+    <string id="Ib0N4LoW" text="Mute game sounds while game is out of focus."/>
+    <string id="invalidkey" text="-"/>
+    <string id="m7IunCRL" text="Open Banner Editor screen."/>
+    <string id="PC77pnRB" text="Leader Only"/>
+    <string id="r5onpWZW" text="Always"/>
+    <string id="rHeu8Ndg" text="Open Face Generation."/>
+    <string id="tsPjK1Ke" text="Enabled"/>
+    <string id="X2CbgcZ9" text="By Look Direction"/>
+    <string id="xMoqTFkZ" text="By Inverse Look Direction"/>
+    <string id="XtiGbj0W" text="Show Cursor"/>
   </strings>
 </base>

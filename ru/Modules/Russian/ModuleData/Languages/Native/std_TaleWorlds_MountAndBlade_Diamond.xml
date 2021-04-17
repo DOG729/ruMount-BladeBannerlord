@@ -9,5 +9,10 @@
     <string id="6doiovtH" text="Disambiguation: {CHATROOMS}"/>
     <string id="taPBAd4c" text="Given command does not start with /"/>
     <string id="YOYvBVu1" text="No chat room found matching {COMMAND}"/>
+    <string id="3cWg0cWt" text="Could not connect to server."/>
+    <string id="63X8LERm" text="Couldn't receive login result from server."/>
+    <string id="gAeQdLU5" text="Failed to acquire access data from platform"/>
+    <string id="i4MNr0bo" text="Disconnected from the Lobby."/>
+    <string id="JO37PkfW" text="Your platform service is not initialized."/>
   </strings>
 </base>

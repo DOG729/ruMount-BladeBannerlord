@@ -277,8 +277,6 @@
     <string id="uCyQNvq1" text="Клин"/>
     <string id="UHIZLFBn" text="Убит {TROOP_NAME}"/>
     <string id="Umb8XsZH" text="Колющий"/>
-    <string id="umhwsoqb" text="Выберите желаемый отряд в начале раунда и для дальнейшего возрождения, используйте золото."/>
-    <string id="uPLRkTZr" text="Получайте подкрепление используя золото в зависимости от успеха при осаде."/>
     <string id="UQabkhbG" text="Лошадь нанесла {DAMAGE} {DAMAGE_TYPE} урона."/>
     <string id="UrZvjCfE" text="Вашей лошади нанесено {DAMAGE} {DAMAGE_TYPE} урона."/>
     <string id="UUKzc88q" text="Камера наблюдателя"/>
@@ -335,7 +333,6 @@
     <string id="zHKHwHMr" text="Сельская местность"/>
     <string id="zmlCRb1M" text="Максимальное количество игроков"/>
     <string id="ZMmrpMPk" text="Шея"/>
-    <string id="zpNSyauI" text="Спаун с лучшими войсками, используя золото в зависимости от ваших убийств на поле битвы."/>
     <string id="ZYChhMrO" text="Ничья"/>
     <string id="ZZMbAjSU" text="Пробитие насквозь!"/>
     <string id="GcosVDAt" text="Помочь посчитать"/>
@@ -400,5 +397,8 @@
     <string id="V1kxYbRp" text="Разрешить/запретить огонь"/>
     <string id="gUQI0PLa" text="North America West"/>
     <string id="GYc0Dcbn" text="North America East"/>
+    <string id="4daqsVWG" text="Earn gold to buy higher tier respawns by assisting teammates and killing enemy troops."/>
+    <string id="n6N21Shz" text="Earn gold to buy higher tier respawns by assisting teammates, killing enemy troops and destroying siege engines."/>
+    <string id="YtSQB7rg" text="Choose your desired class at the start of the round and for the further respawns by using gold."/>
   </strings>
 </base>
