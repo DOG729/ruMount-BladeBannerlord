@@ -732,7 +732,7 @@
     <string id="E57VFXqU" text="Могу попробовать."/>
     <string id="E8wdxbui" text="Хорошо, я согласен, я отпускаю тебя сейчас. Теперь заплати мне."/>
     <string id="E9s2bjqw" text="Я могу только надеяться, что когда-нибудь вы поменяете свое мнение."/>
-    <string id="EA9YX6BQ" text="Ваша фракция теперь в состоянии войны с {ISSUEGIVER.LINK}ой фракцией. Ваши соглашения с {ISSUEGIVER.LINK} более недействительны."/>
+    <string id="EA9YX6BQ" text="Ваша фракция теперь в состоянии войны с {ISSUE_GIVER.LINK}ой фракцией. Ваши соглашения с {ISSUE_GIVER.LINK} более недействительны."/>
     <string id="eabR87ne" text="Введите поселение"/>
     <string id="EaifHOao" text="Конечно {?PLAYER.GENDER}леди{?}сир{\?}, я сделаю."/>
     <string id="eALf5d30" text="Спасибо!"/>
@@ -1720,8 +1720,8 @@
     <string id="SP7I61x2" text="Возможно, мы можем поговорить, когда мы встретимся снова."/>
     <string id="sP9ohQTs" text="Забудь"/>
     <string id="spbYlf0y" text="Более быстрое производство осадных машин +{a0}%"/>
-    <string id="sPEZq0Yk" text="Что соус для гусыни является соусом для Гусака. Мы сделали бизнес на такой лет и мы не просто собираемся изменить вещи, потому что одна сторона жалуется."/>
-    <string id="spj8bYVo" text="Хорошо! Я отмечу укрытие для вас на карте."/>
+    <string id="sPEZq0Yk" text="Что соус для гусыни, так и соус для гусака. Мы ведем такой бизнес уже много лет, и мы не собираемся что-то менять только потому, что одна сторона жалуется."/>
+    <string id="spj8bYVo" text="Хорошо! Я отмечу, убежище бандитов у вас на карте."/>
     <string id="sPmQz21k" text="Враг"/>
     <string id="sQBBOKDD" text="{ISSUE_SETTLEMENT} нуждается в семенах зерна"/>
     <string id="sQCS90Wq" text="Точность лука: +{a0} %"/>
@@ -2148,7 +2148,7 @@
     <string id="YWu5Xfgz" text="Не думаю, что вы всерьез воспринимаете мои жалобы."/>
     <string id="yWXtcxqb" text="Построить жилье, чтобы больше народу могло поселиться тем самым увеличив население."/>
     <string id="yXb8bphB" text="Дворяне должны поднять большой свитой."/>
-    <string id="YXbKXUDu" text="{ISSUEGIVER.LINK}, торговец из {SETTLEMENT}, {?ISSUEGIVER.GENDER}сообщила{?}сообщил{\?} о своих проблемах с бандитами. {?ISSUEGIVER.GENDER}Она попросила{?}он попросил{\?} вас посторожить {?ISSUEGIVER.GENDER}ее{?}его{\?} караван какое-то время и отбивать нападающих. {newline}Вы согласились сторожить его самому, пока он не проедет {NUMBER_OF_SETTLEMENTS} поселений."/>
+    <string id="YXbKXUDu" text="{ISSUE_GIVER.LINK}, торговец из {SETTLEMENT}, {?ISSUE_GIVER.GENDER}сообщила{?}сообщил{\?} о своих проблемах с бандитами. {?ISSUE_GIVER.GENDER}Она попросила{?}он попросил{\?} вас посторожить {?ISSUE_GIVER.GENDER}ее{?}его{\?} караван какое-то время и отбивать нападающих. {newline}Вы согласились сторожить его самому, пока он не проедет {NUMBER_OF_SETTLEMENTS} поселений."/>
     <string id="YXCGUSYd" text="Мм. Возможно, выйдет необычный мачт. Но не мне решать."/>
     <string id="YYl1W2jU" text="Лесник"/>
     <string id="yYTotiqW" text="Поговорить..."/>
@@ -3862,19 +3862,19 @@
     <string id="4nUhnWZ3" text="There was a great deal of feasting and speech-making. From what you hear, {?CHILD.GENDER}she{?}he{\?} acquitted {?CHILD.GENDER}herself{?}himself{\?} well."/>
     <string id="4pOb934Y" text="understands how a victory is won."/>
     <string id="4V3sK20q" text="Ускорена сборка осадных орудий дальнего боя на 10%."/>
-    <string id="4VxFPTT0" text="got bloodied."/>
-    <string id="53xrtZst" text="Before {CHILD.NAME} left, you asked the lord to make sure that the young {?CHILD.GENDER}woman{?}man{\?}..."/>
-    <string id="54PfOh98" text="making {?CHILD.GENDER}her{?}his{\?} own toys."/>
-    <string id="57TDG2Ta" text="Torsion Engines"/>
-    <string id="5BEGa9ZS" text="Choose a Skill"/>
-    <string id="5pGCtBhd" text="You asked that your child be schooled over the next few years in all the treatises that can be found on human body, its ailments, and their treatments."/>
-    <string id="5vosR2YO" text="The host was the kind of man who likes to do his negotiations from the saddle in pursuit of deer, and {CHILD.NAME} joined in every expedition."/>
-    <string id="6aiNd5W0" text="При блокировании двуручным мечом вы можете отражать стрелы."/>
-    <string id="6apaXF8k" text="You wanted this child to learn most from those who worked with their hands for a living. You asked an artisan in your employ to teach {?CHILD.GENDER}her{?}him{\?}..."/>
-    <string id="6ba4n9n6" text="We are waiting for your good news {?PLAYER.GENDER}my lady{?}sir{\?}."/>
-    <string id="6EaKsRtu" text="Accidents are inevitable, and {?PLAYER_CHILD}your{?}the{\?} child isn't bothered by the sight of blood. {?CHILD.GENDER}She{?}He{\?} acts quickly to staunch bleeding and prevent infection."/>
-    <string id="6jgjJ3Ts" text="help anyone in need."/>
-    <string id="6LpwsxYP" text="gets bloodied."/>
+    <string id="4VxFPTT0" text="{?CHILD.GENDER}была окровавлена{?}был окровавлен{\?}."/>
+    <string id="53xrtZst" text="Прежде чем {CHILD.NAME} {?CHILD.GENDER}ушла{?}ушёл{\?}, вы просили лорда убедиться, что {?CHILD.GENDER}девушка{?}парень{\?}..."/>
+    <string id="54PfOh98" text="делает собственные игрушки."/>
+    <string id="57TDG2Ta" text="Торсионные орудия"/>
+    <string id="5BEGa9ZS" text="Выберите навык"/>
+    <string id="5pGCtBhd" text="Вы просили, чтобы ваш ребёнок в течение следующих нескольких лет обучался всем трактатам о человеческом теле, его недугах и методах их лечения."/>
+    <string id="5vosR2YO" text="Хозяин был из тех людей, которые любят вести переговоры с седла, преследуя оленей, и {CHILD.NAME} {?CHILD.GENDER}присоединялась{?}присоединялся{\?} к каждой экспедиции."/>
+    <string id="6aiNd5W0" text="Вы можете отражать стрелы двуручными мечами, если будете блокировать в этот момент."/>
+    <string id="6apaXF8k" text="Вы хотели, чтобы этот ребёнок больше всего учился у тех, кто зарабатывает себе на жизнь руками. Вы попросили одного из своих сотрудников, чтобы {?CHILD.GENDER}она узнала{?}он узнал{\?} что такое..."/>
+    <string id="6ba4n9n6" text="Ждём ваших хороших новостей {?PLAYER.GENDER}миледи{?}сир{\?}."/>
+    <string id="6EaKsRtu" text="Несчастные случаи неизбежны, и {?PLAYER_CHILD}вашего{?}{\?} ребёнка не беспокоит вид крови. {?CHILD.GENDER}Она{?}Он{\?} быстро останавливает кровотечение и предотвращает инфицирование."/>
+    <string id="6jgjJ3Ts" text="помогать всем в нужде."/>
+    <string id="6LpwsxYP" text="становится кровожадным."/>
     <string id="6nSusCkE" text="Непрерывные проекты дают 20 золота в день."/>
     <string id="6PrmgKXa" text="{CHILD.NAME} is now old enough to play independently with the other children of the estate. You are particularly struck by how {?CHILD.GENDER}she{?}he{\?}..."/>
     <string id="6q8tY6Sz" text="You remember your freebooting days fondly. You want {CHILD.NAME} to experience life as you did."/>
@@ -4533,17 +4533,17 @@
     <string id="Y3UcaX74" text="your aptitude for numbers."/>
     <string id="y6j1bJTH" text="You were apprenticed to the local smith. You learned how to heat and forge metal, hammering for hours at a time until your muscles ached."/>
     <string id="YBqmnNGv" text="\n+{VALUE} gold"/>
-    <string id="YcnK0Thk" text="Hunters"/>
-    <string id="YjoXyFDX" text="Owner Culture"/>
-    <string id="YKzuGc54" text="You were big, and other children looked to have you around in any scrap with children from a neighboring village. You pushed a plough and throw an axe like an adult."/>
-    <string id="YNK17aGp" text="Double damage to siege defender personnel with %25 chance."/>
-    <string id="Yqm0Dics" text="you treated people well."/>
-    <string id="yRFSzSDZ" text="Your family lived in a village, but did not own their own land. Instead, your father supplemented paid jobs with long trips in the woods, hunting and trapping, always keeping a wary eye for the lord's game wardens."/>
-    <string id="yYhX6JQC" text="Your father joined one of Vlandia's many mercenary companies, composed of men who got such a taste for war in their lord's service that they never took well to peace. Their crossbowmen were much valued across Calradia. Your mother was a camp follower, taking you along in the wake of bloody campaigns."/>
-    <string id="ZAGR6PYc" text="When a sudden blaze broke out in a back alley, your neighbors needed quick-thinking leadership and you provided it. You organized a bucket line to the nearest well, putting the fire out before any homes were lost."/>
-    <string id="zbPRul7h" text="Well.. I don't know you, but I'm very grateful."/>
-    <string id="ZKynvffv" text="Your family owned their own workshop in a city, making goods from raw materials brought in from the countryside. Your father played an active if minor role in the town council, and also served in the militia."/>
-    <string id="zrpqSWSh" text="Free farmers"/>
-    <string id="zsC2t5Hb" text="trained with the hearth guard."/>
+    <string id="YcnK0Thk" text="Охотники"/>
+    <string id="YjoXyFDX" text="Владелец культуры"/>
+    <string id="YKzuGc54" text="Вы были большим, и другие дети хотели, чтобы вы были рядом с детьми из соседней деревни. Вы плуг толкнули и метнули топор как взрослый."/>
+    <string id="YNK17aGp" text="Двойной урон против защитников осады с вероятностью 25%."/>
+    <string id="Yqm0Dics" text="хорошим отношением к людям."/>
+    <string id="yRFSzSDZ" text="Ваша семья жила в деревне, но не имела своей земли. Вместо этого ваш отец дополнял оплачиваемую работу долгими поездками в лес, охотой и ловушками, всегда настороженно следя за охотниками знатных."/>
+    <string id="yYhX6JQC" text="Ваш отец присоединился к одному из многочисленных отрядов наёмников Вландии, состоящей из людей, которые настолько увлеклись войной на службе у своих знатных, что никогда не переносили мир. Их арбалетчиков очень ценили в Кальрадии. Ваша мать была последовательницей лагеря, взяв вас с собой после кровавых кампаний."/>
+    <string id="ZAGR6PYc" text="Когда в переулке внезапно вспыхнул пожар, вашим соседям требовалось сообразительное руководство, и вы его обеспечили. Вы организовали линию ведер к ближайшему колодцу, потушив пожар до того, как будут потеряны дома."/>
+    <string id="zbPRul7h" text="Что ж... Я вас не знаю, но я выражаю безмерную благодарность."/>
+    <string id="ZKynvffv" text="Ваша семья владела собственной мастерской в городе, где производили товары из сырья, привозимого из деревни. Ваш отец играл активную, хотя и второстепенную роль в городском совете, а также служил в ополчении."/>
+    <string id="zrpqSWSh" text="Свободные фермеры"/>
+    <string id="zsC2t5Hb" text="тренировались с охраной деревни."/>
   </strings>
 </base>

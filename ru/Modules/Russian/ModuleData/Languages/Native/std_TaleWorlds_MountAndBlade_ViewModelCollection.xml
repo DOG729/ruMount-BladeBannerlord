@@ -246,7 +246,7 @@
     <string id="k7fJ7TF0" text="Has to be at least"/>
     <string id="kF3b8cH1" text="Create Your Clan"/>
     <string id="L3DJHTdY" text="Enter Bannerlord ID"/>
-    <string id="L6eaNe2q" text="Are you sure want to kick this member from clan?"/>
+    <string id="L6eaNe2q" text="Are you sure want to kick {MEMBER_NAME} from clan?" />
     <string id="lBn2pSBL" text="Members"/>
     <string id="lGbrWyEe" text="Cancel Friend Request"/>
     <string id="LI0v8Zrr" text="Your Bannerlord ID Is"/>
@@ -293,7 +293,7 @@
     <string id="xkV9g4le" text="Do you accept them as your opponent?"/>
     <string id="xXSFaGW8" text="Расформировать"/>
     <string id="yQtzabbe" text="Закрыть"/>
-    <string id="Z0TW2cub" text="Are you sure want to promote this member as clan leader? You will lose your leadership."/>
+    <string id="Z0TW2cub" text="Are you sure want to promote {MEMBER_NAME} as clan leader? You will lose your leadership."/>
     <string id="ZAejS7WF" text="Select players to invite to your clan"/>
     <string id="zEMWM4h3" text="Уже в клане"/>
     <string id="zravuI1b" text="Тип Информация о клане"/>
