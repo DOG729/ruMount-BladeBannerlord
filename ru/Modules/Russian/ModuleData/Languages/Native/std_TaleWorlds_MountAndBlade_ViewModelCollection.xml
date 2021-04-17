@@ -195,12 +195,12 @@
     <string id="08KLQa3P" text="Waiting For Party Members"/>
     <string id="0af2iQvw" text="Clan doesn't have any announcements"/>
     <string id="1hnq3Kb1" text="Are you sure want to reset all properties? Your changes will be lost."/>
-    <string id="1pwQgr04" text="Matchmaking Request"/>
-    <string id="2YIVRuRa" text="Remove From Friends"/>
+    <string id="1pwQgr04" text="Запрос на подбор партнера"/>
+    <string id="2YIVRuRa" text="Удалить из друзей"/>
     <string id="3sRdGQou" text="Leave"/>
     <string id="4ZE6i9nW" text="Leave Clan"/>
     <string id="5coyTZOI" text="Game is starting!"/>
-    <string id="65oGXBYQ" text="Create"/>
+    <string id="65oGXBYQ" text="Создать"/>
     <string id="67hsZZor" text="Are you sure want to leave your clan?"/>
     <string id="76HlhP7r" text="You have to give leadership to another member to leave"/>
     <string id="7KWjQwp3" text="Bannerlord ID"/>
@@ -213,7 +213,7 @@
     <string id="aWzdkfvn" text="Currently you are not a member of a clan or you don't own a clan. You need to create a party from non-clan member players to form your own clan."/>
     <string id="aZnS9ECC" text="Invite"/>
     <string id="bExIl1A2" text="Name Length Is Invalid"/>
-    <string id="bfQLwMUp" text="Clans"/>
+    <string id="bfQLwMUp" text="Кланы"/>
     <string id="BrjpmaJH" text="Games Lost"/>
     <string id="BSUteZmt" text="Accept Friend Request"/>
     <string id="bynNUfSr" text="Your party does not have enough members to create a clan."/>
@@ -238,7 +238,7 @@
     <string id="iCaRFZpG" text="along with these players"/>
     <string id="iwugyB6z" text="{USERNAME}#{USERID}"/>
     <string id="j35pgljM" text="Choose Faction"/>
-    <string id="j4F7tTzy" text="Clan"/>
+    <string id="j4F7tTzy" text="Клан"/>
     <string id="jQJbU9Wl" text="Searching for a match"/>
     <string id="JTMegIk4" text="Accepted"/>
     <string id="JY2pBVHQ" text="Announcements"/>
@@ -303,37 +303,37 @@
     <string id="eQPSEUml" text="Abandoned"/>
     <string id="gGa3ZhqN" text="This player will be muted automatically."/>
     <string id="IS4SifJG" text="Won"/>
-    <string id="eeJcVeQG" text="Focus End"/>
-    <string id="graphics_option" text="Graphics"/>
-    <string id="iPx4jep6" text="Exposure"/>
-    <string id="j5pLIV91" text="Focus Start"/>
-    <string id="overall_option" text="Overall"/>
-    <string id="photomodefocus" text="Focus"/>
+    <string id="eeJcVeQG" text="Завершить фокус"/>
+    <string id="graphics_option" text="Графика"/>
+    <string id="iPx4jep6" text="Экспозиция"/>
+    <string id="j5pLIV91" text="Начало фокуса"/>
+    <string id="overall_option" text="Общий"/>
+    <string id="photomodefocus" text="Фокус"/>
     <string id="Pwi1YCjH" text="Copy Bannerlord ID"/>
     <string id="18yFEEIL" text="Estimated wait time"/>
     <string id="4gCU2ykB" text="Reset all keys to default"/>
     <string id="4PrfimcK" text="Badge"/>
     <string id="5Ixsvn3s" text="Toggle scoreboard"/>
     <string id="64x6Ie21" text="Invite to Game"/>
-    <string id="8OkPHu4f" text="No"/>
-    <string id="aeouhelq" text="Yes"/>
-    <string id="AZSbwcG5" text="Mute All"/>
+    <string id="8OkPHu4f" text="Нет"/>
+    <string id="aeouhelq" text="Да"/>
+    <string id="AZSbwcG5" text="Заглушить всех"/>
     <string id="BANC61K5" text="Previous Character"/>
     <string id="BXI1ObU8" text="Promote To Clan Officer"/>
-    <string id="DXczLzml" text="Status"/>
+    <string id="DXczLzml" text="Статус"/>
     <string id="gowlLS2b" text="Demote From Clan Officer"/>
     <string id="mFMPj9zg" text="Searching for matches"/>
     <string id="MS4Ng2iw" text="Are you sure want to promote {MEMBER_NAME} as clan officer?"/>
-    <string id="oeSrXaKt" text="You need to demote one of the officers"/>
+    <string id="oeSrXaKt" text="Вам нужно понизить в должности одного из офицеров"/>
     <string id="peUP9ZZj" text="Are you sure? You made some changes and they will be lost."/>
     <string id="pSb1P6ZA" text="Are you sure want to demote {MEMBER_NAME} from clan officers?"/>
     <string id="qmNeO8FG" text="Keybindings"/>
     <string id="QvDxB57o" text="{STR1} | {STR2}"/>
     <string id="RVIKFCno" text="Reset to Defaults"/>
-    <string id="SrfYbg3x" text="Leader"/>
-    <string id="SzRVIPeZ" text="Unmute All"/>
-    <string id="YjbNtFcw" text="This will reset ALL keys to their default states. You won't be able to undo this action. {newline} {newline}Are you sure?"/>
-    <string id="znKxunbQ" text="Next Character"/>
-    <string id="ZYF2t1VI" text="Officer"/>
+    <string id="SrfYbg3x" text="Лидер"/>
+    <string id="SzRVIPeZ" text="Задействовать всех"/>
+    <string id="YjbNtFcw" text="Это сбросит все клавиши в состояния по умолчанию.Вы не сможете отменить это действие. {newline} {newline}Уверены ли вы? {newline}Точно, точно?"/>
+    <string id="znKxunbQ" text="Следующий"/>
+    <string id="ZYF2t1VI" text="Офицер"/>
   </strings>
 </base>

@@ -4151,7 +4151,7 @@
     <string id="SGVW6NXR" text="assisted the smith."/>
     <string id="smdvQWvu" text="{?PLAYER_CHILD}Your{?}This{\?} child loves animals of all kinds. You know that one day {?CHILD.GENDER}she{?}he{\?} will be a great rider."/>
     <string id="SnEjsXsH" text="defeated an enemy."/>
-    <string id="SNsAlN4R" text="Masterwork"/>
+    <string id="SNsAlN4R" text="Мастерские работы"/>
     <string id="SSavEblm" text="chased and was chased."/>
     <string id="sTCBMmGl" text="Can craft Fire versions of siege engines."/>
     <string id="SUNKjdZ9" text="Choose a Task"/>
@@ -4387,11 +4387,11 @@
     <string id="i20baAus" text="\n+{VALUE} to {TRAIT_NAME_ONE}, {TRAIT_NAME_TWO} and {TRAIT_NAME_THREE}"/>
     <string id="I3PcdaaL" text="Wolves, bears are a constant menace to the flocks of northern Calradia, while hyenas and leopards trouble the south. You went with a group of your fellow villagers and fired the missile that brought down the beast."/>
     <string id="I4SjNT6Y" text="This will cost you {BRIBE_COST}{GOLD_ICON}.{?ENOUGH_GOLD}{?} You don't have enough money.{\?}"/>
-    <string id="icmyseoo" text="My lord"/>
-    <string id="iepWkkfA" text="Your ladyship"/>
+    <string id="icmyseoo" text="Мой лорд"/>
+    <string id="iepWkkfA" text="Ваша светлость"/>
     <string id="IKzqzPDS" text="Generosity represents your loyalty to your kin and those who serve you, and your gratitude to those who have done you a favor."/>
     <string id="InN5ZZt3" text="A landlord's retainers"/>
-    <string id="ipQP6aVi" text="Mercenaries"/>
+    <string id="ipQP6aVi" text="Наемники"/>
     <string id="ithcVNfA" text="{CLAN_NAME}'s Party"/>
     <string id="iUQuwAZY" text="Thank you, {?PLAYER.GENDER}madam{?}sir{\?}. The village will be grateful to you. Good luck."/>
     <string id="ivKl4mV2" text="Your father was a trusted lieutenant of the local landowning aristocrat. He rode with the lord's cavalry, fighting as an armored lancer."/>
@@ -4441,7 +4441,7 @@
     <string id="NUlVFRtK" text="You are at your prime, You still have some youthful energy but also have a substantial amount of experience under your belt. "/>
     <string id="oMbOIPc9" text="joined the skirmishers."/>
     <string id="oQjsShmH" text="PRISONERS"/>
-    <string id="p2KIhGbE" text="Urban blacksmith"/>
+    <string id="p2KIhGbE" text="Городской кузнец"/>
     <string id="PE97ZWvX" text="Not just anybody. If you have a companion that has your complete trust, then I'll agree... Just make sure he is well guarded. Goods attract bandits, as I'm sure you know. I suppose {ALTERNATIVE_TROOP_AMOUNT} well-armed man would be enough."/>
     <string id="peHCARhM" text="{DEFAULT_TEXT}{ARMY_LEADER.LINK} has ordered that {SETTLEMENT} to be laid waste. {?ARMY_LEADER.GENDER}Her{?}His{\?} troops sweep through the city taking whatever loot they like and setting fire to the rest."/>
     <string id="PKhcPbBX" text="Your family were part of a nomadic clan, crisscrossing the wastes between wadi beds and wells to feed their herds of goats and camels on the scraggly scrubs of the Nahasa."/>
@@ -4472,28 +4472,28 @@
     <string id="rPrBa7gK" text="My husband"/>
     <string id="RuvSk3QT" text="You accompanied a local hunter as he went into the wilderness, helping him set up traps and catch small animals."/>
     <string id="s8PNllPN" text="you saved your city quarter from a fire."/>
-    <string id="sb4gg8Ak" text="Freeholders"/>
-    <string id="SpJqhEEh" text="Bards"/>
-    <string id="stewardprofession" text="Steward"/>
+    <string id="sb4gg8Ak" text="Фригольдеры"/> <!-- Владельцы  -->
+    <string id="SpJqhEEh" text="Барды"/>
+    <string id="stewardprofession" text="Распорядитель"/>
     <string id="svuD2vBo" text="You were knocked unconscious while trying to break {PRISONER.NAME} out of the dungeon.{newline}The guards caught you both and threw you in a cell."/>
     <string id="Sw8OxnNr" text="Kinsfolk of an emir"/>
     <string id="sYfvsMwN" text="{QUEST_GIVER.LINK} asked you to raid {NUMBER_OF_TARGET_VILLAGE} {ENEMYFACTION_INFORMALNAME} villages to distract their lords and weaken their armies. {?QUEST_GIVER.GENDER}She{?}He{\?} also offered you {EXTRA_REWARD}{GOLD_ICON} for every extra villages that you raid."/>
     <string id="sYuN6hPD" text="All of Calradia's kingdoms recognize the value of good light cavalry, and are sure to recruit nomads and borderers with the skills to fulfill those duties. You were a good enough rider that your neighbors pitched in to buy you a small pony and a sheaf of javelins so that you could fulfill their levy obligations."/>
-    <string id="t6sRVI5C" text="My wife"/>
+    <string id="t6sRVI5C" text="Моя жена"/>
     <string id="T7m7ReTq" text="hunted small game."/>
     <string id="TazumJGN" text="You emerge into the streets. No one is yet aware of what happened in the dungeons, and you hustle {PRISONER.NAME} towards the gates.{newline}You may now leave the {?SETTLEMENT_TYPE}settlement{?}castle{\?}."/>
     <string id="TbNRtUjb" text="you hunted a dangerous animal."/>
     <string id="tF1G5YLe" text="\nTotal Building Levels Reduced: {LEVELS_LOST}"/>
     <string id="Tfb9LNAr" text="You have observed the comings and goings of the guards at the keep. You think you've identified a guard who might be approached and offered a bribe."/>
-    <string id="tGEStbxb" text="Tribespeople"/>
+    <string id="tGEStbxb" text="Племена"/>
     <string id="tI8ZLtoA" text="repaired projects."/>
-    <string id="TkgLEDRM" text="Merchants"/>
-    <string id="TPoK3GSj" text="Vagabonds"/>
+    <string id="TkgLEDRM" text="Торговцы"/>
+    <string id="TPoK3GSj" text="Бродяги"/>
     <string id="tRIrbTvv" text="Urban back-alley thugs"/>
     <string id="TRwgSLD2" text="gathered herbs in the wild."/>
     <string id="tTb28jyU" text="Many Battanians fight as kern, versatile troops who could both harass the enemy line with their javelins or join in the final screaming charge once it weakened."/>
     <string id="TWZ4abt5" text="I'll keep wandering about, as I've done before. I can make a living. No need to worry."/>
-    <string id="tZCLAkGZ" text="Pillage"/>
+    <string id="tZCLAkGZ" text="Грабеж"/>
     <string id="ubOtRU3u" text="You have limited access to keep while in disguise."/>
     <string id="ueCm5y1C" text="Your family owned their own workshop in a city, making goods from raw materials brought in from the countryside. Your father played an active if minor role in the town council, and also served in the militia."/>
     <string id="Ugm9nO49" text="Valor represents your reputation for risking your life to win glory or wealth or advance your cause."/>
@@ -4503,12 +4503,12 @@
     <string id="v0mZi3Zd" text="Devastate {DEVASTATE_INFLUENCE_COST_TEXT}"/>
     <string id="v48N6h1t" text="Urban artisans"/>
     <string id="VbU8Ue0O" text="After waiting for a while you find a good opportunity to close in undetected beneath the shroud of the night."/>
-    <string id="vfhVveLW" text="Shamans"/>
+    <string id="vfhVveLW" text="Шаманы"/>
     <string id="vH7GtuuK" text="working at the stables."/>
     <string id="VlOGrGSn" text="Your character started off on the adventuring path at the age of..."/>
     <string id="VlXOgIX6" text="rode with the scouts."/>
     <string id="VM1SGrla" text="{HERO.NAME} is your enemy."/>
-    <string id="vvabqi2w" text="Caravan"/>
+    <string id="vvabqi2w" text="Караван"/>
     <string id="W1KJEvit" text="\n    Levels Lost: {BUILDINGS_LOST_LEVEL}"/>
     <string id="w1rVTUIs" text="This seems like a simple errand. Would your offer still stand if I get someone else to do it for me?"/>
     <string id="w2TEQq26" text="You were always attentive to other people, good at guessing their motivations. You studied how individuals were swayed, and tried out what you learned from adults on your friends."/>
