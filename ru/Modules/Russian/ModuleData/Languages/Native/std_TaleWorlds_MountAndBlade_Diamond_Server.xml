@@ -56,11 +56,11 @@
     <string id="dDF2wZGu" text="{PLAYER} declined your friend request"/>
     <string id="f4iavKkb" text="You are muted until {MUTEDUNTIL}, Reason: {MUTEREASON}"/>
     <string id="jl8MYbLR" text="Your friend request is forwarded to {PLAYER}."/>
-    <string id="KCtYUaag" text="You have already sent a request"/>
-    <string id="n1MdWtck" text="You are now friends with {PLAYER}"/>
-    <string id="nQWwqDmn" text="You have received a friend request from {PLAYER}"/>
-    <string id="oFfMEy1S" text="Friend request cannot be found"/>
-    <string id="qoto9N7y" text="Friend cannot be found"/>
+    <string id="KCtYUaag" text="Вы уже отправили запрос"/>
+    <string id="n1MdWtck" text="Теперь вы дружите с {PLAYER}"/>
+    <string id="nQWwqDmn" text="Вы получили предложение дружбы от {PLAYER}"/>
+    <string id="oFfMEy1S" text="Запрос на добавление в друзья не может быть найден"/>
+    <string id="qoto9N7y" text="Друг не найден"/>
     <string id="SIT1tREw" text="You cannot add yourself as friend"/>
     <string id="Xb6TEi3o" text="You have declined the friend request"/>
     <string id="xHqjCamt" text="Could not report player. Game cannot be found."/>

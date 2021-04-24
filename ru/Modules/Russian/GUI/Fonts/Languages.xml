@@ -98,6 +98,14 @@
     <Map From="Galahad" To="FiraSansExtraCondensed-Regular"/>
     <Map From="Galahad_Numbers_Bold" To="Galahad_Numbers_Bold"/>
   </Language>
+  
+  <Language id="dev_russian" DefaultFont="FiraSansExtraCondensed-Regular">
+    <Map From="FiraSansExtraCondensed-Light" To="FiraSansExtraCondensed-Light"/>
+    <Map From="FiraSansExtraCondensed-Medium" To="FiraSansExtraCondensed-Medium"/>
+    <Map From="FiraSansExtraCondensed-Regular" To="FiraSansExtraCondensed-Regular"/>
+    <Map From="Galahad" To="FiraSansExtraCondensed-Regular"/>
+    <Map From="Galahad_Numbers_Bold" To="Galahad_Numbers_Bold"/>
+  </Language>
 
   <!-- German -->
   <Language id="Deutsch" DefaultFont="Galahad">
