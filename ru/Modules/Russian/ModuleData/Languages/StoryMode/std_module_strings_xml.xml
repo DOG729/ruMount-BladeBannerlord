@@ -55,7 +55,7 @@
     <string id="NWxC3CbS" text="Фодор"/>
     <string id="OA9bQ8QJ" text="Алиа"/>
     <string id="odbkXZkz" text="Перемещение вашего отряда осуществляется нажатием левой кнопки мыши на карте. Это действие оставит отметку на целевом местоположении, только если вы не нажали на недоступные районы, такие как горы или море. {newline} {newline} Давайте отправимся в {TUTORIAL_SETTLEMENT_NAME}!"/>
-    <string id="OFNEE8Xr" text="Вы можете приказать своим людям атаковать, открыв меню приказов о движении нажав на &quot;F1&quot; и выбрав пункт с «F3»."/>
+    <string id="OFNEE8Xr" text="Вы можете рассказать своим людям грабить, во время движения с &quot;{FIRST_ORDER_CATEGORY_KEY}&quot; и до &quot;{THIRD_ORDER_CATEGORY_KEY}&quot;." />
     <string id="oj7B1GOT" text="Войти в поселение"/>
     <string id="OJmYUcaU" text="С мечом"/>
     <string id="okM9QUFA" text="Тренировка с дротиками"/>
@@ -70,7 +70,7 @@
     <string id="tZtrK3cs" text="Тренировка верховой стрельбы"/>
     <string id="uW4htMut" text="С мечом и щитом"/>
     <string id="w4Ajm40u" text="Фарос"/>
-    <string id="WjuwOavt" text="Атака на убежище начинается с того, что враг не знает о вашем приближении. {newline}{newline}Прикажите своим войскам следовать за вами с помощью ярлыков ''F1'' и ''F2'' и попытаться взять их небольшими группами."/>
+    <string id="WjuwOavt" text="Миссии в убежище начинаются с того, что враг не знает о вашем приближении.{newline}{newline}Прикажите вашим войскам следовать за вами клавишей «{FIRST_ORDER_CATEGORY_KEY}» и «{SECOND_ORDER_CATEGORY_KEY}» пытаясь сразить их небольшой группой."/>
     <string id="wq9sNkMc" text="Покинуть локацию"/>
     <string id="WTF4ZIe7" text="Джату"/>
     <string id="x4xx1Zd6" text="Боевые команды"/>
@@ -87,11 +87,11 @@
     <string id="eqjwreb4" text="Ваш брат попросил вас нанять по крайней мере 4 человек, прежде чем вы отправитесь в бой с налётчиками.{newline}{newline}Вы можете нанять войска в деревнях и городах, нажав «{CONSOLE_KEY_NAME}», когда курсор находится на кнопке «Нанять войска»."/>
     <string id="fGK2vNK2" text="В начале битвы ваши солдаты будут занимать свои позиции. Вы можете приказать им атаковать, открыв меню приказов клавишей «{HOLD_OPEN_ORDER_KEY}» и приказов движения клавишей «{FIRST_ORDER_CATEGORY_KEY}» и выбрав «Следуйте за мной» клавишей «{SECOND_ORDER_CATEGORY_KEY}»."/>
     <string id="Jcz3vTEc" text="Вы можете перемещать своего персонажа с помощью левого стика.{newline}{newline}Попробуйте двигаться в четырёх направлениях прямо сейчас!"/>
-    <string id="KHqrsiSX" text="Moving your party is done by hovering the indicator on the map and pressing &quot;{CONSOLE_KEY_NAME}&quot;. This will leave a mark on the target location - unless you have hovered over an inaccessible areas such as mountains or sea.{newline}{newline}Let's set off to {TUTORIAL_SETTLEMENT_NAME}!"/>
-    <string id="lEkImvNu" text="Hideout missions begin with the enemy unaware of your approach.{newline}{newline}Open the order menu with &quot;{HOLD_OPEN_ORDER_KEY}&quot; and order your troops to follow you with the &quot;{FIRST_ORDER_CATEGORY_KEY}&quot; and &quot;{SECOND_ORDER_CATEGORY_KEY}&quot; shortcuts and try to take them on in small groups."/>
-    <string id="lRVAQWns" text="Notables help you recruit more and better (higher level) troops according to your relation with them.{newline}{newline}Move troops into your party by pressing &quot;{CONSOLE_KEY_NAME}&quot; while the cursor is on their portraits."/>
-    <string id="rbkKSYom" text="The menu on the top right shows the important people in your current location.{newline}{newline}Press &quot;{CONSOLE_KEY_NAME}&quot; while the cursor is on the headman's portrait to talk to him."/>
-    <string id="Rnw47YBX" text="Welcome to Calradia!{newline}{newline}You can explore the world map by moving the camera with Left Stick, panning your view the Right Stick and zooming in and out with the triggers.{newline}{newline}Give it a try."/>
+    <string id="KHqrsiSX" text="Перемещение отряда осуществляется путем наведения индикатора на карту и нажатия «{CONSOLE_KEY_NAME}». Это оставит отметку на месте цели - если только вы не навели указатель на недоступные места, такие как горы или море.{newline}{newline}Давайте отправимся в деревню «{TUTORIAL_SETTLEMENT_NAME}»!"/>
+    <string id="lEkImvNu" text="Миссии в убежище начинаются с того, что враг не знает о вашем приближении.{newline}{newline}Откройте меню приказов с помощью «{HOLD_OPEN_ORDER_KEY}» и прикажите своим войскам следовать за вами с помощью сочетаний клавиш «{FIRST_ORDER_CATEGORY_KEY}» и «{SECOND_ORDER_CATEGORY_KEY}» попытайтесь взять их небольшими группами."/>
+    <string id="lRVAQWns" text="Влиятельные люди помогут вам набрать больше и лучше (более высокого уровня) войска в соответствии с вашими отношениями с ними.{newline}{newline}Перемещайте войска в свой отряд, нажимая «{CONSOLE_KEY_NAME}» когда курсор находится на их портретах."/>
+    <string id="rbkKSYom" text="Меню в правом верхнем углу показывает важных людей в вашем текущем местоположении.{newline}{newline}Нажмите «{CONSOLE_KEY_NAME}», когда курсор находится на портрете старосты, чтобы поговорить с ним."/>
+    <string id="Rnw47YBX" text="Добро пожаловать в Кальрадию!{newline}{newline}Вы можете исследовать карту мира, перемещая камеру левым стиком, панорамируя обзор правым стиком и увеличивая или уменьшая масштаб с помощью триггеров.{newline}{newline}Попробуйте."/>
     <string id="TDlQhnR8" text="У вас есть активный квест! Вы можете узнать больше об этом, нажав &quot;{CONSOLE_KEY_NAME}&quot; Пока курсор находится в журнале поиска в левом нижнем углу вашего экрана."/>
   </strings>
 </base>
