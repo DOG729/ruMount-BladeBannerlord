@@ -81,17 +81,17 @@
     <string id="ZozwfwVl" text="Защитите себя ({HIT} / {ALL})"/>
     <string id="ZW9OGfEt" text="Спасение &amp; Взятие Пленных"/>
     <string id="4kBdT24F" text="Натанос"/>
-    <string id="2bckUaI7" text="To leave a mission, you can hold down &quot;{LEAVE_MISSION_KEY}&quot;.{newline}{newline}This will return you to the settlement menu where you can purchase supplies and hire recruits."/>
-    <string id="9c7h8ye4" text="Return to the notable and learn more about the task ahead by pressing &quot;{CONSOLE_KEY_NAME}&quot; while the cursor is on the &quot;Visit&quot; button."/>
-    <string id="AC9G2rOJ" text="You can hold &quot;{MISSION_INDICATORS_KEY}&quot; to see the location of the Headman.{newline}{newline}Once you are near him, press &quot;{INTERACTION_KEY}&quot; to speak with him."/>
-    <string id="eqjwreb4" text="Your brother has asked you to hire at least 4 men before you set out to face the raiders.{newline}{newline}You can hire troops from villages and towns by pressing &quot;{CONSOLE_KEY_NAME}&quot; while the cursor is on the &quot;Recruit Troops&quot; button."/>
-    <string id="fGK2vNK2" text="At the beginning of a battle your soldiers will be holding their position. You can tell them to charge by opening the order menu with &quot;{HOLD_OPEN_ORDER_KEY}&quot; and movement orders with &quot;{FIRST_ORDER_CATEGORY_KEY}&quot; and choosing &quot;Follow Me&quot; with &quot;{SECOND_ORDER_CATEGORY_KEY}&quot;."/>
-    <string id="Jcz3vTEc" text="You can move your character with the Left Stick.{newline}{newline}Try moving in four direction now!"/>
+    <string id="2bckUaI7" text="Чтобы выйти из миссии, вы можете удерживать клавишу «{LEAVE_MISSION_KEY}».{newline}{newline}Это вернёт вас в меню поселения, где вы можете купить припасы и нанять рекрутов."/>
+    <string id="9c7h8ye4" text="Вернитесь к заметке и узнайте больше о предстоящей задаче, нажав «{CONSOLE_KEY_NAME}», когда курсор находится на кнопке «Посетить»."/>
+    <string id="AC9G2rOJ" text="Вы можете удерживать «{MISSION_INDICATORS_KEY}», чтобы увидеть местоположение старосты.{newline}{newline}Когда вы окажетесь рядом с ним, нажмите «{INTERACTION_KEY}», чтобы поговорить с ним."/>
+    <string id="eqjwreb4" text="Ваш брат попросил вас нанять по крайней мере 4 человек, прежде чем вы отправитесь в бой с налётчиками.{newline}{newline}Вы можете нанять войска в деревнях и городах, нажав «{CONSOLE_KEY_NAME}», когда курсор находится на кнопке «Нанять войска»."/>
+    <string id="fGK2vNK2" text="В начале битвы ваши солдаты будут занимать свои позиции. Вы можете приказать им атаковать, открыв меню приказов клавишей «{HOLD_OPEN_ORDER_KEY}» и приказов движения клавишей «{FIRST_ORDER_CATEGORY_KEY}» и выбрав «Следуйте за мной» клавишей «{SECOND_ORDER_CATEGORY_KEY}»."/>
+    <string id="Jcz3vTEc" text="Вы можете перемещать своего персонажа с помощью левого стика.{newline}{newline}Попробуйте двигаться в четырёх направлениях прямо сейчас!"/>
     <string id="KHqrsiSX" text="Moving your party is done by hovering the indicator on the map and pressing &quot;{CONSOLE_KEY_NAME}&quot;. This will leave a mark on the target location - unless you have hovered over an inaccessible areas such as mountains or sea.{newline}{newline}Let's set off to {TUTORIAL_SETTLEMENT_NAME}!"/>
     <string id="lEkImvNu" text="Hideout missions begin with the enemy unaware of your approach.{newline}{newline}Open the order menu with &quot;{HOLD_OPEN_ORDER_KEY}&quot; and order your troops to follow you with the &quot;{FIRST_ORDER_CATEGORY_KEY}&quot; and &quot;{SECOND_ORDER_CATEGORY_KEY}&quot; shortcuts and try to take them on in small groups."/>
     <string id="lRVAQWns" text="Notables help you recruit more and better (higher level) troops according to your relation with them.{newline}{newline}Move troops into your party by pressing &quot;{CONSOLE_KEY_NAME}&quot; while the cursor is on their portraits."/>
     <string id="rbkKSYom" text="The menu on the top right shows the important people in your current location.{newline}{newline}Press &quot;{CONSOLE_KEY_NAME}&quot; while the cursor is on the headman's portrait to talk to him."/>
     <string id="Rnw47YBX" text="Welcome to Calradia!{newline}{newline}You can explore the world map by moving the camera with Left Stick, panning your view the Right Stick and zooming in and out with the triggers.{newline}{newline}Give it a try."/>
-    <string id="TDlQhnR8" text="You have an active quest! You can learn more about it by pressing &quot;{CONSOLE_KEY_NAME}&quot; while the cursor is on the quest log on the lower left of your screen."/>
+    <string id="TDlQhnR8" text="У вас есть активный квест! Вы можете узнать больше об этом, нажав &quot;{CONSOLE_KEY_NAME}&quot; Пока курсор находится в журнале поиска в левом нижнем углу вашего экрана."/>
   </strings>
 </base>

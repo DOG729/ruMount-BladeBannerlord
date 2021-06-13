@@ -4,20 +4,20 @@
     <tag language="Русский" />
   </tags>
   <strings>
-    <string id="01Y1DAqA" text="As you may know, I receive reports from my spies in marketplaces around here. There is a merchant who I have been following - I know he is connected with {OTHER_MENTOR.LINK}. Now, I hear he has bought up a large supply of weapons and armor in {QUEST_FROM_SETTLEMENT_NAME}, and plans to travel to {QUEST_TO_SETTLEMENT_NAME}. From there it will move onward. I expect that {OTHER_MENTOR.LINK} is arming his/her allies in the gangs in that area.If it delivers its load, then I expect we will soon find our friends stabbed to death in the streets by hired thugs, our friends too frightened to acknowledge us. I need you to track it and destroy it. Try to intercept it on the first leg of its journey, before it get to {QUEST_TO_SETTLEMENT_NAME}. If you fail, find out the next town to which it is going.It may take some time to find it, and when you do, it will be well-guarded.But I trust in your perseverance, your skill and your understanding of how important this is. Good hunting." />
-    <string id="09z8Q08f" text="Your family were small farmers with just enough land to feed themselves and make a small profit. People like them were the pillars of the imperial rural economy, as well as the backbone of the levy." />
-    <string id="0I9siaQY" text="Bastards... You're the kin of my captives, right? I saw {RADAGOS.LINK} with you. You know he can't be trusted?[if:idle_angry][ib:warrior]" />
-    <string id="0IeByuam" text="It was a victory, of the kind that is almost as bad as a defeat." />
-    <string id="0P4HqZiB" text="Is that true?[sp:/Sounds/VO/mainquest/mntemp_q01_02.ogg]" />
-    <string id="0pilmavQ" text="How can I create my own kingdom?" />
-    <string id="0Suu1Q9q" text="Your father was a bailiff for a local feudal magnate. He looked after his liege's estates, resolved disputes in the village, and helped train the village levy. He rode with the lord's cavalry, fighting as an armored knight." />
-    <string id="0wQlpbtL" text="In order for the Empire to go into its final decline, there should be fewer than {NUMBER} imperial-owned settlements. If this happens, another kingdom can become the dominant power in Calradia." />
-    <string id="0yxEvgGf" text="It was a disaster for him - he died in it - but the victors didn't fare much better." />
-    <string id="1CLNFbzR" text="Good. Then I will tell you what I know. I heard about one other piece." />
-    <string id="1EkEElZd" text="Urban troops spend much of their time guarding the town walls. Most of their training was in missile." />
-    <string id="1IEroJKs" text="Not everyone who musters for the levy marches to war, and not everyone who goes on campaign sees action. You did both, and you also took down an enemy warrior in direct one-to-one combat, in the full view of your comrades." />
-    <string id="1LrHV647" text="Conspiracy Strength" />
-    <string id="1r0tDsrR" text="Attack!" />
+    <string id="01Y1DAqA" text="Как вы, возможно, знаете, я получаю доклады от своих шпионов на здешних рынках. Есть один торговец, за которым я слежу - я знаю, что он и {OTHER_MENTOR.LINK} связаны. Так вот, до меня дошли слухи, что он скупил большой запас оружия и доспехов в поселении {QUEST_FROM_SETTLEMENT_NAME}, и планирует отправиться в поселение {QUEST_TO_SETTLEMENT_NAME}. Оттуда он двинется дальше. Я предполагаю, что {OTHER_MENTOR.LINK} вооружает своих союзников в бандах в этом районе. Если он доставит свой груз, то я ожидаю, что скоро мы найдём наших друзей зарезанными на улицах наёмными бандитами, наших друзей, слишком напуганных, чтобы признать нас. Мне нужно, чтобы вы отследили его и уничтожили. Постарайтесь перехватить его на первом этапе пути, прежде чем он доберётся до поселения {QUEST_TO_SETTLEMENT_NAME}. Если не получится, узнайте следующий город, в который он направляется. На поиски может уйти некоторое время, а когда вы найдёте его, он будет хорошо охраняться. Но я верю в вашу настойчивость, мастерство и понимание того, насколько это важно. Удачной охоты."/>
+    <string id="09z8Q08f" text="Ваша семья - мелкие фермеры, у которых было достаточно земли, чтобы прокормить себя и получить небольшую прибыль. Такие люди, как они, были опорой Имперской сельской экономики, а также основой для сбора налогов."/>
+    <string id="0I9siaQY" text="Ублюдки... Вы же родственники моих пленников, верно? Я видел, что Радагос с вами. Вы знаете, что ему нельзя доверять?[if:idle_angry][ib:warrior]"/>
+    <string id="0IeByuam" text="Это была победа, которая почти так же плоха, как поражение."/>
+    <string id="0P4HqZiB" text="Это правда?[sp:/Sounds/VO/mainquest/mntemp_q01_02.ogg]"/>
+    <string id="0pilmavQ" text="Как я могу создать собственную фракцию?"/>
+    <string id="0Suu1Q9q" text="Ваш отец был судебным приставом у местного феодального магната. Он присматривал за поместьями своего правителя, разрешал споры в деревне и помогал готовить деревенский сбор. Он ездил в кавалерии правителя и сражался как закованный в латы рыцарь."/>
+    <string id="0wQlpbtL" text="Для того чтобы империя пришла в окончательный упадок, в ней должно остаться менее {NUMBER} поселений, принадлежащих Империи. Если это произойдёт, другая фракция может стать доминирующей силой в Кальрадии."/>
+    <string id="0yxEvgGf" text="Для него это была катастрофа - он погиб в ней, - но у победителей дела обстояли не намного лучше."/>
+    <string id="1CLNFbzR" text="Хорошо. Тогда я расскажу вам то, что знаю. Я {?CONVERSATION_CHARACTER.GENDER}слышала{?}слышал{\?} ещё об одной части."/>
+    <string id="1EkEElZd" text="Городские войска проводят большую часть своего времени, охраняя стены, и большая часть их обучения состоит в том, как использовать метательное оружие."/>
+    <string id="1IEroJKs" text="Не все, кто записывается в армию, идут на войну, и не все, кто отправляется в поход, участвуют в боевых действиях. Вы сделали и то, и другое, а также сразили вражеского воина в прямом бою один на один, на виду у своих товарищей."/>
+    <string id="1LrHV647" text="Сила заговора"/>
+    <string id="1r0tDsrR" text="Атаковать!"/>
     <string id="1RaUauBS" text="You've successfully finished the training." />
     <string id="1SUTcF0J" text="The gang leaders who kept watch over the slums of Calradian cities were always in need of poor youth to run messages and back them up in turf wars, while thrill-seeking merchants' sons and daughters sometimes slummed it in their company as well." />
     <string id="1T7p0O7B" text="We have to be clever. {HIDEOUT_BOSS.LINK} is a cunning fellow, in a low and base kind of way." />
