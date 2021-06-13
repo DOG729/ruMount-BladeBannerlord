@@ -3977,17 +3977,17 @@
     <string id="Instmiut" text="Your child is blessed with a strong and sonorous voice, making {?CHILD.GENDER}her{?}him{\?} seem older and wiser than {?CHILD.GENDER}her{?}his{\?} years."/>
     <string id="Ir7BP5bD" text="The best smiths are those that understand how their tools are used. Your child will be tasked with sparring with the weapons and testing their edges. "/>
     <string id="ISoR0vaR" text="{ATR_1} and {ATR_2}"/>
-    <string id="iSppZBje" text="You don't need to know the full story of the child's escapades in the {?IS_BATTANIA}bard{?}minstrel{\?}'s company, but the {?IS_BATTANIA}bard{?}minstrel{\?} does inform you that {?CHILD.GENDER}she{?}he{\?} shows some natural talent in {SKILL}."/>
-    <string id="ItS9F61H" text="You told {CHILD.NAME} that any young noble worth {?CHILD.GENDER}her{?}his{\?} salt should be able to bring down a deer from fifty paces away, or hit a rabbit on the run."/>
-    <string id="iz8m2Ct4" text="30% faster build rate for fortification, aquaduct and barracks projects."/>
-    <string id="J80YXzR2" text="is fascinated by riddles."/>
-    <string id="Jc1YXXjN" text="an influx of wild beasts"/>
-    <string id="jdl8G8JS" text="Clan Issues"/>
-    <string id="JGEQ68jc" text="Your huntsman is happy with the child's progress. He informs you that {?CHILD.GENDER}she{?}he{\?} shows some natural talent in {SKILL}."/>
-    <string id="JHMHcZEp" text="You have seen many marvels on your travels and heard of many more, and one day, you believe, the philosophers of science will rule the world."/>
-    <string id="jL8ntljn" text="procures supplies."/>
-    <string id="jNBVoObj" text="Choose a Request"/>
-    <string id="JqaKRXNo" text="Eraftiness"/>
+    <string id="iSppZBje" text="Вам не нужно знать полную историю побегов ребёнка в компании компании {?IS_BATTANIA}барда{?}менестреля{\?}, но {?IS_BATTANIA}бард{?}менестрель{\?} сообщает вам, что {?CHILD.GENDER}она{?}он{\?} проявляет природный талант в навыке «{SKILL}»."/>
+    <string id="ItS9F61H" text="{CHILD.NAME} {?CHILD.GENDER}узнала{?}узнал{\?} от вас, что любая молодая знать должна уметь завалить оленя с пятидесяти шагов или подбить кролика на бегу."/>
+    <string id="iz8m2Ct4" text="Скорость строительства укреплений, акведуков и казарм на 30% выше."/>
+    <string id="J80YXzR2" text="{?CHILD.GENDER}увлечена{?}увлечён{\?} загадками."/>
+    <string id="Jc1YXXjN" text="наплыв диких зверей"/>
+    <string id="jdl8G8JS" text="Проблемы клана"/>
+    <string id="JGEQ68jc" text="Ваш егерь доволен успехами ребёнка. Он сообщает вам, что {?CHILD.GENDER}она{?}он{\?} проявляет природный талант в навыке «{SKILL}»."/>
+    <string id="JHMHcZEp" text="В своих путешествиях вы видели много чудес и слышали о многих других, и однажды, вы верите, философы науки будут править миром."/>
+    <string id="jL8ntljn" text="закупает материалы."/>
+    <string id="jNBVoObj" text="Выбрать запрос"/>
+    <string id="JqaKRXNo" text="Хитрость"/>
     <string id="jqstr7ZL" text="Learn to fire men's pride, stoke their anger and dispel their fears, and they will turn from men into lions who will do anything for you."/>
     <string id="jukOfT2Z" text="Outside events also intruded on {CHILD.NAME}'s adolescence. You believe {?CHILD.GENDER}she{?}he{\?} was particularly shaped by {RANDOM_OUTCOME}. This event increased {?CHILD.GENDER}her{?}his{\?} skills in {SKILL_1} and {SKILL_2}."/>
     <string id="JX13Wd65" text="managing the logistics of travel."/>

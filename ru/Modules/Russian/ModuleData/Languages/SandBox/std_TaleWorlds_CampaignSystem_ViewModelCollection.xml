@@ -337,108 +337,108 @@
     <string id="1UbocG5B" text="Откажитесь от своих прав и обязанностей в этой вотчине, вернув ее королевству."/>
     <string id="eIGFuGOx" text="Give Settlement"/>
     <string id="G2h0V10w" text="Подарите это поселение клану в своем королевстве."/>
-    <string id="rkubGa4K" text="Are you sure want to give this settlement back to your kingdom?"/>
-    <string id="rOKAvjtT" text="Gift Settlement"/>
-    <string id="sffGeQ1g" text="Gift"/>
-    <string id="U3ksQXD3" text="Give Away"/>
-    <string id="68IlDbA2" text="You need to have {PERK_NAME} perk to upgrade a bandit troop to a normal troop."/>
-    <string id="Bcs9s2tC" text="Right Click to Remove"/>
-    <string id="Ck9HT8fQ" text="Summary"/>
-    <string id="F0a7hyp0" text="Risk of rebellion"/>
-    <string id="flxDkoMh" text="Stage Complete"/>
-    <string id="hOVPiG3z" text="Recently rebelled"/>
-    <string id="m1Yynagz" text="Page {NUMBER}"/>
-    <string id="NxEy5Nbt" text="High risk of rebellion"/>
-    <string id="Rvr1bcu8" text="Next"/>
-    <string id="WXAaWZVf" text="Previous"/>
-    <string id="0TauthlH" text="Never (%{PERCENTAGE})"/>
-    <string id="8eYtra7T" text="Determine the game difficulty"/>
-    <string id="fz2kQjFS" text="Choose your character's culture:"/>
-    <string id="GwA9oUBC" text="Your skill focus determines the rate your skill increases with practice"/>
-    <string id="K6GYskvJ" text="Culture:"/>
-    <string id="lkJfq1ap" text="Owned settlements remain under your control but nobles will dislike this dishonorable act and the kingdom will declare war on you."/>
-    <string id="MaHMOzL2" text="Character Culture"/>
-    <string id="mHVmrwRQ" text="Enter your name"/>
-    <string id="PUjDWe5j" text="Culture"/>
-    <string id="raD9MK3O" text="Difficulty"/>
-    <string id="txjiykNa" text="Review"/>
-    <string id="wMiLUTNY" text="Are you sure you want to smelt this weapon? It is locked in the inventory."/>
-    <string id="ZjaSde0X" text="Owned settlements are returned to the kingdom. This will avert a war and nobles will dislike you less for abandoning your fealty."/>
-    <string id="1qm74K2t" text="Successful raids by {FACTION}"/>
+    <string id="rkubGa4K" text="Вы уверены, что хотите вернуть это поселение вашей фракции?"/>
+    <string id="rOKAvjtT" text="Подарить феод"/>
+    <string id="sffGeQ1g" text="Подарить"/>
+    <string id="U3ksQXD3" text="Отдать"/>
+    <string id="68IlDbA2" text="Вам нужен перк {PERK_NAME}, чтобы повышать бандитские войска до регулярных."/>
+    <string id="Bcs9s2tC" text="Правый клик для удаления"/>
+    <string id="Ck9HT8fQ" text="Результат обучения"/>
+    <string id="F0a7hyp0" text="Риск восстания"/>
+    <string id="flxDkoMh" text="Этап завершён"/>
+    <string id="hOVPiG3z" text="Недавно восстал"/>
+    <string id="m1Yynagz" text="Страница {NUMBER}"/>
+    <string id="NxEy5Nbt" text="Высокий риск восстания"/>
+    <string id="Rvr1bcu8" text="Следующий"/>
+    <string id="WXAaWZVf" text="Предыдущий"/>
+    <string id="0TauthlH" text="Никогда (%{PERCENTAGE})"/>
+    <string id="8eYtra7T" text="Определите сложность игры"/>
+    <string id="fz2kQjFS" text="В Кальрадии много культур, но какой же культуры будете вы? Может..."/>
+    <string id="GwA9oUBC" text="Сосредоточенность на ваших навыках определяет скорость повышения ваших навыков с практикой"/>
+    <string id="K6GYskvJ" text="Культура:"/>
+    <string id="lkJfq1ap" text="Ваши поселения остаются под вашим контролем, но знатным не понравится этот позорный поступок, и фракция объявит вам войну."/>
+    <string id="MaHMOzL2" text="Культура персонажа"/>
+    <string id="mHVmrwRQ" text="Введите ваше имя"/>
+    <string id="PUjDWe5j" text="Культура"/>
+    <string id="raD9MK3O" text="Сложность"/>
+    <string id="txjiykNa" text="Рассмотрение"/>
+    <string id="wMiLUTNY" text="Вы уверены, что хотите переплавить это оружие? Оно заблокировано."/>
+    <string id="ZjaSde0X" text="Ваши поселения будут переданы фракции. Это предотвратит войну, и знатные будут меньше недолюбливать вас за отказ от верности."/>
+    <string id="1qm74K2t" text="Успешные грабежи фракции {FACTION}"/>
     <string id="4NaOKslb" text="-"/>
-    <string id="4vZLpzPi" text="+1 Renown / Day"/>
-    <string id="5tbWdY1j" text="Avatar"/>
-    <string id="6bx9IhpD" text="Upgrades"/>
-    <string id="8BJDQe6o" text="Prisoners captured by {FACTION}"/>
-    <string id="a8NoW1Q2" text="Are you sure you want to cancel your changes?"/>
-    <string id="b8CqpGHx" text="Recruit Prisoners"/>
-    <string id="bC2jevlu" text="The client is displeased."/>
-    <string id="BlidMNGT" text="Relation"/>
+    <string id="4vZLpzPi" text="+1 Известности / День"/>
+    <string id="5tbWdY1j" text="Аватар"/>
+    <string id="6bx9IhpD" text="Повышения"/>
+    <string id="8BJDQe6o" text="Захваченные пленные фракцией {FACTION}"/>
+    <string id="a8NoW1Q2" text="Вы уверены, что хотите отменить изменения?"/>
+    <string id="b8CqpGHx" text="Набор пленных"/>
+    <string id="bC2jevlu" text="Клиент недоволен."/>
+    <string id="BlidMNGT" text="Отношения"/>
     <string id="btoiLePb" text="{HERO} ({PLACE})"/>
-    <string id="cc1d7mkq" text="Tier"/>
-    <string id="cedvCZ73" text="There is no town owned by {FACTION}"/>
-    <string id="CGVK6l8I" text="Champion Benefits"/>
-    <string id="CK68QXen" text="There is no prisoner captured by {FACTION}"/>
-    <string id="CTtjSwRb" text="Noon"/>
+    <string id="cc1d7mkq" text="Ранг"/>
+    <string id="cedvCZ73" text="Нет города, принадлежащего фракции {FACTION}"/>
+    <string id="CGVK6l8I" text="Преимущества чемпиона"/>
+    <string id="CK68QXen" text="Нет пленных, захваченных фракцией {FACTION}"/>
+    <string id="CTtjSwRb" text="Полдень"/>
     <string id="dB6cFDmz" text="/"/>
-    <string id="DMxJJWxt" text="Recruit"/>
-    <string id="dOa7frHR" text="Show only unlocked pieces"/>
+    <string id="DMxJJWxt" text="Нанять"/>
+    <string id="dOa7frHR" text="Показывать только открытые части"/>
     <string id="dVqowrRz" text=" - {STAT} {REQUIREMENT}"/>
-    <string id="eTxcYvRr" text="Castles conquered by {FACTION}"/>
-    <string id="fAxjyMt5" text="Night"/>
-    <string id="FWHvvZFq" text="&quot;This is exactly what I wanted. Here is your money, you've earned it.&quot;"/>
-    <string id="Gd6zuUwh" text="Free Build"/>
-    <string id="gENb9SSW" text="Evening"/>
-    <string id="GP3jpU0X" text="Influence is periodically converted to denars for mercenary clans"/>
-    <string id="gTbE6t9I" text="Following requirements are not met:"/>
-    <string id="guxNZZWh" text="Requirements"/>
-    <string id="huqEEfGD" text="There is no successful raid for {FACTION}"/>
-    <string id="IgoxNz2H" text="Upgrade Troops"/>
-    <string id="iTau5cxh" text="Average"/>
-    <string id="J2gvnexb" text="Afternoon"/>
-    <string id="J5u0uOKc" text="Running from {TARGET_PARTY} to settlement."/>
-    <string id="jaaQijQs" text="Age"/>
-    <string id="lC5xsoSh" text="Unlimited"/>
-    <string id="MkVTRqAw" text="Orders ({ORDER_COUNT})"/>
-    <string id="mSPyh91Q" text="Towns conquered by {FACTION}"/>
-    <string id="MT4b8H9h" text="Unknown"/>
-    <string id="MT5A04X8" text=" - Swing Damage Type does not match. Should be: {TYPE}"/>
-    <string id="nKQmaSDO" text="There is no castle conquered by {FACTION}"/>
-    <string id="Nn49hU2W" text="The client is satisfied."/>
-    <string id="NRpbagbZ" text="Running to {TARGET_PARTY}"/>
-    <string id="NZynd8vT" text="&quot;This weapon is worthless. I'm not giving you a dime!&quot;"/>
-    <string id="o79dIa3L" text="Towns owned by {FACTION}"/>
-    <string id="ODEnkg0o" text="Clan Strength"/>
-    <string id="OGbskMfz" text="Unlocked Parts:"/>
-    <string id="oJmRg2ms" text="Very Rich"/>
-    <string id="oM2Ta1di" text="Press {CONSOLE_KEY_NAME} to Reset Camera"/>
-    <string id="opU0Nr2G" text="Progress for unlocking a new piece."/>
-    <string id="opVqBNLh" text="Effect"/>
-    <string id="pnFgwLYG" text="Current Wage"/>
-    <string id="Q0j1umAt" text="Requirement: {REQUIREMENT_NAME}"/>
-    <string id="Q1KwpZYu" text="Weapon usage does not match requirements"/>
-    <string id="qdoJOH0j" text="Party Wage"/>
-    <string id="raCa7QXj" text="&quot;This is even better than what I have imagined. Here is your money, and I'm putting a little extra for your effort.&quot;"/>
-    <string id="sFiU3Ss2" text="Click to Reset Camera"/>
-    <string id="SixPXaNh" text="Very Poor"/>
-    <string id="SK8G9QpE" text="Upgrd. Cost"/>
-    <string id="sWWxrafa" text="Current Limit"/>
-    <string id="Syha8biz" text="Order Can Not Be Completed"/>
-    <string id="tTLvo8sM" text="Clan Tier"/>
-    <string id="Tx9Mynbt" text=" - Thrust Damage Type does not match. Should be: {TYPE}"/>
-    <string id="UbRqC0Yz" text="Rich"/>
-    <string id="udPWHmOm" text="Difficulty:"/>
-    <string id="UY79LYHf" text="Poor"/>
-    <string id="vIPrZCZ1" text="You can abdicate leadership from the kingdom screen."/>
-    <string id="w0slxNAl" text="If limit is lower than current wage, party will not recruit troops until wage is reduced to the limit. If limit is higher than current wage, party will keep recruiting."/>
-    <string id="wU76OPxM" text="&quot;This is worse than what I've asked for. I'm cutting {AMOUNT} denars from the price.&quot;"/>
-    <string id="WySAapWO" text="Unlimited Wage"/>
-    <string id="wZGj3qO1" text="Choose What to Craft"/>
-    <string id="X3gcUz7C" text="Morning"/>
-    <string id="z3Xg0IaG" text="Castles owned by {FACTION}"/>
-    <string id="Zemk86FK" text="There is no town conquered by {FACTION}"/>
-    <string id="zFDoDbNj" text="Count"/>
-    <string id="ZIn8W5ZG" text="Worth"/>
-    <string id="ZZmlYrgL" text="There is no castle owned by {FACTION}"/>
+    <string id="eTxcYvRr" text="Замки, завоёванные фракцией {FACTION}"/>
+    <string id="fAxjyMt5" text="Ночь"/>
+    <string id="FWHvvZFq" text="«Это именно то, что мне было нужно. Вот ваши деньги, вы их заработали.»"/>
+    <string id="Gd6zuUwh" text="Свободное создание"/>
+    <string id="gENb9SSW" text="Вечер"/>
+    <string id="GP3jpU0X" text="Влияние периодически конвертируется в золото для кланов наёмников"/>
+    <string id="gTbE6t9I" text="Следующие требования не выполняются:"/>
+    <string id="guxNZZWh" text="возможных"/>
+    <string id="huqEEfGD" text="Нет успешных грабежей для фракции {FACTION}"/>
+    <string id="IgoxNz2H" text="Повышение войск"/>
+    <string id="iTau5cxh" text="Среднее"/>
+    <string id="J2gvnexb" text="После полудня"/>
+    <string id="J5u0uOKc" text="Бежит от преследования. Отряд который преследует: {TARGET_PARTY}"/>
+    <string id="jaaQijQs" text="Возраст"/>
+    <string id="lC5xsoSh" text="Неограниченное"/>
+    <string id="MkVTRqAw" text="Заказы ({ORDER_COUNT})"/>
+    <string id="mSPyh91Q" text="Города, завоёванные фракцией {FACTION}"/>
+    <string id="MT4b8H9h" text="Неизвестно"/>
+    <string id="MT5A04X8" text=" - Тип урона от замаха не совпадает. Должно быть: {TYPE}"/>
+    <string id="nKQmaSDO" text="Нет замка, завоёванного фракцией {FACTION}"/>
+    <string id="Nn49hU2W" text="Клиент удовлетворён."/>
+    <string id="NRpbagbZ" text="Бежит к {TARGET_PARTY}"/>
+    <string id="NZynd8vT" text="«Это оружие ничего не стоит. Я не дам вам ни монеты!»"/>
+    <string id="o79dIa3L" text="Города принадлежащие фракции {FACTION}"/>
+    <string id="ODEnkg0o" text="Сила клана"/>
+    <string id="OGbskMfz" text="Открытых частей:"/>
+    <string id="oJmRg2ms" text="Очень богато"/>
+    <string id="oM2Ta1di" text="Нажмите «{CONSOLE_KEY_NAME}» для сброса камеры"/>
+    <string id="opU0Nr2G" text="Прогресс для разблокировки новой части"/>
+    <string id="opVqBNLh" text="Эффект"/>
+    <string id="pnFgwLYG" text="Текущее жалование"/>
+    <string id="Q0j1umAt" text="Требование: {REQUIREMENT_NAME}"/>
+    <string id="Q1KwpZYu" text="Использование оружия не соответствует требованиям"/>
+    <string id="qdoJOH0j" text="Жалование отряда"/>
+    <string id="raCa7QXj" text="«Это даже лучше, чем то, что мне было нужно. Вот ваши деньги, и я добавляю немного за ваши усилия.»"/>
+    <string id="sFiU3Ss2" text="Нажмите, чтобы сбросить камеру"/>
+    <string id="SixPXaNh" text="Очень плохо"/>
+    <string id="SK8G9QpE" text="Стоимость"/>
+    <string id="sWWxrafa" text="Лимит жалования"/>
+    <string id="Syha8biz" text="Заказ не может быть выполнен"/>
+    <string id="tTLvo8sM" text="Ранг клана"/>
+    <string id="Tx9Mynbt" text=" - Тип колющего урона не соответствует. Должно быть: {TYPE}"/>
+    <string id="UbRqC0Yz" text="Богато"/>
+    <string id="udPWHmOm" text="Сложность:"/>
+    <string id="UY79LYHf" text="Бедно"/>
+    <string id="vIPrZCZ1" text="Вы можете отказаться от лидерства с экрана фракции."/>
+    <string id="w0slxNAl" text="Если предел ниже, чем текущее жалование, то отряд не будет набирать войска, пока жалование не будет снижено до предела. Если лимит превышает текущее жалование, то отряд продолжит набор."/>
+    <string id="wU76OPxM" text="«Это хуже, чем то, что мне нужно. Я снижаю цену на {AMOUNT} золотых.»"/>
+    <string id="WySAapWO" text="Неограниченно"/>
+    <string id="wZGj3qO1" text="Выберите, что будет создано"/>
+    <string id="X3gcUz7C" text="Утро"/>
+    <string id="z3Xg0IaG" text="Замки принадлежащие фракции {FACTION}"/>
+    <string id="Zemk86FK" text="Нет города, завоёванного фракцией {FACTION}"/>
+    <string id="zFDoDbNj" text="Количество"/>
+    <string id="ZIn8W5ZG" text="Стоимость"/>
+    <string id="ZZmlYrgL" text="Нет замка, принадлежащего фракции {FACTION}"/>
   </strings>
 </base>
