@@ -28,7 +28,6 @@
     <string id="D0SoDPcr" text="Продвинутая тренировка ближнего боя"/>
     <string id="ddoD208G" text="Знать помогает вам набирать больше и лучше (более высокого уровня) войск в соответствии с вашими отношениями с ними. {newline} {newline} Нажмите на войска, чтобы переместить их в вашу группу."/>
     <string id="dFpNRB1g" text="Ноганд"/>
-    <string id="eFc6YuzQ" text="Чтобы покинуть локацию, вы можете удерживать нажатой клавишу &quot;Tab&quot;. {newline} {newline} Это вернет вас в меню поселения, где вы можете приобрести припасы и нанять новобранцев."/>
     <string id="elRQHiLR" text="Тренировка верхового боя с мечом"/>
     <string id="f6xYa3c4" text="Добро пожаловать в Кальрадию! {newline} {newline} Вы можете исследовать карту мира, перемещая камеру с помощью WASD, изменять угол обзора, зажатием правой кнопки и перемещением мыши, а также увеличивать и уменьшать масштаб с помощью колесика мыши. {newline} {newline} Попробуйте."/>
     <string id="FFP17aSl" text="В начале битвы ваши солдаты будут удерживать свои позиции. Вы можете приказать им атаковать, открыв меню приказов о движении нажав на &quot;F1&quot; и выбрав ''Следуйте за мной'' с ''F2.''"/>
@@ -40,7 +39,6 @@
     <string id="JDtbzwB0" text="Нусун"/>
     <string id="jLWPSiOR" text="Поговорить со Старостой"/>
     <string id="jWvle1tC" text="Поразите как можно больше целей, находясь в седле ({HIT} / {ALL}))"/>
-    <string id="K0f6WLjV" text="Чтобы покинуть локацию, вы можете удерживать нажатой клавишу Tab. {newline} {newline} Это вернет вас в меню поселения, где вы можете приобрести припасы и нанять новобранцев."/>
     <string id="KiJd6Xik" text="Движение"/>
     <string id="KUEHAD4U" text="Задания"/>
     <string id="kwW6v202" text="Перейдите к стрелковой позиции."/>
@@ -67,7 +65,6 @@
     <string id="q71nXdD4" text="Подойдите к тренеру"/>
     <string id="QHhdmvLj" text="Боевая подготовка"/>
     <string id="qNrWU4Or" text="Обучение ближнему бою"/>
-    <string id="qXv3BY5v" text="Вы можете удерживать клавишу «Левый Alt», чтобы увидеть местонахождение Старосты. {newline} {newline} Когда вы рядом с ним, нажмите F, чтобы поговорить с ним"/>
     <string id="rLEIuqZO" text="После тяжёлой битвы у вас может быть выбор: взять несколько пленных или завербовать тех, кого вы освободили из плена своего врага. {newline}{newline}Оба варианта выполняются путем перевода войск в вашу группу с помощью маленькой кнопки со стрелкой слева."/>
     <string id="Rvn8tGB0" text="Ваш брат попросил вас нанять не менее 4 человек, прежде чем вы решите встретиться с налетчиками. {newline} {newline} Вы можете нанять войска из деревень и городов, нажав на кнопку «Нанять войска»."/>
     <string id="tZtrK3cs" text="Тренировка верховой стрельбы"/>
@@ -84,5 +81,17 @@
     <string id="ZozwfwVl" text="Защитите себя ({HIT} / {ALL})"/>
     <string id="ZW9OGfEt" text="Спасение &amp; Взятие Пленных"/>
     <string id="4kBdT24F" text="Натанос"/>
+    <string id="2bckUaI7" text="To leave a mission, you can hold down &quot;{LEAVE_MISSION_KEY}&quot;.{newline}{newline}This will return you to the settlement menu where you can purchase supplies and hire recruits."/>
+    <string id="9c7h8ye4" text="Return to the notable and learn more about the task ahead by pressing &quot;{CONSOLE_KEY_NAME}&quot; while the cursor is on the &quot;Visit&quot; button."/>
+    <string id="AC9G2rOJ" text="You can hold &quot;{MISSION_INDICATORS_KEY}&quot; to see the location of the Headman.{newline}{newline}Once you are near him, press &quot;{INTERACTION_KEY}&quot; to speak with him."/>
+    <string id="eqjwreb4" text="Your brother has asked you to hire at least 4 men before you set out to face the raiders.{newline}{newline}You can hire troops from villages and towns by pressing &quot;{CONSOLE_KEY_NAME}&quot; while the cursor is on the &quot;Recruit Troops&quot; button."/>
+    <string id="fGK2vNK2" text="At the beginning of a battle your soldiers will be holding their position. You can tell them to charge by opening the order menu with &quot;{HOLD_OPEN_ORDER_KEY}&quot; and movement orders with &quot;{FIRST_ORDER_CATEGORY_KEY}&quot; and choosing &quot;Follow Me&quot; with &quot;{SECOND_ORDER_CATEGORY_KEY}&quot;."/>
+    <string id="Jcz3vTEc" text="You can move your character with the Left Stick.{newline}{newline}Try moving in four direction now!"/>
+    <string id="KHqrsiSX" text="Moving your party is done by hovering the indicator on the map and pressing &quot;{CONSOLE_KEY_NAME}&quot;. This will leave a mark on the target location - unless you have hovered over an inaccessible areas such as mountains or sea.{newline}{newline}Let's set off to {TUTORIAL_SETTLEMENT_NAME}!"/>
+    <string id="lEkImvNu" text="Hideout missions begin with the enemy unaware of your approach.{newline}{newline}Open the order menu with &quot;{HOLD_OPEN_ORDER_KEY}&quot; and order your troops to follow you with the &quot;{FIRST_ORDER_CATEGORY_KEY}&quot; and &quot;{SECOND_ORDER_CATEGORY_KEY}&quot; shortcuts and try to take them on in small groups."/>
+    <string id="lRVAQWns" text="Notables help you recruit more and better (higher level) troops according to your relation with them.{newline}{newline}Move troops into your party by pressing &quot;{CONSOLE_KEY_NAME}&quot; while the cursor is on their portraits."/>
+    <string id="rbkKSYom" text="The menu on the top right shows the important people in your current location.{newline}{newline}Press &quot;{CONSOLE_KEY_NAME}&quot; while the cursor is on the headman's portrait to talk to him."/>
+    <string id="Rnw47YBX" text="Welcome to Calradia!{newline}{newline}You can explore the world map by moving the camera with Left Stick, panning your view the Right Stick and zooming in and out with the triggers.{newline}{newline}Give it a try."/>
+    <string id="TDlQhnR8" text="You have an active quest! You can learn more about it by pressing &quot;{CONSOLE_KEY_NAME}&quot; while the cursor is on the quest log on the lower left of your screen."/>
   </strings>
 </base>

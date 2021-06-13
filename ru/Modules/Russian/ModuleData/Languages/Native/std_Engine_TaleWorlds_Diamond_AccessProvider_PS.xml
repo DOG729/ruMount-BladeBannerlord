@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Русский" />
+  </tags>
+  <strings>
+    <string id="8BV4hDK6" text="System software update is required." />
+    <string id="8yk50Ba5" text="PlayStation®Plus is required to play Multiplayer." />
+    <string id="Bzblp9yx" text="You are not signed in to PlayStation™Network. To use online features, you must sign in" />
+    <string id="g56TVkLF" text="You are not allowed to play Multiplayer. Please check your content restriction settings." />
+    <string id="i0QuqXWk" text="User is not found." />
+    <string id="kS9dxNIk" text="Platform service failed." />
+    <string id="PQbtrqBl" text="Game update is required." />
+    <string id="rYbxXReN" text="User is logged out." />
+    <string id="Udt1Ua7r" text="Could not check game updates." />
+    <string id="UhUvwvkh" text="You are disconnected from PlayStation™Network. Online features are not available." />
+  </strings>
+</base>

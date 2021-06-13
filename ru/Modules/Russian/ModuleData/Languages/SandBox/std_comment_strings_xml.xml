@@ -279,5 +279,8 @@
     <string id="x3EZDo5k" text="Я слышал, у вас есть привычка нападать на беспомощных деревенских жителей, в том числе и моих в {VILLAGE_NAME}. Думаю, мои люди окажутся вам не по зубам"/>
     <string id="xb5RGe0W" text="Еще раз спасибо, что позаботились об этом маленьком деле для меня."/>
     <string id="Z3E8MDaB" text="Вы напали на мое поселение {SETTLEMENT_NAME}. О, я не стану притворяться, что мои люди тоже немного повеселились, если бы я посетил вашу деревню. Но как защитник моих жителей, я обязан немного отомстить за них. Пожалуйста, не принимайте это на свой счет."/>
+    <string id="hP35jSyk" text="I am {CONVERSATION_CHARACTER.LINK}, of the house of {CLAN_NAME}."/>
+    <string id="K5Fvv504" text="I am {CONVERSATION_CHARACTER.LINK} of the house of {CLAN_NAME}, my {?PLAYER.GENDER}lady{?}lord{\?}, and I am honored to serve you."/>
+    <string id="L2GbDVja" text="I am {CONVERSATION_CHARACTER.LINK} of the {CLAN_NAME}, my {?PLAYER.GENDER}lady{?}lord{\?}, and I am honored to serve you."/>
   </strings>
 </base>

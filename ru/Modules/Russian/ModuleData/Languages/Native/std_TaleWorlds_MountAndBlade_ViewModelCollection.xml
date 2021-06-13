@@ -5,13 +5,11 @@
   </tags>
   <strings>
     <string id="06V7fEV4" text="Нажмите ESC, чтобы вернуться"/>
-    <string id="2Q6Mm9Jo" text="Настройка геймпада"/>
     <string id="2zcrC0h1" text="Геймплей"/>
     <string id="3CpNUnVl" text="Отменить"/>
     <string id="3CsACce8" text="Выход"/>
     <string id="4Dd2xgPm" text="Вес"/>
     <string id="4NaOKslb" text="-"/>
-    <string id="4OGDnOVE" text="с {OPPONENT_NAME}"/>
     <string id="5baU17n0" text="В настоящее время матчмейкинг отключен"/>
     <string id="5k4dxUEJ" text="Войска"/>
     <string id="5Pea977J" text="Фракция:"/>
@@ -19,7 +17,6 @@
     <string id="61isYVW0" text="Игрок {USER_NAME} не найден"/>
     <string id="6GSXsdeX" text="Скорость"/>
     <string id="6MQaCah5" text="Присоединиться к игре"/>
-    <string id="6Pjb3Rya" text="Голосование не доступно"/>
     <string id="6syoutpV" text="От {WHISPER_TARGET}"/>
     <string id="74PKmRWJ" text="Перевернуть"/>
     <string id="7qySRF2T" text="Пинг"/>
@@ -32,14 +29,12 @@
     <string id="aRzlp5XH" text="Создать"/>
     <string id="aVixswW5" text="Выбор команды"/>
     <string id="b31ITmm0" text="Размер группы"/>
-    <string id="b9PT1Yxc" text="Выберите тип игры "/>
     <string id="BAaS5Dkc" text="Применить"/>
     <string id="bIcFZT6L" text="Форма бровей "/>
     <string id="bON4Kn6B" text="Автоматическое Назначение"/>
     <string id="BrYUHFsg" text="ВЫБРАТЬ ИГРУ"/>
     <string id="bsiRNJtk" text="{NAME}:"/>
     <string id="cDzWYQrz" text="Сбросить до настроек по умолчанию?"/>
-    <string id="chfTxqZg" text="Неверная команда."/>
     <string id="cK5DE88I" text="Н/Д"/>
     <string id="cLJdeUWz" text="Рост:"/>
     <string id="D0TbQm4r" text="Нарушил"/>
@@ -49,7 +44,6 @@
     <string id="DKqLY1aJ" text="Экипировать"/>
     <string id="DmaP2qaR" text="Тип кожи"/>
     <string id="dMdmyb3Y" text="Защищены паролем "/>
-    <string id="DoDZGYf6" text="Выберите тип голосования"/>
     <string id="DQvGNQ0g" text="Нет юнитов под командованием."/>
     <string id="eCOJSSUH" text="({BOT_COUNT} ботов)"/>
     <string id="eGuQKRhb" text="Вы покинули игровую зону!"/>
@@ -73,7 +67,6 @@
     <string id="H1emUb6k" text="Возраст:"/>
     <string id="hazebV8x" text="Настройка Персонажа"/>
     <string id="hbwp3g3k" text="+{FRIEND_COUNT}  {?PLURAL}friends{?}friend{\?}"/>
-    <string id="Hp2wp3et" text="Принять (F1)"/>
     <string id="HXxNfncd" text="Конец битвы"/>
     <string id="i0OEsfLt" text="Пользовательские Битвы Отключены"/>
     <string id="Ie9I2Bha" text="Сила удара"/>
@@ -87,7 +80,6 @@
     <string id="jy9orOJz" text="Играть"/>
     <string id="jZ6GblZu" text="Избранные"/>
     <string id="K1Gb5a5Q" text="Вам необходимо запускать игру с включенным анти-читом"/>
-    <string id="K9XhWUQi" text="Отклонить (F2)"/>
     <string id="kftE5nvv" text="Броня лошади"/>
     <string id="kG0xuyfE" text="Арсенал"/>
     <string id="koX9okuG" text="Нет"/>
@@ -101,7 +93,6 @@
     <string id="meFS5F4V" text="-{DAMAGE}"/>
     <string id="MsAb6hed" text="{TEAM} команда была уничтожена"/>
     <string id="NaZ6xg33" text="Не удалось найти подходящий сервер, чтобы присоединиться."/>
-    <string id="nFvVw68B" text="Пригласить в отряд"/>
     <string id="NJolh9ye" text="Последние игры"/>
     <string id="NLKmdNbt" text="Поиск"/>
     <string id="NqarFr4P" text="Настройки"/>
@@ -133,10 +124,8 @@
     <string id="S2bKbhTc" text="АВТОМАТИЧЕСКИЙ ПОИСК ИГРЫ"/>
     <string id="s31DnnAf" text="Урон"/>
     <string id="saZ1OvPt" text="Вы можете нажать кнопку входа, чтобы установить соединение"/>
-    <string id="SKjI2a8V" text="Выйти из группы"/>
     <string id="SoQcsslF" text="НЫНЕШНЯЯ КОМАНДА"/>
     <string id="sPmQz21k" text="Враг"/>
-    <string id="SxxxusWS" text="Выберите игрока, чтобы удалить его"/>
     <string id="TAnabTdy" text="Точность"/>
     <string id="tFLLx4J4" text="Наиболее популярные классы"/>
     <string id="tjioq56N" text="Список Друзей"/>
@@ -148,8 +137,6 @@
     <string id="V305MaOP" text="Онлайн"/>
     <string id="v6J8ILV3" text="Без пароля"/>
     <string id="VOTau449" text="Заблокировано"/>
-    <string id="vZTWMqUp" text="Только лидеры пати могут принимать меры в отношении других членов."/>
-    <string id="w2yV4Wib" text="Голосование отклонено"/>
     <string id="W4DLzPSb" text="Сервер не полон"/>
     <string id="w9m11T1y" text="Карта"/>
     <string id="wGjQgQlY" text="Следующая игра начнётся через:"/>
@@ -158,10 +145,8 @@
     <string id="WOQZBmMx" text="Сервера"/>
     <string id="wTtyFa89" text="ИГРАТЬ"/>
     <string id="wuKqRvc3" text="Игра: {GAME_TYPES}  |  Регион: {REGIONS}"/>
-    <string id="wwr4V1jm" text="Выберите игрока для бана"/>
     <string id="xebFLnH2" text="Аудио"/>
     <string id="XJTX8w8M" text="Фаза разогрева - {GAME_MODE}{newline}Ожидание подключения игроков"/>
-    <string id="XLHkPwbb" text="Выберите игровую карту"/>
     <string id="xTv4tCbZ" text="Все!! Слушать меня"/>
     <string id="Y94H6XnK" text="Принять"/>
     <string id="yA45PqFc" text="НАЙТИ ИГРУ"/>
@@ -175,7 +160,6 @@
     <string id="zfN0N8xN" text="Общее время игры:"/>
     <string id="zMbYCQa5" text="Средний Балл:"/>
     <string id="Zv1lg272" text="Оффлайн"/>
-    <string id="zxBBzoTH" text="Дуэль {DUEL_NAME} начнётся через {DUEL_REMAINING_TIME} секунд."/>
     <string id="aalbxe7z" text="Размер армии, установить параметр количества ботов в формирование {OPTION_VALUE}"/>
     <string id="0B27RrYJ" text="Battania"/>
     <string id="9jdHEa0N" text="Запросы в друзья"/>
@@ -246,7 +230,7 @@
     <string id="k7fJ7TF0" text="Has to be at least"/>
     <string id="kF3b8cH1" text="Create Your Clan"/>
     <string id="L3DJHTdY" text="Enter Bannerlord ID"/>
-    <string id="L6eaNe2q" text="Are you sure want to kick {MEMBER_NAME} from clan?" />
+    <string id="L6eaNe2q" text="Are you sure want to kick {MEMBER_NAME} from clan?"/>
     <string id="lBn2pSBL" text="Members"/>
     <string id="lGbrWyEe" text="Cancel Friend Request"/>
     <string id="LI0v8Zrr" text="Your Bannerlord ID Is"/>
@@ -288,7 +272,6 @@
     <string id="VFqoa6vD" text="Do you want to invite this player to your party?"/>
     <string id="vGF5S2hE" text="Таблица лидеров"/>
     <string id="vW1VgmaP" text="Are you sure want to disband your clan?"/>
-    <string id="wJ70SgtB" text="Suggest This Player to Party"/>
     <string id="wNAl9o4A" text="You received an invite from"/>
     <string id="xkV9g4le" text="Do you accept them as your opponent?"/>
     <string id="xXSFaGW8" text="Расформировать"/>
@@ -314,7 +297,6 @@
     <string id="4gCU2ykB" text="Reset all keys to default"/>
     <string id="4PrfimcK" text="Badge"/>
     <string id="5Ixsvn3s" text="Toggle scoreboard"/>
-    <string id="64x6Ie21" text="Invite to Game"/>
     <string id="8OkPHu4f" text="Нет"/>
     <string id="aeouhelq" text="Да"/>
     <string id="AZSbwcG5" text="Заглушить всех"/>
@@ -335,5 +317,49 @@
     <string id="YjbNtFcw" text="Это сбросит все клавиши в состояния по умолчанию.Вы не сможете отменить это действие. {newline} {newline}Уверены ли вы? {newline}Точно, точно?"/>
     <string id="znKxunbQ" text="Следующий"/>
     <string id="ZYF2t1VI" text="Офицер"/>
+    <string id="0Itt3bZM" text="Current keybind document version is outdated. Keybinds have been reverted to defaults."/>
+    <string id="1hlaGzGI" text="Look"/>
+    <string id="1JlzQIXE" text="Disabled"/>
+    <string id="7jMnNlXG" text="Change Arena Preference"/>
+    <string id="82LuSDnd" text="Fast Cursor Move Left"/>
+    <string id="9pgOGq7X" text="Log"/>
+    <string id="9w9JsBYP" text="Leave party"/>
+    <string id="atUHbDeM" text="Map Camera Rotate"/>
+    <string id="bjJkW9dO" text="View Profile"/>
+    <string id="bLPSaLNv" text="Fast Cursor Move Right"/>
+    <string id="cO2FDHCa" text="Duel with {OPPONENT_NAME} is starting in {DUEL_REMAINING_TIME} seconds."/>
+    <string id="d1tCz15N" text="Hold to Drop"/>
+    <string id="DraJ6bxq" text="Vote for the Next Map"/>
+    <string id="FTXx0aRp" text="Play as"/>
+    <string id="gamepadActionKeybind" text="Action"/>
+    <string id="gamepadMapKeybind" text="Map"/>
+    <string id="gk5dCG1j" text="kick"/>
+    <string id="hdGay8xc" text="Map Cursor Move"/>
+    <string id="HEEZhL90" text="Press to Equip"/>
+    <string id="HXWpxvgT" text="{ACTION} ({SECONDS})"/>
+    <string id="i28Kjuay" text="Move Character"/>
+    <string id="i4Oo6aoM" text="Downloading Content..."/>
+    <string id="J5rb5YVV" text="/ {SCORE}"/>
+    <string id="jQGJXGOo" text="Controller Keybinds"/>
+    <string id="KOVHgkVq" text="Voting Ends In:"/>
+    <string id="lX9Qx7Wo" text="Next Game Starts In:"/>
+    <string id="MceLT3Zg" text="Wireless Controller"/>
+    <string id="MPgnsZoo" text="Waiting for response"/>
+    <string id="n23hFPye" text="Change Cursor Mode"/>
+    <string id="nEpZvaEl" text="Fast Cursor Move Down"/>
+    <string id="oF27vprQ" text="Vote for the Next Culture"/>
+    <string id="oZrVNUOk" text="Error"/>
+    <string id="PfbzOiHE" text="Bark"/>
+    <string id="PmbKYDON" text="Cheer"/>
+    <string id="qyuhC21P" text="wants to {ACTION}"/>
+    <string id="Rvr1bcu8" text="Next"/>
+    <string id="sFDrUfNR" text="ban"/>
+    <string id="tidE1V1k" text="Accept duel"/>
+    <string id="u78WUP9W" text="Fast Cursor Move Up"/>
+    <string id="wubDWOlh" text="Select Profile"/>
+    <string id="WVauJViF" text="Game Ends In:"/>
+    <string id="WXAaWZVf" text="Previous"/>
+    <string id="YLPJWgqF" text="Challenge"/>
+    <string id="yQ0p8Glo" text="Select Culture"/>
   </strings>
 </base>

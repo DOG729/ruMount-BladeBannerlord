@@ -5,171 +5,21 @@
   </tags>
   <strings>
     <string id="0W4dgUho" text="Заблокирован игрой до {BANNEDUNTIL}, по причине: {BANREASON}"/>
-    <string id="2xOyWxIo" text="Игрок не состоит в отряде."/>
-    <string id="4XDu4Qcd" text="Только лидер отряда может исключать игроков."/>
-    <string id="5kgkZo2o" text="Игрок которого вы пытаетесь исключить, не состоит в отряде!"/>
-    <string id="91cJB1tP" text="Игрок {INVITEDPLAYER} уже состоит в отряде."/>
-    <string id="aFQa3pQt" text="Вы должны находиться в лобби, чтобы назначать игроков."/>
-    <string id="ah4Pm8wU" text="Вы должны находиться в лобби, чтобы распустить отряд![Временно]"/>
-    <string id="bcdU2DHW" text="Игрок {INVITEE} получил приглашение в отряд от {INVITER}."/>
-    <string id="bivF3RXY" text="Вы не можете сменить лидера отряда во время создания клана."/>
-    <string id="BwBR7TJB" text="В вашем отряде никого не осталось и он был распущен!"/>
-    <string id="caMylVF7" text="Чтобы вступить в сражение, вам нужно выбрать режим."/>
-    <string id="E2ILp86t" text="Вы не можете начать сражение, потому что ваш регион недоступен."/>
-    <string id="efpifbtd" text="Вы должны находиться в лобби, чтобы приглашать игроков в свой отряд!"/>
-    <string id="emx7txM9" text="Назначать игроков может только лидер отряда."/>
-    <string id="fD2SyeA7" text="Вы не можете приглашать себя."/>
-    <string id="GZXVxl3E" text="{PLAYERNAME} отключился. Инвайт в отряд отменен."/>
-    <string id="i5ZTTTZw" text="Игрок {INVITEDPLAYER} не в лобби."/>
-    <string id="jP2hUg7H" text="Вы не состоите в отряде!"/>
     <string id="kY2oXMng" text="Не удалось войти."/>
-    <string id="l6a9vI9z" text="Приглашать игроков может только лидер."/>
-    <string id="mcAG0eHJ" text="Вы должны находиться в лобби, чтобы выгнать кого-то из вашего отряда![Временно]"/>
-    <string id="MepGBJMQ" text="Не удалось найти игрока, которого вы пытались повысить"/>
-    <string id="mvQKpHXH" text="Ваш отряд полон."/>
-    <string id="nJ7aEkRt" text="{PLAYERNAME} Пригласил вас в отряд."/>
-    <string id="nw7r2S5z" text="Отключенные игровые режимы: {GAMETYPES}."/>
-    <string id="OByu0fjQ" text="Невозможно начать сражение, пока все игроки не будут готовы."/>
-    <string id="olLwOWf8" text="Невозможно начать сражение, потому что не все игроки используют античит."/>
     <string id="p5K0ATtZ" text="Не удалось завершить старую сессию."/>
-    <string id="pehfmZvM" text="Игрок {PLAYERNAME} назначен лидером отряда."/>
-    <string id="Pn13ZKwI" text="Отряд расформирован!"/>
     <string id="Rj8RhD7F" text="Ошибка!"/>
     <string id="Tauk2JzA" text="Несовпадение версий игры, Версия сервера: {SERVERVERSION} - Ваша версия: {CLIENTVERSION}."/>
-    <string id="TpBDiSBp" text="{PLAYERNAME} назначен лидером отряда."/>
-    <string id="VDDm5bqb" text="Вы можете приглашать только игроков, использующих античит."/>
-    <string id="w8WiqZT3" text="Чтобы вступить в отряд или начать игру, античит должен быть запущен!"/>
-    <string id="wNubP2BF" text="Только лидер отряда может начать сражение."/>
     <string id="xMa4QqvL" text="Сейчас в отряде состоят следующие игроки: {PLAYERS}"/>
-    <string id="ysfEQO6c" text="Не получилось найти игрока"/>
-    <string id="zyDyPr4I" text="Игрок, которого вы пытаетесь повысить, не состоит в вашем отряде."/>
-    <string id="3EOP6yhO" text="Вы были кикнуты анти-читом. Причина: {KICKREASON}"/>
-    <string id="AIgw3aFG" text="Нельзя стоять в очереди на бой, потому что некоторые игроки заблокированы от сватовства."/>
-    <string id="P0aRStg4" text="Нельзя стоять в очереди на битву, потому что вы заблокированы от сватовства."/>
-    <string id="UMNzrvvJ" text="You are blocked from matchmaking for {PUNISHMENTDURATION} seconds."/>
-    <string id="0y5Noakb" text="You have accepted the friend request"/>
-    <string id="6cMSAe2Z" text="Could not report player. Player cannot be found."/>
-    <string id="963x2S0a" text="Друг был удален"/>
-    <string id="cBY4Mymw" text="Player has been reported."/>
-    <string id="d4eShU5x" text="{PLAYER} accepted your friend request"/>
-    <string id="dabogDDj" text="Вы уже друзья"/>
-    <string id="dDF2wZGu" text="{PLAYER} declined your friend request"/>
-    <string id="f4iavKkb" text="You are muted until {MUTEDUNTIL}, Reason: {MUTEREASON}"/>
-    <string id="jl8MYbLR" text="Your friend request is forwarded to {PLAYER}."/>
-    <string id="KCtYUaag" text="Вы уже отправили запрос"/>
-    <string id="n1MdWtck" text="Теперь вы дружите с {PLAYER}"/>
-    <string id="nQWwqDmn" text="Вы получили предложение дружбы от {PLAYER}"/>
-    <string id="oFfMEy1S" text="Запрос на добавление в друзья не может быть найден"/>
-    <string id="qoto9N7y" text="Друг не найден"/>
-    <string id="SIT1tREw" text="You cannot add yourself as friend"/>
-    <string id="Xb6TEi3o" text="You have declined the friend request"/>
-    <string id="xHqjCamt" text="Could not report player. Game cannot be found."/>
-    <string id="YF0irfDl" text="Player cannot be found"/>
-    <string id="0auJT5XB" text="Invalid text."/>
-    <string id="0kNoZUjm" text="You have to be in a party to see clan game list."/>
-    <string id="0XY1VKVB" text="Your party is not eligible for clan games."/>
-    <string id="1UQf3p3c" text="Clan faction changed successfully."/>
-    <string id="29Zi8mbz" text="Player is in a different clan."/>
-    <string id="2addADLo" text="Player not found."/>
-    <string id="2HaPlivW" text="{PLAYERNAME} declined clan invitation."/>
-    <string id="4lNl8zS2" text="You cannot suggest someone to party as party leader."/>
-    <string id="541adTbO" text="You must be at lobby to destroy a clan."/>
-    <string id="57dvnv3v" text="Player removed from clan."/>
-    <string id="5f2XMbJp" text="You must be at lobby to kick someone from your clan."/>
-    <string id="8O8XqtqZ" text="You have to be at lobby to delete clan announcements."/>
-    <string id="9uUOpV6r" text="You must be at lobby to add an announcement."/>
-    <string id="AAnoAhox" text="Could not change selected game mode"/>
-    <string id="Ajw0d4dW" text="Incorrect password."/>
     <string id="b72mIrOl" text="You have to be in a party to create a clan."/>
-    <string id="baHOuMTb" text="Announcement added successfully."/>
-    <string id="BDVYCAdP" text="Invited player is not at lobby."/>
-    <string id="bMLqfPRv" text="You are not in a clan."/>
-    <string id="BYv1Laa4" text="You must be in a clan to add an announcement. Obviously."/>
-    <string id="ca5nyktO" text="But you aren't in a clan."/>
-    <string id="DAhyeheV" text="You must be at lobby to change clan information text."/>
     <string id="dHlxVbMw" text="You are already in a clan."/>
-    <string id="Dmz3JLyp" text="Player invited to clan."/>
-    <string id="e9LrrgAH" text="Announcement doesn't exist."/>
-    <string id="fN1SCUwa" text="Player {SUGGESTEDPLAYER} is suggested to be invited to the party."/>
-    <string id="fZC7pBba" text="You can only suggest players running the game with Anti-cheat."/>
-    <string id="gPnHnLMe" text="You have to be at lobby to invite someone to clan."/>
-    <string id="gXkTPJ8w" text="Player {SUGGESTEDPLAYER} is already in a party."/>
-    <string id="hav7yZyB" text="No text entered."/>
-    <string id="HKzZOfac" text="Player successfully promoted to clan leader."/>
-    <string id="hqK9565f" text="Invalid game type."/>
-    <string id="hsJt9Iaa" text="You have to be at lobby to see clan game list."/>
-    <string id="i3sq6BMI" text="You have to be at lobby to edit clan announcements."/>
-    <string id="iG72AMy8" text="Information text changed successfully."/>
-    <string id="JgdLtL2O" text="Invited player is already in a clan."/>
     <string id="K0mSh8Hw" text="Your party does not have enough players to create a clan."/>
-    <string id="kGkBHfpR" text="Player already invited to another clan."/>
     <string id="KLaW0bOz" text="You have to be in lobby to create a clan."/>
-    <string id="kTiV7Hzl" text="You have to be at lobby."/>
-    <string id="LbUlhYVa" text="You must be at lobby to suggest someone to your party."/>
-    <string id="LjwYbHFL" text="You have to be the leader of the clan to promote someone."/>
-    <string id="lVWJRrvx" text="Premade game creation canceled by {PLAYERNAME}"/>
-    <string id="M8x38ZZZ" text="Player is not in your clan."/>
-    <string id="mdH4S8Kx" text="You must be in a party to suggest someone to your party."/>
-    <string id="MowSn4ch" text="Game not found."/>
-    <string id="Mp9I9aqd" text="You must be in a clan to change clan information text. Obviously."/>
-    <string id="nZlu3Moe" text="Left clan."/>
-    <string id="OsRgBZq2" text="You have to be in a party to create a clan game."/>
-    <string id="P3JTNI9P" text="You can not promote yourself to clan leader."/>
-    <string id="pKNTLYQP" text="Text can't be longer than {MAX_LENGTH} characters."/>
-    <string id="QHnxKHkV" text="You are not in a party."/>
-    <string id="rfaIXasP" text="Clan sigil changed successfully."/>
-    <string id="rI8gE2Qh" text="Announcement deleted successfully."/>
-    <string id="rkxTEFGp" text="Player is not online."/>
-    <string id="RV60avUq" text="You have to be the party leader to create a clan game."/>
-    <string id="S7Y5Suho" text="You cannot suggest yourself to party."/>
-    <string id="sa138Btz" text="You have to be creating a clan game to cancel one."/>
-    <string id="SfBU7exM" text="You have to be in a clan to create a clan game."/>
-    <string id="sov81CZ5" text="Your Bannerlord ID is updated successfully"/>
     <string id="SvHP9TXr" text="Not all players are ready."/>
-    <string id="TKv0vF7H" text="You must be at lobby to change clan sigil."/>
-    <string id="TPCm8PRy" text="You are not the party leader."/>
-    <string id="ujLHwcn8" text="Player {SUGGESTEDPLAYER} is not at lobby."/>
-    <string id="uqqqWl6f" text="Party not eligible for clan game."/>
-    <string id="VaWafSkY" text="You have to be at lobby to create a clan game."/>
-    <string id="voOrIr0b" text="{PLAYERNAME} accepted clan invitation."/>
-    <string id="vVAzWAGc" text="You must be the clan leader to destroy a clan."/>
-    <string id="WppypzjS" text="You must be at lobby to change clan faction."/>
-    <string id="XgQQPZsn" text="You can't invite yourself."/>
-    <string id="y0dKQ8pL" text="Announcement changed successfully."/>
-    <string id="YGfHWmNS" text="Could not change region"/>
-    <string id="yQyozBBX" text="Your party is not eligible to create a clan game."/>
-    <string id="z40g0BmW" text="Could not update Bannerlord ID"/>
-    <string id="ZtktMXDw" text="You ain't in a clan."/>
-    <string id="T96cPmJT" text="Clan game no longer exists."/>
     <string id="APQ0kNVj" text="Clan tag is invalid."/>
     <string id="nlYK3i5a" text="Clan name is invalid."/>
     <string id="dbLB0tuT" text="Family share is not allowed."/>
-    <string id="MgGvnobq" text="Selected map is not available."/>
     <string id="X6N9nSn0" text="You are not allowed to login into this server. Please try official public servers."/>
-    <string id="0MDEP0jy" text="You cannot invite yourself"/>
-    <string id="214JTH4p" text="You have to be the clan leader to remove someone's officer role."/>
-    <string id="2o6DMRDU" text="This player is not an officer."/>
-    <string id="3NxaSDgg" text="You are not an officer."/>
-    <string id="b5zLPqyM" text="Invited player to the game"/>
     <string id="bB5p8KpK" text="Clan sigil is invalid."/>
-    <string id="bXhuyedw" text="You have to be the clan leader or officer to kick someone."/>
-    <string id="dUddJ8jQ" text="You must be the clan leader or officer to change faction."/>
-    <string id="e4KkGrbh" text="Only the leader or officer of the clan can delete announcements."/>
-    <string id="eozBcVaB" text="You can not promote yourself as clan officer."/>
-    <string id="HSBbIVKB" text="Player successfully promoted to clan officer."/>
-    <string id="IDi4QTTc" text="You must be the clan leader or officer to add an announcement."/>
-    <string id="JiaOl6MR" text="You must be the clan leader or officer to change clan information text."/>
-    <string id="LnYKBQ0Q" text="You must be the clan leader or officer to change sigil."/>
-    <string id="o7aafEKw" text="You have to be a clan leader in order to assign someone as officer."/>
     <string id="OfCk5NMA" text="Clan faction is invalid."/>
-    <string id="OpXyfrcb" text="Your can can not have more than "/>
-    <string id="pP4w0TQa" text="Only the leader or officer the clan can edit announcements."/>
-    <string id="qHGkxNWJ" text="Invalid clan sigil."/>
-    <string id="TuORvMMq" text="Left officer role."/>
-    <string id="UcUqJcr9" text="You cannot invite an online player to the game"/>
-    <string id="vXJFMikj" text="You have to be the clan leader or officer to invite someone to clan."/>
-    <string id="yfbK8Eae" text="Player is not in your clan"/>
-    <string id="yzbtGJ5G" text="You are not authorized to perform this action."/>
-    <string id="z4kZU2kf" text="Player's officer role is removed."/>
   </strings>
 </base>

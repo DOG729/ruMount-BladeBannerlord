@@ -1,10 +1,10 @@
-﻿<Languages DefaultLanguage="English">
+﻿<Languages DefaultLanguage="Русский">
   <!--NewlineDoesntRequireSpace: Parsers will not look for an empty space for splitting a new line-->
   <!--ForbiddenStartOfLineCharacters: Parsers will try NOT to put these characters defined in this attribute at the START of new lines. Will not be used if Language doesn't include NewlineDoesntRequireSpace attribute-->
   <!--ForbiddenEndOfLineCharacters: Parsers will try NOT to put these characters defined in this attribute at the END of new lines. Will not be used if Language doesn't include NewlineDoesntRequireSpace attribute-->
 
-  <!-- English -->
-  <Language id="English" DefaultFont="FiraSansExtraCondensed-Regular">
+  <!-- Русский -->
+  <Language id="Русский" DefaultFont="FiraSansExtraCondensed-Regular">
     <Map From="FiraSansExtraCondensed-Light" To="FiraSansExtraCondensed-Light"/>
     <Map From="FiraSansExtraCondensed-Medium" To="FiraSansExtraCondensed-Medium"/>
     <Map From="FiraSansExtraCondensed-Regular" To="FiraSansExtraCondensed-Regular"/>

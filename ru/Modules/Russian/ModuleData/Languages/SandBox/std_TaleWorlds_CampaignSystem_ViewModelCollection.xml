@@ -58,7 +58,6 @@
     <string id="BgqZWbga" text="Знати не понравится ваше решение отречься от своей клятвы. Вы уверены, что хотите покинуть Королевство?"/>
     <string id="BifGz0h4" text="Патрулирует"/>
     <string id="bPFjmYCI" text="{SHOP_NAME} x {SHOP_DIFFERENCE_COUNT}"/>
-    <string id="BrY8itaf" text="Отправленные на выполнение поручений члены отряда будут отображаться здесь. Они не занимают место в вашем собственном отряде."/>
     <string id="C2qpwFq5" text="Владелец земель {SETTLEMENTS}"/>
     <string id="c5eYzHaM" text="{DAYS} {?DAY_IS_PLURAL}Дней{?}День{\?} (%{PERCENTAGE})"/>
     <string id="c6e4c8588ca9e42f6e1b47b11f0f367b" text="Длина: "/>
@@ -79,7 +78,6 @@
     <string id="EQHq3bHM" text="Направляется в {TARGET_PARTY}"/>
     <string id="ErnykQEH" text="Выходы"/>
     <string id="eTw2aNV5" text="+"/>
-    <string id="EuGCNdHG" text="Покинуть"/>
     <string id="exnL6SS7" text="Нападает на {TARGET_SETTLEMENT}"/>
     <string id="EZxQHBF4" text="Вы можете изменить тип продукции в этой мастерской за {AMOUNT} динаров."/>
     <string id="f2971dc587a9777223ad2d7be236fb05" text="Цены в других городах"/>
@@ -145,7 +143,6 @@
     <string id="McJjNM50" text="Стоимость: {UPGRADE_COST}"/>
     <string id="mDFhzEMC" text="Максимальное здоровье"/>
     <string id="mg7id9om" text="Количество расходных материалов"/>
-    <string id="mGUSMpTX" text="Склад"/>
     <string id="mp68RYnD" text="Ограничение На Размер Отряда"/>
     <string id="MqCH7R4A" text="Безопасность"/>
     <string id="N63XYX2r" text="Поддержка"/>
@@ -241,7 +238,6 @@
     <string id="WiNRdfsm" text="Выполнить"/>
     <string id="Wir2xZIg" text="Вы не умеете ковать некоторые из выбранных элементов."/>
     <string id="WN7cYIXM" text="Вы должны быть частью королевства"/>
-    <string id="WttsvMTW" text="Восстание в {SETTLEMENT}"/>
     <string id="XAL3t1bs" text="Направляется к точке"/>
     <string id="XCz81XYm" text="Входы"/>
     <string id="XIioBPi0" text="Никаких изменений"/>
@@ -284,18 +280,14 @@
     <string id="hn9TPqhK" text="Ранг оружия"/>
     <string id="kftE5nvv" text="Защита лошади"/>
     <string id="kx7q8ybD" text="Защита рук"/>
-    <string id="lGWb26Lj" text="Этот герой занят заданием."/>
     <string id="Mfbc4rQR" text="Урон от натиска"/>
     <string id="myMbtwXi" text="Бонус к морали"/>
     <string id="O3dhjtOS" text="Шлем"/>
     <string id="rg7OuWS2" text="Маневрировать"/>
     <string id="s31DnnAf" text="Урон"/>
-    <string id="S9tmCkHz" text="Этот герой очищает зону"/>
-    <string id="sa2TQu1G" text="Этот герой занят проблемой"/>
     <string id="sqdzHOPe" text="Класс"/>
     <string id="twtbH1zv" text="Количество в стопке"/>
     <string id="US7UmBbt" text="Ранг брони"/>
-    <string id="XzggyCPW" text="Этот герой занят"/>
     <string id="ZcybPatO" text="Длина"/>
     <string id="ZUgoQ1Ws" text="Тип"/>
     <string id="QSPrSsHv" text="Нет сбруи!"/>
@@ -305,9 +297,7 @@
     <string id="9huJZblF" text="Простой начался"/>
     <string id="9i0wnjJK" text="L-II : {BONUS}"/>
     <string id="c6BtCIrX" text="{DAYS} дней назад"/>
-    <string id="cJmI2poS" text="Информация"/>
     <string id="DXczLzml" text="Состояние"/>
-    <string id="F6GhrriD" text="Создать Королевство"/>
     <string id="g4XqKGUr" text="В отряде уже есть участник с этой ролью."/>
     <string id="IbqRyrKo" text="Это определит начальную активную политику Королевства. Выберите максимум 4 политики."/>
     <string id="mHXujEVw" text="Выберите активную политику вашего королевства"/>
@@ -344,7 +334,6 @@
     <string id="rwKBR4NE" text="Среднее количество дней до того, как закончится еда"/>
     <string id="Y7qbwrWE" text="Навыки {HERO_NAME}"/>
     <string id="zrhr4rDA" text="Вы уверены, что хотите распустить эту армию? Это приведет к ухудшению отношений."/>
-    <string id="1JlzQIXE" text="Disabled"/>
     <string id="1UbocG5B" text="Откажитесь от своих прав и обязанностей в этой вотчине, вернув ее королевству."/>
     <string id="eIGFuGOx" text="Give Settlement"/>
     <string id="G2h0V10w" text="Подарите это поселение клану в своем королевстве."/>
@@ -375,5 +364,81 @@
     <string id="txjiykNa" text="Review"/>
     <string id="wMiLUTNY" text="Are you sure you want to smelt this weapon? It is locked in the inventory."/>
     <string id="ZjaSde0X" text="Owned settlements are returned to the kingdom. This will avert a war and nobles will dislike you less for abandoning your fealty."/>
+    <string id="1qm74K2t" text="Successful raids by {FACTION}"/>
+    <string id="4NaOKslb" text="-"/>
+    <string id="4vZLpzPi" text="+1 Renown / Day"/>
+    <string id="5tbWdY1j" text="Avatar"/>
+    <string id="6bx9IhpD" text="Upgrades"/>
+    <string id="8BJDQe6o" text="Prisoners captured by {FACTION}"/>
+    <string id="a8NoW1Q2" text="Are you sure you want to cancel your changes?"/>
+    <string id="b8CqpGHx" text="Recruit Prisoners"/>
+    <string id="bC2jevlu" text="The client is displeased."/>
+    <string id="BlidMNGT" text="Relation"/>
+    <string id="btoiLePb" text="{HERO} ({PLACE})"/>
+    <string id="cc1d7mkq" text="Tier"/>
+    <string id="cedvCZ73" text="There is no town owned by {FACTION}"/>
+    <string id="CGVK6l8I" text="Champion Benefits"/>
+    <string id="CK68QXen" text="There is no prisoner captured by {FACTION}"/>
+    <string id="CTtjSwRb" text="Noon"/>
+    <string id="dB6cFDmz" text="/"/>
+    <string id="DMxJJWxt" text="Recruit"/>
+    <string id="dOa7frHR" text="Show only unlocked pieces"/>
+    <string id="dVqowrRz" text=" - {STAT} {REQUIREMENT}"/>
+    <string id="eTxcYvRr" text="Castles conquered by {FACTION}"/>
+    <string id="fAxjyMt5" text="Night"/>
+    <string id="FWHvvZFq" text="&quot;This is exactly what I wanted. Here is your money, you've earned it.&quot;"/>
+    <string id="Gd6zuUwh" text="Free Build"/>
+    <string id="gENb9SSW" text="Evening"/>
+    <string id="GP3jpU0X" text="Influence is periodically converted to denars for mercenary clans"/>
+    <string id="gTbE6t9I" text="Following requirements are not met:"/>
+    <string id="guxNZZWh" text="Requirements"/>
+    <string id="huqEEfGD" text="There is no successful raid for {FACTION}"/>
+    <string id="IgoxNz2H" text="Upgrade Troops"/>
+    <string id="iTau5cxh" text="Average"/>
+    <string id="J2gvnexb" text="Afternoon"/>
+    <string id="J5u0uOKc" text="Running from {TARGET_PARTY} to settlement."/>
+    <string id="jaaQijQs" text="Age"/>
+    <string id="lC5xsoSh" text="Unlimited"/>
+    <string id="MkVTRqAw" text="Orders ({ORDER_COUNT})"/>
+    <string id="mSPyh91Q" text="Towns conquered by {FACTION}"/>
+    <string id="MT4b8H9h" text="Unknown"/>
+    <string id="MT5A04X8" text=" - Swing Damage Type does not match. Should be: {TYPE}"/>
+    <string id="nKQmaSDO" text="There is no castle conquered by {FACTION}"/>
+    <string id="Nn49hU2W" text="The client is satisfied."/>
+    <string id="NRpbagbZ" text="Running to {TARGET_PARTY}"/>
+    <string id="NZynd8vT" text="&quot;This weapon is worthless. I'm not giving you a dime!&quot;"/>
+    <string id="o79dIa3L" text="Towns owned by {FACTION}"/>
+    <string id="ODEnkg0o" text="Clan Strength"/>
+    <string id="OGbskMfz" text="Unlocked Parts:"/>
+    <string id="oJmRg2ms" text="Very Rich"/>
+    <string id="oM2Ta1di" text="Press {CONSOLE_KEY_NAME} to Reset Camera"/>
+    <string id="opU0Nr2G" text="Progress for unlocking a new piece."/>
+    <string id="opVqBNLh" text="Effect"/>
+    <string id="pnFgwLYG" text="Current Wage"/>
+    <string id="Q0j1umAt" text="Requirement: {REQUIREMENT_NAME}"/>
+    <string id="Q1KwpZYu" text="Weapon usage does not match requirements"/>
+    <string id="qdoJOH0j" text="Party Wage"/>
+    <string id="raCa7QXj" text="&quot;This is even better than what I have imagined. Here is your money, and I'm putting a little extra for your effort.&quot;"/>
+    <string id="sFiU3Ss2" text="Click to Reset Camera"/>
+    <string id="SixPXaNh" text="Very Poor"/>
+    <string id="SK8G9QpE" text="Upgrd. Cost"/>
+    <string id="sWWxrafa" text="Current Limit"/>
+    <string id="Syha8biz" text="Order Can Not Be Completed"/>
+    <string id="tTLvo8sM" text="Clan Tier"/>
+    <string id="Tx9Mynbt" text=" - Thrust Damage Type does not match. Should be: {TYPE}"/>
+    <string id="UbRqC0Yz" text="Rich"/>
+    <string id="udPWHmOm" text="Difficulty:"/>
+    <string id="UY79LYHf" text="Poor"/>
+    <string id="vIPrZCZ1" text="You can abdicate leadership from the kingdom screen."/>
+    <string id="w0slxNAl" text="If limit is lower than current wage, party will not recruit troops until wage is reduced to the limit. If limit is higher than current wage, party will keep recruiting."/>
+    <string id="wU76OPxM" text="&quot;This is worse than what I've asked for. I'm cutting {AMOUNT} denars from the price.&quot;"/>
+    <string id="WySAapWO" text="Unlimited Wage"/>
+    <string id="wZGj3qO1" text="Choose What to Craft"/>
+    <string id="X3gcUz7C" text="Morning"/>
+    <string id="z3Xg0IaG" text="Castles owned by {FACTION}"/>
+    <string id="Zemk86FK" text="There is no town conquered by {FACTION}"/>
+    <string id="zFDoDbNj" text="Count"/>
+    <string id="ZIn8W5ZG" text="Worth"/>
+    <string id="ZZmlYrgL" text="There is no castle owned by {FACTION}"/>
   </strings>
 </base>

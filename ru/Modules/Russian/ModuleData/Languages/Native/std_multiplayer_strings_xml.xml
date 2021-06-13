@@ -72,5 +72,9 @@
     <string id="yOAa139m" text="{PLAYER_NAME} is now muted."/>
     <string id="ZAa01aJb" text="Соседи империи, иногда осмеивают его горожан, как изнеженным и слабым, но это не может быть дальше от истины. Империя окружена врагами и граждане добровольно объединяют свои города ополченцы научиться защищать свои стены, как правило, специализирующихся в стрельбе из лука. Командиры часто будет принимать их на кампании, где они служат в качестве лучников или arbalists в зависимости от необходимости."/>
     <string id="zo1UF7fu" text="Ветераны Асераи являются одними из старейших и самых опытных бойцов племени. Рейд, сражения и осады дали им прекрасную возможность узнать, как навыки, чтобы выжить и бабло хорошее оружие и броню. Они оба смертоносные лучники и также опасны в ближнем бою комбатанты, что они сейчас."/>
+    <string id="bh61m33z" text="There is already an active poll."/>
+    <string id="GW8hSCxa" text="Number of team members should be at least {MIN_PARTICIPANT_COUNT} for kick polls."/>
+    <string id="mufyAigI" text="You've sent too many poll requests!"/>
+    <string id="tKKmLI4l" text="{PLAYER_NAME} has been kicked out."/>
   </strings>
 </base>

@@ -27,7 +27,6 @@
     <string id="JAFIo7cM" text=":"/>
     <string id="L9GnQvsq" text="Ставка: {BETTED_DENARS}"/>
     <string id="LBNzsqyb" text="Владения"/>
-    <string id="lh0so0uX" text="Хотите загрузить сохраненную игру другими модулями?"/>
     <string id="lPMYSSAa" text="Необходимы инструменты"/>
     <string id="mDFhzEMC" text="Максимальное Здоровье"/>
     <string id="nvemmBZz" text="Вы заработали %{AMOUNT} добычи и пленных"/>
@@ -51,12 +50,12 @@
     <string id="deleteaction" text="Удалить"/>
     <string id="nVGqjtaa" text="Кампания {ID}"/>
     <string id="uncategorized_save" text="Без категории"/>
-    <string id="7AFlpaem" text="{STR1} {STR2}"/>
     <string id="gDKhs4lD" text="{A0} умер на поле боя."/>
     <string id="ol0rBSrb" text="{STR1}{newline}{STR2}"/>
-    <string id="r7xdYj4q" text="Несоответствие модуля"/>
-    <string id="onLDP7mP" text="Не удалось загрузить сохраненную игру."/>
     <string id="oZrVNUOk" text="Ошибка"/>
     <string id="TFJTOYea" text="Решил проблему"/>
+    <string id="cp2XDjeq" text="Saving..."/>
+    <string id="M1AEHJ76" text="Please notice that this save is created for a session which has Ironman mode enabled. There is no other save file for the related session. Are you sure you want to delete this save game?"/>
+    <string id="PY00wRz4" text="Failed to delete the save file."/>
   </strings>
 </base>

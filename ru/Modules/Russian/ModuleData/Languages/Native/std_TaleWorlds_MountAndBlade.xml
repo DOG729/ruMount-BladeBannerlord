@@ -21,7 +21,6 @@
     <string id="fEQAPJ2e" text="({KEY}) Использовать"/>
     <string id="G0AWk1rX" text="Лестница"/>
     <string id="gqQPSAQZ" text="({KEY}) Покинуть арену"/>
-    <string id="hOSafKZ9" text="Новая игра в режиме {GAME_TYPE} начнётся на {SCENE_NAME}"/>
     <string id="hvQSOi79" text="Бот"/>
     <string id="ibC4xPoo" text="({KEY}) Перезарядить"/>
     <string id="jfcceEoE" text="{PILE_TYPE} Куча"/>
@@ -33,7 +32,6 @@
     <string id="Na81xuXn" text="({KEY}) Перевооружиться"/>
     <string id="NbpcDXtJ" text="Мангонель"/>
     <string id="pgw7LMRo" text="Сервер переполнен."/>
-    <string id="PNg2Rb4p" text="{PEER_NAME} будет выгнан{IS_BANNED}"/>
     <string id="pzfbPbWW" text="Валун"/>
     <string id="rwZAZSvX" text="({KEY}) Сдвинуть"/>
     <string id="TJj71hPO" text="({KEY}) Закрыть"/>
@@ -42,5 +40,19 @@
     <string id="oZrVNUOk" text="ошибка"/>
     <string id="MbXatV1Q" text="Отключен"/>
     <string id="oPOa77dI" text="Logged out of platform"/>
+    <string id="0B27RrYJ" text="Battania"/>
+    <string id="1nKa4pQX" text="Rest of the game content has been downloaded."/>
+    <string id="8OkPHu4f" text="No"/>
+    <string id="aeouhelq" text="Yes"/>
+    <string id="aseraifaction" text="Aserai"/>
+    <string id="BFhMw4bl" text="Rest of the game content has been downloaded. Do you want to return to the main menu?"/>
+    <string id="CaSafuAH" text="Content Download Complete"/>
+    <string id="empirefaction" text="Empire"/>
+    <string id="FjwRsf1C" text="Vlandia"/>
+    <string id="ljHPjjmX" text="Could not invite player to the game"/>
+    <string id="PjO7oY16" text="Sturgia"/>
+    <string id="sZLd6VHi" text="Khuzait"/>
+    <string id="XvSRoOzM" text="Recently Played Players"/>
+    <string id="yS7PvrTD" text="OK"/>
   </strings>
 </base>

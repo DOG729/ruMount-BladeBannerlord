@@ -7,11 +7,8 @@
     <string id="7ZhNilg8" text="Легко (5% бонус)"/>
     <string id="9jSxo790" text="Реалистично"/>
     <string id="AQfVclN8" text="Приз"/>
-    <string id="B0uvwKae" text="Выберите, могут ли герои стареть и продолжить род. Этот выбор нельзя поменять впоследствии."/>
     <string id="bLwIgxXa" text="Сложность набора войск"/>
-    <string id="cA1D2Ua3" text="Вам нужно улучшить отношения со знатью, чтобы открыть все их войска."/>
     <string id="carorTAF" text="Уменьшен до 2/3 (Легко)"/>
-    <string id="cUHlzCRx" text="Отключить режим рождения и смерти"/>
     <string id="D9GkBqyW" text="Вы можете покинуть тренировочное поле зажав [{LEAVE_KEY}]{newline}Вы можете вернуться в любое время с глобальной карты."/>
     <string id="DFMhzFGV" text="Несколько дополнительных лошадей в вашем инвентаре могут значительно ускорить ваш отряд, так как они увеличат вашу грузоподъемность, а пехота будет ехать на запасных лошадях. Вьючные лошади и мулы полезны только для перевозки грузов."/>
     <string id="F8TaKnjh" text="Когда вы находитесь в городе или деревне, удерживайте клавишу Alt чтобы отобразить метки важных людей и интересных мест."/>
@@ -30,7 +27,6 @@
     <string id="Oea9a5nY" text="Получаемый урон дружественными войсками"/>
     <string id="qc9Llr3x" text="Герой"/>
     <string id="QGA2TilH" text="В игровых окнах, вы можете щелкнуть правой кнопкой на элементе, чтобы открыть запись в энциклопедии о нем. Это работает для портретов бойцов, иконок городов, и большинства других элементов."/>
-    <string id="QUZku1Jr" text="Штраф к скорости отряда наиболее эффективен на глобальной карте."/>
     <string id="QzmJL5I7" text="Легко (1 доп.)"/>
     <string id="raD9MK3O" text="Сложности"/>
     <string id="ReNnVfEn" text="Изменить Название Королевства "/>
@@ -72,5 +68,33 @@
     <string id="XsIq2RFs" text="Бальдим"/>
     <string id="yvdQ9MD6" text="Тириа"/>
     <string id="Z33uQl2f" text="Тария"/>
+    <string id="0qCWauna" text="10% Success Bonus"/>
+    <string id="1JlzQIXE" text="Disabled"/>
+    <string id="3kqjY7wD" text="Persuasion Success"/>
+    <string id="4v3Lb6BU" text="Difficulty Presets"/>
+    <string id="5x5qnXVG" text="5% Success Bonus"/>
+    <string id="AYOLqun4" text="Clan Member Death Possibility in Battles"/>
+    <string id="bfiDLULr" text="Reduced by 50%"/>
+    <string id="bHx8jaeI" text="Warrior"/>
+    <string id="BskZLZRb" text="Choose if the heroes are able to age and reproduce."/>
+    <string id="btC3Y3hb" text="This option cannot be changed later."/>
+    <string id="bXifxuLd" text="Reduced by 100%"/>
+    <string id="debaZA1j" text="This option can only be changed in character creation."/>
+    <string id="FiRWs5vF" text="Ironman mode limits you to a single save file and automatically saves when you quit the game."/>
+    <string id="freebooterdifficulty" text="Freebooter"/>
+    <string id="ispBRM5j" text="The amount of extra chance for you to succeed in persuasion."/>
+    <string id="IzGEz5B0" text="Reduced to 50% (Very Easy)"/>
+    <string id="JR6UgiT1" text="Reduced to 50% (Easy)"/>
+    <string id="jvOYgHOe" text="Custom"/>
+    <string id="MMv0U5Yr" text="Bannerlord"/>
+    <string id="MV0AR9XC" text="The amount of extra troops that you can recruit from notables."/>
+    <string id="N4T1pPur" text="The amount of bonus movement speed for your party on the campaign map."/>
+    <string id="o81neN4A" text="Enable Birth and Death"/>
+    <string id="ob84Szvh" text="Reduced to 25% (Very Easy)"/>
+    <string id="oJBveifV" text="Select a difficulty preset to change all of the difficulty options."/>
+    <string id="oo6qQsL9" text="Reduced to 75% (Easy)"/>
+    <string id="TyNDRFPg" text="The possibility for your clan members to die after being knocked down in battle."/>
+    <string id="uG2Alcat" text="Game Difficulty"/>
+    <string id="vNLVkLT5" text="Ironman Mode"/>
   </strings>
 </base>

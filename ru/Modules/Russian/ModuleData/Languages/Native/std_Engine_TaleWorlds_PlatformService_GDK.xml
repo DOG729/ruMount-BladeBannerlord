@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Русский" />
+  </tags>
+  <strings>
+    <string id="ph6rtI5J" text="Xbox platform initialization failed: {FAILREASON}" />
+    <string id="Qb30URMY" text="User login failed: {FAILREASON}" />
+    <string id="yWJcwCHf" text="Could not retrieve Xbox Title Id" />
+  </strings>
+</base>
