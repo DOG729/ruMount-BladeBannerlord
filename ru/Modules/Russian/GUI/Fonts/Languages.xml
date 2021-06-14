@@ -1,10 +1,12 @@
-﻿<Languages DefaultLanguage="Русский">
+﻿<!--Maps English fonts to Foreign fonts to use on language change-->
+
+<Languages DefaultLanguage="Pусский">
   <!--NewlineDoesntRequireSpace: Parsers will not look for an empty space for splitting a new line-->
   <!--ForbiddenStartOfLineCharacters: Parsers will try NOT to put these characters defined in this attribute at the START of new lines. Will not be used if Language doesn't include NewlineDoesntRequireSpace attribute-->
   <!--ForbiddenEndOfLineCharacters: Parsers will try NOT to put these characters defined in this attribute at the END of new lines. Will not be used if Language doesn't include NewlineDoesntRequireSpace attribute-->
 
-  <!-- Русский -->
-  <Language id="Русский" DefaultFont="FiraSansExtraCondensed-Regular">
+  <!-- English -->
+  <Language id="English" DefaultFont="FiraSansExtraCondensed-Regular">
     <Map From="FiraSansExtraCondensed-Light" To="FiraSansExtraCondensed-Light"/>
     <Map From="FiraSansExtraCondensed-Medium" To="FiraSansExtraCondensed-Medium"/>
     <Map From="FiraSansExtraCondensed-Regular" To="FiraSansExtraCondensed-Regular"/>
@@ -91,14 +93,15 @@
   </Language>
 
   <!-- Russian -->
-  <Language id="Русский" DefaultFont="FiraSansExtraCondensed-Regular">
+  <Language id="Pусский" DefaultFont="FiraSansExtraCondensed-Regular">
     <Map From="FiraSansExtraCondensed-Light" To="FiraSansExtraCondensed-Light"/>
     <Map From="FiraSansExtraCondensed-Medium" To="FiraSansExtraCondensed-Medium"/>
     <Map From="FiraSansExtraCondensed-Regular" To="FiraSansExtraCondensed-Regular"/>
     <Map From="Galahad" To="FiraSansExtraCondensed-Regular"/>
     <Map From="Galahad_Numbers_Bold" To="Galahad_Numbers_Bold"/>
   </Language>
-  
+
+    
   <Language id="dev_russian" DefaultFont="FiraSansExtraCondensed-Regular">
     <Map From="FiraSansExtraCondensed-Light" To="FiraSansExtraCondensed-Light"/>
     <Map From="FiraSansExtraCondensed-Medium" To="FiraSansExtraCondensed-Medium"/>
@@ -136,6 +139,16 @@
 
   <!-- Italian -->
   <Language id="Italiano" DefaultFont="Galahad">
+    <Map From="FiraSansExtraCondensed-Light" To="FiraSansExtraCondensed-Light"/>
+    <Map From="FiraSansExtraCondensed-Medium" To="FiraSansExtraCondensed-Medium"/>
+    <Map From="FiraSansExtraCondensed-Regular" To="FiraSansExtraCondensed-Regular"/>
+    <Map From="Galahad" To="Galahad"/>
+    <Map From="Galahad_Numbers_Bold" To="Galahad_Numbers_Bold"/>
+  </Language>
+
+  <!-- Dingbat -->
+  <!--DingBat(in general, symbols) need to be defined as a separate language in their own-->
+  <Language id="Dingbat" DefaultFont="FreeSerif-Dingbat">
     <Map From="FiraSansExtraCondensed-Light" To="FiraSansExtraCondensed-Light"/>
     <Map From="FiraSansExtraCondensed-Medium" To="FiraSansExtraCondensed-Medium"/>
     <Map From="FiraSansExtraCondensed-Regular" To="FiraSansExtraCondensed-Regular"/>
