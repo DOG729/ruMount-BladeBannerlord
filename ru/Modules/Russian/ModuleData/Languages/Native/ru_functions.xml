@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Русский" />
+  </tags>
+	<functions>
+		<function functionName="PLURAL" functionBody="{?$0.Plural}{$0.Plural}{?}{$0}{\?}"/>
+		<function functionName="personalPronounNominative" functionBody="{?$0!.FI}она{:?$0!.FA}она{:?$0!.NI}оно{:}он{\?}"/>
+		<function functionName="personalPronounGenitive" functionBody="{?$0!.FI}ее{:?$0!.FA}ее{:}его{\?}"/>
+		<function functionName="personalShortPronounGenitive" functionBody="{?$0!.FI}ее{:?$0!.FA}ее{:}его{\?}"/>
+		<function functionName="prepositionalPersonalPronounGenitive" functionBody="{?$0!.FI}нее{:?$0!.FA}нее{:}него{\?}"/>
+		<function functionName="personalPronounDative" functionBody="{?$0!.FI}ей{:?$0!.FA}ей{:}ему{\?}"/>
+		<function functionName="personalShortPronounDative" functionBody="{?$0!.FI}ей{:?$0!.FA}ей{:}ему{\?}"/>
+		<function functionName="prepositionalPersonalPronounDative" functionBody="{?$0!.FI}ней{:?$0!.FA}ней{:}нему{\?}"/>
+		<function functionName="personalPronounAccusative" functionBody="{?$0!.FI}ее{:?$0!.FA}ее{:}его{\?}"/>
+		<function functionName="personalShortPronounAccusative" functionBody="{?$0!.FI}ее{:?$0!.FA}ее{:}его{\?}"/>
+		<function functionName="prepositionalPersonalPronounAccusative" functionBody="{?$0!.FI}нее{:?$0!.FA}нее{:}него{\?}"/>
+		<function functionName="personalPronounInstrumental" functionBody="{?$0!.FI}ей{:?$0!.FA}ей{:}им{\?}"/>
+		<function functionName="prepositionalPersonalPronounInstrumental" functionBody="{?$0!.FI}ней{:?$0!.FA}ней{:}ним{\?}"/>
+		<function functionName="personalPronounLocative" functionBody="{?$0!.FI}ней{:?$0!.FA}ней{:}нем{\?}"/>
+		<function functionName="demonstrativeNominative" functionBody="{?$0!.FI}эта{:?$0!.FA}эта{:?$0!.NI}это{:}этот{\?}"/>
+		<function functionName="demonstrativeAccusative" functionBody="{?$0!.MI}этот{:?$0!.MA}этого{:?$0!.NI}это{:}эту{\?}"/>
+		<function functionName="demonstrativeInstrumental" functionBody="{?$0!.FI}этой{:?$0!.FA}этой{:}этим{\?}"/>
+		<function functionName="demonstrativeLocative" functionBody="{?$0!.FI}этой{:?$0!.FA}этой{:}этом{\?}"/>
+		<function functionName="demonstrativeGenitive" functionBody="{?$0!.FI}этой{:?$0!.FA}этой{:}этого{\?}"/>
+		<function functionName="demonstrativeDative" functionBody="{?$0!.FI}этой{:?$0!.FA}этой{:}этому{\?}"/>
+		<function functionName="demonstrativeAccusativePlural" functionBody="{?$0!.MA}этих{:?$0!.FA}этих{:}эти{\?}"/>
+		<function functionName="adjectiveGenderCreator" functionBody="{?$0!.MA}{.MACreator}{:?$0!.MI}{.MICreator}{:?$0!.FA}{.FACreator}{:?$0!.FI}{.FICreator}{:?$0!.NI}{.NICreator}{:}{.NACreator}{\?}"/>
+		<function functionName="IS_PLURAL_WORD_GROUP" functionBody="{?$0!.ajp}1{:?$0!.nnp}1{:?$0!.aj}0{:?$0!.nn}0{:}0{\?}"/>
+	</functions>
+</base>
