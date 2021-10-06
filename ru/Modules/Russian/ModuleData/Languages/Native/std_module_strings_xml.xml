@@ -1709,7 +1709,7 @@
     <string id="MzxFIyAQ" text="Show kingdom comparison bars"/>
     <string id="N8YVPdBw" text="You gain a level every time your total skill points total reaches a target value. Leveling up grants focus points to spend.{newline}{newline}If you have free focus points you will see it by a small indicator over the character screen button. Press &quot;{CONSOLE_KEY_NAME}&quot; while the cursor is on the character button to review different skills and choose one to increase focus."/>
     <string id="NPJRmNAY" text="Can not be crafted."/>
-    <string id="oiFt5bEV" text="Building Bonus"/>
+    <string id="oiFt5bEV" text="Бонус строительства"/>
     <string id="oKl1p2er" text="You can call other lords to your banner. Press &quot;{CONSOLE_KEY_NAME}&quot; while the cursor is on the highlighted army icon on the lower right to do so."/>
     <string id="oYUAuLO7" text="You have sworn not to attack."/>
     <string id="PGl6fYqY" text="Choose Horse Archers"/>
@@ -1720,7 +1720,7 @@
     <string id="qKg44yWp" text="Priority"/>
     <string id="QtXf82OD" text="Weapon should not have Thrust Damage"/>
     <string id="quantitysign" text="#"/>
-    <string id="qzRbMK8G" text="Your vassals will be more inclined to take defensive actions against this enemy such as responding to enemy raids and sieges."/>
+    <string id="qzRbMK8G" text="Ваши вассалы будут обороняться и отвечать на осады и рейды врага."/>
     <string id="ranksign" text="#"/>
     <string id="RsBO5aOq" text="Weapon should have Swing Damage"/>
     <string id="S9tmCkHz" text="This hero is clearing a common area."/>
@@ -1733,10 +1733,10 @@
     <string id="UCo8oT1Q" text="War Strategy"/>
     <string id="uGahvbVP" text="Defend siege weapons{?IS_GENERAL_SIDE}{?} on {SIDE_STRING} side{\?}"/>
     <string id="UJ01br0b" text="This hero does not have required {SKILL} skill to complete this order."/>
-    <string id="uPZH31zw" text="Uncle"/>
+    <string id="uPZH31zw" text="Дядя"/>
     <string id="VOYhAyJh" text="Press '{MODIFIER_KEY}' + '{CLICK_KEY}' to follow."/>
-    <string id="XzggyCPW" text="This hero is busy."/>
-    <string id="ymBKDAuj" text="Show recent events in this war"/>
+    <string id="XzggyCPW" text="Герой занят."/>
+    <string id="ymBKDAuj" text="Посмотреть активные события войны."/>
     <string id="YNND0kc9" text="Hooked Guarded Spears"/>
     <string id="zBC5cQic" text="Support for abolishing"/>
     <string id="zfrNMPUf" text="Donation xp"/>
